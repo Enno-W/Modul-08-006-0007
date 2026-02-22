@@ -1,32 +1,33 @@
 ---
-title: "Awe, Pride and Well-Being: Improving Emotion Regulation in Sport and Exercise by Considering Individual and Cultural Determinants"
+title: "Präsentation 1 - Psychologische Erklärungs- und Interventionstheorien zur Sportteilnahme"
 author: "Enno Winkler"
+lang: de
 format: 
   revealjs:
-    logo: "https://github.com/Enno-W/PhD-Repo-EW/blob/main/PhDCourse_Presentation/Universität_Leipzig_logo.svg?raw=true"
-    footer: PhD Course 2024 | Leipzig
+    logo: leipzig_logo.svg
+    footer: Modul 08-006-0007
     include-in-header:
       - text: |
           <style>
           .reveal .slide-logo {
             max-height: unset;
-            height: 200px;
+            height: 150px;
           }
           </style>
-    theme: moon
+    theme: default
     transition: slide
     chalkboard: true
     css: styles.css
-    pagetitle: "Awe and Pride Presentation"
+    pagetitle: "Modul 08-006-0007"
     incremental: true
     slide-number: true
-    parallax-background-image: "https://github.com/Enno-W/PhD-Repo-EW/blob/main/PhDCourse_Presentation/background.jpg?raw=true"
-    parallax-background-size: 13500px 1940px
+    parallax-background-image: "hintergrund.png"
+    parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 500
-    parallax-background-vertical: 95
+    parallax-background-vertical: 200
     touch: true
     controls: true
-    date: 2024-09-05
+    date: 2011-11-11
     
 bibliography: "bibliography.bib"
 csl: apa.csl
@@ -37,245 +38,26 @@ csl: apa.csl
 if (!requireNamespace("needs"   )) install.packages("needs")
 if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
 needs("excelbib", "xfun")
-xlsx_to_bib(from_root("Excel_References.xlsx"))
+xlsx_to_bib(from_root("References.xlsx"))
 ```
 
 
-# Introduction
+# Einführung
 :::{.notes}
-First, I will explain the central ideas that are reflected in this title. These are awe, pride, their connection to well-being and individual determinants.
+
 :::
+![Der ökologische Ansatz in Interventionen zur Gesundheitsförderung](ecol_ansatz.svg){#fig-ansatz}
 
-## Awe
+# Intervention Mapping
+![Logisches Modell von Interventionen](logisch_modell.svg){#fig-logischesmodell}
 
--   A positive *emotion* related to (1) vastness and (2) a need for accomodation [@Keltner2003]
-    -   Transformative [e.g. @Chirico2018]
-    -   Therapeutic [@Dourron2022; @KeltnerMonroy2023]
+## Eins
 
-::: notes
-What is awe and why is it important for sport psychology practicioners and athletes? Awe is the emotional reaction to a stimulus that can be anything from a vast mountain range to profound idea. Key is that we perceive the stimulus as vast, such that it challenges the frame of reference that we are used to.This perception of vastness is accompanied by a need for accomodation, that is, the need to re-integrate the self into the new, shaken-up frame of reference. Awe has been labelled a transformative and therapeutic emotion. These properties make it a useful emotion for sport psychologists. Despite this, there is almost no research on awe in sport psychology.
-:::
+## Zwei
 
-## Correlates of Awe {auto-animate="true"}
+# 3
 
--   *Attention:* Other-focus [e.g., @Bai2017]
--   *Self-Perception:* Small self [e.g., @Piff2015]
--   *Social Status:* Humility [@Stellar2018], selflessness [e.g., @Piff2015]
--   Enhanced meaning in life [@Rivera2019]
-
--   Enhanced information intake and processing [@Danvers2017]
-
-::: notes
-What does awe do? Awe shifts the attention away from one's own interests to the outside. Awe makes us feel small. Regarding our status in society, awe makes individuals more humble, leading to a more balanced view of one's capabilities, and a conscious "leveling" of oneself within the social hierarchy. Awe is also linked to the elaboration of meaning, and better information intake and processing.
-<!-- #-   Creative thinking [@Chirico2018] -->
-:::
-
-## Pride
-
--   A positive and **self-conscious emotion** related to socially valued behaviour [@TracyRobins2004]
--   **Authentic** vs. **hubristic pride** [@Tracy2007]
-
-::: notes
-Pride, on the other hand, is a self-conscious emotion. That means, it arises exclusively in a context of evaluation by others. Pride facilitates individual rising in the social hierarchy. There are two ways to rise in the ranks. One is by evaluating oneself as in some way better than others, feeling and displaying dominance, superiority and power. This is associated with hubristic pride. The other route to status is by effort and achievement, which is associated with authentic pride. Sport psychological research views authentic pride as desirable, and hubristic pride as maladaptive and undesirable.
-:::
-
-## Correlates of Pride
-
-::: columns
-::: {.column width="20%"}
-#### Pride
-
--   *Attention:* Self-focus [@Sabiston2020]
-:::
-
-::: {.column width="35%"}
-#### Authentic Pride
-
--   Humility [@weidmanPsychologicalStructureHumility2018]
--   *Social Status:* Rise in social status by achievement and effort [@Tracy2020]
-:::
-
-::: {.column width="45%"}
-#### Hubristic Pride
-
--   *Self-Perception:* Larger, aggrandized self [@Tracy2009]
--   *Social Status:* Rise in social status by superiority or dominance [@Tracy2020]
-:::
-:::
-
-- Less authentic pride this week is followed by more training progress next week, but more authentic pride on average is linked to more training progress [@Gilchrist2018]  
-
-::: notes
-The label "self-conscious emotion" gives it away that this is an emotion focused on the self, unlike awe. But interestingly, authentic pride, just like awe, is linked to greater humility. Here, however, the feelings of humility take place in a context of rising in the ranks through achievement and effort, while this is not the case for awe. Hubristic Pride is associated with a larger self, and rising in status with a disregard of others. It is also linked to lower motivation in sports. To recap, awe and pride are both positive and arousing, but they seem opposed to one another regarding their appraisal. Pride has the core theme of personal achievement, while awe has a core theme of feeling small relative to others.
-:::
-
-##  {auto-animate="true"}
-
-::: {style="position: absolute; left: 100px; top: 200px; font-size: 1.6em; color: darkorange"}
-Awe
-:::
-
-::: {style="position: absolute; left: 100px; top: 250px; font-size: 1.6em;"}
-Focus on others
-:::
-
-::: {style="position: absolute; left: 100px; top: 300px; font-size: 1.6em;"}
-Small self
-:::
-
-::: {style="position: absolute; left: 100px; top: 350px; font-size: 1.6em;"}
-Selflessness
-:::
-
-::: {style="position: absolute; left: 550px; top: 200px; font-size: 0.7em; color: orange"}
-Pride
-:::
-
-::: {style="position: absolute; left: 550px; top: 250px; font-size: 0.7em;"}
-Focus on self
-:::
-
-::: {style="position: absolute; left: 550px; top: 300px; font-size: 0.7em;"}
-Aggrandized self
-:::
-
-::: {style="position: absolute; left: 550px; top: 350px; font-size: 0.7em;"}
-Rise in status
-:::
-
-::: notes
-As visualized here, I expect that awe and pride interact with each other, as feelings of awe should shrink feelings of pride and vice versa.
-:::
-
-##  {auto-animate="true"}
-
-::: {style="position: absolute; left: 100px; top: 200px; font-size: 0.7em; color: orange"}
-Awe
-:::
-
-::: {style="position: absolute; left: 100px; top: 250px; font-size: 0.7em;"}
-Focus on others
-:::
-
-::: {style="position: absolute; left: 100px; top: 300px; font-size: 0.7em;"}
-Small self
-:::
-
-::: {style="position: absolute; left: 100px; top: 350px; font-size: 0.7em;"}
-Selflessness
-:::
-
-::: {style="position: absolute; left: 550px; top: 200px; font-size: 1.6em; color: darkorange"}
-Pride
-:::
-
-::: {style="position: absolute; left: 550px; top: 250px; font-size: 1.6em;"}
-Focus on self
-:::
-
-::: {style="position: absolute; left: 550px; top: 300px; font-size: 1.6em;"}
-Aggrandized self
-:::
-
-::: {style="position: absolute; left: 550px; top: 350px; font-size: 1.6em;"}
-Rise in status
-:::
-
-
-## Individual and Cultural Determinants
-
-::: {.fragment .fade-up}
-Implicit Motives [@Wegner2023]
-:::
-
-::: {.fragment .fade-up}
-Openness to experience [!]
-:::
-
-::: {.fragment .fade-up}
-Cultural Orientation [@Hofstede1983]
-:::
-
-::: notes
-I am also interested in the impact of these individual and cultural determinants. They matter in sport and exercise and influence our experience of emotions.  
-:::
-
-# Theory
-
-## The Cybernetic Big Five Theory
-
-![The Transformation of Characteristic Adaptations in the CB5T, adapted from @DeYoung2015 .](CB5T.svg)
-
-:::{.notes}
-The Cybernetic Big Five Theory understands individuals as complex self-regulating, a.k.a. cybernetic systems. Just like a thermostat identifies a target temperateure, measures the current temperature and the increases heat to match the target temperature, individuals ideally find goals that are in line with their values, they then have a representation of the discrepancy between the current state and the goal, and take action to move towards their goal. This is represented in the two upper ovals.  
-Sometimes though, individuals need to adjust their strategies and goals when they encounter some anomalous, previously unknown information, for example when they encounter something too vast to fit in the oval that they are accustomed to. So awe might do just that. Following such disintegration, adapted strategies and goals emerge through reintegration. And a good adaptation allows progress towards the goals, which results in well-being. 
-:::
-
-## Cybernetic Value Fulfillment Theory
-
-::: {.fragment .fade-up}
-Cybernetic Big Five Theory [@DeYoung2015]
-:::
-
-::: {.fragment .fade-up}
-Value Fulfillment Theory [@tiberius2018well]
-:::
-
-::: {.fragment .fade-up}
-Cybernetic Value Fulfillment Theory of Wellbeing [@DeYoung2022]
-:::
-
-
-
-::: notes
-
-The wellbeing part is established in this extension of the Cybernetic big five theory–Cybernetic value fulfillment Theory. Grossly oversimplifying, individual and cultural determinants influence the values of people. If people fulfill their values, they experience well-being.  And according to the integrated Cybernetic Value fulfillment theory of Wellbeing, People experience more wellbeing when they are better at (A) setting appropriate goals in line with their values and (B) making progress towards these goals. I think that awe can help people do the former, and pride can help people do the latter.
-:::
-
-## RQs
-
-1. How does induced awe affect pride in the context of sport or exercise?
-2. What roles do cultural and individual determinants play? 
-3. How does awe induction influence the subsequent experience of pride training or exercise behaviour across weeks? 
-
-# Methods
-
-## Study 1
-
-![Flow Diagram for Study 1 - 2x1 Between-Subjects](Study%201.drawio.svg)
-
-::: notes
-I want to launch the PhD Project with an experimental study to see how awe affects pride, and how the experience of awe and pride can be predicted by Individual and Cultural Determinants. 
-I assume that awe will shrink pride, especially hubristic pride. 
-For this test, I will use a simple design with two groups of recreational athletes that recieve two treatments. After assessing indivudual and cultural determinants, one group will be presented with the definition of awe and then write about an awe experience in exercise, while the other group receives a control treatment. Writing about awe should induce this emotion. 
-Then, I ask in a questionnaire about their current feelings of awe and pride regarding their training. 
-:::
-
-## Study 2
-
-3. How does awe induction influence the subsequent experience of pride training or exercise behaviour across weeks? 
-
-- Runners training for an upcoming race
-- Pre-Test: Individual determinants
-- Weekly diary (6 weeks): Training parameters, pride, awe affect, weekly goal, determinants from study 1; after an induction of awe
-
-::: notes
-In study 2, I want to test my assumptions regarding the adaptive outcomes of awe and pride. For that, I want to ask runners training for an upcoming race to fill in a diary every week after assessing individual determinants. Filling in the diary is preceded, by the same manipulations we saw in study one (writing about awe vs. positive emotions in general). Awe should help set more realistic and meaningful goals, and also shrink pride at the beginning of the week, which should boost training progress. 
-:::
-
-## Study 3
-
-- Cross-Cultural replication of study 2
-
-# Thanks
-
-1.  How to increase the feasibility and parsimony of the study?
-
-2.  In how far is the presented study design suitable to address the research questions?
-
-3. In how far are my theoretical assumptions are plausible? 
-
-Download presentation PDF: lower left corner and then > Tools > PDF Export Mode
+## 4
 
 # References
 

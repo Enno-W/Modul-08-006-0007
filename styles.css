@@ -1,0 +1,46 @@
+.reveal section p {
+colour: black;
+}
+
+
+.references {
+  font-size: 0.6em; /* Passe dies nach Bedarf an */ 
+}
+
+
+.reveal .footer > * {
+	color: black; 
+        font-size: 0.5em;
+	vertical-align: bottom;
+	font-family: sans-serif;
+	letter-spacing: 2px;
+}  
+
+.reveal section ul {
+ colour: black; /* Adjust the font size as needed */
+}
+
+.reveal section li {
+  colour: black;/* You can add other styles if needed */
+}
+
+.reveal {
+  color: black;
+  font-size: 2em; /* Scales all text within the presentation */
+}
+
+.citation {
+    font-size: 0.6em;
+    font-weight: bold;
+    color: rgb(238, 232, 213) /* Adjust to your preferred size */
+}
+
+a {
+    color: rgb(238, 232, 213) !important;
+    text-decoration: none; /* Remove underline if desired */
+}
+
+a:hover {
+    color: rgb(238, 232, 213) !important; /* Optional: Changes color on hover */
+    text-decoration: underline; /* Optional: Adds underline on hover */
+}
