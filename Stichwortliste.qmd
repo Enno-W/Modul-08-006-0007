@@ -1,0 +1,17 @@
+---
+title: "Stichwortliste"
+format: docx
+editor: visual
+---
+
+## Intervention Mapping
+
+Determinanten
+
+Handlungsziele
+
+Verhaltensziele
+
+ökologischer Ansatz
+
+Person-Situation-Interaktion
