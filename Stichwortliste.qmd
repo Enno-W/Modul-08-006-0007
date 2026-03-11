@@ -4,7 +4,7 @@ format: docx
 editor: visual
 ---
 
-## Intervention Mapping
+## 
 
 Determinanten
 

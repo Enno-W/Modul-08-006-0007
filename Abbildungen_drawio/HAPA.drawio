@@ -1,0 +1,128 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.5.2 Chrome/142.0.7444.265 Electron/39.6.1 Safari/537.36" version="29.5.2">
+  <diagram name="Seite-1" id="Q8rUK5w1jkSg48GrKzdB">
+    <mxGraphModel dx="679" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rkKUcn_dFoachjsRI7SR-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Selbstwirksamkeitserwartung in Bezug auf&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="520" x="150" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Verhalten" vertex="1">
+          <mxGeometry height="20" width="148" x="192" y="106" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Aufrechterhaltung" vertex="1">
+          <mxGeometry height="20" width="148" x="350" y="106" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Wiederherstellung" vertex="1">
+          <mxGeometry height="20" width="148" x="510" y="106" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-5" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fillColor=none;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="270" as="sourcePoint" />
+            <mxPoint x="350" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-6" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=9.655172413793105;endSize=6.671264367816092;fillColor=#FFFFFF;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="124" as="sourcePoint" />
+            <mxPoint x="300" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Handlung-&lt;div&gt;ergebnis-&lt;/div&gt;&lt;div&gt;erwartungen&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="150" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Risiko-&lt;div&gt;wahrnehmung&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="150" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Intention" vertex="1">
+          <mxGeometry height="40" width="90" x="252" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.03;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=none;" target="rkKUcn_dFoachjsRI7SR-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="240" y="170" as="sourcePoint" />
+            <mxPoint x="250" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-17" edge="1" parent="1" source="rkKUcn_dFoachjsRI7SR-9" style="endArrow=classic;html=1;rounded=0;entryX=0.031;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.004;exitY=0.56;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=none;" target="rkKUcn_dFoachjsRI7SR-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="241" y="235" as="sourcePoint" />
+            <mxPoint x="250" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Motivationale Phase&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="150" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Präintentional" vertex="1">
+          <mxGeometry height="14" width="90" x="199" y="284" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Planung" vertex="1">
+          <mxGeometry height="40" width="90" x="369" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Gesundheitsverhalten&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="105" width="130" x="519" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-26" edge="1" parent="1" source="rkKUcn_dFoachjsRI7SR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rkKUcn_dFoachjsRI7SR-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Initiative&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="530" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Aufrecht-&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;erhaltung&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="590" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Wiederherstellung&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="86" x="541" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-30" edge="1" parent="1" source="rkKUcn_dFoachjsRI7SR-24" style="endArrow=classic;html=1;rounded=0;exitX=0.56;exitY=0.943;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.891;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;" target="rkKUcn_dFoachjsRI7SR-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="618" y="201" as="sourcePoint" />
+            <mxPoint x="618" y="209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.56;exitY=0.943;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="220" as="sourcePoint" />
+            <mxPoint x="560" y="197" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-33" edge="1" parent="1" source="rkKUcn_dFoachjsRI7SR-3" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=9.655172413793105;endSize=6.671264367816092;fillColor=#FFFFFF;exitX=0.431;exitY=0.938;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="413.76" y="130" as="sourcePoint" />
+            <mxPoint x="413.76" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-34" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FFFFFF;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="496" y="159" />
+            </Array>
+            <mxPoint x="446" y="139" as="sourcePoint" />
+            <mxPoint x="515" y="168.61309523809518" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Volitionale Phase&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="301" x="369" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Präaktional" vertex="1">
+          <mxGeometry height="14" width="90" x="390" y="284" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="Aktional" vertex="1">
+          <mxGeometry height="14" width="90" x="559" y="284" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="unentschieden" vertex="1">
+          <mxGeometry height="30" width="60" x="215" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="entschieden" vertex="1">
+          <mxGeometry height="30" width="60" x="394" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="handelnd" vertex="1">
+          <mxGeometry height="30" width="60" x="567" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="rkKUcn_dFoachjsRI7SR-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;(Rubikon)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="318" y="277" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

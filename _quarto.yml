@@ -1,0 +1,26 @@
+project:
+  type: website # or 'book', ensures the project structure is recognized
+
+format:
+  revealjs:
+    css: styles.css          # Path relative to the project root
+    logo: leipzig_logo.svg
+    include-in-header:
+      - text: |
+          <style>
+          .reveal .slide-logo {
+            max-height: unset;
+            height: 150px;
+          }
+          </style>
+    theme: default
+    # You can also move other shared settings here:
+    transition: slide
+    chalkboard: true
+    touch: true
+    controls: true
+    incremental: true
+    slide-number: true
+
+bibliography: bibliography.bib
+csl: apa.csl
