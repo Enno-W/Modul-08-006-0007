@@ -21,6 +21,8 @@ format:
     controls: true
     incremental: true
     slide-number: true
+  docx:
+    reference-doc: template.docx
 
 bibliography: bibliography.bib
 csl: apa.csl
