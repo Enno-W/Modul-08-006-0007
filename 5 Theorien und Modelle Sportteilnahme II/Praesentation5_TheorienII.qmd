@@ -6,26 +6,41 @@ format:
   revealjs:
     footer: Modul 08-006-0007
     pagetitle: "Modul 08-006-0007"
-    parallax-background-image: "hintergrund.png"
+    parallax-background-image: "hintergrund5.jpg"
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
     date: 2011-11-11
 resources: 
-  - "hintergrund.png"
+  - "hintergrund5.jpg"
 #csl: apa.csl
 #biblio-style: "apalike"
 ---
 
 ```{r setup}
-if (!requireNamespace("needs"   )) install.packages("needs")
-if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
-needs("excelbib", "xfun")
-xlsx_to_bib(from_root("References.xlsx"))
+# if (!requireNamespace("needs"   )) install.packages("needs")
+# if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
+# needs("excelbib", "xfun")
+# xlsx_to_bib(from_root("References.xlsx"))
 ```
+
+## Transtheoretical Model (TTM)
+
+![Transtheoretical](TTM.svg){#fig-ttm}
+
+## HAPA
+
+![Health Action Process Approach](HAPA.svg){#fig-hapa}
+
+## Das Rückfallmodell
+
+![Rückfallmodell nach Marlatt und Gordon](rueckfall.svg){#fig-rueckfall}
 
 
 # Literaturverzeichnis
+
+# Literaturverzeichnis
+
 
 ::: refs
 :::

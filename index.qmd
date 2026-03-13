@@ -1,0 +1,23 @@
+---
+title: "Präsentationsfolien"
+format: html
+editor: visual
+---
+
+# Präsentationsübersicht
+
+### Vorlesungstermine
+
+1. [Einleitung & Fallbeispiele](1%20Einleitung,%20Vorstellung%20der%20Fallbeispiele,%20Gruppenfindung/Praesentation1_Einleitung.qmd)
+2. [Messung & Definition sportlicher Aktivität](2%20Messung%20und%20Definition%20sportlicher%20Aktivität%20-%20Methoden%20und%20Probleme/Praesentation2_Messung_PA.qmd)
+3. [Psychometrische Fragebögen](3%20Psychometrische%20Fragebögen%20und%20Konstrukte/Praesentation3_Frageboegen.qmd)
+4. [Theorien der Sportteilnahme I](4%20Theorien%20und%20Modelle%20Sportteilnahme%20I/Praesentation4_Theorien.qmd)
+5. [Theorien der Sportteilnahme II](5%20Theorien%20und%20Modelle%20Sportteilnahme%20II/Praesentation5_TheorienII.qmd)
+6. [Studiendesign & Stichprobe](6%20Studiendesign%20und%20Stichprobe/Praesentation6_Studiendesign.qmd)
+7. [IM I: Bedarfsanalyse](7%20Intervention%20Mapping%20I%20-%20Bedarfsanalyse%20und%20logisches%20Modell%20des%20Problems/Praesentation7_Bedarfsanalyse.qmd)
+8. [IM II: Zielsetzung](8%20Intervention%20Mapping%20II%20-%20Zielsetzung%20und%20Modell%20der%20Veränderung/Praesentation8_Zielsetzung.qmd)
+9. [IM III: Methodenwahl](9%20Intervention%20Mapping%20III%20-%20Auswahl%20von%20Methoden%20und%20Praktischen%20Anwendungen/Praesentation9_Methoden.qmd)
+11. [IM V: Umsetzung](11%20Intervention%20Mapping%20V%20-%20Annahme%20und%20Umsetzung/Praesentation11_Annahme.qmd)
+12. [IM VI: Evaluation](12%20Intervention%20Mapping%20VI%20-%20Evaluation%20und%20Dokumentation/Praesentation12_Eval.qmd)
+13. [Forschungsethik](13%20Forschungsethik%20und%20Datenschutz/Praesentation13_Ethik.qmd)
+14. [Lehrproben & Hausarbeit](14%20verbleibende%20Lehrproben,%20Kriterien%20der%20Hausarbeit,%20Peer-Feedback/Praesentation14_Abschluss_APA.qmd)

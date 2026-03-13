@@ -18,10 +18,10 @@ resources:
 ---
 
 ```{r setup}
-if (!requireNamespace("needs"   )) install.packages("needs")
-if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
-needs("excelbib", "xfun")
-xlsx_to_bib(from_root("References.xlsx"))
+# if (!requireNamespace("needs"   )) install.packages("needs")
+# if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
+# needs("excelbib", "xfun")
+# xlsx_to_bib(from_root("References.xlsx"))
 ```
 
 

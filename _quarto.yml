@@ -1,6 +1,47 @@
 project:
-  type: website # or 'book', ensures the project structure is recognized
+  type: website
+  output-dir: _site
 
+website:
+  title: "Modul 08-006-0007"
+  search: true
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Grundlagen"
+        menu:
+          - text: "1. Einleitung"
+            href: "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.qmd"
+          - text: "2. Messung & Definition"
+            href: "2 Messung und Definition sportlicher Aktivität - Methoden und Probleme/Praesentation2_Messung_PA.qmd"
+          - text: "3. Psychometrie"
+            href: "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.qmd"
+      - text: "Theorien"
+        menu:
+          - text: "4. Theorien I"
+            href: "4 Theorien und Modelle Sportteilnahme I/Praesentation4_Theorien.qmd"
+          - text: "5. Theorien II"
+            href: "5 Theorien und Modelle Sportteilnahme II/Praesentation5_TheorienII.qmd"
+      - text: "Intervention Mapping"
+        menu:
+          - text: "7. Bedarfsanalyse"
+            href: "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.qmd"
+          - text: "8. Zielsetzung"
+            href: "8 Intervention Mapping II - Zielsetzung und Modell der Veränderung/Praesentation8_Zielsetzung.qmd"
+          - text: "9. Methodenwahl"
+            href: "9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen/Praesentation9_Methoden.qmd"
+          - text: "11. Annahme & Umsetzung"
+            href: "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.qmd"
+          - text: "12. Evaluation"
+            href: "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.qmd"
+      - text: "Abschluss"
+        menu:
+          - text: "13. Forschungsethik"
+            href: "13 Forschungsethik und Datenschutz/Praesentation13_Ethik.qmd"
+          - text: "14. Lehrproben & Hausarbeit"
+            href: "14 verbleibende Lehrproben, Kriterien der Hausarbeit, Peer-Feedback/Praesentation14_Abschluss_APA.qmd"
 format:
   revealjs:
     css: styles.css          # Path relative to the project root
@@ -13,8 +54,7 @@ format:
             height: 150px;
           }
           </style>
-    theme: default
-    # You can also move other shared settings here:
+    theme: simple
     transition: slide
     chalkboard: true
     touch: true
@@ -23,6 +63,8 @@ format:
     slide-number: true
   docx:
     reference-doc: template.docx
+  html:
+    theme: darkly
 
 bibliography: bibliography.bib
 csl: apa.csl

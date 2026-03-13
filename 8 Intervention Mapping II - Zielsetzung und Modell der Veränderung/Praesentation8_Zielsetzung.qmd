@@ -1,0 +1,41 @@
+---
+title: ""
+author: "Enno Winkler"
+lang: de
+format: 
+  revealjs:
+    footer: Modul 08-006-0007
+    pagetitle: "Modul 08-006-0007"
+    parallax-background-image: "hintergrund.png"
+    parallax-background-size: 4080px 3072px
+    parallax-background-horizontal: 200
+    parallax-background-vertical: 350
+    date: 2011-11-11
+resources: 
+  - "hintergrund.png"
+#csl: apa.csl
+#biblio-style: "apalike"
+---
+
+```{r setup}
+#if (!requireNamespace("needs"   )) install.packages("needs")
+#if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
+#needs("excelbib", "xfun")
+#xlsx_to_bib(from_root("References.xlsx"))
+```
+
+::: notes
+Im nächsten Schritt bewegen wir uns vom Problem zur Reduzierung des Problems. Wir fragen uns "Wer muss was tun und warum?". Haben wir in Schritt eins festgestellt, dass Studierende nur selten Uni-eigene Sportangebote wahrnehmen, definieren wir hier, was sie stattdessen tun sollen. Wir definieren hier Ziele, und das nicht nur für die Studierenden (die Zielpopulation), sondern auch für die Leute, die auf Umweltbedingungen einwirken können, also Führungspersonen der Uni. 
+Hier werden drei Arten von Zielen definiert, Veränderungsziele, Handlungsziele und Verhaltensziele. Zuerst die Verhaltensziele. Hier definieren wir, was wir am Ende für ein Verhalten sehen wollen, z.B. dass mindestens 50% der Studierenden an einem Hochschulsport-Kurs teilnehmen.  Dieses Ziel teilen wir dann in Handlungsziele auf. Ein Handlungsziel hier wäre, dass diese 50% sich für einen Kurs einschreiben und an diesem regelmäßig teilnehmen. Hier sind die Determinanten wieder wichtig, veränderbare Faktoren, die einen kausalen Einfluss auf die Handlungsziele haben. So ein Determinant könnte das Ausmaß an Werbung für die Sportangebote sein. In unserem Beispiel könnte dann ein Veränderungsziel sein, dass kostenlose Sportangebote der Uni in allen Mensas beworben werden. Handlungsziele für verantwortliche Personen im Hochschulsport ist dann, Werbematerialien für die Mensas zu erstellen und dort auszulegen. Entsprechendes Veränderungsziel für die Studierenden könnten also sein, dass Werbematerial in den Mensas ausliegt (Das hat nämlich einen Einfluss auf deren Handlungsziel). Für Agierende im Hochschulsport könnte ein Veränderungsziel sein, dass entsprechende Mittel für die Werbung bewilligt werden. 
+:::
+
+# Literaturverzeichnis
+
+::: refs
+:::
+
+
+# Literaturverzeichnis
+
+::: refs
+:::
