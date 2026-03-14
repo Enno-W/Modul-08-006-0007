@@ -6,13 +6,13 @@ format:
   revealjs:
     footer: Modul 08-006-0007
     pagetitle: "Modul 08-006-0007"
-    parallax-background-image: "hintergrund.jpg"
+    parallax-background-image: "hintergrund.png"
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
     date: 2011-11-11
 resources: 
-  - "hintergrund.jpg"
+  - "hintergrund.png"
 #csl: apa.csl
 #biblio-style: "apalike"
 ---

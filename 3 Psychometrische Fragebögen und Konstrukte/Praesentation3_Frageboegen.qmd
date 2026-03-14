@@ -6,13 +6,13 @@ format:
   revealjs:
     footer: Modul 08-006-0007
     pagetitle: "Modul 08-006-0007"
-    parallax-background-image: "hintergrund.png"
+    parallax-background-image: "hintergrund3.jpg"
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
     date: 2011-11-11
 resources: 
-  - "hintergrund.png"
+  - "hintergrund3.jpg"
 #csl: apa.csl
 #biblio-style: "apalike"
 ---
@@ -24,7 +24,83 @@ resources:
 # xlsx_to_bib(from_root("References.xlsx"))
 ```
 
+# Psychometrische Tests: Die Basis
 
+## Was ist ein psychometrischer Test?
+
+- Ein **standardisiertes** Verfahren zur quantitativen Erfassung von Merkmalen.
+- Ziel: **Inter-** (zwischen Personen) und **intraindividuelle** (innerhalb einer Person über die Zeit) Unterschiede messen.
+- In der Rehabilitation: **Prozessdiagnostik** (Verändert sich die Motivation durch mein Training?).
+
+::: notes
+- Standardisierung bedeutet: Gleiche Instruktion, gleiche Auswertung, gleiche Interpretation für alle.
+- Erinnert euch an die letzte Sitzung: Um "Erleben" (Piggin) messbar zu machen, brauchen wir Regeln.
+:::
+
+## Herausforderungen & Fehlerquellen
+
+- **Soziale Erwünschtheit:** "Ja, ich trainiere jeden Tag..."
+- **Reaktivität:** Allein die Messung verändert das Verhalten (Mere-Measurement-Effekt).
+- **Decken- & Bodeneffekte:** Wenn der Test zu leicht oder zu schwer ist (z.B. ein Motivationsfragebogen, bei dem jeder "Hoch" ankreuzt).
+
+::: notes
+- Demand-Effekt: Probanden antworten so, wie sie glauben, dass ihr es als Versuchsleiter hören wollt.
+- Wichtig für eure Hausarbeit: Kritische Reflexion der gewählten Skalen!
+:::
+
+# Relevante Konstrukte für Bewegungsförderung
+
+## 1. Selbstwirksamkeit (Self-Efficacy)
+- Das Vertrauen in die eigene Fähigkeit, eine Handlung auch bei Barrieren auszuführen.
+- **Zentrales Konstrukt im HAPA & Sozial-kognitiver Theorie.**
+- Messung: "Ich bin mir sicher, dass ich Sport treiben kann, auch wenn es regnet..."
+
+
+
+::: notes
+- Eines der stärksten Prädiktoren für sportliche Aktivität.
+- Bezug zur Bachelorarbeit: Wie korreliert Selbstwirksamkeit mit der erinnerten Aktivität?
+:::
+
+## 2. Stadien der Veränderung (TTM)
+- Erfassung der Bereitschaft via "Stadienfragebögen".
+- Frage: "Planen Sie, in den nächsten 6 Monaten aktiver zu werden?"
+- Hilft bei der Zuweisung zu Interventionsgruppen (Match-Mismatch).
+
+::: notes
+- Kritik aus der Vorlesung: Sind Stadien wirklich diskret oder ein Kontinuum? (Siehe Adams & White Paper).
+:::
+
+## 3. Einstellungen & Affekt
+- **Kognitiv:** "Sport ist gesund für mich."
+- **Affektiv:** "Sport macht mir Spaß / gibt mir Energie."
+- **Stolz (Incentives):** Antizipierter Stolz als Motivator für die Aufrechterhaltung.
+
+::: notes
+- Stolz ist ein machtvolles selbstbewertendes Gefühl. Wenn ich stolz auf meine Leistung bin, steigt die Wahrscheinlichkeit für Maintenance.
+:::
+
+# Rückbezug: Aktivitätsmessung
+
+## Fragebögen vs. Konstrukte
+
+- **Aktivitätsfragebogen:** Misst das *Verhalten* (Wie oft? Wie intensiv?).
+- **Psychometrischer Fragebogen:** Misst die *Determinanten* des Verhaltens (Warum? Traue ich es mir zu?).
+- **Problem:** Beide leiden unter dem *Recall Bias* (Erinnerungsverzerrung).
+
+::: notes
+- Wir nutzen die psychometrischen Tests in IM Schritt 2, um zu wissen, wo wir ansetzen müssen (z.B. mangelnde Selbstwirksamkeit stärken).
+:::
+
+# Übung: Konstrukt-Check
+
+- Wählen Sie eines der Fallbeispiele.
+- Welche 3 Konstrukte würden Sie messen, um zu prüfen, ob Ihre Intervention wirkt?
+- Suchen Sie online kurz nach einer Beispiel-Skala (z.B. auf "ZPID" oder "GESIS").
+
+::: notes
+- Beispiel: Reha-Patient nach Herzinfarkt. Konstrukte: Angst (vor Belastung), Selbstwirksamkeit, Intention.
+:::
 # Literaturverzeichnis
 
 ::: refs
