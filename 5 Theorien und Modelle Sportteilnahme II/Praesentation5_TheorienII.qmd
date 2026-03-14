@@ -13,8 +13,6 @@ format:
     date: 2011-11-11
 resources: 
   - "hintergrund5.jpg"
-#csl: apa.csl
-#biblio-style: "apalike"
 ---
 
 ```{r setup}

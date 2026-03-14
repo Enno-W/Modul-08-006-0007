@@ -1,0 +1,135 @@
+---
+title: "Messung und Definition sportlicher Aktivität"
+author: "Enno Winkler"
+lang: de
+format: 
+  revealjs:
+    footer: Modul 08-006-0007
+    pagetitle: "Modul 08-006-0007"
+    parallax-background-image: "hintergrund2.jpg"
+    parallax-background-size: 4080px 3072px
+    parallax-background-horizontal: 200
+    parallax-background-vertical: 350
+    date: 2011-11-11
+resources: 
+  - "hintergrund2.jpg"
+---
+
+
+```{r setup}
+# if (!requireNamespace("needs"   )) install.packages("needs")
+# if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
+ needs("excelbib", "xfun")
+ xlsx_to_bib(from_root("References.xlsx"))
+```
+
+
+# Rückblick & Agenda
+
+- Kurzer Rückblick: Theoriegeleitete vs. Laien-Interventionen
+- Definitionen von Körperlicher Aktivität (PA)
+- Das Biopsychosoziale Modell
+- Messmethoden: Von Double-Labeled-Water bis Fragebogen
+- Validität vs. Anwendbarkeit
+
+# Definition von physischer Aktivität (PA)
+
+## Die mechanistische Perspektive
+
+- Klassische Definition: Aktivität der Skelettmuskeln mit Energieumsatz [@caspersen1985physical].
+- Spezifizierung: Es muss eine *Steigerung* des Energieumsatzes vorliegen [@hollmann2009sportmedizin].
+- Vorteil: Klare Operationalisierung für biologische Studien.
+
+::: notes
+- Einstiegsfrage: Warum definieren wir das überhaupt? 
+- Mechanistisch bedeutet: Mensch als Maschine. 
+- Krug et al. [-@Krug2013] nutzen PA und körperliche Aktivität oft synonym.
+:::
+
+## Die Kritik am Reduktionismus
+
+- Nur auf Energieumsatz zu schauen, ist "reduktionistisch" [@Piggin2020].
+- Vernachlässigt das komplexe Erleben und das Verhalten.
+- Widerspricht einer ganzheitlichen Betrachtung.
+
+::: notes
+- Was fehlt bei der mechanistischen Sicht? (Spaß, soziale Interaktion, Kultur).
+- Überleitung zum biopsychosozialen Ansatz.
+:::
+
+## Der biopsychosoziale Ansatz
+
+- Abgrenzung zum biomedizinischen (defizitorientierten) Ansatz.
+- Integration von drei Ebenen [@Engel1977]:
+  1. **Biologisch** (Energieumsatz, Genetik)
+  2. **Psychisch** (Affekt, Motive, Attribution)
+  3. **Sozial** (Beziehungen, Kontext)
+
+
+
+::: notes
+- Warum ist das für Sportpsychologen wichtig? 
+- Ohne die psychische Ebene können wir keine Interventionen planen (Intervention Mapping!).
+:::
+
+## Eine moderne Definition
+
+> „Physical activity involves people moving, acting and performing within culturally specific spaces and contexts, and influenced by a unique array of interests, emotions, ideas, instructions and relationships.“  
+> — @Piggin2020 (S. 5)
+
+::: notes
+- Diese Definition bildet die Basis für unser Seminar. 
+- Fokus auf: Emotionen, Ideen und Beziehungen.
+:::
+
+# Messmethoden physischer Aktivität
+
+## Kategorisierung der Methoden
+
+- **Direkt:** Erhobene Daten = Zielgröße (z.B. Beobachtung).
+- **Indirekt:** Umrechnung/Auswertung nötig [@Eckert2014].
+- **Kriteriumsmethoden:** Goldstandard (oxidativer Energiestoffwechsel oder direkte Beobachtung) [@Kohl2000].
+
+::: notes
+- Beispiel für indirekt: Herzfrequenzvariabilität -> Rückschluss auf Intensität.
+:::
+
+## Validität vs. Anwendbarkeit
+
+- Systematisierung nach @Mueller2010:
+- **Hohe Validität** (Genauigkeit) = **Geringe Anwendbarkeit** (teuer, aufwendig).
+- Beispiel: *Double-Labeled-Water* (DLW).
+
+
+
+::: notes
+- DLW: Isotope im Wasser, sehr genau für Energieumsatz, aber kostet tausende Euro pro Proband.
+:::
+
+## Subjektive Methoden: Fragebögen
+
+- **Vorteile:** Ressourcensparend, große Stichproben möglich.
+- **Nachteile:**
+  - Soziale Erwünschtheit.
+  - Erinnerungsverzerrung (*Recall Bias*).
+- **Eignung:** Gut für Gruppenvergleiche, schwierig für Individualdiagnostik [@Vanhees2005].
+
+::: notes
+- Frage an die Studis: Wer von euch trackt seine Aktivität? (App vs. Gedächtnis).
+- Überleitung zur Übung.
+:::
+
+# Gruppenübung: Der "selfBACK"-Check
+
+- Schauen Sie sich die Messmethode in der Studie von @Svendsen2022 an.
+- Wie wird dort Aktivität gemessen?
+- Wo ordnen Sie diese Methode im Schema von @Mueller2010 ein?
+
+::: notes
+- Die selfBACK Studie nutzt Smartphone-Sensoren/Apps. 
+- Diskussion: Ist das eine direkte oder indirekte Methode?
+:::
+# Literaturverzeichnis
+
+::: refs
+:::

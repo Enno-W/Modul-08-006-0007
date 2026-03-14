@@ -1,18 +1,18 @@
 ---
-title: "Präsentation 1 - Psychologische Erklärungs- und Interventionstheorien zur Sportteilnahme"
+title: "Präsentation 1 - Einleitung"
 author: "Enno Winkler"
 lang: de
 format: 
   revealjs:
     footer: Modul 08-006-0007
     pagetitle: "Modul 08-006-0007"
-    parallax-background-image: "hintergrund.png"
+    parallax-background-image: "hintergrund.jpg"
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
     date: 2011-11-11
 resources: 
-  - "hintergrund.png"
+  - "hintergrund.jpg"
 #csl: apa.csl
 #biblio-style: "apalike"
 ---
@@ -39,7 +39,7 @@ resources:
 # Your Thesis
 
 
-#Organisation des Seminars
+# Organisation des Seminars
 
 - PVL: Lehrprobe
 - PL: Hausarbeit 
@@ -48,34 +48,42 @@ resources:
 
 - Themenliste auf Moodle (Themenvergabe heute)
 - Rollenspiel oder Übungsanleitung
-- Bezug zum Lehrmaterial, Zeit: mindestens 5 minuten
+- Bezug zum Lehrmaterial, Zeit: mindestens 10 Minuten --> bestanden! 
 
-#Erwartungen und Wünsche an den Kurs
+## Hausarbeit
 
-#Advance Organizer: Bewegungsangebote und Interventionen
+## Literatur
 
-#Themen- und Gruppenfindung
+Moodle-Literatur ist vor dem Unterricht zu lesen!
+Lehrproben basieren auf der Moodle-Literatur zu diesem Thema
 
+# Erwartungen und Wünsche an den Kurs
 
+Menti:
 
+# Advance Organizer: Bewegungsangebote und Interventionen
 
+Suchen Sie online nach Apps, Videos, Artikeln oder sonstigen Angeboten, die damit werben, Bewegung zu fördern.
 
-
-
-
-
-
-
-
-
-
-# Rechercheaufgabe
-
-Suchen Sie online nach Apps, Videos, Artikeln oder sonstigen Angeboten, die damit werben, Bewegung zu fördern. @Bartholomew2006
-https://fit-gesund-aktiv.de/mehr-bewegung-im-alltag/
+z.B: https://fit-gesund-aktiv.de/mehr-bewegung-im-alltag/
 https://www.techbook.de/mobile-lifestyle/apps/sport-apps
 
-Vergleichen Sie mit psychologischen Interventionen (Artikel von XY): Was haben wissenschaftlich erarbeitete Interventionen, was diese Angebote nicht haben? Listen sie auf. 
+Verleichen Sie mit dem Artikel von @Svendsen2022
+
+Welche Gemeinsamkeiten und Unterschiede finden Sie?
+
+::: notes
+
+- evidenzbasiert
+- theoriegeleitet
+
+
+:::
+
+# Themen- und Gruppenfindung
+
+
+Etherpad
 
 
 # References
