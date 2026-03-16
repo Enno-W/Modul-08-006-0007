@@ -6,13 +6,13 @@ format:
   revealjs:
     footer: Modul 08-006-0007
     pagetitle: "Modul 08-006-0007"
-    parallax-background-image: "hintergrund.png"
+    parallax-background-image: "hintergrund10.jpg"
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
     date: 2011-11-11
 resources: 
-  - "hintergrund.png"
+  - "hintergrund10.jpg"
 #csl: apa.csl
 #biblio-style: "apalike"
 ---
@@ -23,7 +23,85 @@ resources:
 # needs("excelbib", "xfun")
 # xlsx_to_bib(from_root("References.xlsx"))
 ```
+# Intervention Mapping Schritt 4
+## Programmentwicklung: Vom Plan zum Produkt
 
+- **Ziel:** Erstellung der konkreten Materialien und Komponenten.
+- **Herausforderung:** Kreativität nutzen, OHNE die Wirkparameter zu verlieren.
+- **Anpassung:** Materialien müssen sowohl zur **Zielgruppe** (z. B. Smartphone-Affin?) als auch zu den **Umsetzenden** (z. B. Trainer/Lehrkräfte) passen.
+
+::: notes
+- Jetzt wird es praktisch: Wir entwickeln Apps, Flyer, Kursmanuale oder Videos.
+- Wichtig: Eine App bringt nichts, wenn die Zielgruppe (z. B. Hochbetagte) keine Smartphones nutzt.
+- Die Methoden aus Schritt 3 müssen "instrumentalisiert" werden.
+:::
+
+## Struktur & Kanäle
+
+- **Umfang & Ablauf:** Wie intensiv ist das Programm? Laufen Module parallel oder nacheinander?
+- **Kommunikationskanal:** Das Medium (z. B. persönlicher Kontakt, App, Print).
+- **Kommunikationsvehikel:** Die Verpackung (z. B. Interview, Talkshow, Handbuch).
+- **Thema:** Ein roter Faden (z. B. "Piratenthema" für Kinder oder "Die virtuelle Kreuzfahrt").
+
+::: notes
+- Ein Radiointerview (Kanal) eignet sich nicht für "Angeleitete Übung" (Methode).
+- Das Thema hilft, die Zielgruppe emotional abzuholen und eine Identität zu schaffen.
+:::
+
+## Produktion & Qualitätssicherung
+
+- **Interdisziplinäre Teams:** Zusammenarbeit mit Grafikern, ITlern oder Schauspielern.
+- **Briefing ist alles:** Externe Fachkräfte kennen keine Wirkparameter (z. B. Coping Model)!
+- **Prätest & Pilotierung:**
+  - **Prätest:** Einzelteile prüfen (Verständlichkeit, Ästhetik, Wirkung auf Determinanten).
+  - **Pilotversuch:** Das komplette Programm im Testlauf (Reibungsloser Ablauf?).
+
+::: notes
+- Als Psychologen müssen wir den Designern sagen: "Das Vorbild im Video darf nicht zu perfekt sein, es muss Hürden überwinden."
+- Prätest verhindert peinliche Fehler oder Unverständnis.
+:::
+
+# Praxisbeispiel
+
+## Beispiel: Piraten im Kindergarten
+
+- **Thema:** Piratenkinder "Finn und Fine" als Identifikationsfiguren.
+- **Komponenten:**
+  - 20 Bewegungsstunden (je 45 Min.).
+  - 15 Ernährungseinheiten (z. B. "Gesunde Durstlöscher").
+  - 14 Freizeiteinheiten (Einbindung der Eltern).
+  - 56 Bewegungskarteikarten (für den Alltag).
+- **Methoden-Check:** Modeling (via Handpuppen), Belohnung, Zielsetzung (Fernsehfreie Tage).
+
+
+
+::: notes
+- Hier sieht man die Kette: Verhaltensziel (Bewegung) -> Methode (Modeling) -> Anwendung (Handpuppen Finn & Fine).
+- Die Bewegungskarten senken die Barriere für die Erzieher (Umsetzende).
+:::
+
+## Die Freizeiteinheiten (Auszug)
+
+| Titel | Ziel | Methode |
+| :--- | :--- | :--- |
+| **Piratenfahne** | Fernsehfreie Tage | Selbstgesetztes Ziel, Eltern-Einbindung. |
+| **Papierflieger** | Bewegte Alternativen | Präsentation von Handlungsalternativen. |
+| **Freizeitampel** | Reflexion Medienkonsum | Wissensvermittlung, Selbstreflexion. |
+
+::: notes
+- Achtet darauf, wie die Eltern als "Umwelt-Agierende" eingebunden werden (Briefe auf Deutsch, Türkisch, Russisch).
+:::
+
+# Übung: Programm-Sketch
+
+1. Überlegen Sie sich für Ihr Projekt ein **Thema** (Branding).
+2. Wählen Sie einen **Kanal** und ein **Vehikel**.
+3. Skizzieren Sie eine **Programmkomponente** (z. B. Aufbau einer Kursstunde oder Screen einer App).
+4. **Wirkparameter-Check:** Wie stellen Sie sicher, dass Ihre Methode (z. B. Modeling) im Material korrekt "rüberkommt"?
+
+::: notes
+- Die Studierenden sollen hier kreativ werden, aber die Theorie im Hinterkopf behalten.
+:::
 
 # Literaturverzeichnis
 

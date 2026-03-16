@@ -83,7 +83,7 @@ Andererseits geht es um die Effektevaluation, also wie sehr sich die Gesundheit 
 
 ## Logisches Modell der Veränderung
 
-![Logisches Modell der Veränderung](logisches_modell_veraenderung.svg)
+![Logisches Modell der Veränderung](logisches_modell_veraenderung.svg){fig-veraenderung}
 
 ## Logisches Modell von Interventionen
 :::{.notes}

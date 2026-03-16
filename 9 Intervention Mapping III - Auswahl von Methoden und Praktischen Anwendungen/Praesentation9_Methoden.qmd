@@ -6,13 +6,13 @@ format:
   revealjs:
     footer: Modul 08-006-0007
     pagetitle: "Modul 08-006-0007"
-    parallax-background-image: "hintergrund.png"
+    parallax-background-image: "hintergrund9.jpg"
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
     date: 2011-11-11
 resources: 
-  - "hintergrund.png"
+  - "hintergrund9.jpg"
 #csl: apa.csl
 #biblio-style: "apalike"
 ---
@@ -23,9 +23,80 @@ resources:
 # needs("excelbib", "xfun")
 # xlsx_to_bib(from_root("References.xlsx"))
 ```
+::: notes
+Erwähne die Taxonomie von Kok et al. (2016). Sie ist das Standardwerk im IM, um Methoden zu finden. Du kannst sie als Link im Moodle bereitstellen.
+:::
+
+# Intervention Mapping Schritt 3
+## Theoretische Methoden und praktische Anwendungen
+
+- **Kernfrage:** Wie bringen wir Menschen dazu, die Veränderungsziele aus Schritt 2 zu erreichen?
+- **Der Prozess:** Strukturierte Auswahl von Theorien $\rightarrow$ Übersetzung in Interventionselemente.
+- **Ziel:** Eine lückenlose Kette von der Determinante bis zur Übung.
+
+::: notes
+- In Schritt 2 haben wir festgelegt, WAS sich ändern muss.
+- In Schritt 3 legen wir fest, WIE wir das erreichen.
+- Wichtig: Wir raten nicht, wir nutzen Evidenz.
+:::
+
+## Die drei Säulen (Kasten 6.3)
+
+1. **Theoretische Methode:** Allgemeine, theoriebasierte Technik (z. B. *Modeling* oder *Angeleitete Übung*). Sie ist universell gültig.
+2. **Praktische Anwendung:** Die spezifische Übersetzung für die Zielgruppe (z. B. ein Video eines Reha-Patienten oder ein gemeinsames Training).
+3. **Wirkparameter:** Die "Gebrauchsanweisung" der Methode. Werden diese ignoriert, wirkt die Methode nicht!
+
+::: notes
+- Beispiel Modeling: Es reicht nicht, IRGENDJEMANDEN zu zeigen. 
+- Das Model muss relevant sein (Wirkparameter).
+:::
+
+## Achtung: Der Fehler mit den Wirkparametern
+
+- **Beispiel Furchtappelle (Schreckbilder):**
+  - Idee: Angst abschrecken (Emotionale Erregung).
+  - **Vergessene Wirkparameter:** Furchtappelle funktionieren NUR, wenn gleichzeitig die **Selbstwirksamkeit** hoch ist und eine klare Handlungslösung angeboten wird.
+  - **Folge:** Defensive Reaktionen (Leugnung, Ignorieren), besonders bei Suchtverhalten.
+
+::: notes
+- Das ist ein klassisches Beispiel für gut gemeinte, aber schlecht geplante Interventionen. 
+- Ohne Selbstwirksamkeit führt Angst zu Abwehr, nicht zu Verhaltensänderung.
+:::
+
+## Methoden für den Sportkontext (Beispiele)
+
+- **Angeleitete Übung (*Guided Practice*):** Zur Steigerung von Fähigkeiten und Selbstwirksamkeit.
+- **Modeling:** Ein "Coping Model" zeigt, wie man Hürden im Training überwindet (nicht ein Profisportler, dem alles leicht fällt!).
+- **Soziale Unterstützung:** Bindungen im Sportkurs stärken.
 
 
 
+::: notes
+- Coping Model vs. Mastery Model: Ein Patient, der zeigt, wie er trotz Knieschmerzen mit dem Training beginnt, ist effektiver als ein Fitness-Model.
+:::
+
+## Von der Theorie zur Matrix (Tabelle 6.3)
+
+Um sicherzustellen, dass jedes Ziel adressiert wird, ordnen wir:
+1. **Veränderungsziel** (z. B. "Kann Etiketten lesen")
+2. **Determinante** (z. B. Fähigkeit/Wissen)
+3. **Methode** (z. B. Erfolgserlebnisse/Übung)
+4. **Anwendung** (z. B. "Workshop: Einkaufs-Check im Supermarkt")
+
+::: notes
+- Hinweis auf "Snack Healthy" Beispiel: Zeigen, wie Peer-Videos (Anwendung) die Methode des sozialen Vergleichs nutzen.
+:::
+
+# Übung: Methoden-Matching
+
+- Nehmen Sie Ihr Veränderungsziel aus der letzten Übung.
+- Wählen Sie eine passende **Theoretische Methode** (z. B. aus der Taxonomie von Kok et al.).
+- Skizzieren Sie eine **Praktische Anwendung** für Ihre Reha-Gruppe.
+- **Check:** Welche Wirkparameter müssen Sie beachten?
+
+::: notes
+- Beispiel: Ziel "Traut sich zu, zu Hause Kniebeugen zu machen". Methode: Modeling + Guided Practice. Anwendung: Physiotherapeut macht es vor, Patient macht es nach, bekommt Feedback.
+:::
 # Literaturverzeichnis
 
 ::: refs

@@ -6,13 +6,13 @@ format:
   revealjs:
     footer: Modul 08-006-0007
     pagetitle: "Modul 08-006-0007"
-    parallax-background-image: "hintergrund.png"
+    parallax-background-image: "hintergrund12.jpg"
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
     date: 2011-11-11
 resources: 
-  - "hintergrund.png"
+  - "hintergrund12.jpg"
 #csl: apa.csl
 #biblio-style: "apalike"
 ---
@@ -23,7 +23,117 @@ resources:
 # needs("excelbib", "xfun")
 # xlsx_to_bib(from_root("References.xlsx"))
 ```
+# Intervention Mapping Schritt 6
+## Evaluation: Hat es funktioniert?
 
+- **Ziel:** Messung der Effekte (**Effektevaluation**) und Analyse des Prozesses (**Prozessevaluation**).
+- **Logik:** Wir prüfen jede Stufe unseres "Logischen Modells der Veränderung" (Schritt 2).
+- **Kontinuum:** Evaluation ist kein einmaliges Event, sondern notwendige Qualitätssicherung.
+
+::: notes
+- Wir fragen: Haben sich die Determinanten geändert? Führt das zum Verhalten? Und verbessert das die Gesundheit?
+- Ohne Evaluation wissen wir nicht, ob Erfolg Zufall war oder Misserfolg an der Theorie lag.
+:::
+
+## Effektevaluation: Wirksamkeit vs. Effektivität
+
+- **Wirksamkeit (Efficacy):** Funktioniert es unter Laborbedingungen? (Homogene Stichprobe, hohe Kontrolle).
+- **Effektivität (Effectiveness):** Funktioniert es in der "echten Welt"? (Heterogene Gruppen, stressiger Alltag der Umsetzer).
+- **Messgrößen:**
+  - Veränderungsziele (Fragebögen zu Determinanten).
+  - Verhaltensziele (Schrittzähler, Tagebücher).
+  - Gesundheitsziele (BMI, Blutdruck – oft erst langfristig!).
+
+::: notes
+- Ein Programm kann wirksam sein (im Labor), aber nicht effektiv (weil es im Alltag keiner schafft).
+- Tipp für die Hausarbeit: Überlegt euch Messgrößen für alle Ebenen!
+:::
+
+## pwr.2p.test (Vergleich von Quoten)
+
+Wenn ihr wissen wollt, wie viele Probanden ihr braucht, um zu zeigen, dass in der Interventionsgruppe (IG) prozentual mehr Leute sportlich aktiv sind als in der Kontrollgruppe (KG):
+
+```{r}
+#| echo: true
+#| eval: true
+library(pwr)
+
+# Beispiel: IG erreicht zu 60% das Ziel, KG nur zu 40% (h = 0.4)
+# Wie viele Leute brauchen wir pro Gruppe für Power = 0.8?
+pwr.2p.test(h = 0.4, sig.level = 0.05, power = 0.8, alternative = "greater")
+```
+
+::: notes
+- h ist die Effektstärke für Proportionen.
+- "greater" nutzen wir, wenn wir eine gerichtete Hypothese haben (IG > KG).
+:::
+
+## Prozessevaluation: Das "Warum" klären
+
+- Warum war ein Programm (nicht) erfolgreich?
+- **7 Kernkomponenten:**
+  1. **Kontext:** Soziales Umfeld (z. B. religiöse Vorbehalte).
+  2. **Reichweite:** Welcher Anteil der Zielgruppe wurde erreicht?
+  3. **Ausmaß (Dosis):** Wurden alle Einheiten durchgeführt?
+  4. **Empfang:** Hat die Zielgruppe das Programm bis zum Ende absolviert?
+  5. **Umsetzungsgenauigkeit (Fidelity):** Wurde es wie geplant durchgeführt?
+  6. **Gesamtumsetzung:** Gesamtfazit der Implementierung.
+  7. **Anwerben:** Wie wurden Teilnehmende rekrutiert?
+
+::: notes
+- Beispiel: Wenn die Erzieher die Ernährungseinheiten weglassen (Dosis), kann das Programm den BMI nicht senken. Das liegt dann nicht an der Theorie, sondern am Prozess!
+:::
+
+## pwr.chisq.test (Häufigkeiten analysieren)
+
+Ideal für die Prozessevaluation: Unterscheiden sich Teilnehmer und Abbrecher (Dropout-Analyse) signifikant?
+
+```{r}
+#| echo: true
+#| eval: true
+
+# Beispiel: Zusammenhang zwischen Geschlecht und Programmabbruch
+# Effektstärke w = 0.3 (mittel), 1 Freiheitsgrad (2x2 Tabelle)
+pwr.chisq.test(w = 0.3, df = 1, sig.level = 0.05, power = 0.8)
+```
+
+
+::: notes
+Hilfreich, um zu prüfen, ob eure Stichprobe für Untergruppen-Analysen (z. B. Männer vs. Frauen) groß genug ist.
+:::
+
+## Evaluationsdesign im Sport
+
+- **Goldstandard:** RCT (Randomized Controlled Trial).
+- **Problem im Feld:** Einzelrandomisierung oft unmöglich (man kann nicht halbe Schulklassen trainieren).
+- **Lösung:** - **Cluster-Randomisierung:** Ganze Organisationen (Schulen/Vereine) zufällig zuteilen.
+  - **Wartelisten-Design:** Die Kontrollgruppe erhält die Intervention zeitversetzt (ethisch oft besser).
+
+::: notes
+- "Komm mit in das gesunde Boot" nutzt genau dieses Wartelisten-Design. Das erhöht die Akzeptanz bei den Schulen, da niemand leer ausgeht.
+:::
+
+## Dokumentation & Transparenz
+
+- **Warum dokumentieren?**
+  - Ermöglicht Replikation durch andere Forscher/Praktiker.
+  - Identifiziert "aktive Komponenten" (Was genau hat gewirkt?).
+  - Bildet die Basis für Wissenschaft und Praxis.
+- **Intervention Mapping Vorteil:** Eine einheitliche Terminologie macht Programme weltweit vergleichbar.
+
+::: notes
+- Viele Entwickler vergessen die Dokumentation der "Black Box". IM zwingt uns dazu, jeden Schritt von der Determinante bis zur Evaluation festzuhalten.
+:::
+
+# Abschluss-Check: Ihr Projekt
+
+- Haben Sie für jedes **Veränderungsziel** eine konkrete Testfrage?
+- Wie messen Sie die **Fidelity** (Umsetzungsgenauigkeit) Ihrer Trainer/Übungsleiter?
+- Ist Ihr Design stark genug, um eine echte **Wirksamkeit** zu belegen?
+
+::: notes
+- Letzter Impuls für die Hausarbeit: "Denkt vom Ende her – wie beweist ihr euren Erfolg?"
+:::
 
 # Literaturverzeichnis
 

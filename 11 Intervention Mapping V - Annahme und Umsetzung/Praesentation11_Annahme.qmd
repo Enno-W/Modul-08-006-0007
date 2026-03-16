@@ -6,13 +6,13 @@ format:
   revealjs:
     footer: Modul 08-006-0007
     pagetitle: "Modul 08-006-0007"
-    parallax-background-image: "hintergrund.png"
+    parallax-background-image: "hintergrund11.jpg"
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
-    parallax-background-vertical: 350
+    parallax-background-vertical: 500
     date: 2011-11-11
 resources: 
-  - "hintergrund.png"
+  - "hintergrund11.jpg"
 #csl: apa.csl
 #biblio-style: "apalike"
 ---
@@ -24,6 +24,74 @@ resources:
 # xlsx_to_bib(from_root("References.xlsx"))
 ```
 
+# Intervention Mapping Schritt 5
+## Annahme, Umsetzung und Nachhaltigkeit
+
+- **Das Problem:** Die beste Intervention wirkt nicht, wenn sie nicht genutzt wird.
+- **Ziel:** Menschen überzeugen, das Programm einzuführen (**Annahme**) und es dauerhaft beizubehalten (**Nachhaltigkeit**).
+- **Zentrale Erkenntnis:** Schritt 5 ist im Grunde eine "Intervention in der Intervention".
+
+::: notes
+- Wir haben jetzt ein tolles Programm (Schritt 4). Aber wie kommt es in die Klinik/den Verein/die Schule?
+- Wir müssen die "Gatekeeper" (Entscheider) gewinnen.
+:::
+
+## Wer sind die Akteure?
+
+- **Annehmende (Adopters):** Personen mit Entscheidungsgewalt (z.B. Klinikleitung, Schulbehörde). Sie sagen "Ja" zum Programm.
+- **Umsetzende (Implementers):** Personen, die das Programm operativ durchführen (z.B. Sporttherapeuten, Lehrkräfte).
+- **Vernetzung:** Erfolg hängt von der engen Einbindung beider Gruppen ab (Partizipation!).
+
+::: notes
+- Wichtig: Ein Schulleiter (Annehmer) führt den Sportkurs meist nicht selbst durch (Umsetzer). Beide brauchen unterschiedliche Motivationen.
+:::
+
+## Die drei Säulen der Implementierung
+
+1. **Annahme:** Die Entscheidung zur Einführung.
+2. **Korrekte Umsetzung (Fidelity):** Wird das Programm so durchgeführt wie geplant? (Dosis, Vollständigkeit).
+3. **Nachhaltigkeit (Sustainability):** Wird das Programm Teil der Routine oder verschwindet es nach der Förderphase?
+
+::: notes
+- Wir wenden hier die Schritte 1-4 des IM erneut an: Wir erstellen Matrizen für die Umsetzer!
+- Was müssen die Erzieher tun (Handlungsziele) und was hält sie davon ab (Determinanten)?
+:::
+
+## Praxisbeispiel: Der Multiplikatorenansatz
+### "Komm mit in das gesunde Boot"
+
+- **Strategie:** Pro Bezirk werden zwei Erzieher als **Multiplikatoren** ausgebildet.
+- **Vorteile:**
+  - Reduziert Kosten (keine externen Fachkräfte nötig).
+  - Kommunikation "auf Augenhöhe" (Erhöht Akzeptanz & Selbstwirksamkeit).
+  - Vorhandene Netzwerke werden genutzt.
+- **Nachhaltigkeit:** Das Programm wird durch die interne Kompetenz im Kindergartenalltag verankert.
+
+::: notes
+- Multiplikatoren wirken auf die Determinanten: Wissen, Fähigkeiten und vor allem die Einstellung der Kollegen.
+:::
+
+## Die Matrix für Umsetzende (Tabelle 7.2)
+
+| Handlungsziel (Erzieher...) | Wissen | Selbstwirksamkeit |
+| :--- | :--- | :--- |
+| **...entscheiden sich zur Umsetzung** | Wissen, dass das Programm existiert. | Glauben, dass sie die Umsetzung schaffen. |
+| **...führen Komponenten korrekt aus** | Benennen alle Komponenten. | Bewerten sich als fähig zur korrekten Durchführung. |
+
+::: notes
+- Schaut euch die Tabelle an: Hier geht es nicht um die Kinder, sondern um die Kompetenz der Erzieher!
+:::
+
+# Übung: Wer sind Ihre Gatekeeper?
+
+1. Wer muss in Ihrem Projekt "Ja" sagen (**Annehmende**)?
+2. Wer führt es praktisch durch (**Umsetzende**)?
+3. **Brainstorming:** Nennen Sie eine Barriere (Determinante), die einen Trainer davon abhalten könnte, Ihr Programm korrekt umzusetzen.
+
+::: notes
+- Beispiel Reha-Sport: Der Vereinsvorstand (Annehmer) vs. der Übungsleiter (Umsetzer). 
+- Barriere: "Zu viel Dokumentationsaufwand" (Einstellung/Zeit).
+:::
 
 # Literaturverzeichnis
 

@@ -6,13 +6,13 @@ format:
   revealjs:
     footer: Modul 08-006-0007
     pagetitle: "Modul 08-006-0007"
-    parallax-background-image: "hintergrund.png"
+    parallax-background-image: "hintergrund8.jpg"
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
     date: 2011-11-11
 resources: 
-  - "hintergrund.png"
+  - "hintergrund8.jpg"
 #csl: apa.csl
 #biblio-style: "apalike"
 ---
@@ -23,16 +23,81 @@ resources:
 #needs("excelbib", "xfun")
 #xlsx_to_bib(from_root("References.xlsx"))
 ```
+# Intervention Mapping - Schritt 2
+Zielsetzung
+
+## Erstellen von Programmzielen: Die Logik der Veränderung
+
+- **Wechsel der Perspektive:** Weg vom Problem (Bedarfsanalyse), hin zur Lösung.
+- **Ziel:** Festlegen, was sich konkret ändern muss, um die Gesundheit zu verbessern.
+- **Das Logische Modell der Veränderung:** Arbeitet von rechts nach links (Gesundheit $\rightarrow$ Verhalten/Umwelt $\rightarrow$ Determinanten).
+
+::: notes
+- Hier findet der entscheidende Shift statt: Wir fragen nicht mehr "Was ist kaputt?", sondern "Was soll wie funktionieren?".
+- Wichtig für die Studierenden: Die Basis sind die Programmziele am Ende der Bedarfsanalyse.
+:::
+
+## Die Ziel-Hierarchie (Kasten 6.2)
+
+1. **Verhaltensziel:** Das Endergebnis (z. B. "Immer Kondome benutzen").
+2. **Handlungsziel (*Performance Objective*):** Teilabschnitte des Verhaltens (z. B. "Kondome kaufen", "Gespräch mit Partner führen").
+3. **Umweltziel:** Veränderungen im Umfeld (z. B. "Kondomautomaten in Bars").
+4. **Veränderungsziel (*Change Objective*):** Wie muss sich eine Determinante (Wissen, Einstellung) ändern, um ein Handlungsziel zu erreichen?
+
+::: notes
+- Handlungsziele sind oft eine Abfolge von Einzelschritten.
+- Umweltziele betreffen Agierende (z.B. Bar-Management), nicht die Zielgruppe selbst.
+:::
+
+## Modell der Veränderung
+
+![Logisches Modell der Veränderung](logisches_modell_veraenderung.svg){fig-veraenderung}
+
+## Die Matrix der Veränderungsziele
+
+- Das Herzstück von Schritt 2: **Handlungsziele $\times$ Determinanten**.
+- Jede Zelle beantwortet die Frage: *"Was muss sich bei Determinante X (z. B. Selbstwirksamkeit) ändern, damit Handlungsziel Y erreicht wird?"*
+
+| Handlungsziel | Einstellung | Selbstwirksamkeit |
+| :--- | :--- | :--- |
+| **...gesunde Snacks wählen** | Äußert sich positiv über gesunde Wahl. | Zeigt Vertrauen, gesunde Snacks im Campusshop zu finden. |
+
+
+
+::: notes
+- Demonstration anhand der Tabelle 6.2 (Snack Healthy): Zeigen, wie man "Selbstwirksamkeit" konkret für das "Vorbereiten von Snacks" formuliert.
+- Erwähnung der Selektion: Nur relevante und veränderbare Determinanten wählen!
+:::
+
+## Unterteilung der Zielgruppe
+
+- Wann sind Subgruppen sinnvoll?
+  - Wenn sich **Determinanten** unterscheiden (z. B. Schwangerschaftsangst bei Mädchen vs. Jungen).
+  - Wenn sich Personen in unterschiedlichen **Stadien** befinden (z. B. TTM: Präkontemplation vs. Planung).
+- **Konsequenz:** Jede Subgruppe erhält eine eigene Matrix.
+- **Praxis-Check:** Kosten vs. Nutzen verschiedener Interventionen abwägen.
+
+::: notes
+- Beispiel Raucherentwöhnung: Wer noch nicht aufhören will, braucht andere "Change Objectives" als jemand, der schon den Termin festlegt.
+- Das ist die Vorbereitung auf "Tailored Interventions".
+:::
+
+# Übung: Matrix-Entwurf
+
+- Wählen Sie ein Handlungsziel aus Ihrem Projekt.
+- Kreuzen Sie es mit den Determinanten **Einstellung** und **Selbstwirksamkeit**.
+- Formulieren Sie zwei konkrete **Veränderungsziele**.
+
+::: notes
+- Die Studierenden sollen hier zum ersten Mal die "Logik der Veränderung" anwenden. 
+- Hilfestellung: Die Frage "Warum/Wie?" nutzen.
+:::
 
 ::: notes
 Im nächsten Schritt bewegen wir uns vom Problem zur Reduzierung des Problems. Wir fragen uns "Wer muss was tun und warum?". Haben wir in Schritt eins festgestellt, dass Studierende nur selten Uni-eigene Sportangebote wahrnehmen, definieren wir hier, was sie stattdessen tun sollen. Wir definieren hier Ziele, und das nicht nur für die Studierenden (die Zielpopulation), sondern auch für die Leute, die auf Umweltbedingungen einwirken können, also Führungspersonen der Uni. 
 Hier werden drei Arten von Zielen definiert, Veränderungsziele, Handlungsziele und Verhaltensziele. Zuerst die Verhaltensziele. Hier definieren wir, was wir am Ende für ein Verhalten sehen wollen, z.B. dass mindestens 50% der Studierenden an einem Hochschulsport-Kurs teilnehmen.  Dieses Ziel teilen wir dann in Handlungsziele auf. Ein Handlungsziel hier wäre, dass diese 50% sich für einen Kurs einschreiben und an diesem regelmäßig teilnehmen. Hier sind die Determinanten wieder wichtig, veränderbare Faktoren, die einen kausalen Einfluss auf die Handlungsziele haben. So ein Determinant könnte das Ausmaß an Werbung für die Sportangebote sein. In unserem Beispiel könnte dann ein Veränderungsziel sein, dass kostenlose Sportangebote der Uni in allen Mensas beworben werden. Handlungsziele für verantwortliche Personen im Hochschulsport ist dann, Werbematerialien für die Mensas zu erstellen und dort auszulegen. Entsprechendes Veränderungsziel für die Studierenden könnten also sein, dass Werbematerial in den Mensas ausliegt (Das hat nämlich einen Einfluss auf deren Handlungsziel). Für Agierende im Hochschulsport könnte ein Veränderungsziel sein, dass entsprechende Mittel für die Werbung bewilligt werden. 
 :::
 
-# Literaturverzeichnis
-
-::: refs
-:::
 
 
 # Literaturverzeichnis

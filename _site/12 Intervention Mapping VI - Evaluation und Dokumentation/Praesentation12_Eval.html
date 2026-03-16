@@ -29,6 +29,72 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
+    /* CSS for syntax highlighting */
+    html { -webkit-text-size-adjust: 100%; }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      { color: #003b4f; background-color: #f1f3f5; }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span { color: #003b4f; } /* Normal */
+    code span.al { color: #ad0000; } /* Alert */
+    code span.an { color: #5e5e5e; } /* Annotation */
+    code span.at { color: #657422; } /* Attribute */
+    code span.bn { color: #ad0000; } /* BaseN */
+    code span.bu { } /* BuiltIn */
+    code span.cf { color: #003b4f; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #20794d; } /* Char */
+    code span.cn { color: #8f5902; } /* Constant */
+    code span.co { color: #5e5e5e; } /* Comment */
+    code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
+    code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
+    code span.dt { color: #ad0000; } /* DataType */
+    code span.dv { color: #ad0000; } /* DecVal */
+    code span.er { color: #ad0000; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #ad0000; } /* Float */
+    code span.fu { color: #4758ab; } /* Function */
+    code span.im { color: #00769e; } /* Import */
+    code span.in { color: #5e5e5e; } /* Information */
+    code span.kw { color: #003b4f; font-weight: bold; } /* Keyword */
+    code span.op { color: #5e5e5e; } /* Operator */
+    code span.ot { color: #003b4f; } /* Other */
+    code span.pp { color: #ad0000; } /* Preprocessor */
+    code span.sc { color: #5e5e5e; } /* SpecialChar */
+    code span.ss { color: #20794d; } /* SpecialString */
+    code span.st { color: #20794d; } /* String */
+    code span.va { color: #111111; } /* Variable */
+    code span.vs { color: #20794d; } /* VerbatimString */
+    code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
   <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-2c1b5f745a11cfad616ebade4a4a7d24.css">
   <link rel="stylesheet" href="../styles.css">
@@ -136,6 +202,245 @@
   <div class="reveal">
     <div class="slides">
 
+
+<section>
+<section id="intervention-mapping-schritt-6" class="title-slide slide level1 center">
+<h1>Intervention Mapping Schritt 6</h1>
+
+</section>
+<section id="evaluation-hat-es-funktioniert" class="slide level2">
+<h2>Evaluation: Hat es funktioniert?</h2>
+<ul>
+<li class="fragment"><strong>Ziel:</strong> Messung der Effekte (<strong>Effektevaluation</strong>) und Analyse des Prozesses (<strong>Prozessevaluation</strong>).</li>
+<li class="fragment"><strong>Logik:</strong> Wir prüfen jede Stufe unseres “Logischen Modells der Veränderung” (Schritt 2).</li>
+<li class="fragment"><strong>Kontinuum:</strong> Evaluation ist kein einmaliges Event, sondern notwendige Qualitätssicherung.</li>
+</ul>
+<aside class="notes">
+<ul>
+<li>Wir fragen: Haben sich die Determinanten geändert? Führt das zum Verhalten? Und verbessert das die Gesundheit?</li>
+<li>Ohne Evaluation wissen wir nicht, ob Erfolg Zufall war oder Misserfolg an der Theorie lag.</li>
+</ul>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="effektevaluation-wirksamkeit-vs.-effektivität" class="slide level2">
+<h2>Effektevaluation: Wirksamkeit vs.&nbsp;Effektivität</h2>
+<ul>
+<li class="fragment"><strong>Wirksamkeit (Efficacy):</strong> Funktioniert es unter Laborbedingungen? (Homogene Stichprobe, hohe Kontrolle).</li>
+<li class="fragment"><strong>Effektivität (Effectiveness):</strong> Funktioniert es in der “echten Welt”? (Heterogene Gruppen, stressiger Alltag der Umsetzer).</li>
+<li class="fragment"><strong>Messgrößen:</strong>
+<ul>
+<li class="fragment">Veränderungsziele (Fragebögen zu Determinanten).</li>
+<li class="fragment">Verhaltensziele (Schrittzähler, Tagebücher).</li>
+<li class="fragment">Gesundheitsziele (BMI, Blutdruck – oft erst langfristig!).</li>
+</ul></li>
+</ul>
+<aside class="notes">
+<ul>
+<li>Ein Programm kann wirksam sein (im Labor), aber nicht effektiv (weil es im Alltag keiner schafft).</li>
+<li>Tipp für die Hausarbeit: Überlegt euch Messgrößen für alle Ebenen!</li>
+</ul>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="pwr.2p.test-vergleich-von-quoten" class="slide level2">
+<h2>pwr.2p.test (Vergleich von Quoten)</h2>
+<p>Wenn ihr wissen wollt, wie viele Probanden ihr braucht, um zu zeigen, dass in der Interventionsgruppe (IG) prozentual mehr Leute sportlich aktiv sind als in der Kontrollgruppe (KG):</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a></a><span class="fu">library</span>(pwr)</span>
+<span id="cb1-2"><a></a></span>
+<span id="cb1-3"><a></a><span class="co"># Beispiel: IG erreicht zu 60% das Ziel, KG nur zu 40% (h = 0.4)</span></span>
+<span id="cb1-4"><a></a><span class="co"># Wie viele Leute brauchen wir pro Gruppe für Power = 0.8?</span></span>
+<span id="cb1-5"><a></a><span class="fu">pwr.2p.test</span>(<span class="at">h =</span> <span class="fl">0.4</span>, <span class="at">sig.level =</span> <span class="fl">0.05</span>, <span class="at">power =</span> <span class="fl">0.8</span>, <span class="at">alternative =</span> <span class="st">"greater"</span>)</span></code><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+     Difference of proportion power calculation for binomial distribution (arcsine transformation) 
+
+              h = 0.4
+              n = 77.28199
+      sig.level = 0.05
+          power = 0.8
+    alternative = greater
+
+NOTE: same sample sizes</code></pre>
+</div>
+</div>
+<aside class="notes">
+<ul>
+<li>h ist die Effektstärke für Proportionen.</li>
+<li>“greater” nutzen wir, wenn wir eine gerichtete Hypothese haben (IG &gt; KG).</li>
+</ul>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="prozessevaluation-das-warum-klären" class="slide level2">
+<h2>Prozessevaluation: Das “Warum” klären</h2>
+<ul>
+<li class="fragment">Warum war ein Programm (nicht) erfolgreich?</li>
+<li class="fragment"><strong>7 Kernkomponenten:</strong>
+<ol type="1">
+<li class="fragment"><strong>Kontext:</strong> Soziales Umfeld (z. B. religiöse Vorbehalte).</li>
+<li class="fragment"><strong>Reichweite:</strong> Welcher Anteil der Zielgruppe wurde erreicht?</li>
+<li class="fragment"><strong>Ausmaß (Dosis):</strong> Wurden alle Einheiten durchgeführt?</li>
+<li class="fragment"><strong>Empfang:</strong> Hat die Zielgruppe das Programm bis zum Ende absolviert?</li>
+<li class="fragment"><strong>Umsetzungsgenauigkeit (Fidelity):</strong> Wurde es wie geplant durchgeführt?</li>
+<li class="fragment"><strong>Gesamtumsetzung:</strong> Gesamtfazit der Implementierung.</li>
+<li class="fragment"><strong>Anwerben:</strong> Wie wurden Teilnehmende rekrutiert?</li>
+</ol></li>
+</ul>
+<aside class="notes">
+<ul>
+<li>Beispiel: Wenn die Erzieher die Ernährungseinheiten weglassen (Dosis), kann das Programm den BMI nicht senken. Das liegt dann nicht an der Theorie, sondern am Prozess!</li>
+</ul>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="pwr.chisq.test-häufigkeiten-analysieren" class="slide level2">
+<h2>pwr.chisq.test (Häufigkeiten analysieren)</h2>
+<p>Ideal für die Prozessevaluation: Unterscheiden sich Teilnehmer und Abbrecher (Dropout-Analyse) signifikant?</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a></a><span class="co"># Beispiel: Zusammenhang zwischen Geschlecht und Programmabbruch</span></span>
+<span id="cb3-2"><a></a><span class="co"># Effektstärke w = 0.3 (mittel), 1 Freiheitsgrad (2x2 Tabelle)</span></span>
+<span id="cb3-3"><a></a><span class="fu">pwr.chisq.test</span>(<span class="at">w =</span> <span class="fl">0.3</span>, <span class="at">df =</span> <span class="dv">1</span>, <span class="at">sig.level =</span> <span class="fl">0.05</span>, <span class="at">power =</span> <span class="fl">0.8</span>)</span></code><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+     Chi squared power calculation 
+
+              w = 0.3
+              N = 87.20954
+             df = 1
+      sig.level = 0.05
+          power = 0.8
+
+NOTE: N is the number of observations</code></pre>
+</div>
+</div>
+<aside class="notes">
+<p>Hilfreich, um zu prüfen, ob eure Stichprobe für Untergruppen-Analysen (z. B. Männer vs.&nbsp;Frauen) groß genug ist.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="evaluationsdesign-im-sport" class="slide level2">
+<h2>Evaluationsdesign im Sport</h2>
+<ul>
+<li class="fragment"><strong>Goldstandard:</strong> RCT (Randomized Controlled Trial).</li>
+<li class="fragment"><strong>Problem im Feld:</strong> Einzelrandomisierung oft unmöglich (man kann nicht halbe Schulklassen trainieren).</li>
+<li class="fragment"><strong>Lösung:</strong> - <strong>Cluster-Randomisierung:</strong> Ganze Organisationen (Schulen/Vereine) zufällig zuteilen.
+<ul>
+<li class="fragment"><strong>Wartelisten-Design:</strong> Die Kontrollgruppe erhält die Intervention zeitversetzt (ethisch oft besser).</li>
+</ul></li>
+</ul>
+<aside class="notes">
+<ul>
+<li>“Komm mit in das gesunde Boot” nutzt genau dieses Wartelisten-Design. Das erhöht die Akzeptanz bei den Schulen, da niemand leer ausgeht.</li>
+</ul>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="dokumentation-transparenz" class="slide level2">
+<h2>Dokumentation &amp; Transparenz</h2>
+<ul>
+<li class="fragment"><strong>Warum dokumentieren?</strong>
+<ul>
+<li class="fragment">Ermöglicht Replikation durch andere Forscher/Praktiker.</li>
+<li class="fragment">Identifiziert “aktive Komponenten” (Was genau hat gewirkt?).</li>
+<li class="fragment">Bildet die Basis für Wissenschaft und Praxis.</li>
+</ul></li>
+<li class="fragment"><strong>Intervention Mapping Vorteil:</strong> Eine einheitliche Terminologie macht Programme weltweit vergleichbar.</li>
+</ul>
+<aside class="notes">
+<ul>
+<li>Viele Entwickler vergessen die Dokumentation der “Black Box”. IM zwingt uns dazu, jeden Schritt von der Determinante bis zur Evaluation festzuhalten.</li>
+</ul>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section></section>
+<section id="abschluss-check-ihr-projekt" class="title-slide slide level1 center">
+<h1>Abschluss-Check: Ihr Projekt</h1>
+<ul>
+<li class="fragment">Haben Sie für jedes <strong>Veränderungsziel</strong> eine konkrete Testfrage?</li>
+<li class="fragment">Wie messen Sie die <strong>Fidelity</strong> (Umsetzungsgenauigkeit) Ihrer Trainer/Übungsleiter?</li>
+<li class="fragment">Ist Ihr Design stark genug, um eine echte <strong>Wirksamkeit</strong> zu belegen?</li>
+</ul>
+<aside class="notes">
+<ul>
+<li>Letzter Impuls für die Hausarbeit: “Denkt vom Ende her – wie beweist ihr euren Erfolg?”</li>
+</ul>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
 
 <section id="literaturverzeichnis" class="title-slide slide level1 center">
 <h1>Literaturverzeichnis</h1>
@@ -327,7 +632,7 @@
         mobileViewDistance: 2,
 
         // Parallax background image
-        parallaxBackgroundImage: 'hintergrund.png', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
+        parallaxBackgroundImage: 'hintergrund12.jpg', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
 
         // Parallax background size
         parallaxBackgroundSize: '4080px 3072px', // CSS syntax, e.g. "2100px 900px"

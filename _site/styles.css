@@ -32,15 +32,15 @@ colour: black;
 .citation {
     font-size: 0.6em;
     font-weight: bold;
-    color: rgb(238, 232, 213) /* Adjust to your preferred size */
+    color: rgb(0, 0, 139) /* Adjust to your preferred size and colour for citations */
 }
 
 a {
-    color: rgb(238, 232, 213) !important;
+    color: rgb(0, 0, 139) !important;
     text-decoration: none; /* Remove underline if desired */
 }
 
 a:hover {
-    color: rgb(238, 232, 213) !important; /* Optional: Changes color on hover */
+    color: rgb(0, 0, 139) !important; /* Optional: Changes color on hover */
     text-decoration: underline; /* Optional: Adds underline on hover */
 }

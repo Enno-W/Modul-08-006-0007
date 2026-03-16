@@ -5,13 +5,13 @@ editor: visual
 ---
 
 |  |  |  |
-|----------------|--------------------------------------|-------------------|
+|------------------|------------------------------------|------------------|
 | Datum | Thema | Lehrprobe Nr. |
 | 13.04.26 | 1 Einleitung, Vorstellung der Fallbeispiele Gruppenfindung |  |
 | 20.04.26 | 2 Messung und Definition sportlicher Aktivität - Methoden und Probleme | 1 |
 | 27.04.26 | 3 Psychometrische Fragebögen und Konstrukte | 2 |
-| 04.05.26 | 4 Theorien und Modelle Sportteilnahme I | 3 |
-| 11.05.26 | 5 Theorien und Modelle Sportteilnahme II | 4 |
+| 04.05.26 | 4 Forschungsethik und Datenschutz | 3 |
+| 11.05.26 | 5 Grundlagen Webbasierter Interventionsmethoden | 4 |
 | 18.05.26 | 6 Studiendesign und Stichprobe | 5 |
 | 01.06.26 | 7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems | 6 |
 | 08.06.26 | 8 Intervention Mapping II - Zielsetzung und Modell der Veränderung | 7 |
@@ -19,5 +19,5 @@ editor: visual
 | 22.06.26 | 10 Intervention Mapping IV - Materialentwicklung | 9 |
 | 29.06.26 | 11 Intervention Mapping V - Annahme und Umsetzung | 10 |
 | 06.07.26 | 12 Intervention Mapping VI - Evaluation und Dokumentation | 11 |
-| 13.07.26 | 13 Forschungsethik und Datenschutz | 12 |
+| 13.07.26 | 13 | 12 |
 | 20.07.26 | 14 verbleibende Lehrproben, Kriterien der Hausarbeit, Peer-Feedback |  |
