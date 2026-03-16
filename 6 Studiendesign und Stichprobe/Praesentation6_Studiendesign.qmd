@@ -6,13 +6,13 @@ format:
   revealjs:
     footer: Modul 08-006-0007
     pagetitle: "Modul 08-006-0007"
-    parallax-background-image: "hintergrund.png"
+    parallax-background-image: "hintergrund6.jpg"
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
     date: 2011-11-11
 resources: 
-  - "hintergrund.png"
+  - "hintergrund6.jpg"
 #csl: apa.csl
 #biblio-style: "apalike"
 ---
@@ -23,7 +23,140 @@ resources:
 # needs("excelbib", "xfun")
 # xlsx_to_bib(from_root("References.xlsx"))
 ```
+# Studiendesign und Stichprobe
 
+## Das Fundament der Evaluation
+
+- Warum planen wir die Stichprobe vorher?
+- **Vermeidung von Fehlern:**
+  - *Type I Error ($\alpha$):* Effekt sehen, wo keiner ist.
+  - *Type II Error ($\beta$):* Effekt übersehen, der existiert (mangelnde Power).
+- **Ressourceneffizienz:** Wie viele Probanden brauchen wir wirklich für signifikante Ergebnisse?
+
+::: notes
+- Evaluation fängt bei der Stichprobe an.
+- Im Reha-Sport oft kleine Gruppen -> Problem der statistischen Power.
+:::
+
+## Power
+
+- Faustregel für Höhe der Power ($1-\beta$):  **0.80**
+- Abhängig von:
+  1. Effektstärke ($d$, $f^2$, $r$) - Was erwarten wir?
+  2. Signifikanzniveau ($\alpha$) - Meist 0.05.
+  3. Stichprobengröße ($n$).
+
+
+
+::: notes
+- Faustregel: Je kleiner der erwartete Effekt (z.B. minimale Verhaltensänderung durch Flyer), desto größer muss $n$ sein.
+:::
+
+# Power-Analyse mit R
+
+## Verwendung des Pakets `pwr`
+
+```{r demonstration_pwr}
+#| echo: true
+#| eval: true
+
+# Installation: install.packages("pwr")
+library(pwr)
+
+# Beispiel: Wie viele Studienteilnehmer brauchen wir für einen 
+# mittleren Effekt (d = 0.5) im t-Test?
+pwr.t.test(d = 0.5, sig.level = 0.05, power = 0.8, 
+           type = "two.sample", alternative = "two.sided")
+
+```
+
+## Verwendung des Pakets `pwr`
+
+```{r demonstration_pwr_2}
+#| echo: true
+#| eval: true
+# Beispiel: Korrelation zwischen Selbstwirksamkeit und PA (r = 0.3)
+pwr.r.test(r = 0.3, sig.level = 0.05, power = 0.8)
+
+```
+
+# pwr.anova.test
+```{r demonstration_anova}
+#| echo: true
+#| eval: true
+
+## Exercise 8.1 P. 357 from Cohen (1988)
+pwr.anova.test(f=0.28,k=4,n=20,sig.level=0.05)
+
+
+```
+@Cohen1988
+
+## pwr.2p.test
+```{r demonstration_2p}
+#| echo: true
+#| eval: true
+
+## Exercise 6.1 p. 198 from Cohen (1988)
+pwr.2p.test(h=0.3,n=80,sig.level=0.05,alternative="greater")
+```
+## pwr.p.test
+```{r demonstration_ptest}
+#| echo: true
+#| eval: true
+#| 
+## Exercise 6.5 p. 203 from Cohen (1988)
+pwr.p.test(h=0.2,n=60,sig.level=0.05,alternative="two.sided")
+```
+## pwr.chisq.test
+```{r demonstration_chisq}
+#| echo: true
+#| eval: true
+
+## Exercise 7.3 p. 251
+pwr.chisq.test(w=0.346,df=(2-1)*(3-1),N=140,sig.level=0.01)
+```
+
+@Cohen1988
+
+
+# Qualitative Stichprobenplanung und mixed Methods
+
+## Qualitative Stichprobenplahnung
+- Ziel ist nicht Repräsentativität, sondern **Sättigung** (*Theoretical Saturation*).
+- **Methoden:**
+  - **Fokusgruppen:** Gruppendynamik nutzen, um Barrieren zu identifizieren (IM Schritt 1).
+  - **Leitfadeninterviews:** Tiefe Einblicke in individuelle Motive.
+- **Stichprobenwahl:** Bewusste Auswahl (*Purposive Sampling*) statt Zufall.
+
+::: notes
+Warum Fokusgruppen? Perfekt für IM Schritt 1 (Needs Assessment), um die Sprache der Zielgruppe zu lernen.
+:::
+
+## Mixed-Methods Design
+
+- Kombination aus quantitativen & qualitativen Daten.
+- **Beispiel für die Hausarbeit:**
+  - **Quantitativ:** Fragebogen zu PA (Pre-Post Messung).
+  - **Qualitativ:** Fokusgruppe nach der Intervention (*"Warum haben Sie das Training abgebrochen?"*).
+- Erhöht die Validität der Evaluation und erklärt das "Warum" hinter den Zahlen.
+
+::: notes
+Das ist die "Königsdisziplin" für die Evaluation. Quantitative Daten zeigen DASS es wirkt, qualitative Daten zeigen WIE/WARUM es wirkt.
+:::
+
+# Übung: Stichprobenplanung
+
+## Aufgabe
+
+- Skizzieren Sie für Ihr Gruppenprojekt:
+  1. Wer ist die **Zielgruppe**? (Einschlusskriterien)
+  2. Wie viele Personen benötigen Sie (grobe Schätzung via `pwr`)?
+  3. Welche **qualitativen Methoden** könnten Ihre Daten ergänzen?
+
+::: notes
+Studierende sollen kurz reflektieren: "Ist meine geplante Intervention bei 10 Leuten überhaupt statistisch testbar?"
+:::
 
 # Literaturverzeichnis
 

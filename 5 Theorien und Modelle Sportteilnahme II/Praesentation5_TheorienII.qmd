@@ -37,8 +37,6 @@ resources:
 
 # Literaturverzeichnis
 
-# Literaturverzeichnis
-
 
 ::: refs
 :::
