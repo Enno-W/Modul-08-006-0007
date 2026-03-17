@@ -1,0 +1,102 @@
+---
+title: ""
+author: "Enno Winkler"
+lang: de
+format: 
+  revealjs:
+    footer: Modul 08-006-0007
+    pagetitle: "Modul 08-006-0007"
+    parallax-background-image: "hintergrund4.jpg"
+    parallax-background-size: 4080px 3072px
+    parallax-background-horizontal: 200
+    parallax-background-vertical: 350
+    date: 2011-11-11
+resources: 
+  - "hintergrund4.jpg"
+#csl: apa.csl
+#biblio-style: "apalike"
+---
+
+```{r setup}
+# if (!requireNamespace("needs"   )) install.packages("needs")
+# if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
+# needs("excelbib", "xfun")
+# #xlsx_to_bib(from_root("References.xlsx"))
+```
+
+## Kultursensible Interventionen
+### Theoretische Grundlagen nach Lott (2010)
+
+* **Multikulturalismus**: Jedes menschliche Verhalten ist erlernt und tritt kontextabhängig in Erscheinung [@lott, S. 13].
+* **Das multikulturelle Selbst**: Jede Person gehört gleichzeitig unterschiedlichen Kulturen an und besitzt ein einzigartiges multikulturelles Selbst [@lott, S. 11-12].
+* **Kernmerkmale von Kultur**:
+    * Besteht aus geteilten Interpretationsmustern, Normen, Werten, Praktiken und Gewohnheiten [@lott, S. 13].
+    * Basiert auf gemeinsamen Erfahrungen und Anpassungen an soziale Realitäten [@lott, S. 24].
+    * Ist ein dynamischer Prozess ("work in progress"), der sich ständig verändert [@lott, S. 21].
+    * Vermittlung erfolgt sowohl explizit als auch implizit durch Sozialisation [@lott, S. 13].
+    * Beinhaltet Verhaltensvorschriften (*Prescriptions*) und Einschränkungen (*Constraints*) [@lott, S. 13].
+
+::: notes
+- Lott betont, dass wir nicht nur eine Kultur "haben", sondern ein Mosaik aus Identitäten sind.
+- Wichtig für den Sport: Kultur ist nicht statisch, sondern wird täglich durch Interaktion neu erschaffen.
+:::
+
+## Kognitive Prozesse & Kultur
+### Frame-Switching & Wahrnehmung
+
+* **Frame-Switching**: Individuen können zwischen verschiedenen kulturellen Interpretationsrahmen wechseln, je nach dominantem Reiz [@lott, S. 11].
+* **Interpretationsfilter**: Kultur bereitet uns darauf vor, Ereignissen Aufmerksamkeit zu schenken und ihnen Bedeutung zuzuschreiben [@lott, S. 13].
+* **Gegenseitige Konstitution**: Menschen schaffen kulturelle Prozesse, und kulturelle Prozesse schaffen Menschen [@lott, S. 24].
+
+::: notes
+- Frame-Switching erklärt, warum sich ein Sportler im Verein anders verhält als in der Familie.
+- Als Kursleitung müssen wir verstehen, welchen "Frame" unsere Intervention triggert.
+:::
+
+## Interkulturelle Trainings
+### Ansätze und Inhalte
+
+Interkulturelle Trainings lassen sich nach zwei Dimensionen klassifizieren:
+
+1. **Nach dem Inhalt**:
+    * **Kulturspezifisch**: Fokus auf Wissen über eine ganz bestimmte Zielkultur.
+    * **Kulturübergreifend**: Allgemeine Sensibilisierung für den kulturellen Einfluss.
+2. **Nach dem methodischen Ansatz**:
+    * **Didaktische Ansätze**: Fokus auf kognitive Wissensvermittlung.
+    * **Erfahrungsbasierte Ansätze**: Fokus auf emotionales Erleben und Verhalten.
+
+::: notes
+- Didaktisch = "Lernen über", Erfahrungsbasiert = "Erleben von".
+- Für Sporttherapeuten ist oft eine Mischung aus beidem am effektivsten.
+:::
+
+## Methoden interkultureller Trainings
+
+| Methode | Beschreibung |
+| :--- | :--- |
+| **Kulturspezifische Assimilators** | Konflikte einer Kultur mit Erklärungsoptionen. |
+| **Kulturübergreifende Assimilators** | Allgemeine Sensibilisierung durch diverse Fallbeispiele. |
+| **Cross-cultural dialogues** | Analyse von Kommunikation und Perspektivwechsel. |
+| **Simulationen** | Aktives Nachspielen interkultureller Begegnungen. |
+| **Selbstreflexion** | Analyse der eigenen kulturellen Prägung. |
+
+::: notes
+- "Assimilators" helfen, fremde Perspektiven als valide Interpretationen zu akzeptieren.
+:::
+
+## Ziele kultursensibler Gestaltung
+### Die drei Ebenen der Kompetenz
+
+1. **Kognitive Ebene**:
+    * Wissen über kulturelle Einflüsse und multiple Identitäten.
+2. **Affektive Ebene**:
+    * Steigerung von Respekt, Abbau von Vorurteilen und Ängsten.
+3. **Verhaltensebene**:
+    * Verbesserung sozialer Fähigkeiten und Konfliktlösung.
+
+::: notes
+- Ziel im Gesundheitssport: Eine Umgebung schaffen, in der sich alle "multikulturellen Selbste" sicher fühlen.
+:::
+
+::: refs
+:::

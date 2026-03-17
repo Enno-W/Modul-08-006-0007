@@ -1,0 +1,25 @@
+---
+title: ""
+author: "Enno Winkler"
+lang: de
+format: 
+  revealjs:
+    footer: Modul 08-006-0007
+    pagetitle: "Modul 08-006-0007"
+    parallax-background-image: "hintergrund4.jpg"
+    parallax-background-size: 4080px 3072px
+    parallax-background-horizontal: 200
+    parallax-background-vertical: 350
+    date: 2011-11-11
+resources: 
+  - "hintergrund4.jpg"
+#csl: apa.csl
+#biblio-style: "apalike"
+---
+
+```{r setup}
+# if (!requireNamespace("needs"   )) install.packages("needs")
+# if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
+# needs("excelbib", "xfun")
+# #xlsx_to_bib(from_root("References.xlsx"))
+```
