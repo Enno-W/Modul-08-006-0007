@@ -27,21 +27,34 @@ resources:
 
 # Einführung
 
- - Kurzvorstellung des Lehrgebiets Sportpsychologie
  - Organisation des Seminars
  - Erwartungen und Wünsche an den Kurs
  - Advance Organizer: Bewegungsangebote und Interventionen
  - Themen- und Gruppenfindung
 
-# Team
-
-
-# Your Thesis
-
-
 # Organisation des Seminars
 
-- PVL: Lehrprobe
+## Termine
+
+**Präsenztermine mit Saskia jeweils Freitag 9-17 Uhr**\
+*Gruppe A:*\
+08. Mai 2026\
+29. Mai 2026\	
+26. Juni 2026\
+
+*Gruppe B:*\
+22. Mai 2026\
+19. Juni 2026\
+03. Juli 2026\
+
+**Online-Termine jeweils Montag **
+*Gruppe A*: 7:15-8:45
+*Gruppe B*: 9:00-10:30
+Termine: Jeden Montag, mit Ausnahme des 25.5.
+
+## Lehrprobe und Hausarbeit
+- Erinnerungs-Emails
+- PVL: Lehrprobe 
 - PL: Hausarbeit 
 
 ## Lehrprobe
@@ -49,8 +62,12 @@ resources:
 - Themenliste auf Moodle (Themenvergabe heute)
 - Rollenspiel oder Übungsanleitung
 - Bezug zum Lehrmaterial, Zeit: mindestens 10 Minuten --> bestanden! 
+- Thematisch zeitversetzt um eine LV
 
 ## Hausarbeit
+
+- Vier Themen, angelehnt an die Themen in der Lehrprobe.
+-Planen einer Intervention nach dem Ansatz des Intervention Mapping.
 
 ## Literatur
 

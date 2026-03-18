@@ -5,19 +5,17 @@ editor: visual
 ---
 
 |  |  |  |
-|------------------|------------------------------------|------------------|
+|------------------------|------------------------|------------------------|
 | Datum | Thema | Lehrprobe Nr. |
 | 13.04.26 | 1 Einleitung, Vorstellung der Fallbeispiele Gruppenfindung |  |
-| 20.04.26 | 2 Messung und Definition sportlicher Aktivität - Methoden und Probleme | 1 |
-| 27.04.26 | 3 Psychometrische Fragebögen und Konstrukte | 2 |
-| 04.05.26 | 4 Forschungsethik und Datenschutz | 3 |
-| 11.05.26 | 5 Grundlagen Webbasierter Interventionsmethoden | 4 |
-| 18.05.26 | 6 Studiendesign und Stichprobe | 5 |
-| 01.06.26 | 7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems | 6 |
-| 08.06.26 | 8 Intervention Mapping II - Zielsetzung und Modell der Veränderung | 7 |
-| 15.06.26 | 9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen | 8 |
-| 22.06.26 | 10 Intervention Mapping IV - Materialentwicklung | 9 |
-| 29.06.26 | 11 Intervention Mapping V - Annahme und Umsetzung | 10 |
-| 06.07.26 | 12 Intervention Mapping VI - Evaluation und Dokumentation | 11 |
-| 13.07.26 | 13 | 12 |
-| 20.07.26 | 14 verbleibende Lehrproben, Kriterien der Hausarbeit, Peer-Feedback |  |
+| 20.04.26 | 2 Messung und Definition sportlicher Aktivität - Methoden und Probleme |  |
+| 27.04.26 | 3 Psychometrische Fragebögen und Konstrukte |  |
+| 04.05.26 | 4 Grundlagen kultursensibler Interventionen | 1 |
+| 11.05.26 | 5 Grundlagen Webbasierter Interventionsmethoden | 2 |
+| 18.05.26 | 6 Studiendesign und Stichprobe | 3 |
+| 01.06.26 | 7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems | 4 |
+| 08.06.26 | 8 Intervention Mapping II - Zielsetzung und Modell der Veränderung | 5 |
+| 15.06.26 | 9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen | 6 |
+| 22.06.26 | 10 Intervention Mapping IV - Materialentwicklung | 7 |
+| 29.06.26 | 11 Intervention Mapping V - Annahme und Umsetzung | 8 |
+| 06.07.26 | 12 Intervention Mapping VI - Evaluation und Dokumentation | 9 |

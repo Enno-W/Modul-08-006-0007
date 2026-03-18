@@ -97,6 +97,104 @@ Interkulturelle Trainings lassen sich nach zwei Dimensionen klassifizieren:
 ::: notes
 - Ziel im Gesundheitssport: Eine Umgebung schaffen, in der sich alle "multikulturellen Selbste" sicher fühlen.
 :::
+# Kulturelle Dimensionen nach Hofstede
+## Warum Kulturen unterschiedlich "ticken"
+
+Um Unterschiede in der Sportpraxis zu verstehen, helfen die Dimensionen von Geert Hofstede. Sie beschreiben die "mentale Software" einer Gesellschaft [@lott, S. 13].
+
+1. **Machtdistanz**: Wie wird mit Hierarchien umgegangen?
+2. **Individualismus vs. Kollektivismus**: Wer steht im Fokus – das "Ich" oder das "Wir"?
+3. **Maskulinität vs. Feminität**: Fokus auf Leistung/Wettbewerb vs. Lebensqualität/Kooperation.
+4. **Unsicherheitsvermeidung**: Wie viel Struktur und Regeln braucht eine Gruppe?
+
+::: notes
+- Diese Dimensionen sind keine Stereotype, sondern statistische Mittelwerte von Gesellschaften.
+- Im Sport erklären sie oft, warum manche Athleten Traineranweisungen blind befolgen und andere alles hinterfragen.
+:::
+
+## Individualismus vs. Kollektivismus
+### Die Rolle der Gruppe im Sport
+
+* **Individualismus (z. B. USA, Deutschland):**
+    * Fokus auf persönliche Ziele und Selbstverwirklichung.
+    * Motivation durch individuelles Feedback und Wettbewerb.
+* **Kollektivismus (z. B. viele asiatische & afrikanische Länder):**
+    * Fokus auf Harmonie und Loyalität zur Gruppe/Mannschaft.
+    * "Gesicht wahren": Kritik vor der versammelten Gruppe wird als extrem beschämend empfunden.
+
+::: notes
+- **Praxis-Tipp:** In kollektivistischen Kulturen ist Lob vor der Gruppe super, Kritik sollte aber immer unter vier Augen erfolgen.
+:::
+
+## Machtdistanz & Unsicherheit
+### Autorität im Training
+
+* **Hohe Machtdistanz:**
+    * Trainer:in ist eine unantastbare Autoritätsperson.
+    * Teilnehmende warten auf explizite Anweisungen und ergreifen selten Eigeninitiative.
+* **Hohe Unsicherheitsvermeidung:**
+    * Starke Präferenz für klare Trainingspläne, Pünktlichkeit und bekannte Abläufe.
+    * Neue, experimentelle Übungen lösen eher Stress als Neugier aus.
+
+::: notes
+- Wenn Teilnehmende aus Kulturen mit hoher Machtdistanz nicht mitmachen, liegt das oft nicht an Faulheit, sondern an der Erwartung, dass der Trainer jeden Schritt einzeln diktiert.
+:::
+
+## Anwendung: Kultursensibles Coaching
+### Checkliste für die Praxis
+
+| Dimension | Strategie für die Sportstunde |
+| :--- | :--- |
+| **Kollektivismus** | Team-Ziele betonen; Wir-Gefühl stärken; Scham vermeiden. |
+| **Hohe Machtdistanz** | Klare Führung zeigen; Kompetenz explizit demonstrieren. |
+| **Geringe Machtdistanz** | Teilnehmende in die Übungsauswahl einbeziehen (Partizipation). |
+| **Hohe Unsicherheitsvermeidung** | Strukturierte Abläufe; schriftliche Pläne; klare Regeln. |
+
+::: notes
+- Denkt an das **Frame-Switching** [@lott]: Ein Athlet kann im Sportverein die "deutsche" geringe Machtdistanz leben, zu Hause aber strikt hierarchisch agieren.
+:::
+
+# Praxis-Challenge: Sport im Ankunftskontext
+## Die Situation
+
+Sie koordinieren ab sofort die Bewegungsförderung in einer **Erstaufnahmeeinrichtung für Geflüchtete**. Die Bewohner kommen aus unterschiedlichsten Kulturkreisen (v.a. Syrien, Afghanistan, Ukraine, Somalia), leben auf engem Raum zusammen und sind in unterschiedlichem Ausmaß traumatisiert.
+Entwickeln Sie ein grobes Konzept für die ersten zwei Wochen. Berücksichtigen Sie dabei:
+
+1. **Angebotsplanung:** Welche Sportarten/Aktivitäten wählen Sie aus?
+2. **Gender-Setting:** Wie gehen Sie mit der Geschlechtertrennung und Schamgrenzen um?
+3. **Kommunikation:** Wie überwinden Sie Sprachbarrieren ohne Dolmetscher?
+4. **Inklusion & Trauma:** Wie schaffen Sie einen "Safe Space" für Menschen mit Fluchterfahrungen?
+
+**Ziel:** Präsentation Ihres Konzepts (ca. 10 Min., bei 2 Personen 15 min) mit anschließender kollegialer Beratung (bzw. Diskussion mit Mitstudierenden).
+
+::: notes
+**Theoretischer Background für die Diskussion:**
+
+* **Akkulturation durch Sport (Gieß-Stüber):** Sport ist hier kein Assimilationsinstrument ("Ihr müsst jetzt deutsch werden"), sondern ein Raum für "Reflexive Interkulturalität". Die Teilnehmer bringen ihre Bewegungskultur mit, während der Sportverein als Brücke zur Gesellschaft dient.
+* **Frame-Switching (Lott, 2010):** Der Sportplatz muss als "Sicherer Frame" etabliert werden, in dem andere Regeln gelten als im stressigen Heim-Alltag [@lott, S. 11].
+* **Hofstede-Dimensionen:**
+    * *Machtdistanz:* Trainer:innen sollten klare Führung bieten, da "Laissez-faire" oft als Inkompetenz oder Desinteresse missverstanden wird.
+    * *Kollektivismus:* Fokus auf Team-Erfolge statt Einzelkritik, um "Gesichtsverlust" zu vermeiden.
+* **Traumasensible Tipps:**
+    * Vermeidung von Trillerpfeifen (Trigger für Sirenen/Beschuss).
+    * Keine Spiele mit "Einkesseln" oder Verfolgung (löst Panik aus).
+    * Rhythmische, repetitive Bewegungen (Laufen, Tanzen, Trommeln) wirken regulierend auf das Nervensystem.
+* **Gender:**
+    * Frauenspezifische Angebote sind oft essenziell für die Teilnahme (Sichtschutz!).
+    * Gieß-Stüber betont, dass Schamgrenzen ernst genommen werden müssen, um Vertrauen aufzubauen.
+:::
+
+## Kollegiale Beratung
+### Diskussionsfragen für die Gruppe
+
+* **Fidelity vs. Adaption:** Müssen wir die Regeln des Sports ändern, damit sie kulturell passen?
+* **Ressourcen:** Wie nutzen wir die vorhandenen Kompetenzen der Geflüchteten (z.B. als Co-Trainer)?
+* **Grenzen:** Wo endet Sporttherapie und wo beginnt die Notwendigkeit für psychologische Fachberatung?
+
+::: notes
+- Hier kannst du das SCM-Modell (Fiske et al.) einbringen: Werden Geflüchtete oft nur auf der "Wärme"-Dimension (Mitleid) wahrgenommen, statt ihre "Kompetenz" (Stärken) zu sehen?
+- Ziel der Beratung: Den Studierenden helfen, von der "Defizit-Perspektive" (was fehlt den Leuten?) zur "Ressourcen-Perspektive" (was bringen sie mit?) zu wechseln.
+:::
 
 ::: refs
 :::
