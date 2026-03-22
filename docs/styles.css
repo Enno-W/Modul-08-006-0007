@@ -25,8 +25,8 @@ colour: black;
 }
 
 .reveal {
-  color: black;
-  font-size: 2em; /* Scales all text within the presentation */
+  color:black;
+  font-size: 1.7em; /* Scales all text within the presentation */
 }
 
 .citation {

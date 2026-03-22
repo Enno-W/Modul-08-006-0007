@@ -20,181 +20,209 @@ resources:
 ```{r setup}
 # if (!requireNamespace("needs"   )) install.packages("needs")
 # if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
-# needs("excelbib", "xfun")
-# #xlsx_to_bib(from_root("References.xlsx"))
+ needs("excelbib", "xfun")
+xlsx_to_bib(from_root("References.xlsx"))
 ```
 
-## Kultursensible Interventionen
-### Theoretische Grundlagen nach Lott (2010)
+# Video
 
-* **Multikulturalismus**: Jedes menschliche Verhalten ist erlernt und tritt kontextabhängig in Erscheinung [@lott, S. 13].
-* **Das multikulturelle Selbst**: Jede Person gehört gleichzeitig unterschiedlichen Kulturen an und besitzt ein einzigartiges multikulturelles Selbst [@lott, S. 11-12].
-* **Kernmerkmale von Kultur**:
-    * Besteht aus geteilten Interpretationsmustern, Normen, Werten, Praktiken und Gewohnheiten [@lott, S. 13].
-    * Basiert auf gemeinsamen Erfahrungen und Anpassungen an soziale Realitäten [@lott, S. 24].
-    * Ist ein dynamischer Prozess ("work in progress"), der sich ständig verändert [@lott, S. 21].
-    * Vermittlung erfolgt sowohl explizit als auch implizit durch Sozialisation [@lott, S. 13].
-    * Beinhaltet Verhaltensvorschriften (*Prescriptions*) und Einschränkungen (*Constraints*) [@lott, S. 13].
+Schaut die [Videos 1](https://ennosgermancourse-my.sharepoint.com/:v:/r/personal/enno_winkler_spb-ew_de/Documents/Lehre%20%20So%20Se2026/Video_Park.mp4?csf=1&web=1&e=oNnFXB "Qigong-Video") (aufgenommen 7:00 Uhr in einem Chinesischen Park), [2](https://ennosgermancourse-my.sharepoint.com/:v:/r/personal/enno_winkler_spb-ew_de/Documents/Lehre%20%20So%20Se2026/Video_Kindergarten.mp4?csf=1&web=1&e=dTPcqN "Kindergarten Video") und 3.
+
+Plenumsdiskussion: Welche Gemeinsamkeiten und Unterschiede zu hiesigen Formen der sportlichen Aktivitäten fallen euch auf? Was glaubt ihr? Warum ist das so?
+
+## Kultursensible Interventionen
+
+### Theoretische Grundlagen nach Lott (2009)
+
+-   **Multikulturalismus**: Jedes menschliche Verhalten ist erlernt und tritt kontextabhängig in Erscheinung [@lott, S. 13].
+-   **Das multikulturelle Selbst**: Jede Person gehört gleichzeitig unterschiedlichen Kulturen an und besitzt ein einzigartiges multikulturelles Selbst [@lott, S. 2-3].
+-   **Kernmerkmale von Kultur**:
+    -   Besteht aus geteilten Interpretationsmustern, Normen, Werten, Praktiken und Gewohnheiten [@lott, S. 13].
+    -   Basiert auf gemeinsamen Erfahrungen und Anpassungen an soziale Realitäten [@lott, S. 24].
+    -   Ist ein dynamischer Prozess ("work in progress"), der sich ständig verändert [@lott, S. 13].
+    -   Vermittlung erfolgt sowohl explizit als auch implizit durch Sozialisation [@lott, S. 13].
+    -   Beinhaltet Verhaltensvorschriften (*Prescriptions*) und Einschränkungen (*Constraints*) [@lott, S. 12].
 
 ::: notes
-- Lott betont, dass wir nicht nur eine Kultur "haben", sondern ein Mosaik aus Identitäten sind.
-- Wichtig für den Sport: Kultur ist nicht statisch, sondern wird täglich durch Interaktion neu erschaffen.
+-   Lott betont, dass wir nicht nur eine Kultur "haben", sondern ein Mosaik aus Identitäten sind.
+-   Wichtig für den Sport: Kultur ist nicht statisch, sondern wird täglich durch Interaktion neu erschaffen.
 :::
 
 ## Kognitive Prozesse & Kultur
+
 ### Frame-Switching & Wahrnehmung
 
-* **Frame-Switching**: Individuen können zwischen verschiedenen kulturellen Interpretationsrahmen wechseln, je nach dominantem Reiz [@lott, S. 11].
-* **Interpretationsfilter**: Kultur bereitet uns darauf vor, Ereignissen Aufmerksamkeit zu schenken und ihnen Bedeutung zuzuschreiben [@lott, S. 13].
-* **Gegenseitige Konstitution**: Menschen schaffen kulturelle Prozesse, und kulturelle Prozesse schaffen Menschen [@lott, S. 24].
+-   **Frame-Switching**: Individuen können zwischen verschiedenen kulturellen Interpretationsrahmen wechseln, je nach dominantem Reiz [@lott, S. 11].
+-   **Interpretationsfilter**: Kultur bereitet uns darauf vor, Ereignissen Aufmerksamkeit zu schenken und ihnen Bedeutung zuzuschreiben [@lott, S. 13].
+-   **Gegenseitige Konstitution**: Menschen schaffen kulturelle Prozesse, und kulturelle Prozesse schaffen Menschen [@lott, S. 24].
 
 ::: notes
-- Frame-Switching erklärt, warum sich ein Sportler im Verein anders verhält als in der Familie.
-- Als Kursleitung müssen wir verstehen, welchen "Frame" unsere Intervention triggert.
+-   Frame-Switching erklärt, warum sich ein Sportler im Verein anders verhält als in der Familie.
+-   Als Kursleitung müssen wir verstehen, welchen "Frame" unsere Intervention triggert.
 :::
 
 ## Interkulturelle Trainings
+
 ### Ansätze und Inhalte
 
-Interkulturelle Trainings lassen sich nach zwei Dimensionen klassifizieren:
+Interkulturelle Trainings lassen sich nach zwei Dimensionen klassifizieren [@Mazziotta2016, S. 13-14]:
 
-1. **Nach dem Inhalt**:
-    * **Kulturspezifisch**: Fokus auf Wissen über eine ganz bestimmte Zielkultur.
-    * **Kulturübergreifend**: Allgemeine Sensibilisierung für den kulturellen Einfluss.
-2. **Nach dem methodischen Ansatz**:
-    * **Didaktische Ansätze**: Fokus auf kognitive Wissensvermittlung.
-    * **Erfahrungsbasierte Ansätze**: Fokus auf emotionales Erleben und Verhalten.
+1.  **Nach dem Inhalt**:
+    -   **Kulturspezifisch**: Fokus auf Wissen über eine ganz bestimmte Zielkultur [@Kinast2010, S. 166].
+    -   **Kulturübergreifend**: Allgemeine Sensibilisierung für den kulturellen Einfluss [@Mazziotta2016, S. 14].
+2.  **Nach dem methodischen Ansatz**:
+    -   **Didaktische Ansätze**: Fokus auf kognitive Wissensvermittlung (z. B. Vorträge) [@Kinast2010, S. 167].
+    -   **Erfahrungsbasierte Ansätze**: Fokus auf emotionales Erleben und Verhalten (z. B. Rollenspiele) [@Mazziotta2016, S. 15].
 
 ::: notes
-- Didaktisch = "Lernen über", Erfahrungsbasiert = "Erleben von".
-- Für Sporttherapeuten ist oft eine Mischung aus beidem am effektivsten.
+-   Didaktisch = "Lernen über", Erfahrungsbasiert = "Erleben von".
+-   Für Sporttherapeuten ist laut Kinast [-@Kinast2010] oft eine Mischung aus beidem am effektivsten, um Handlungssicherheit zu gewinnen.
 :::
 
-## Methoden interkultureller Trainings
+## Methoden interkultureller Trainings 
 
 | Methode | Beschreibung |
-| :--- | :--- |
-| **Kulturspezifische Assimilators** | Konflikte einer Kultur mit Erklärungsoptionen. |
-| **Kulturübergreifende Assimilators** | Allgemeine Sensibilisierung durch diverse Fallbeispiele. |
-| **Cross-cultural dialogues** | Analyse von Kommunikation und Perspektivwechsel. |
-| **Simulationen** | Aktives Nachspielen interkultureller Begegnungen. |
-| **Selbstreflexion** | Analyse der eigenen kulturellen Prägung. |
+|:----------------|:----------------|
+| **Kulturspezifische Assimilators** | Konflikte einer Kultur mit Erklärungsoptionen. | 
+| **Kulturübergreifende Assimilators** | Allgemeine Sensibilisierung durch diverse Fallbeispiele. | 
+| **Cross-cultural dialogues** | Analyse von Kommunikation und Perspektivwechsel. 
+| **Simulationen** | Aktives Nachspielen interkultureller Begegnungen. 
+| **Selbstreflexion** | Analyse der eigenen kulturellen Prägung.
+[@Bolten2006]
 
 ::: notes
-- "Assimilators" helfen, fremde Perspektiven als valide Interpretationen zu akzeptieren.
+-   "Assimilators" (Kultur-Assimilator) helfen dabei, fremde Perspektiven als valide Interpretationen zu akzeptieren [@Kinast2010].
+Hier auf das .Jpg im Ordner bezug nehmen. 
 :::
 
 ## Ziele kultursensibler Gestaltung
+
 ### Die drei Ebenen der Kompetenz
 
-1. **Kognitive Ebene**:
-    * Wissen über kulturelle Einflüsse und multiple Identitäten.
-2. **Affektive Ebene**:
-    * Steigerung von Respekt, Abbau von Vorurteilen und Ängsten.
-3. **Verhaltensebene**:
-    * Verbesserung sozialer Fähigkeiten und Konfliktlösung.
+Die Entwicklung interkultureller Kompetenz verfolgt Ziele auf drei psychologischen Ebenen [@Mazziotta2016, S. 24; @Kinast2010, S. 161]:
+
+1.  **Kognitive Ebene**:
+    -   Wissen über kulturelle Einflüsse, Normen und multiple Identitäten.
+2.  **Affektive Ebene**:
+    -   Steigerung von Respekt und Empathie; Abbau von Vorurteilen, Ängsten und Unsicherheiten.
+3.  **Verhaltensebene**:
+    -   Verbesserung der kommunikativen und sozialen Fähigkeiten sowie der Konfliktlösungsstrategien.
 
 ::: notes
-- Ziel im Gesundheitssport: Eine Umgebung schaffen, in der sich alle "multikulturellen Selbste" sicher fühlen.
+-   Ziel im Gesundheitssport: Eine Umgebung schaffen, in der sich alle "multikulturellen Selbste" (Lott) sicher fühlen.
+-   Kinast [-@Kinast2010] betont hierbei besonders die "Ambiguitätstoleranz" – also die Fähigkeit, Unsicherheiten in interkulturellen Situationen auszuhalten.
 :::
 # Kulturelle Dimensionen nach Hofstede
+
 ## Warum Kulturen unterschiedlich "ticken"
 
-Um Unterschiede in der Sportpraxis zu verstehen, helfen die Dimensionen von Geert Hofstede. Sie beschreiben die "mentale Software" einer Gesellschaft [@lott, S. 13].
+Dimensionen von Geert Hofstede [@Hofstede1980;@Hofstede2001] 
 
-1. **Machtdistanz**: Wie wird mit Hierarchien umgegangen?
-2. **Individualismus vs. Kollektivismus**: Wer steht im Fokus – das "Ich" oder das "Wir"?
-3. **Maskulinität vs. Feminität**: Fokus auf Leistung/Wettbewerb vs. Lebensqualität/Kooperation.
-4. **Unsicherheitsvermeidung**: Wie viel Struktur und Regeln braucht eine Gruppe?
+1.  **Machtdistanz**: Wie wird mit Hierarchien umgegangen?
+2.  **Individualismus vs. Kollektivismus**: Wer steht im Fokus – das "Ich" oder das "Wir"?
+3.  **Maskulinität vs. Feminität**: Fokus auf Leistung/Wettbewerb vs. Lebensqualität/Kooperation.
+4.  **Unsicherheitsvermeidung**: Wie viel Struktur und Regeln braucht eine Gruppe?
+5.  **Langzeitorientierung**: Berücksichtigung von langfristigen Auswirkungen
 
 ::: notes
-- Diese Dimensionen sind keine Stereotype, sondern statistische Mittelwerte von Gesellschaften.
-- Im Sport erklären sie oft, warum manche Athleten Traineranweisungen blind befolgen und andere alles hinterfragen.
+-   Diese Dimensionen sind keine Stereotype, sondern statistische Mittelwerte von Gesellschaften.
+-   Im Sport erklären sie oft, warum manche Athleten Traineranweisungen blind befolgen und andere alles hinterfragen.
 :::
 
 ## Individualismus vs. Kollektivismus
+
 ### Die Rolle der Gruppe im Sport
 
-* **Individualismus (z. B. USA, Deutschland):**
-    * Fokus auf persönliche Ziele und Selbstverwirklichung.
-    * Motivation durch individuelles Feedback und Wettbewerb.
-* **Kollektivismus (z. B. viele asiatische & afrikanische Länder):**
-    * Fokus auf Harmonie und Loyalität zur Gruppe/Mannschaft.
-    * "Gesicht wahren": Kritik vor der versammelten Gruppe wird als extrem beschämend empfunden.
-
-::: notes
-- **Praxis-Tipp:** In kollektivistischen Kulturen ist Lob vor der Gruppe super, Kritik sollte aber immer unter vier Augen erfolgen.
-:::
-
+-   **Individualismus (z. B. USA, Deutschland):**
+    -   Fokus auf persönliche Ziele und Selbstverwirklichung.
+    -   Motivation durch individuelles Feedback und Wettbewerb.
+-   **Kollektivismus (z. B. viele asiatische & afrikanische Länder):**
+    -   Fokus auf Harmonie und Loyalität zur Gruppe/Mannschaft.
+    -   "Gesicht wahren": Kritik vor der versammelten Gruppe wird als extrem beschämend empfunden.
+    
 ## Machtdistanz & Unsicherheit
+
 ### Autorität im Training
 
-* **Hohe Machtdistanz:**
-    * Trainer:in ist eine unantastbare Autoritätsperson.
-    * Teilnehmende warten auf explizite Anweisungen und ergreifen selten Eigeninitiative.
-* **Hohe Unsicherheitsvermeidung:**
-    * Starke Präferenz für klare Trainingspläne, Pünktlichkeit und bekannte Abläufe.
-    * Neue, experimentelle Übungen lösen eher Stress als Neugier aus.
+-   **Hohe Machtdistanz:**
+    -   Trainer:in ist eine unantastbare Autoritätsperson.
+    -   Teilnehmende warten auf explizite Anweisungen und ergreifen selten Eigeninitiative.
+-   **Hohe Unsicherheitsvermeidung:**
+    -   Starke Präferenz für klare Trainingspläne, Pünktlichkeit und bekannte Abläufe.
+    -   Neue, experimentelle Übungen lösen eher Stress als Neugier aus.
 
 ::: notes
-- Wenn Teilnehmende aus Kulturen mit hoher Machtdistanz nicht mitmachen, liegt das oft nicht an Faulheit, sondern an der Erwartung, dass der Trainer jeden Schritt einzeln diktiert.
+-   Wenn Teilnehmende aus Kulturen mit hoher Machtdistanz nicht mitmachen, liegt das oft nicht an Faulheit, sondern an der Erwartung, dass der Trainer jeden Schritt einzeln diktiert.
+:::
+
+
+::: notes
+-   **Praxis-Tipp:** In kollektivistischen Kulturen ist Lob vor der Gruppe super, Kritik sollte aber immer unter vier Augen erfolgen.
+:::
+
+## Kritik am Modell
+
+- nur Individualismus und Langzeitorientierung robust als eigenständige Dimensionen belegbar
+- Vorschlag von @Minkov2017: Zweidimensionales Modell mit IDV-COLL und Flexibilität vs. Monumentalismus (FLX-MON)
+
+::: notes
+stabiles vs. anpassungsfähiges selbst
 :::
 
 ## Anwendung: Kultursensibles Coaching
+
 ### Checkliste für die Praxis
 
-| Dimension | Strategie für die Sportstunde |
-| :--- | :--- |
-| **Kollektivismus** | Team-Ziele betonen; Wir-Gefühl stärken; Scham vermeiden. |
-| **Hohe Machtdistanz** | Klare Führung zeigen; Kompetenz explizit demonstrieren. |
-| **Geringe Machtdistanz** | Teilnehmende in die Übungsauswahl einbeziehen (Partizipation). |
-| **Hohe Unsicherheitsvermeidung** | Strukturierte Abläufe; schriftliche Pläne; klare Regeln. |
+Gruppenarbeit: Wie gelingt kultursensibles Coaching? Erstellt eine Liste mit Stichpunkten.
 
 ::: notes
-- Denkt an das **Frame-Switching** [@lott]: Ein Athlet kann im Sportverein die "deutsche" geringe Machtdistanz leben, zu Hause aber strikt hierarchisch agieren.
+-   Denkt an das **Frame-Switching** [@lott]: Ein Athlet kann im Sportverein die "deutsche" geringe Machtdistanz leben, zu Hause aber strikt hierarchisch agieren.
 :::
 
-# Praxis-Challenge: Sport im Ankunftskontext
+# Übung: Sport im Ankunftskontext
+
 ## Die Situation
 
-Sie koordinieren ab sofort die Bewegungsförderung in einer **Erstaufnahmeeinrichtung für Geflüchtete**. Die Bewohner kommen aus unterschiedlichsten Kulturkreisen (v.a. Syrien, Afghanistan, Ukraine, Somalia), leben auf engem Raum zusammen und sind in unterschiedlichem Ausmaß traumatisiert.
-Entwickeln Sie ein grobes Konzept für die ersten zwei Wochen. Berücksichtigen Sie dabei:
+Sie koordinieren ab sofort die Bewegungsförderung in einer **Erstaufnahmeeinrichtung für Geflüchtete**. Die Bewohner kommen aus unterschiedlichsten Kulturkreisen (v.a. Syrien, Afghanistan, Ukraine, Somalia), leben auf engem Raum zusammen und sind in unterschiedlichem Ausmaß traumatisiert. Entwickeln Sie ein grobes Konzept für die ersten zwei Wochen. Berücksichtigen Sie dabei:
 
-1. **Angebotsplanung:** Welche Sportarten/Aktivitäten wählen Sie aus?
-2. **Gender-Setting:** Wie gehen Sie mit der Geschlechtertrennung und Schamgrenzen um?
-3. **Kommunikation:** Wie überwinden Sie Sprachbarrieren ohne Dolmetscher?
-4. **Inklusion & Trauma:** Wie schaffen Sie einen "Safe Space" für Menschen mit Fluchterfahrungen?
+1.  **Angebotsplanung:** Welche Sportarten/Aktivitäten wählen Sie aus?
+2.  **Gender-Setting:** Wie gehen Sie mit der Geschlechtertrennung und Schamgrenzen um?
+3.  **Kommunikation:** Wie überwinden Sie Sprachbarrieren ohne Dolmetscher?
+4.  **Inklusion & Trauma:** Wie schaffen Sie einen "Safe Space" für Menschen mit Fluchterfahrungen?
 
 **Ziel:** Präsentation Ihres Konzepts (ca. 10 Min., bei 2 Personen 15 min) mit anschließender kollegialer Beratung (bzw. Diskussion mit Mitstudierenden).
 
 ::: notes
 **Theoretischer Background für die Diskussion:**
-
-* **Akkulturation durch Sport (Gieß-Stüber):** Sport ist hier kein Assimilationsinstrument ("Ihr müsst jetzt deutsch werden"), sondern ein Raum für "Reflexive Interkulturalität". Die Teilnehmer bringen ihre Bewegungskultur mit, während der Sportverein als Brücke zur Gesellschaft dient.
-* **Frame-Switching (Lott, 2010):** Der Sportplatz muss als "Sicherer Frame" etabliert werden, in dem andere Regeln gelten als im stressigen Heim-Alltag [@lott, S. 11].
-* **Hofstede-Dimensionen:**
-    * *Machtdistanz:* Trainer:innen sollten klare Führung bieten, da "Laissez-faire" oft als Inkompetenz oder Desinteresse missverstanden wird.
-    * *Kollektivismus:* Fokus auf Team-Erfolge statt Einzelkritik, um "Gesichtsverlust" zu vermeiden.
-* **Traumasensible Tipps:**
-    * Vermeidung von Trillerpfeifen (Trigger für Sirenen/Beschuss).
-    * Keine Spiele mit "Einkesseln" oder Verfolgung (löst Panik aus).
-    * Rhythmische, repetitive Bewegungen (Laufen, Tanzen, Trommeln) wirken regulierend auf das Nervensystem.
-* **Gender:**
-    * Frauenspezifische Angebote sind oft essenziell für die Teilnahme (Sichtschutz!).
-    * Gieß-Stüber betont, dass Schamgrenzen ernst genommen werden müssen, um Vertrauen aufzubauen.
+-   **Akkulturation durch Sport (Gieß-Stüber):** Sport ist hier kein Assimilationsinstrument ("Ihr müsst jetzt deutsch werden"), sondern ein Raum für "Reflexive Interkulturalität". Die Teilnehmer bringen ihre Bewegungskultur mit, während der Sportverein als Brücke zur Gesellschaft dient.
+-   **Frame-Switching (Lott, 2010):** Der Sportplatz muss als "Sicherer Frame" etabliert werden, in dem andere Regeln gelten als im stressigen Heim-Alltag [@lott, S. 11].
+-   **Hofstede-Dimensionen:**
+    -   *Machtdistanz:* Trainer:innen sollten klare Führung bieten, da "Laissez-faire" oft als Inkompetenz oder Desinteresse missverstanden wird.
+    -   *Kollektivismus:* Fokus auf Team-Erfolge statt Einzelkritik, um "Gesichtsverlust" zu vermeiden.
+-   **Traumasensible Tipps:**
+    -   Vermeidung von Trillerpfeifen (Trigger für Sirenen/Beschuss).
+    -   Keine Spiele mit "Einkesseln" oder Verfolgung (löst Panik aus).
+    -   Rhythmische, repetitive Bewegungen (Laufen, Tanzen, Trommeln) wirken regulierend auf das Nervensystem.
+-   **Gender:**
+    -   Frauenspezifische Angebote sind oft essenziell für die Teilnahme (Sichtschutz!).
+    -   Gieß-Stüber betont, dass Schamgrenzen ernst genommen werden müssen, um Vertrauen aufzubauen.
 :::
+
 
 ## Kollegiale Beratung
+
 ### Diskussionsfragen für die Gruppe
 
-* **Fidelity vs. Adaption:** Müssen wir die Regeln des Sports ändern, damit sie kulturell passen?
-* **Ressourcen:** Wie nutzen wir die vorhandenen Kompetenzen der Geflüchteten (z.B. als Co-Trainer)?
-* **Grenzen:** Wo endet Sporttherapie und wo beginnt die Notwendigkeit für psychologische Fachberatung?
+-   **Fidelity vs. Adaption:** Müssen wir die Regeln des Sports ändern, damit sie kulturell passen?
+-   **Ressourcen:** Wie nutzen wir die vorhandenen Kompetenzen der Geflüchteten (z.B. als Co-Trainer)?
+-   **Grenzen:** Wo endet Sporttherapie und wo beginnt die Notwendigkeit für psychologische Fachberatung?
 
 ::: notes
-- Hier kannst du das SCM-Modell (Fiske et al.) einbringen: Werden Geflüchtete oft nur auf der "Wärme"-Dimension (Mitleid) wahrgenommen, statt ihre "Kompetenz" (Stärken) zu sehen?
-- Ziel der Beratung: Den Studierenden helfen, von der "Defizit-Perspektive" (was fehlt den Leuten?) zur "Ressourcen-Perspektive" (was bringen sie mit?) zu wechseln.
+-   Hier kannst du das SCM-Modell (Fiske et al.) einbringen: Werden Geflüchtete oft nur auf der "Wärme"-Dimension (Mitleid) wahrgenommen, statt ihre "Kompetenz" (Stärken) zu sehen?
+-   Ziel der Beratung: Den Studierenden helfen, von der "Defizit-Perspektive" (was fehlt den Leuten?) zur "Ressourcen-Perspektive" (was bringen sie mit?) zu wechseln.
 :::
+
+# Quellen
 
 ::: refs
 :::

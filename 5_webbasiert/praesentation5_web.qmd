@@ -16,6 +16,16 @@ resources:
 #csl: apa.csl
 #biblio-style: "apalike"
 ---
+## typst
+## Webseitenerstellung mit Quarto
+## Online-Coaching: Tipps
+
+- keine teure Kamera
+- Ansteckmikro oder Headset gegen Umgebungsgeräusche
+- Safe fail oder Failsafe
+- Don't touch a running system
+- Ausleuchtung
+- OBS Studio
 
 ```{r setup}
 # if (!requireNamespace("needs"   )) install.packages("needs")
