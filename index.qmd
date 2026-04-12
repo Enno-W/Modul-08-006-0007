@@ -1,26 +1,80 @@
 ---
-title: "Präsentationsfolien"
+title: "Präsentationsfolien und online-Termine"
 format: html
 editor: visual
 ---
 
-# Präsentationsübersicht
-
-### Vorlesungstermine
-# Präsentationsübersicht
+Willkommen auf der Kursseite. Hier finden Sie alle Präsentationen und Materialien für das Sommersemester 2026.
 
 ### Vorlesungstermine
 
-1. [Einleitung & Fallbeispiele](1%20Einleitung,%20Vorstellung%20der%20Fallbeispiele,%20Gruppenfindung/Praesentation1_Einleitung.qmd)
-2. [Messung und Definition sportlicher Aktivität](2_messung/praesentation2_messung.qmd)
-3. [Psychometrische Fragebögen](3%20Psychometrische%20Fragebögen%20und%20Konstrukte/Praesentation3_Frageboegen.qmd)
-4. [Kultursensible Interventionen](4_kultursensibel/praesentation4_kultur.qmd)
-5. [Webbasierte Interventionen](5_webbasiert/praesentation5_web.qmd)
-6. [Studiendesign & Stichprobe](6%20Studiendesign%20und%20Stichprobe/Praesentation6_Studiendesign.qmd)
-7. [IM I: Bedarfsanalyse](7%20Intervention%20Mapping%20I%20-%20Bedarfsanalyse%20und%20logisches%20Modell%20des%20Problems/Praesentation7_Bedarfsanalyse.qmd)
-8. [IM II: Zielsetzung](8%20Intervention%20Mapping%20II%20-%20Zielsetzung%20und%20Modell%20der%20Veränderung/Praesentation8_Zielsetzung.qmd)
-9. [IM III: Methodenwahl](9%20Intervention%20Mapping%20III%20-%20Auswahl%20von%20Methoden%20und%20Praktischen%20Anwendungen/Praesentation9_Methoden.qmd)
+Jeweils Montag
+
+13.04.26
+
+20.04.26
+
+27.04.26
+
+04.05.26
+
+11.05.26
+
+18.05.26
+
+01.06.26
+
+08.06.26
+
+15.06.26
+
+22.06.26
+
+29.06.26
+
+06.07.26
+
+## Kursinhalte
+
+### Grundlagen
+
+1.  [Einleitung & Fallbeispiele](1%20Einleitung,%20Vorstellung%20der%20Fallbeispiele,%20Gruppenfindung/Praesentation1_Einleitung.qmd)
+2.  [Messung und Definition sportlicher Aktivität](2_messung/praesentation2_messung.qmd)
+3.  [Psychometrische Fragebögen](3%20Psychometrische%20Fragebögen%20und%20Konstrukte/Praesentation3_Frageboegen.qmd)
+
+### Spezielle Anwendungsfälle
+
+4.  [Kultursensible Interventionen](4_kultursensibel/praesentation4_kultur.qmd)
+5.  [Webbasierte Interventionen](5_webbasiert/praesentation5_web.qmd)
+
+### Methoden & Design
+
+6.  [Studiendesign & Stichprobe](6%20Studiendesign%20und%20Stichprobe/Praesentation6_Studiendesign.qmd)
+
+### Intervention Mapping (IM)
+
+7.  [IM I: Bedarfsanalyse](7%20Intervention%20Mapping%20I%20-%20Bedarfsanalyse%20und%20logisches%20Modell%20des%20Problems/Praesentation7_Bedarfsanalyse.qmd)
+8.  [IM II: Zielsetzung](8%20Intervention%20Mapping%20II%20-%20Zielsetzung%20und%20Modell%20der%20Veränderung/Praesentation8_Zielsetzung.qmd)
+9.  [IM III: Methodenwahl](9%20Intervention%20Mapping%20III%20-%20Auswahl%20von%20Methoden%20und%20Praktischen%20Anwendungen/Praesentation9_Methoden.qmd)
+10. [IM IV: Materialentwicklung](10%20Intervention%20Mapping%20IV%20-%20Materialentwicklung/Praesentation10_Materialentwicklung.qmd)
 11. [IM V: Umsetzung](11%20Intervention%20Mapping%20V%20-%20Annahme%20und%20Umsetzung/Praesentation11_Annahme.qmd)
 12. [IM VI: Evaluation](12%20Intervention%20Mapping%20VI%20-%20Evaluation%20und%20Dokumentation/Praesentation12_Eval.qmd)
-13. [Forschungsethik](13%20Forschungsethik%20und%20Datenschutz/Praesentation13_Ethik.qmd)
-14. [Lehrproben & Hausarbeit](14%20verbleibende%20Lehrproben,%20Kriterien%20der%20Hausarbeit,%20Peer-Feedback/Praesentation14_Abschluss_APA.qmd)
+
+### Ressourcen
+
+- [Stichwortliste](Stichwortliste.qmd)
+
+- [Linksammlung](Linksammlung.qmd)
+
+<!-- ### Abschluss & Rahmenbedingungen -->
+
+<!-- 13. [Forschungsethik](13%20Forschungsethik%20und%20Datenschutz/Praesentation13_Ethik.qmd) -->
+<!-- 14. [Lehrproben & Hausarbeit](14%20verbleibende%20Lehrproben,%20Kriterien%20der%20Hausarbeit,%20Peer-Feedback/Praesentation14_Abschluss_APA.qmd) -->
+
+------------------------------------------------------------------------
+
+### Hinweise zur Nutzung
+
+-   Die Präsentationen sind als **Reveal.js Slides** optimiert.
+-   Nutzen Sie die Taste `m`, um das Menü aufzurufen, oder `f` für den Vollbildmodus.
+-   Alle Literaturangaben finden Sie am Ende der jeweiligen Präsentation.

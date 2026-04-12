@@ -18,13 +18,25 @@ resources:
 ---
 
 ```{r setup}
+#| echo: false
 # if (!requireNamespace("needs"   )) install.packages("needs")
 # if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
 # needs("excelbib", "xfun")
 # xlsx_to_bib(from_root("References.xlsx"))
 ```
 
-# Psychometrische Tests: Die Basis
+# Psychometrische Tests
+
+## Wie misst man etwas, das "unsichtbar" ist?
+
+- empirisches vs. numerisches Relativ
+- Skalenniveaus
+- Konstrukte
+- Objektivität, Reliabilität, Validität
+
+::: notes
+Empirisches und Numerisches Relativ, Skalenniveaus, Objektivität, Reliabilität, Validität
+:::
 
 ## Was ist ein psychometrischer Test?
 
@@ -101,6 +113,7 @@ resources:
 ::: notes
 - Beispiel: Reha-Patient nach Herzinfarkt. Konstrukte: Angst (vor Belastung), Selbstwirksamkeit, Intention.
 :::
+
 # Literaturverzeichnis
 
 ::: refs

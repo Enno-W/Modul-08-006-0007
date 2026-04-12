@@ -16,7 +16,19 @@ resources:
 #csl: apa.csl
 #biblio-style: "apalike"
 ---
+# Advance Organizer 2: Bewegungsangebote
+
+Sucht online nach Apps, Programmen oder sonstigen Angeboten für die breite Masse, die damit werben, Bewegung zu fördern oder darüber zu informieren.
+
+z.B: https://www.techbook.de/mobile-lifestyle/apps/sport-apps
+
+oder andere, Ihnen bekannte Angebote.
+
+Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Ergänzen Sie im Etherpad.
 ## typst
+
+## Humanoo
+
 ## Webseitenerstellung mit Quarto
 ## Online-Coaching: Tipps
 
@@ -24,7 +36,7 @@ resources:
 - Ansteckmikro oder Headset gegen Umgebungsgeräusche
 - Safe fail oder Failsafe
 - Don't touch a running system
-- Ausleuchtung
+- Ausleuchtung von vorn
 - OBS Studio
 
 ```{r setup}

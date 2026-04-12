@@ -51,6 +51,10 @@ Literatur/
 
 /.quarto/
 
-_site/
+/_site/
+
+/site_libs/
 
 .pdf
+
+*_files/

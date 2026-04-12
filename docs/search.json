@@ -1,5 +1,124 @@
 [
   {
+    "objectID": "Linksammlung.html",
+    "href": "Linksammlung.html",
+    "title": "Linksammlung",
+    "section": "",
+    "text": "Logic models, theory of change and program evaluation (Elane Mandie)\nhttps://youtu.be/lYi30bL0AMo\nOverview Step 2: Logic model of change & outcomes for behavior and the environment, target populations.\nhttps://interventionmapping.com/simpl/2.1/sIMpl%20%20step%202,%20lecture%201%20-%20overview.wmv\nPerformance objectives: Individual, agent, validation\nhttps://interventionmapping.com/simpl/2.3/sIMpl%20-%20step%202,%20lecture%203%20-%20Performance%20Objectives.wmv\nReflection on Intervention Mapping step 1 and 2 (Joanne Leerlooijer).\nhttps://youtu.be/xn9WXfdHXtw\nDeterminants 1: Attitudes, norms, self-efficacy & skills.\nhttp://interventionmapping.com/simpl/2.2a/sIMpl%20-%20step%202,%20lecture%202a%20-%20Determinants%201.wmv\nDeterminants 2: Automaticity & determinants table.\nhttp://interventionmapping.com/simpl/2.2b/sIMpl%20-%20step%202,%20lecture%202a%20-%20Determinants%202.wmv\nMatrices of change objectives\nhttp://interventionmapping.com/simpl/2.4/sIMpl%20-%20step%202,%20lecture%204%20-%20Matrices.wmv\nIntervention Mapping: Summercourse 2017, step 3 (Gjalt-Jorn Peters, Open Universiteit). https://youtu.be/6lv7LqA3PAk\nBeispiel für Interventionsmaterial: https://www.gesundes-boot.de/fileadmin/gesundes_boot/downloads/Gesundes_Boot_Spielideen_Bastelideen_Rezepte.pdf\nhttps://www.gesundes-boot.de/\nBasierend auf Intervention Mapping entwickelte Intervention “Long live love”\nhttps://www.langlevedeliefde.nl/docenten/english"
+  },
+  {
+    "objectID": "AlleQuellen.html",
+    "href": "AlleQuellen.html",
+    "title": "AlleQuellen",
+    "section": "",
+    "text": "if (!requireNamespace(\"needs\"   )) install.packages(\"needs\")\n\nLade nötigen Namensraum: needs\n\n if (!requireNamespace(\"excelbib\")) install_github(\"Enno-W/excelbib\")\n\nLade nötigen Namensraum: excelbib\n\nneeds(\"excelbib\", \"xfun\")\nxlsx_to_bib(from_root(\"References.xlsx\"))\n\nBibliography has been successfully written to bibliography.bib\n\n\nEuropean Union (2008) M. C. Lee et al. (2008) Brand et al. (2014) Kelly & Melnyk (2008) Cale & Harris (2006) J. F. Sallis et al. (2012) Bully et al. (2015) Maher et al. (2014) Bartholomew et al. (2006) United Nations General Assembly (2017) Foster et al. (2021) Peterson et al. (1982) Watson et al. (1988) Robert Koch-Institut (2022) World Health Organization (2023) Amireault et al. (2013) Gilchrist, Sabiston, et al. (2018) Gilchrist, Fong, et al. (2018) Mack et al. (2015) Tracy & Robins (2007) Marcus et al. (1997) Marcus & Stanton (1993) Martin et al. (1984) Stetson et al. (2005) Bates et al. (2015a) Marlatt & George (1984) Tompuri (2015) Hollmann & Strüder (2009) Eckert et al. (2014) Roordink et al. (2021) Piggin (2020) Caspersen et al. (1985) Krug et al. (2013) Ainsworth & Der Ananian (2020) Mcauley et al. (1994) Buckworth & Dishman (2007) World Health Organization (2010) Ding et al. (2016) Warburton (2006) Myers et al. (2004) I.-M. Lee et al. (2012) Paluska & Schwenk (2000) Mikkelsen et al. (2017) Carter et al. (2016) Gillison et al. (2009) Foster et al. (2017) Grant et al. (1998) Foster et al. (2001) Day et al. (2004) Crawford & Henry (2004) Corr & Gray (1996) Winter (1994) Sokolowski et al. (2000) Bandura (1977) J. Hox et al. (2017) Green & MacLeod (2016) Li et al. (2015) Cohen (2013) Nezlek (2008) Ellis & Mayer (2020) Pinheiro et al. (2023) Bates et al. (2015b) Engel (1977) Ledochowski et al. (2016) Cooney & Mead (2013) Morres et al. (2018) Sterne et al. (2009) R Core Team (2024) Pinheiro et al. (2024) Wang & Maxwell (2015) Munafò et al. (2017) Silberzahn et al. (2018) Kummerfeld & Jones (2023) Perkel (2022) Amrhein et al. (2019) Mahmood et al. (2023) Fernandez-Lazaro et al. (2019) Goddard et al. (2020) Brewer et al. (2000) McAuley et al. (1990a) Courneya et al. (2004) McAuley et al. (1992) Weiner (1986) Heider (1958) Harvey et al. (1976) Manusov & Spitzberg (2008) Russell (1980) Eid & Diener (1999) Watson & Tellegen (1985) Steyer et al. (1999) Reich et al. (2003) Breyer & Bluemke (2016) Schoedel et al. (2023) Meteier et al. (2022) Kelley (1967) Klein et al. (1976) Alloy et al. (1984) Seligman et al. (1979) J. J. Hox et al. (2017a) Field et al. (2012) J. J. Hox et al. (2017b) Tsai et al. (2008) Nezlek et al. (2006) Curran & Bauer (2011) Koo & Li (2016) Stiensmeier et al. (1985) Beck & Beamesderfer (1974) Williams et al. (2016) Rhodes & Kates (2015) Stevens et al. (2020) Williams & Evans (2014) Jekauc (2015) Rhodes et al. (2009) McAuley et al. (1990b) Minifee & McAuley (1998) Courneya & McAuley (1996) Schoeneman & Curry (1990) Nickel et al. (2013) Spink et al. (2015) Shields et al. (2005) Emerson & Williams (2015) H. H. Lee et al. (2016) Ekkekakis (2003) Ekkekakis (2005) Nosek et al. (2018) Aust et al. (2012) JamesF. Sallis et al. (1990) Irvin et al. (1999) Witkiewitz & Marlatt (2009) Müller et al. (2010) Eckert et al. (2014) Vanhees et al. (2005) Kohl et al. (2000) McLean et al. (2016) Duncan & Pozehl (2002) Nigg et al. (2008) National Academies of Sciences, Engineering, and Medicine (2019) Yang et al. (2025) Gratz & Roemer (2004) Buckholdt et al. (2014) Parfitt & Hughes (2009) Forster et al. (2020) Warburton (2006) Neufer et al. (2015) Khan et al. (2001) Lubans et al. (2016) McNeill et al. (2006) Sirois & Giguère (2018) Shiffman et al. (2005) Svendsen et al. (2022) Cohen (1988) Lott (2009) Mazziotta et al. (2016) Kinast & Schroll-Machl (2010) Bolten (2006) Hofstede (1980) Hofstede (2001) Minkov (2017) Ridgers et al. (2010) Hussy et al. (2013) Stahl (2023) Biddle & Mutrie (2008) Peres & Lucchetti (2010) Hilton et al. (2016) Teuber et al. (2022) Gardner et al. (2012) Lally & Gardner (2013) Fuchs et al. (2015)\n\n\n\n\n\n\n\nReferences\n\nAinsworth, B. E., & Der Ananian, C. (2020). Physical activity promotion. In G. Tenenbaum & R. C. Eklund (Eds.), Handbook of sport psychology: Vol. II (4th ed., pp. 773–794). John Wiley & Sons, Inc. https://doi.org/doi.org/10.1002/9781119568124.ch37\n\n\nAlloy, L. B., Peterson, C., Abramson, L. Y., & Seligman, M. E. (1984). Attributional style and the generality of learned helplessness. Journal of Personality and Social Psychology, 46(3), 681–687. https://doi.org/10.1037/0022-3514.46.3.681\n\n\nAmireault, S., Godin, G., & Vézina-Im, L.-A. (2013). Determinants of physical activity maintenance: A systematic review and meta-analyses. Health Psychology Review, 7(1), 55–91. https://doi.org/10.1080/17437199.2012.701060\n\n\nAmrhein, V., Greenland, S., & McShane, B. (2019). Scientists rise up against statistical significance. Nature, 567(7748), 305–307. https://doi.org/10.1038/d41586-019-00857-9\n\n\nAust, F., Diedenhofen, B., Ullrich, S., & Musch, J. (2012). Seriousness checks are useful to improve data validity in online research. Behavior Research Methods, 45(2), 527–535. https://doi.org/10.3758/s13428-012-0265-2\n\n\nBandura, A. (1977). Social learning theory. Prentice-Hall.\n\n\nBartholomew, L. K., Parcel, G. S., Kok, G., & Gottlieb, N. H. (2006). Planning health promotion programs: An intervention mapping approach (2nd ed.). Jossey-Bass/Wiley.\n\n\nBates, D., Mächler, M., Bolker, B., & Walker, S. (2015a). Fitting linear mixed-effects models using lme4. Journal of Statistical Software, 67(1), 1–48. https://doi.org/10.18637/jss.v067.i01\n\n\nBates, D., Mächler, M., Bolker, B., & Walker, S. (2015b). Fitting linear mixed-effects models using lme4. Journal of Statistical Software, 67(1), 1–48. https://doi.org/10.18637/jss.v067.i01\n\n\nBeck, A. T., & Beamesderfer, A. (1974). Assessment of Depression: The Depression Inventory. In P. Pichot (Ed.), Psychological measurements in psychopharmacology. Modern Problems in Pharmacopsychiatry (Vol. 7, pp. 151–169). Karger.\n\n\nBiddle, S. J. H., & Mutrie, N. (2008). Psychology of physical activity: Determinants, well-being, and interventions (2nd ed.). Routledge.\n\n\nBolten, J. (2006). Interkultureller Trainingsbedarf aus der Perspektive der Problemerfahrungen entsandter Führungskräfte. In K. Götz (Ed.), Interkulturelles Lernen/Interkulturelles Training (6th ed., pp. 57–76). Rainer Hampp Verlag.\n\n\nBrand, T., Pischke, C., Steenbock, B., Schoenbach, J., Poettgen, S., Samkange-Zeeb, F., & Zeeb, H. (2014). What works in community-based interventions promoting physical activity and healthy eating? A review of reviews. International Journal of Environmental Research and Public Health, 11(6), 5866–5888. https://doi.org/10.3390/ijerph110605866\n\n\nBrewer, B. W., Cornelius, A. E., Van Raalte, J. L., Petitpas, A. J., Sklar, J. H., Pohlman, M. H., Krushell, R. J., & Ditmar, T. D. (2000). Attributions for recovery and adherence to rehabilitation following anterior cruciate ligament reconstruction: A prospective analysis. Psychology & Health, 15(2), 283–291. https://doi.org/10.1080/08870440008400307\n\n\nBreyer, B., & Bluemke, M. (2016). Deutsche Version der Positive and Negative Affect Schedule PANAS (GESIS Panel). Zusammenstellung Sozialwissenschaftlicher Items Und Skalen (ZIS). https://doi.org/10.6102/ZIS242\n\n\nBuckholdt, K. E., Parra, G. R., Anestis, M. D., Lavender, J. M., Jobe-Shields, L. E., Tull, M. T., & Gratz, K. L. (2014). Emotion regulation difficulties and maladaptive behaviors: Examination of deliberate self-harm, disordered eating, and substance misuse in two samples. Cognitive Therapy and Research, 39(2), 140–152. https://doi.org/10.1007/s10608-014-9655-3\n\n\nBuckworth, J., & Dishman, R. K. (2007). Exercise adherence. In G. Tenenbaum & R. C. Eklund (Eds.), Handbook of sport psychology (pp. 509–536). John Wiley & Sons, Inc. https://doi.org/10.1002/9781118270011\n\n\nBully, P., Sánchez, Á., Zabaleta-del-Olmo, E., Pombo, H., & Grandes, G. (2015). Evidence from interventions based on theoretical models for lifestyle modification (physical activity, diet, alcohol and tobacco use) in primary care settings: A systematic review. Preventive Medicine, 76, S76–S93. https://doi.org/10.1016/j.ypmed.2014.12.020\n\n\nCale, L., & Harris, J. (2006). Interventions to promote young people’s physical activity: Issues, implications and recommendations for practice. Health Education Journal, 65(4), 320–337. https://doi.org/10.1177/0017896906069370\n\n\nCarter, T., Morres, I. D., Meade, O., & Callaghan, P. (2016). The effect of exercise on depressive symptoms in adolescents: A systematic review and meta-analysis. Journal of the American Academy of Child &; Adolescent Psychiatry, 55(7), 580–590. https://doi.org/10.1016/j.jaac.2016.04.016\n\n\nCaspersen, C. J., Powell, K. E., & Christenson, G. M. (1985). Physical activity, exercise, and physical fitness: Definitions and distinctions for health-related research. Public Health Reports, 100, 126–131.\n\n\nCohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Lawrence Erlbaum Associates.\n\n\nCohen, J. (2013). Statistical power analysis for the behavioral sciences. Routledge. https://doi.org/10.4324/9780203771587\n\n\nCooney, D., GM, & Mead, G. (2013). Exercise for depression. Cochrane Database of Systematic Reviews, 9. https://doi.org/10.1002/14651858.CD004366.pub6\n\n\nCorr, P. J., & Gray, J. A. (1996). Structure and validity of the attributional style questionnaire: A cross-sample comparison. The Journal of Psychology, 130(6), 645–657. https://doi.org/10.1080/00223980.1996.9915038\n\n\nCourneya, K. S., Friedenreich, C. M., Sela, R. A., Quinney, H. A., Rhodes, R. E., & Jones, L. W. (2004). Exercise motivation and adherence in cancer survivors after participation in a randomized controlled trial: An attribution theory perspective. International Journal of Behavioral Medicine, 11(1), 8–17. https://doi.org/10.1207/s15327558ijbm1101_2\n\n\nCourneya, K. S., & McAuley, E. (1996). Understanding intentions to exercise following a structured exercise program: An attributional Perspective1. Journal of Applied Social Psychology, 26(8), 670–685. https://doi.org/10.1111/j.1559-1816.1996.tb02738.x\n\n\nCrawford, J. R., & Henry, J. D. (2004). The positive and negative affect schedule (PANAS): Construct validity, measurement properties and normative data in a large non‐clinical sample. British Journal of Clinical Psychology, 43(3), 245–265. https://doi.org/10.1348/0144665031752934\n\n\nCurran, P. J., & Bauer, D. J. (2011). The disaggregation of within-person and between-person effects in longitudinal models of change. Annual Review of Psychology, 62(1), 583–619. https://doi.org/10.1146/annurev.psych.093008.100356\n\n\nDay, M. L., McGuigan, M. R., Brice, G., & Foster, C. (2004). Monitoring exercise intensity during resistance training using the session RPE scale. The Journal of Strength and Conditioning Research, 18(2), 353. https://doi.org/10.1519/r-13113.1\n\n\nDing, D., Lawson, K. D., Kolbe-Alexander, T. L., Finkelstein, E. A., Katzmarzyk, P. T., Mechelen, W. van, & Pratt, M. (2016). The economic burden of physical inactivity: A global analysis of major non-communicable diseases. The Lancet, 388(10051), 1311–1324. https://doi.org/10.1016/s0140-6736(16)30383-x\n\n\nDuncan, K. A., & Pozehl, B. (2002). Staying on course: The effects of an adherence facilitation intervention on home exercise participation. Progress in Cardiovascular Nursing, 17(2), 59–71. https://doi.org/10.1111/j.0889-7204.2002.01229.x\n\n\nEckert, K., Lange, M., & Wagner, P. (2014). Erfassung körperlicher Aktivität - Ein Überblick über Anspruch und Realität einer validen Messung. In S. Becker (Ed.), Aktiv und Gesund? Interdisziplinäre Perspektiven auf den Zusammenhang zwischen Sport und Gesundheit (pp. 97–124). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-531-19063-1_5\n\n\nEid, M., & Diener, E. (1999). Intraindividual variability in affect: Reliability, validity, and personality correlates. Journal of Personality and Social Psychology, 76(4), 662–676.\n\n\nEkkekakis, P. (2003). Pleasure and displeasure from the body: Perspectives from exercise. Cognition and Emotion, 17(2), 213–239. https://doi.org/10.1080/02699930302292\n\n\nEkkekakis, P. (2005). Exercise and affect — the study of affective responses to acute exercise: The dual-mode model. In R. Stelter & K. K. Roessler (Eds.), New approaches to sport and exercise psychology (pp. 119–146). Meyer & Meyer Sport.\n\n\nEllis, A., & Mayer, B. (2020). Introduction to r, chapter 12: Hierarchical linear models. https://methodenlehre.github.io/intro-to-rstats/index.html\n\n\nEmerson, J. A., & Williams, D. M. (2015). The multifaceted relationship between physical activity and affect. Social and Personality Psychology Compass, 9(8), 419–433. https://doi.org/10.1111/spc3.12190\n\n\nEngel, G. L. (1977). The need for a new medical model: A challenge for biomedicine. Science, 196(4286), 129–136. https://doi.org/10.1126/science.847460\n\n\nEuropean Union. (2008). EU Physical Activity Guidelines: Recommended Policy Actions in Support of Health-Enhancing Physical Activity [Guidelines]. European Union.\n\n\nFernandez-Lazaro, C. I., García-González, J. M., Adams, D. P., Fernandez-Lazaro, D., Mielgo-Ayuso, J., Caballero-Garcia, A., Moreno Racionero, F., Córdova, A., & Miron-Canelo, J. A. (2019). Adherence to treatment and related factors among patients with chronic conditions in primary care: A cross-sectional study. BMC Family Practice, 20(1). https://doi.org/10.1186/s12875-019-1019-3\n\n\nField, A., Field, Zoe., & Miles, J. (2012). Discovering statistics using r. Sage. http://digital.casalini.it/9781446258460\n\n\nForster, A. K., Richards, E. A., Foli, K. J., McGowan, B., Hass, Z., Becker, M., & Miller, A. (2020). Influence of affect on physical activity: An integrative review. Clinical Nursing Research, 30(7), 934–949. https://doi.org/10.1177/1054773820968039\n\n\nFoster, C., Boullosa, D., McGuigan, M., Fusco, A., Cortis, C., Arney, B. E., Orton, B., Dodge, C., Jaime, S., Radtke, K., Erp, T. van, Koning, J. J. de, Bok, D., Rodriguez-Marroyo, J. A., & Porcari, J. P. (2021). 25 years of session rating of perceived exertion: Historical perspective and development. International Journal of Sports Physiology and Performance, 16(5), 612–621. https://doi.org/10.1123/ijspp.2020-0599\n\n\nFoster, C., Florhaug, J. A., Franklin, J., Gottschall, L., Hrovatin, L. A., Parker, S., Doleshall, P., & Dodge, C. (2001). A new approach to monitoring exercise training. Journal of Strength and Conditioning Research, 15(1), 109–115.\n\n\nFoster, C., Rodriguez-Marroyo, J. A., & Koning, J. J. de. (2017). Monitoring training loads: The past, the present, and the future. International Journal of Sports Physiology and Performance, 12(s2), S2-2-S2-8. https://doi.org/10.1123/ijspp.2016-0388\n\n\nFuchs, R., Klaperski, S., Gerber, M., & Seelig, H. (2015). Messung der Bewegungs- und Sportaktivität mit dem BSA-Fragebogen: Eine methodische Zwischenbilanz. Zeitschrift Für Gesundheitspsychologie, 23(2), 60–76. https://doi.org/10.1026/0943-8149/a000137\n\n\nGardner, B., Lally, P., & Wardle, J. (2012). Making health habitual: The psychology of “habit-formation” and general practice. British Journal of General Practice, 62(605), 664–666. https://doi.org/10.3399/bjgp12x659466\n\n\nGilchrist, J. D., Fong, A. J., Herbison, J. D., & Sabiston, C. M. (2018). Feelings of pride are associated with grit in student-athletes and recreational runners. Psychology of Sport and Exercise, 36, 1–7. https://doi.org/10.1016/J.PSYCHSPORT.2017.12.009\n\n\nGilchrist, J. D., Sabiston, C. M., Conroy, D. E., & Atkinson, M. (2018). Authentic pride regulates runners’ training progress. Psychology of Sport and Exercise, 38, 10–16. https://doi.org/10.1016/j.psychsport.2018.05.007\n\n\nGillison, F. B., Skevington, S. M., Sato, A., Standage, M., & Evangelidou, S. (2009). The effects of exercise interventions on quality of life in clinical and healthy populations; a meta-analysis. Social Science &; Medicine, 68(9), 1700–1710. https://doi.org/10.1016/j.socscimed.2009.02.028\n\n\nGoddard, K., Roberts, C.-M., Byron-Daniel, J., & Woodford, L. (2020). Psychological factors involved in adherence to sport injury rehabilitation: A systematic review. International Review of Sport and Exercise Psychology, 14(1), 51–73. https://doi.org/10.1080/1750984x.2020.1744179\n\n\nGrant, S., Davidson, W., Aitchison, T., & Wilson, J. (1998). A comparison of physiological responses and rating of perceived exertion between high-impact and low-impact aerobic dance sessions. European Journal of Applied Physiology, 78, 324–332.\n\n\nGratz, K. L., & Roemer, L. (2004). Multidimensional assessment of emotion regulation and dysregulation: Development, factor structure, and initial validation of the difficulties in emotion regulation scale. Journal of Psychopathology and Behavioral Assessment, 26(1), 41–54. https://doi.org/10.1023/b:joba.0000007455.08539.94\n\n\nGreen, P., & MacLeod, C. J. (2016). &lt;Scp&gt;SIMR&lt;/scp&gt;: An r package for power analysis of generalized linear mixed models by simulation. Methods in Ecology and Evolution, 7(4), 493–498. https://doi.org/10.1111/2041-210x.12504\n\n\nHarvey, J. H., Ickes, W. J., & Kidd, R. F. (Eds.). (1976). New directions in attribution research: Volume 2 (1st ed., p. 468). Psychology Press. https://doi.org/10.4324/9780203780978\n\n\nHeider, F. (1958). The psychology of interpersonal relations. John Wiley & Sons Inc. https://doi.org/10.1037/10628-000\n\n\nHilton, L., Hempel, S., Ewing, B. A., Apaydin, E., Xenakis, L., Newberry, S., Colaiaco, B., Maher, A. R., Shanman, R. M., Sorbero, M. E., & Maglione, M. A. (2016). Mindfulness meditation for chronic pain: Systematic review and meta-analysis. Annals of Behavioral Medicine, 51(2), 199–213. https://doi.org/10.1007/s12160-016-9844-2\n\n\nHofstede, G. (1980). Culture and organizations. International Studies of Management & Organization, 10(4), 15–41. https://doi.org/10.1080/00208825.1980.11656300\n\n\nHofstede, G. (2001). Culture’s recent consequences: Using dimension scores in theory and research. International Journal of Cross Cultural Management, 1(1), 11–17. https://doi.org/10.1177/147059580111002\n\n\nHollmann, W., & Strüder, H. K. (2009). Sportmedizin. Grundlagen für physische Aktivität, Training und Präventivmedizin (5th ed.). Schattauer.\n\n\nHox, J. J., Moerbeek, M., & Schoot, R. van de. (2017a). Multilevel analysis: Techniques and applications. Routledge. https://doi.org/10.4324/9781315650982\n\n\nHox, J. J., Moerbeek, M., & Schoot, R. van de. (2017b). The basic two-level regression model. In Multilevel analysis: Techniques and applications (pp. 11–48). Routledge. https://doi.org/10.4324/9781315650982-2\n\n\nHox, J., Moerbeek, M., & Schoot, R. van de. (2017). Multilevel analysis : Techniques and applications, third edition. Taylor & Francis Group.\n\n\nHussy, W., Schreier, M., & Echterhoff, G. (2013). Forschungsmethoden in Psychologie und Sozialwissenschaften für Bachelor (2., überarbeitete). Springer. https://doi.org/10.1007/978-3-642-34362-9\n\n\nIrvin, J. E., Bowers, C. A., Dunn, M. E., & Wang, M. C. (1999). Efficacy of relapse prevention: A meta-analytic review. Journal of Consulting and Clinical Psychology, 67(4), 563–570. https://doi.org/10.1037/0022-006x.67.4.563\n\n\nJekauc, D. (2015). Enjoyment during exercise mediates the effects of an intervention on exercise adherence. Psychology, 06(01), 48–54. https://doi.org/10.4236/psych.2015.61005\n\n\nKelley, H. H. (1967). Attribution theory in social psychology. Nebraska Symposium on Motivation, 15, 192–238.\n\n\nKelly, S. A., & Melnyk, B. M. (2008). Systematic review of multicomponent interventions with overweight middle adolescents: Implications for clinical practice and research. Worldviews on Evidence-Based Nursing, 5(3), 113–135. https://doi.org/10.1111/j.1741-6787.2008.00131.x\n\n\nKhan, K., McKay, H., Kannus, P., Bailey, D., Wark, J., & Bennell, K. (2001). Physical activity and bone health. Human Kinetics.\n\n\nKinast, E.-U., & Schroll-Machl, S. (Eds.). (2010). Handbook of intercultural communication and cooperation: Volume 1: Basics and areas of application (2nd ed.). Vandenhoeck & Ruprecht.\n\n\nKlein, D. C., Fencil-Morse, E., & Seligman, M. E. (1976). Learned helplessness, depression, and the attribution of failure. Journal of Personality and Social Psychology, 33(5), 508–516. https://doi.org/10.1037/0022-3514.33.5.508\n\n\nKohl, H. W., Fulton, J. E., & Caspersen, C. J. (2000). Assessment of physical activity among children and adolescents: A review and synthesis. Preventive Medicine, 31(2), S54–S76. https://doi.org/10.1006/pmed.1999.0542\n\n\nKoo, T. K., & Li, M. Y. (2016). A guideline of selecting and reporting intraclass correlation coefficients for reliability research. Journal of Chiropractic Medicine, 15(2), 155–163. https://doi.org/10.1016/j.jcm.2016.02.012\n\n\nKrug, S., Jordan, S., Mensink, G., Müters, S., Finger, J., & Lampert, T. (2013). Körperliche aktivität. In Bundesgesundheitsblatt - gesundheitsforschung - gesundheitsschutz (Vol. 56). Robert Koch-Institut, Epidemiologie und Gesundheitsberichterstattung. https://doi.org/10.1007/s00103-012-1661-6\n\n\nKummerfeld, E., & Jones, G. L. (2023). One data set, many analysts: Implications for practicing scientists. Frontiers in Psychology, 14. https://doi.org/10.3389/fpsyg.2023.1094150\n\n\nLally, P., & Gardner, B. (2013). Promoting habit formation. Health Psychology Review, 7(sup1), S137–S158. https://doi.org/10.1080/17437199.2011.603640\n\n\nLedochowski, L., Stark, R., Ruedl, G., & Kopp, M. (2016). Körperliche Aktivität als therapeutische Intervention bei Depression. Der Nervenarzt, 88(7), 765–778. https://doi.org/10.1007/s00115-016-0222-x\n\n\nLee, H. H., Emerson, J. A., & Williams, D. M. (2016). The exercise-affect–adherence pathway: An evolutionary perspective. Frontiers in Psychology, 07. https://doi.org/10.3389/fpsyg.2016.01285\n\n\nLee, I.-M., Shiroma, E. J., Lobelo, F., Puska, P., Blair, S. N., & Katzmarzyk, P. T. (2012). Effect of physical inactivity on major non-communicable diseases worldwide: An analysis of burden of disease and life expectancy. The Lancet, 380(9838), 219–229. https://doi.org/10.1016/s0140-6736(12)61031-9\n\n\nLee, M. C., Orenstein, M. R., & Richardson, M. J. (2008). Systematic review of active commuting to school and children’s physical activity and weight. Journal of Physical Activity and Health, 5(6), 930–949. https://doi.org/10.1123/jpah.5.6.930\n\n\nLi, P., Stuart, E. A., & Allison, D. B. (2015). Multiple imputation: A flexible tool for handling missing data. JAMA, 314(18), 1966. https://doi.org/10.1001/jama.2015.15281\n\n\nLott, B. (2009). Multiculturalism and diversity: A social psychological perspective. Wiley. https://doi.org/10.1002/9781444310191\n\n\nLubans, D., Richards, J., Hillman, C., Faulkner, G., Beauchamp, M., Nilsson, M., Kelly, P., Smith, J., Raine, L., & Biddle, S. (2016). Physical activity for cognitive and mental health in youth: A systematic review of mechanisms. Pediatrics, 138(3). https://doi.org/10.1542/peds.2016-1642\n\n\nMack, D. E., Kouali, D., Gilchrist, J. D., & Sabiston, C. M. (2015). Pride and physical activity: Behavioural regulations as a motivational mechanism? Psychology &; Health, 30(9), 1049–1062. https://doi.org/10.1080/08870446.2015.1022547\n\n\nMaher, C. A., Lewis, L. K., Ferrar, K., Marshall, S., De Bourdeaudhuij, I., & Vandelanotte, C. (2014). Are health behavior change interventions that use online social networks effective? A systematic review. Journal of Medical Internet Research, 16(2), e40. https://doi.org/10.2196/jmir.2952\n\n\nMahmood, A., Nayak, P., Deshmukh, A., English, C., N, M., Solomon M, J., & B, U. (2023). Measurement, determinants, barriers, and interventions for exercise adherence: A scoping review. Journal of Bodywork and Movement Therapies, 33, 95–105. https://doi.org/10.1016/j.jbmt.2022.09.014\n\n\nManusov, V., & Spitzberg, B. H. (2008). Attribution theory. In Engaging theories in interpersonal communication: Multiple perspectives (pp. 37–49). Sage.\n\n\nMarcus, B. H., Bock, B. C., & Pinto, B. M. (1997). Initiation and maintenance of exercise behavior. In Handbook of health behavior research II (pp. 335–352). Springer US. https://doi.org/10.1007/978-1-4899-1760-7_18\n\n\nMarcus, B. H., & Stanton, A. L. (1993). Evaluation of relapse prevention and reinforcement interventions to promote exercise adherence in sedentary females. Research Quarterly for Exercise and Sport, 64(4), 447–452. https://doi.org/10.1080/02701367.1993.10607598\n\n\nMarlatt, G. A., & George, W. H. (1984). Relapse prevention: Introduction and overview of the model. British Journal of Addiction, 79(4), 261–273. https://doi.org/10.1111/j.1360-0443.1984.tb03867.x\n\n\nMartin, J. e., Dubbert, P. M., Katell, A. D., Thompson, J. K., Raczynski, J. R., Lake, M., Smith, P. O., Webster, J. S., Sikora, T., & Cohen, R. E. (1984). Behavioral control of exercise in sedentary adults: Studies 1 through 6. Journal of Consulting and Clinical Psychology, 52(5), 795–811. https://doi.org/10.1037/0022-006x.52.5.795\n\n\nMazziotta, A., Piper, V., & Rohmann, A. (2016). Interkulturelle trainings. In essentials. Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-12873-9\n\n\nMcauley, E., Courneya, K. S., Rudolph, D. L., & Lox, C. L. (1994). Enhancing exercise adherence in middle-aged males and females. Preventive Medicine, 23(4), 498–506. https://doi.org/10.1006/pmed.1994.1068\n\n\nMcAuley, E., Duncan, T. E., & Russell, D. W. (1992). Measuring causal attributions: The revised causal dimension scale (CDSII). Personality and Social Psychology Bulletin, 18(5), 566–573. https://doi.org/10.1177/0146167292185006\n\n\nMcAuley, E., Poag, K., Gleason, A., & Wraith, S. (1990a). Attrition from exercise programs: Attributional and affective perspectives. Journal of Social Behavior and Personality, 5(6), 591. https://www.proquest.com/scholarly-journals/attrition-exercise-programs-attributional/docview/1292241156/se-2\n\n\nMcAuley, E., Poag, K., Gleason, A., & Wraith, S. (1990b). Attrition from exercise programs: Attributional and affective perspectives. Journal of Social Behavior and Personality, 5(6), 591. https://www.proquest.com/scholarly-journals/attrition-exercise-programs-attributional/docview/1292241156/se-2\n\n\nMcLean, S., Holden, M. A., Potia, T., Gee, M., Mallett, R., Bhanbhro, S., Parsons, H., & Haywood, K. (2016). Quality and acceptability of measures of exercise adherence in musculoskeletal settings: A systematic review. Rheumatology, kew422. https://doi.org/10.1093/rheumatology/kew422\n\n\nMcNeill, L. H., Kreuter, M. W., & Subramanian, S. V. (2006). Social environment and physical activity: A review of concepts and evidence. Social Science & Medicine, 63(4), 1011–1022. https://doi.org/10.1016/j.socscimed.2006.03.012\n\n\nMeteier, Q., Capallera, M., De Salis, E., Widmer, M., Angelini, L., Abou Khaled, O., Mugellini, E., & Sonderegger, A. (2022). Carrying a passenger and relaxation before driving: Classification of young drivers’ physiological activation. Physiological Reports, 10(10). https://doi.org/10.14814/phy2.15229\n\n\nMikkelsen, K., Stojanovska, L., Polenakovic, M., Bosevski, M., & Apostolopoulos, V. (2017). Exercise and mental health. Maturitas, 106, 48–56. https://doi.org/10.1016/j.maturitas.2017.09.003\n\n\nMinifee, M., & McAuley, E. (1998). An attributional perspective on african american adults’ exercise Behavior1. Journal of Applied Social Psychology, 28(10), 924–936. https://doi.org/10.1111/j.1559-1816.1998.tb01660.x\n\n\nMinkov, M. (2017). A revision of hofstede’s model of national culture: Old evidence and new data from 56 countries. Cross Cultural & Strategic Management, 25(2), 231–256. https://doi.org/10.1108/ccsm-03-2017-0033\n\n\nMorres, I. D., Hatzigeorgiadis, A., Stathi, A., Comoutos, N., Arpin-Cribbie, C., Krommidas, C., & Theodorakis, Y. (2018). Aerobic exercise for adult patients with major depressive disorder in mental health services: A systematic review and meta-analysis. Depression and Anxiety, 36(1), 39–53. https://doi.org/10.1002/da.22842\n\n\nMüller, C., Winter, C., & Rosenbaum, D. (2010). Aktuelle objektive Messverfahren zur Erfassung körperlicher Aktivität im Vergleich zu subjektiven Erhebungsmethoden: Current objective techniques for physical activity assessment in comparison with subjective methods. Deutsche Zeitschrift Für Sportmedizin, 61(1), 11–18. https://www.germanjournalsportsmedicine.com/fileadmin/content/archiv2010/heft01/11_uebersicht_mueller.pdf\n\n\nMunafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie du Sert, N., Simonsohn, U., Wagenmakers, E.-J., Ware, J. J., & Ioannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1(1). https://doi.org/10.1038/s41562-016-0021\n\n\nMyers, J., Kaykha, A., George, S., Abella, J., Zaheer, N., Lear, S., Yamazaki, T., & Froelicher, V. (2004). Fitness versus physical activity patterns in predicting mortality in men. The American Journal of Medicine, 117(12), 912–918. https://doi.org/10.1016/j.amjmed.2004.06.047\n\n\nNational Academies of Sciences, Engineering, and Medicine. (2019). Understanding reproducibility and replicability. In Reproducibility and replicability in science. National Academies Press. https://www.ncbi.nlm.nih.gov/books/NBK547546/\n\n\nNeufer, P. D., Bamman, M. M., Muoio, D. M., Bouchard, C., Cooper, D. M., Goodpaster, B. H., Booth, F. W., Kohrt, W. M., Gerszten, R. E., Mattson, M. P., Hepple, R. T., Kraus, W. E., Reid, M. B., Bodine, S. C., Jakicic, J. M., Fleg, J. L., Williams, J. P., Joseph, L., Evans, M., … Laughlin, M. R. (2015). Understanding the cellular and molecular mechanisms of physical activity-induced health benefits. Cell Metabolism, 22(1), 4–11. https://doi.org/10.1016/j.cmet.2015.05.011\n\n\nNezlek, J. B. (2008). An introduction to multilevel modeling for social and personality psychology. Social and Personality Psychology Compass, 2(2), 842–860.\n\n\nNezlek, J. B., Schröder-Abé, M., & Schütz, A. (2006). Mehrebenenanalysen in der psychologischen forschung. Psychologische Rundschau, 57(4), 213–223. https://doi.org/10.1026/0033-3042.57.4.213\n\n\nNickel, D., Spink, K., Andersen, M., & Knox, K. (2013). Attributions and self-efficacy for physical activity in multiple sclerosis. Psychology, Health & Medicine, 19(4), 433–441. https://doi.org/10.1080/13548506.2013.832783\n\n\nNigg, C. R., Borrelli, B., Maddock, J., & Dishman, R. K. (2008). A theory of physical activity maintenance. Applied Psychology, 57(4), 544–560. https://doi.org/10.1111/j.1464-0597.2008.00343.x\n\n\nNosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. Proceedings of the National Academy of Sciences, 115(11), 2600–2606. https://doi.org/10.1073/pnas.1708274114\n\n\nPaluska, S. A., & Schwenk, T. L. (2000). Physical activity and mental health: Current concepts. Sports Medicine, 29(3), 167–180. https://doi.org/10.2165/00007256-200029030-00003\n\n\nParfitt, G., & Hughes, S. (2009). The exercise intensity–affect relationship: Evidence and implications for exercise behavior. Journal of Exercise Science & Fitness, 7(2), S34–S41. https://doi.org/10.1016/s1728-869x(09)60021-6\n\n\nPeres, M. F. P., & Lucchetti, G. (2010). Coping strategies in chronic pain. Current Pain and Headache Reports, 14(5), 331–338. https://doi.org/10.1007/s11916-010-0137-3\n\n\nPerkel, J. M. (2022). Cut the tyranny of copy-and-paste with these coding tools. Nature, 603(7899), 191–192. https://doi.org/10.1038/d41586-022-00563-z\n\n\nPeterson, C., Semmel, A., Baeyer, C. von, Abramson, L. Y., Metalsky, G. I., & Seligman, M. E. P. (1982). The attributional style questionnaire. Cognitive Therapy and Research, 6(3), 287–299. https://doi.org/10.1007/bf01173577\n\n\nPiggin, J. (2020). What is physical activity? A holistic definition for teachers, researchers and policy makers. Frontiers in Sports and Active Living, 2. https://doi.org/10.3389/fspor.2020.00072\n\n\nPinheiro, J., Bates, D., & R Core Team. (2023). Nlme: Linear and nonlinear mixed effects models. https://CRAN.R-project.org/package=nlme\n\n\nPinheiro, J., Bates, D., & R Core Team. (2024). Nlme: Linear and nonlinear mixed effects models. https://CRAN.R-project.org/package=nlme\n\n\nR Core Team. (2024). R: A language and environment for statistical computing. R Foundation for Statistical Computing. https://www.R-project.org/\n\n\nReich, J. W., Zautra, A. J., & Davis, M. (2003). Dimensions of affect relationships: Models and their integrative implications. Review of General Psychology, 7(1), 66–83. https://doi.org/10.1037/1089-2680.7.1.66\n\n\nRhodes, R. E., Fiala, B., & Conner, M. (2009). A review and meta-analysis of affective judgments and physical activity in adult populations. Annals of Behavioral Medicine, 38(3), 180–204. https://doi.org/10.1007/s12160-009-9147-y\n\n\nRhodes, R. E., & Kates, A. (2015). Can the affective response to exercise predict future motives and physical activity behavior? A systematic review of published evidence. Annals of Behavioral Medicine, 49(5), 715–731. https://doi.org/10.1007/s12160-015-9704-5\n\n\nRidgers, N. D., Stratton, G., & McKenzie, T. L. (2010). Reliability and validity of the system for observing children’s activity and relationships during play (SOCARP). Journal of Physical Activity and Health, 7(1), 17–25. https://doi.org/10.1123/jpah.7.1.17\n\n\nRobert Koch-Institut. (2022). Dashboard zu Gesundheit in Deutschland aktuell - GEDA 2019/2020. Robert Koch-Institut. https://doi.org/10.25646/9362\n\n\nRoordink, E. M., Steenhuis, I. H. M., Kroeze, W., Schoonmade, L. J., Sniehotta, F. F., & Stralen, M. M. van. (2021). Predictors of lapse and relapse in physical activity and dietary behaviour: A systematic search and review on prospective studies. Psychology &; Health, 38(5), 623–646. https://doi.org/10.1080/08870446.2021.1981900\n\n\nRussell, J. A. (1980). A circumplex model of affect. Journal of Personality and Social Psychology, 39(6), 1161–1178. https://doi.org/10.1037/h0077714\n\n\nSallis, J. F., Carlson, J., & Mignano, A. M. (2012). Promoting youth physical activity through physical education and after-school programs. Adolescent Medicine: State of the Art Reviews, 23(3), 493–510. https://hdl.handle.net/20.500.14802/23558\n\n\nSallis, JamesF., Hovell, MelbourneF., Hofstetter, C. R., Elder, JohnP., Faucher, P., Spry, VivienM., Barrington, E., & Hackley, M. (1990). Lifetime history of relapse from exercise. Addictive Behaviors, 15(6), 573–579. https://doi.org/10.1016/0306-4603(90)90059-7\n\n\nSchoedel, R., Kunz, F., Bergmann, M., Bemmann, F., Bühner, M., & Sust, L. (2023). Snapshots of daily life: Situations investigated through the lens of smartphone sensing. Journal of Personality and Social Psychology, 125(6), 1442–1471. https://doi.org/10.1037/pspp0000469\n\n\nSchoeneman, T. J., & Curry, S. (1990). Attributions for successful and unsuccessful health behavior change. Basic and Applied Social Psychology, 11(4), 421–431. https://doi.org/10.1207/s15324834basp1104_5\n\n\nSeligman, M. E., Abramson, L. Y., Semmel, A., & Baeyer, C. von. (1979). Depressive attributional style. Journal of Abnormal Psychology, 88(3), 242–247. https://doi.org/10.1037/0021-843x.88.3.242\n\n\nShields, C. A., Brawley, L. R., & Lindover, T. I. (2005). Where perception and reality differ: Dropping out is not the same as failure. Journal of Behavioral Medicine, 28(5), 481–491. https://doi.org/10.1007/s10865-005-9012-9\n\n\nShiffman, S., Ferguson, S. G., & Gwaltney, C. J. (2005). Immediate hedonic response to smoking lapses: Relationship to smoking relapse, and effects of nicotine replacement therapy. Psychopharmacology, 184(3–4), 608–618. https://doi.org/10.1007/s00213-005-0175-4\n\n\nSilberzahn, R., Uhlmann, E. L., Martin, D. P., Anselmi, P., Aust, F., Awtrey, E., Bahník, Š., Bai, F., Bannard, C., Bonnier, E., Carlsson, R., Cheung, F., Christensen, G., Clay, R., Craig, M. A., Rosa, A. D., Dam, L., Evans, M. H., Cervantes, I. F., … Nosek, B. A. (2018). Many analysts, one data set: Making transparent how variations in analytic choices affect results. Advances in Methods and Practices in Psychological Science, 1(3), 337–356. https://doi.org/10.1177/2515245917747646\n\n\nSirois, F. M., & Giguère, B. (2018). Giving in when feeling less good: Procrastination, action control, and social temptations. British Journal of Social Psychology, 57(2), 404–427. https://doi.org/10.1111/bjso.12243\n\n\nSokolowski, K., Schmalt, H.-D., Langens, T. A., & Puca, R. M. (2000). Assessing achievement, affiliation, and power motives all at once: The multi-motive grid (MMG). Journal of Personality Assessment, 74(1), 126–145. https://doi.org/10.1207/s15327752jpa740109\n\n\nSpink, K. S., Brawley, L. R., & Gyurcsik, N. C. (2015). Perceived success/failure and attributions associated with self-regulatory efficacy to meet physical activity recommendations for women with arthritis. Women & Health, 56(7), 767–783. https://doi.org/10.1080/03630242.2015.1118730\n\n\nStahl, S. (2023). Expertise: Migrantensportvereine als Partner der Integrations- und Verbandsarbeit – Impulse für die Praxis (2. Fassung). Deutscher Olympischer Sportbund e. V. (DOSB). https://cdn.dosb.de/Relaunch_2024/Integration/Downloads/IDS_EX_1.PDF\n\n\nSterne, J. A. C., White, I. R., Carlin, J. B., Spratt, M., Royston, P., Kenward, M. G., Wood, A. M., & Carpenter, J. R. (2009). Multiple imputation for missing data in epidemiological and clinical research: Potential and pitfalls. BMJ, 338(jun29 1), b2393–b2393. https://doi.org/10.1136/bmj.b2393\n\n\nStetson, B. A., Beacham, A. O., Frommelt, S. J., Boutelle, K. N., Cole, J. D., Ziegler, C. H., & Looney, S. W. (2005). Exercise slips in high-risk situations and activity patterns in long-term exercisers: An application of the relapse prevention model. Annals of Behavioral Medicine, 30(1), 25–35. https://doi.org/10.1207/s15324796abm3001_4\n\n\nStevens, C. J., Baldwin, A. S., Bryan, A. D., Conner, M., Rhodes, R. E., & Williams, D. M. (2020). Affective determinants of physical activity: A conceptual framework and narrative review. Frontiers in Psychology, 11. https://doi.org/10.3389/fpsyg.2020.568331\n\n\nSteyer, R., Schmitt, M., & Eid, M. (1999). Latent state–trait theory and research in personality and individual differences. European Journal of Personality, 13(5), 389–408. https://doi.org/10.1002/(SICI)1099-0984(199909/10)13:5&lt;389::AID-PER361&gt;3.0.CO;2-A\n\n\nStiensmeier, J., Kammer, D., Pelster, A., & Niketta, R. (1985). Attributionsstil und Bewertung als Risikofaktoren der Depressiven Reaktion [assessment of attributional style and the risk factors of depression]. Diagnostica, 31(4), 300–311.\n\n\nSvendsen, M. J., Sandal, L. F., Kjær, P., Nicholl, B. I., Cooper, K., Mair, F., Hartvigsen, J., Stochkendahl, M. J., Søgaard, K., Mork, P. J., & Rasmussen, C. (2022). Using intervention mapping to develop a decision support system–based smartphone app (selfBACK) to support self-management of nonspecific low back pain: Development and usability study. Journal of Medical Internet Research, 24(1), e26555. https://doi.org/10.2196/26555\n\n\nTeuber, M., Leyhr, D., Moll, J., & Sudeck, G. (2022). Nudging digital physical activity breaks for home studying of university students—a randomized controlled trial during the COVID-19 pandemic with daily activity measures. Frontiers in Sports and Active Living, 4. https://doi.org/10.3389/fspor.2022.1024996\n\n\nTompuri, T. T. (2015). Metabolic equivalents of task are confounded by adiposity, which disturbs objective measurement of physical activity. Frontiers in Physiology, 6. https://doi.org/10.3389/fphys.2015.00226\n\n\nTracy, J. L., & Robins, R. W. (2007). Authentic and hubristic pride scales. PsycTESTS Dataset. https://doi.org/10.1037/t06465-000\n\n\nTsai, Y.-M., Kunter, M., Lüdtke, O., Trautwein, U., & Ryan, R. M. (2008). What makes lessons interesting? The role of situational and individual factors in three school subjects. Journal of Educational Psychology, 100(2), 460–472. https://doi.org/10.1037/0022-0663.100.2.460\n\n\nUnited Nations General Assembly. (2017). Resolution adopted by the General Assembly on 6 July 2017. In Technical report a/RES/71/313.\n\n\nVanhees, L., Lefevre, J., Philippaerts, R., Martens, M., Huygens, W., Troosters, T., & Beunen, G. (2005). How to assess physical activity? How to assess physical fitness? European Journal of Cardiovascular Prevention & Rehabilitation, 12(2), 102–114. https://doi.org/10.1097/01.hjr.0000161551.73095.9c\n\n\nWang, L. (Peggy)., & Maxwell, S. E. (2015). On disaggregating between-person and within-person effects with longitudinal data using multilevel models. Psychological Methods, 20(1), 63–83. https://doi.org/10.1037/met0000030\n\n\nWarburton, D. E. R. (2006). Health benefits of physical activity: The evidence. Canadian Medical Association Journal, 174(6), 801–809. https://doi.org/10.1503/cmaj.051351\n\n\nWatson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS scales. Journal of Personality and Social Psychology, 54(6), 1063–1070. https://doi.org/10.1037/0022-3514.54.6.1063\n\n\nWatson, D., & Tellegen, A. (1985). Toward a consensual structure of mood. Psychological Bulletin, 98(2), 219–235. https://doi.org/10.1037/0033-2909.98.2.219\n\n\nWeiner, B. (1986). Attribution, emotion, and action. In R. M. Sorrentino & E. T. Higgins (Eds.), Handbook of motivation and cognition: Foundations of social behavior (pp. 281–312). Guilford Press.\n\n\nWilliams, D. M., Dunsiger, S., Emerson, J. A., Gwaltney, C. J., Monti, P. M., & Miranda, R. Jr. (2016). Self-paced exercise, affective response, and exercise adherence: A preliminary investigation using ecological momentary assessment. Journal of Sport and Exercise Psychology, 38(3), 282–291. https://doi.org/10.1123/jsep.2015-0232\n\n\nWilliams, D. M., & Evans, D. R. (2014). Current emotion research in health behavior science. Emotion Review, 6(3), 277–287. https://doi.org/10.1177/1754073914523052\n\n\nWinter, D. G. (1994). Manual for scoring motive imagery in running text:(version 4.2). Winter.\n\n\nWitkiewitz, K., & Marlatt, G. A. (2009). Relapse prevention for alcohol and drug problems: That was zen, this is tao. In Addictive behaviors: New readings on etiology, prevention, and treatment. (pp. 403–427). American Psychological Association. https://doi.org/10.1037/11855-016\n\n\nWorld Health Organization (Ed.). (2010). Global recommendations on physical activity for health. World Health Organization. https://iris.who.int/bitstream/handle/10665/44399/9789241599979_eng.pdf?sequence=1\n\n\nWorld Health Organization. (2023). Step up! Tackling the burden of insufficient physical activity in europe. World Health Organization. https://iris.who.int/handle/10665/366327\n\n\nYang, M. Z., Conner, M., & Sheeran, P. (2025). The role of affect regulation in health behavior change. Health Psychology. https://doi.org/10.1037/hea0001507"
+  },
+  {
+    "objectID": "8 Intervention Mapping II - Zielsetzung und Modell der Veränderung/Praesentation8_Zielsetzung.html#erstellen-von-programmzielen-die-logik-der-veränderung",
+    "href": "8 Intervention Mapping II - Zielsetzung und Modell der Veränderung/Praesentation8_Zielsetzung.html#erstellen-von-programmzielen-die-logik-der-veränderung",
+    "title": "Modul 08-006-0007",
+    "section": "Erstellen von Programmzielen: Die Logik der Veränderung",
+    "text": "Erstellen von Programmzielen: Die Logik der Veränderung\n\nWechsel der Perspektive: Weg vom Problem (Bedarfsanalyse), hin zur Lösung.\nZiel: Festlegen, was sich konkret ändern muss, um die Gesundheit zu verbessern.\nDas Logische Modell der Veränderung: Arbeitet von rechts nach links (Gesundheit \\(\\rightarrow\\) Verhalten/Umwelt \\(\\rightarrow\\) Determinanten).\n\n\n\nHier findet der entscheidende Shift statt: Wir fragen nicht mehr “Was ist kaputt?”, sondern “Was soll wie funktionieren?”.\nWichtig für die Studierenden: Die Basis sind die Programmziele am Ende der Bedarfsanalyse."
+  },
+  {
+    "objectID": "8 Intervention Mapping II - Zielsetzung und Modell der Veränderung/Praesentation8_Zielsetzung.html#die-ziel-hierarchie-kasten-6.2",
+    "href": "8 Intervention Mapping II - Zielsetzung und Modell der Veränderung/Praesentation8_Zielsetzung.html#die-ziel-hierarchie-kasten-6.2",
+    "title": "Modul 08-006-0007",
+    "section": "Die Ziel-Hierarchie (Kasten 6.2)",
+    "text": "Die Ziel-Hierarchie (Kasten 6.2)\n\nVerhaltensziel: Das Endergebnis (z. B. “Immer Kondome benutzen”).\nHandlungsziel (Performance Objective): Teilabschnitte des Verhaltens (z. B. “Kondome kaufen”, “Gespräch mit Partner führen”).\nUmweltziel: Veränderungen im Umfeld (z. B. “Kondomautomaten in Bars”).\nVeränderungsziel (Change Objective): Wie muss sich eine Determinante (Wissen, Einstellung) ändern, um ein Handlungsziel zu erreichen?\n\n\n\nHandlungsziele sind oft eine Abfolge von Einzelschritten.\nUmweltziele betreffen Agierende (z.B. Bar-Management), nicht die Zielgruppe selbst."
+  },
+  {
+    "objectID": "8 Intervention Mapping II - Zielsetzung und Modell der Veränderung/Praesentation8_Zielsetzung.html#modell-der-veränderung",
+    "href": "8 Intervention Mapping II - Zielsetzung und Modell der Veränderung/Praesentation8_Zielsetzung.html#modell-der-veränderung",
+    "title": "Modul 08-006-0007",
+    "section": "Modell der Veränderung",
+    "text": "Modell der Veränderung\n{fig-veraenderung}"
+  },
+  {
+    "objectID": "8 Intervention Mapping II - Zielsetzung und Modell der Veränderung/Praesentation8_Zielsetzung.html#die-matrix-der-veränderungsziele",
+    "href": "8 Intervention Mapping II - Zielsetzung und Modell der Veränderung/Praesentation8_Zielsetzung.html#die-matrix-der-veränderungsziele",
+    "title": "Modul 08-006-0007",
+    "section": "Die Matrix der Veränderungsziele",
+    "text": "Die Matrix der Veränderungsziele\n\nDas Herzstück von Schritt 2: Handlungsziele \\(\\times\\) Determinanten.\nJede Zelle beantwortet die Frage: “Was muss sich bei Determinante X (z. B. Selbstwirksamkeit) ändern, damit Handlungsziel Y erreicht wird?”\n\n\n\n\n\n\n\n\n\nHandlungsziel\nEinstellung\nSelbstwirksamkeit\n\n\n\n\n…gesunde Snacks wählen\nÄußert sich positiv über gesunde Wahl.\nZeigt Vertrauen, gesunde Snacks im Campusshop zu finden.\n\n\n\n\n\nDemonstration anhand der Tabelle 6.2 (Snack Healthy): Zeigen, wie man “Selbstwirksamkeit” konkret für das “Vorbereiten von Snacks” formuliert.\nErwähnung der Selektion: Nur relevante und veränderbare Determinanten wählen!"
+  },
+  {
+    "objectID": "8 Intervention Mapping II - Zielsetzung und Modell der Veränderung/Praesentation8_Zielsetzung.html#unterteilung-der-zielgruppe",
+    "href": "8 Intervention Mapping II - Zielsetzung und Modell der Veränderung/Praesentation8_Zielsetzung.html#unterteilung-der-zielgruppe",
+    "title": "Modul 08-006-0007",
+    "section": "Unterteilung der Zielgruppe",
+    "text": "Unterteilung der Zielgruppe\n\nWann sind Subgruppen sinnvoll?\n\nWenn sich Determinanten unterscheiden (z. B. Schwangerschaftsangst bei Mädchen vs. Jungen).\nWenn sich Personen in unterschiedlichen Stadien befinden (z. B. TTM: Präkontemplation vs. Planung).\n\nKonsequenz: Jede Subgruppe erhält eine eigene Matrix.\nPraxis-Check: Kosten vs. Nutzen verschiedener Interventionen abwägen.\n\n\n\nBeispiel Raucherentwöhnung: Wer noch nicht aufhören will, braucht andere “Change Objectives” als jemand, der schon den Termin festlegt.\nDas ist die Vorbereitung auf “Tailored Interventions”."
+  },
+  {
+    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#das-fundament-der-evaluation",
+    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#das-fundament-der-evaluation",
+    "title": "Modul 08-006-0007",
+    "section": "Das Fundament der Evaluation",
+    "text": "Das Fundament der Evaluation\n\nWarum planen wir die Stichprobe vorher?\nVermeidung von Fehlern:\n\nType I Error (\\(\\alpha\\)): Effekt sehen, wo keiner ist.\nType II Error (\\(\\beta\\)): Effekt übersehen, der existiert (mangelnde Power).\n\nRessourceneffizienz: Wie viele Probanden brauchen wir wirklich für signifikante Ergebnisse?\n\n\n\nEvaluation fängt bei der Stichprobe an.\nIm Reha-Sport oft kleine Gruppen -&gt; Problem der statistischen Power."
+  },
+  {
+    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#power",
+    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#power",
+    "title": "Modul 08-006-0007",
+    "section": "Power",
+    "text": "Power\n\nFaustregel für Höhe der Power (\\(1-\\beta\\)): 0.80\nAbhängig von:\n\nEffektstärke (\\(d\\), \\(f^2\\), \\(r\\)) - Was erwarten wir?\nSignifikanzniveau (\\(\\alpha\\)) - Meist 0.05.\nStichprobengröße (\\(n\\)).\n\n\n\n\nFaustregel: Je kleiner der erwartete Effekt (z.B. minimale Verhaltensänderung durch Flyer), desto größer muss \\(n\\) sein."
+  },
+  {
+    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#verwendung-des-pakets-pwr",
+    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#verwendung-des-pakets-pwr",
+    "title": "Modul 08-006-0007",
+    "section": "Verwendung des Pakets pwr",
+    "text": "Verwendung des Pakets pwr\n\n# Installation: install.packages(\"pwr\")\nlibrary(pwr)\n\n# Beispiel: Wie viele Studienteilnehmer brauchen wir für einen \n# mittleren Effekt (d = 0.5) im t-Test?\npwr.t.test(d = 0.5, sig.level = 0.05, power = 0.8, \n           type = \"two.sample\", alternative = \"two.sided\")\n\n\n     Two-sample t test power calculation \n\n              n = 63.76561\n              d = 0.5\n      sig.level = 0.05\n          power = 0.8\n    alternative = two.sided\n\nNOTE: n is number in *each* group"
+  },
+  {
+    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#verwendung-des-pakets-pwr-1",
+    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#verwendung-des-pakets-pwr-1",
+    "title": "Modul 08-006-0007",
+    "section": "Verwendung des Pakets pwr",
+    "text": "Verwendung des Pakets pwr\n\n# Beispiel: Korrelation zwischen Selbstwirksamkeit und PA (r = 0.3)\npwr.r.test(r = 0.3, sig.level = 0.05, power = 0.8)\n\n\n     approximate correlation power calculation (arctangh transformation) \n\n              n = 84.07364\n              r = 0.3\n      sig.level = 0.05\n          power = 0.8\n    alternative = two.sided"
+  },
+  {
+    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#pwr.2p.test",
+    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#pwr.2p.test",
+    "title": "Modul 08-006-0007",
+    "section": "pwr.2p.test",
+    "text": "pwr.2p.test\n\n## Exercise 6.1 p. 198 from Cohen (1988)\npwr.2p.test(h=0.3,n=80,sig.level=0.05,alternative=\"greater\")\n\n\n     Difference of proportion power calculation for binomial distribution (arcsine transformation) \n\n              h = 0.3\n              n = 80\n      sig.level = 0.05\n          power = 0.5996777\n    alternative = greater\n\nNOTE: same sample sizes"
+  },
+  {
+    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#pwr.p.test",
+    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#pwr.p.test",
+    "title": "Modul 08-006-0007",
+    "section": "pwr.p.test",
+    "text": "pwr.p.test\n\n## Exercise 6.5 p. 203 from Cohen (1988)\npwr.p.test(h=0.2,n=60,sig.level=0.05,alternative=\"two.sided\")\n\n\n     proportion power calculation for binomial distribution (arcsine transformation) \n\n              h = 0.2\n              n = 60\n      sig.level = 0.05\n          power = 0.3408451\n    alternative = two.sided"
+  },
+  {
+    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#pwr.chisq.test",
+    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#pwr.chisq.test",
+    "title": "Modul 08-006-0007",
+    "section": "pwr.chisq.test",
+    "text": "pwr.chisq.test\n\n## Exercise 7.3 p. 251\npwr.chisq.test(w=0.346,df=(2-1)*(3-1),N=140,sig.level=0.01)\n\n\n     Chi squared power calculation \n\n              w = 0.346\n              N = 140\n             df = 2\n      sig.level = 0.01\n          power = 0.8854053\n\nNOTE: N is the number of observations\n\n\nCohen (1988)"
+  },
+  {
+    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#qualitative-stichprobenplahnung",
+    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#qualitative-stichprobenplahnung",
+    "title": "Modul 08-006-0007",
+    "section": "Qualitative Stichprobenplahnung",
+    "text": "Qualitative Stichprobenplahnung\n\nZiel ist nicht Repräsentativität, sondern Sättigung (Theoretical Saturation).\nMethoden:\n\nFokusgruppen: Gruppendynamik nutzen, um Barrieren zu identifizieren (IM Schritt 1).\nLeitfadeninterviews: Tiefe Einblicke in individuelle Motive.\n\nStichprobenwahl: Bewusste Auswahl (Purposive Sampling) statt Zufall.\n\n\nWarum Fokusgruppen? Perfekt für IM Schritt 1 (Needs Assessment), um die Sprache der Zielgruppe zu lernen."
+  },
+  {
+    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#mixed-methods-design",
+    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#mixed-methods-design",
+    "title": "Modul 08-006-0007",
+    "section": "Mixed-Methods Design",
+    "text": "Mixed-Methods Design\n\nKombination aus quantitativen & qualitativen Daten.\nBeispiel für die Hausarbeit:\n\nQuantitativ: Fragebogen zu PA (Pre-Post Messung).\nQualitativ: Fokusgruppe nach der Intervention (“Warum haben Sie das Training abgebrochen?”).\n\nErhöht die Validität der Evaluation und erklärt das “Warum” hinter den Zahlen.\n\n\nDas ist die “Königsdisziplin” für die Evaluation. Quantitative Daten zeigen DASS es wirkt, qualitative Daten zeigen WIE/WARUM es wirkt."
+  },
+  {
+    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#aufgabe",
+    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#aufgabe",
+    "title": "Modul 08-006-0007",
+    "section": "Aufgabe",
+    "text": "Aufgabe\n\nSkizzieren Sie für Ihr Gruppenprojekt:\n\nWer ist die Zielgruppe? (Einschlusskriterien)\nWie viele Personen benötigen Sie (grobe Schätzung via pwr)?\nWelche qualitativen Methoden könnten Ihre Daten ergänzen?\n\n\n\nStudierende sollen kurz reflektieren: “Ist meine geplante Intervention bei 10 Leuten überhaupt statistisch testbar?”"
+  },
+  {
     "objectID": "4_kultursensibel/praesentation4_kultur.html#kultursensible-interventionen",
     "href": "4_kultursensibel/praesentation4_kultur.html#kultursensible-interventionen",
     "title": "Modul 08-006-0007",
@@ -11,7 +130,14 @@
     "href": "4_kultursensibel/praesentation4_kultur.html#kognitive-prozesse-kultur",
     "title": "Modul 08-006-0007",
     "section": "Kognitive Prozesse & Kultur",
-    "text": "Kognitive Prozesse & Kultur\nFrame-Switching & Wahrnehmung\n\nFrame-Switching: Individuen können zwischen verschiedenen kulturellen Interpretationsrahmen wechseln, je nach dominantem Reiz (Lott, 2009, S. 11).\nInterpretationsfilter: Kultur bereitet uns darauf vor, Ereignissen Aufmerksamkeit zu schenken und ihnen Bedeutung zuzuschreiben (Lott, 2009, S. 13).\nGegenseitige Konstitution: Menschen schaffen kulturelle Prozesse, und kulturelle Prozesse schaffen Menschen (Lott, 2009, S. 24).\n\n\n\nFrame-Switching erklärt, warum sich ein Sportler im Verein anders verhält als in der Familie.\nAls Kursleitung müssen wir verstehen, welchen “Frame” unsere Intervention triggert."
+    "text": "Kognitive Prozesse & Kultur\nFrame-Switching & Wahrnehmung\n\nFrame-Switching: Individuen können zwischen verschiedenen kulturellen Interpretationsrahmen wechseln, je nach dominantem Reiz (Lott, 2009, S. 11).\nInterpretationsfilter: Kultur bereitet uns darauf vor, Ereignissen Aufmerksamkeit zu schenken und ihnen Bedeutung zuzuschreiben (Lott, 2009, S. 13).\nGegenseitige Konstruktion: Menschen schaffen kulturelle Prozesse, und kulturelle Prozesse schaffen Menschen (Lott, 2009, S. 24).\n\n\n\nFrame-Switching erklärt, warum sich ein Sportler im Verein anders verhält als in der Familie.\nAls Kursleitung müssen wir verstehen, welchen “Frame” unsere Intervention triggert."
+  },
+  {
+    "objectID": "4_kultursensibel/praesentation4_kultur.html#übung-das-multikulturelle-selbst",
+    "href": "4_kultursensibel/praesentation4_kultur.html#übung-das-multikulturelle-selbst",
+    "title": "Modul 08-006-0007",
+    "section": "Übung: Das Multikulturelle Selbst",
+    "text": "Übung: Das Multikulturelle Selbst"
   },
   {
     "objectID": "4_kultursensibel/praesentation4_kultur.html#interkulturelle-trainings",
@@ -74,7 +200,7 @@
     "href": "4_kultursensibel/praesentation4_kultur.html#die-situation",
     "title": "Modul 08-006-0007",
     "section": "Die Situation",
-    "text": "Die Situation\nSie koordinieren ab sofort die Bewegungsförderung in einer Erstaufnahmeeinrichtung für Geflüchtete. Die Bewohner kommen aus unterschiedlichsten Kulturkreisen (v.a. Syrien, Afghanistan, Ukraine, Somalia), leben auf engem Raum zusammen und sind in unterschiedlichem Ausmaß traumatisiert. Entwickeln Sie ein grobes Konzept für die ersten zwei Wochen. Berücksichtigen Sie dabei:\n\nAngebotsplanung: Welche Sportarten/Aktivitäten wählen Sie aus?\nGender-Setting: Wie gehen Sie mit der Geschlechtertrennung und Schamgrenzen um?\nKommunikation: Wie überwinden Sie Sprachbarrieren ohne Dolmetscher?\nInklusion & Trauma: Wie schaffen Sie einen “Safe Space” für Menschen mit Fluchterfahrungen?\n\nZiel: Präsentation Ihres Konzepts (ca. 10 Min., bei 2 Personen 15 min) mit anschließender kollegialer Beratung (bzw. Diskussion mit Mitstudierenden).\n\nTheoretischer Background für die Diskussion: - Akkulturation durch Sport (Gieß-Stüber): Sport ist hier kein Assimilationsinstrument (“Ihr müsst jetzt deutsch werden”), sondern ein Raum für “Reflexive Interkulturalität”. Die Teilnehmer bringen ihre Bewegungskultur mit, während der Sportverein als Brücke zur Gesellschaft dient. - Frame-Switching (Lott, 2010): Der Sportplatz muss als “Sicherer Frame” etabliert werden, in dem andere Regeln gelten als im stressigen Heim-Alltag (Lott, 2009, S. 11). - Hofstede-Dimensionen: - Machtdistanz: Trainer:innen sollten klare Führung bieten, da “Laissez-faire” oft als Inkompetenz oder Desinteresse missverstanden wird. - Kollektivismus: Fokus auf Team-Erfolge statt Einzelkritik, um “Gesichtsverlust” zu vermeiden. - Traumasensible Tipps: - Vermeidung von Trillerpfeifen (Trigger für Sirenen/Beschuss). - Keine Spiele mit “Einkesseln” oder Verfolgung (löst Panik aus). - Rhythmische, repetitive Bewegungen (Laufen, Tanzen, Trommeln) wirken regulierend auf das Nervensystem. - Gender: - Frauenspezifische Angebote sind oft essenziell für die Teilnahme (Sichtschutz!). - Gieß-Stüber betont, dass Schamgrenzen ernst genommen werden müssen, um Vertrauen aufzubauen."
+    "text": "Die Situation\nSie koordinieren ab sofort die Bewegungsförderung in einer Erstaufnahmeeinrichtung für Geflüchtete. Die Bewohner kommen aus unterschiedlichsten Kulturkreisen (v.a. Syrien, Afghanistan, Ukraine, Somalia), leben auf engem Raum zusammen und sind in unterschiedlichem Ausmaß traumatisiert. Entwickeln Sie ein grobes Konzept für die ersten zwei Wochen. Berücksichtigen Sie dabei:\n\nAngebotsplanung: Welche Sportarten/Aktivitäten wählen Sie aus?\nGender-Setting: Wie gehen Sie mit der Geschlechtertrennung und Schamgrenzen um?\nKommunikation: Wie überwinden Sie Sprachbarrieren ohne Dolmetscher?\nInklusion & Trauma: Wie schaffen Sie einen “Safe Space” für Menschen mit Fluchterfahrungen?\n\nZiel: Präsentation Ihres Konzepts mit anschließender kollegialer Beratung (bzw. Diskussion mit Mitstudierenden).\n\nTheoretischer Background für die Diskussion: - Akkulturation durch Sport (Gieß-Stüber): Sport ist hier kein Assimilationsinstrument (“Ihr müsst jetzt deutsch werden”), sondern ein Raum für “Reflexive Interkulturalität”. Die Teilnehmer bringen ihre Bewegungskultur mit, während der Sportverein als Brücke zur Gesellschaft dient. - Frame-Switching (Lott, 2010): Der Sportplatz muss als “Sicherer Frame” etabliert werden, in dem andere Regeln gelten als im stressigen Heim-Alltag (Lott, 2009, S. 11). - Hofstede-Dimensionen: - Machtdistanz: Trainer:innen sollten klare Führung bieten, da “Laissez-faire” oft als Inkompetenz oder Desinteresse missverstanden wird. - Kollektivismus: Fokus auf Team-Erfolge statt Einzelkritik, um “Gesichtsverlust” zu vermeiden. - Traumasensible Tipps: - Vermeidung von Trillerpfeifen (Trigger für Sirenen/Beschuss). - Keine Spiele mit “Einkesseln” oder Verfolgung (löst Panik aus). - Rhythmische, repetitive Bewegungen (Laufen, Tanzen, Trommeln) wirken regulierend auf das Nervensystem. - Gender: - Frauenspezifische Angebote sind oft essenziell für die Teilnahme (Sichtschutz!). - Gieß-Stüber betont, dass Schamgrenzen ernst genommen werden müssen, um Vertrauen aufzubauen."
   },
   {
     "objectID": "4_kultursensibel/praesentation4_kultur.html#kollegiale-beratung",
@@ -82,5 +208,432 @@
     "title": "Modul 08-006-0007",
     "section": "Kollegiale Beratung",
     "text": "Kollegiale Beratung\nDiskussionsfragen für die Gruppe\n\nFidelity vs. Adaption: Müssen wir die Regeln des Sports ändern, damit sie kulturell passen?\nRessourcen: Wie nutzen wir die vorhandenen Kompetenzen der Geflüchteten (z.B. als Co-Trainer)?\nGrenzen: Wo endet Sporttherapie und wo beginnt die Notwendigkeit für psychologische Fachberatung?\n\n\n\nHier kannst du das SCM-Modell (Fiske et al.) einbringen: Werden Geflüchtete oft nur auf der “Wärme”-Dimension (Mitleid) wahrgenommen, statt ihre “Kompetenz” (Stärken) zu sehen?\nZiel der Beratung: Den Studierenden helfen, von der “Defizit-Perspektive” (was fehlt den Leuten?) zur “Ressourcen-Perspektive” (was bringen sie mit?) zu wechseln."
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#die-mechanistische-perspektive",
+    "href": "2_messung/praesentation2_messung.html#die-mechanistische-perspektive",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Die mechanistische Perspektive",
+    "text": "Die mechanistische Perspektive\n\nKlassische Definition: Aktivität der Skelettmuskeln mit Energieumsatz (Caspersen et al., 1985).\nSpezifizierung: Es muss eine Steigerung des Energieumsatzes vorliegen (Hollmann & Strüder, 2009).\nVorteil: Klare Operationalisierung für biologische Studien.\n\n\n\nEinstiegsfrage: Warum definieren wir das überhaupt?\nMechanistisch bedeutet: Mensch als Maschine.\nKrug et al. (2013) nutzen PA und körperliche Aktivität oft synonym."
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#die-kritik-am-reduktionismus",
+    "href": "2_messung/praesentation2_messung.html#die-kritik-am-reduktionismus",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Die Kritik am Reduktionismus",
+    "text": "Die Kritik am Reduktionismus\n\nNur auf Energieumsatz zu schauen, ist “reduktionistisch” (Piggin, 2020).\nVernachlässigt das komplexe Erleben und das Verhalten.\nWiderspricht einer ganzheitlichen Betrachtung.\n\n\n\nWas fehlt bei der mechanistischen Sicht? (Spaß, soziale Interaktion, Kultur).\nÜberleitung zum biopsychosozialen Ansatz."
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#der-biopsychosoziale-ansatz",
+    "href": "2_messung/praesentation2_messung.html#der-biopsychosoziale-ansatz",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Der biopsychosoziale Ansatz",
+    "text": "Der biopsychosoziale Ansatz\n\nAbgrenzung zum biomedizinischen (defizitorientierten) Ansatz.\nIntegration von drei Ebenen (Engel, 1977):\n\nBiologisch (Energieumsatz, Genetik)\nPsychisch (Affekt, Motive, Attribution)\nSozial (Beziehungen, Kontext)\n\n\n\n\nWarum ist das für Sportpsychologen wichtig?\nOhne die psychische Ebene können wir keine Interventionen planen (Intervention Mapping!)."
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#eine-ganzheitliche-definition",
+    "href": "2_messung/praesentation2_messung.html#eine-ganzheitliche-definition",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Eine ganzheitliche Definition",
+    "text": "Eine ganzheitliche Definition\n\n„Physical activity involves people moving, acting and performing within culturally specific spaces and contexts, and influenced by a unique array of interests, emotions, ideas, instructions and relationships.“\n— Piggin (2020) (S. 5)\n\n\n\nDiese Definition bildet die Basis für unser Seminar.\nFokus auf: Emotionen, Ideen und Beziehungen."
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#kategorisierung-der-methoden",
+    "href": "2_messung/praesentation2_messung.html#kategorisierung-der-methoden",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Kategorisierung der Methoden",
+    "text": "Kategorisierung der Methoden\n\nDirekt: Erhobene Daten = Zielgröße (z.B. Beobachtung).\nIndirekt: Umrechnung/Auswertung nötig (Eckert et al., 2014).\nKriteriumsmethoden: Goldstandard (oxidativer Energiestoffwechsel oder direkte Beobachtung) (Kohl et al., 2000).\n\n\n\nBeispiel für indirekt: Herzfrequenzvariabilität -&gt; Rückschluss auf Intensität."
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#validität-vs.-anwendbarkeit",
+    "href": "2_messung/praesentation2_messung.html#validität-vs.-anwendbarkeit",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Validität vs. Anwendbarkeit",
+    "text": "Validität vs. Anwendbarkeit\n\nSystematisierung nach Müller et al. (2010):\nHohe Validität (Genauigkeit) = Geringe Anwendbarkeit (teuer, aufwendig).\nBeispiel: Doubly-Labeled-Water (DLW).\n\n\n\nDLW: Isotope im Wasser, sehr genau für Energieumsatz, aber kostet tausende Euro pro Proband."
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#subjektive-methoden-fragebögen",
+    "href": "2_messung/praesentation2_messung.html#subjektive-methoden-fragebögen",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Subjektive Methoden: Fragebögen",
+    "text": "Subjektive Methoden: Fragebögen\n\nVorteile: Ressourcensparend, große Stichproben möglich.\nNachteile:\n\nSoziale Erwünschtheit.\nErinnerungsverzerrung (Recall Bias).\n\nEignung: Gut für Gruppenvergleiche, schwierig für Individualdiagnostik (Vanhees et al., 2005)."
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#fragebogen-beispiel-1---bsa-fragebogen",
+    "href": "2_messung/praesentation2_messung.html#fragebogen-beispiel-1---bsa-fragebogen",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Fragebogen Beispiel 1 - BSA-Fragebogen",
+    "text": "Fragebogen Beispiel 1 - BSA-Fragebogen\nFuchs et al. (2015)\n\n::: notes - Wo würdet ihr die bei Mueller et al verorten? - Frage an die Studis: Wer von euch trackt seine Aktivität? (App vs. Gedächtnis). - Überleitung zur Übung. :::"
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#fragebogen-beispiel-2---session-rpe",
+    "href": "2_messung/praesentation2_messung.html#fragebogen-beispiel-2---session-rpe",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Fragebogen Beispiel 2 - Session RPE",
+    "text": "Fragebogen Beispiel 2 - Session RPE\nFoster et al. (2001) Foster et al. (2021)"
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#wie-trackt-ihr-eure-aktivität",
+    "href": "2_messung/praesentation2_messung.html#wie-trackt-ihr-eure-aktivität",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Wie trackt ihr eure Aktivität",
+    "text": "Wie trackt ihr eure Aktivität\n\nApp?\nGedächtnis?\nTagebuch?"
+  },
+  {
+    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#annahme-umsetzung-und-nachhaltigkeit",
+    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#annahme-umsetzung-und-nachhaltigkeit",
+    "title": "Modul 08-006-0007",
+    "section": "Annahme, Umsetzung und Nachhaltigkeit",
+    "text": "Annahme, Umsetzung und Nachhaltigkeit\n\nDas Problem: Die beste Intervention wirkt nicht, wenn sie nicht genutzt wird.\nZiel: Menschen überzeugen, das Programm einzuführen (Annahme) und es dauerhaft beizubehalten (Nachhaltigkeit).\nZentrale Erkenntnis: Schritt 5 ist im Grunde eine “Intervention in der Intervention”.\n\n\n\nWir haben jetzt ein tolles Programm (Schritt 4). Aber wie kommt es in die Klinik/den Verein/die Schule?\nWir müssen die “Gatekeeper” (Entscheider) gewinnen."
+  },
+  {
+    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#wer-sind-die-akteure",
+    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#wer-sind-die-akteure",
+    "title": "Modul 08-006-0007",
+    "section": "Wer sind die Akteure?",
+    "text": "Wer sind die Akteure?\n\nAnnehmende (Adopters): Personen mit Entscheidungsgewalt (z.B. Klinikleitung, Schulbehörde). Sie sagen “Ja” zum Programm.\nUmsetzende (Implementers): Personen, die das Programm operativ durchführen (z.B. Sporttherapeuten, Lehrkräfte).\nVernetzung: Erfolg hängt von der engen Einbindung beider Gruppen ab (Partizipation!).\n\n\n\nWichtig: Ein Schulleiter (Annehmer) führt den Sportkurs meist nicht selbst durch (Umsetzer). Beide brauchen unterschiedliche Motivationen."
+  },
+  {
+    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#die-drei-säulen-der-implementierung",
+    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#die-drei-säulen-der-implementierung",
+    "title": "Modul 08-006-0007",
+    "section": "Die drei Säulen der Implementierung",
+    "text": "Die drei Säulen der Implementierung\n\nAnnahme: Die Entscheidung zur Einführung.\nKorrekte Umsetzung (Fidelity): Wird das Programm so durchgeführt wie geplant? (Dosis, Vollständigkeit).\nNachhaltigkeit (Sustainability): Wird das Programm Teil der Routine oder verschwindet es nach der Förderphase?\n\n\n\nWir wenden hier die Schritte 1-4 des IM erneut an: Wir erstellen Matrizen für die Umsetzer!\nWas müssen die Erzieher tun (Handlungsziele) und was hält sie davon ab (Determinanten)?"
+  },
+  {
+    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#praxisbeispiel-der-multiplikatorenansatz",
+    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#praxisbeispiel-der-multiplikatorenansatz",
+    "title": "Modul 08-006-0007",
+    "section": "Praxisbeispiel: Der Multiplikatorenansatz",
+    "text": "Praxisbeispiel: Der Multiplikatorenansatz\n“Komm mit in das gesunde Boot”\n\nStrategie: Pro Bezirk werden zwei Erzieher als Multiplikatoren ausgebildet.\nVorteile:\n\nReduziert Kosten (keine externen Fachkräfte nötig).\nKommunikation “auf Augenhöhe” (Erhöht Akzeptanz & Selbstwirksamkeit).\nVorhandene Netzwerke werden genutzt.\n\nNachhaltigkeit: Das Programm wird durch die interne Kompetenz im Kindergartenalltag verankert.\n\n\n\nMultiplikatoren wirken auf die Determinanten: Wissen, Fähigkeiten und vor allem die Einstellung der Kollegen."
+  },
+  {
+    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#die-matrix-für-umsetzende-tabelle-7.2",
+    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#die-matrix-für-umsetzende-tabelle-7.2",
+    "title": "Modul 08-006-0007",
+    "section": "Die Matrix für Umsetzende (Tabelle 7.2)",
+    "text": "Die Matrix für Umsetzende (Tabelle 7.2)\n\n\n\n\n\n\n\n\nHandlungsziel (Erzieher…)\nWissen\nSelbstwirksamkeit\n\n\n\n\n…entscheiden sich zur Umsetzung\nWissen, dass das Programm existiert.\nGlauben, dass sie die Umsetzung schaffen.\n\n\n…führen Komponenten korrekt aus\nBenennen alle Komponenten.\nBewerten sich als fähig zur korrekten Durchführung.\n\n\n\n\n\nSchaut euch die Tabelle an: Hier geht es nicht um die Kinder, sondern um die Kompetenz der Erzieher!"
+  },
+  {
+    "objectID": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#termine",
+    "href": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#termine",
+    "title": "Präsentation 1 - Einleitung",
+    "section": "Termine",
+    "text": "Termine\nPräsenztermine mit Saskia jeweils Freitag 9-17 Uhr\nGruppe A:\n08. Mai 2026\n29. Mai 2026\n26. Juni 2026\n\nGruppe B:\n22. Mai 2026\n19. Juni 2026\n03. Juli 2026\n\nOnline-Termine jeweils Montag Gruppe A: 7:15-8:45 Gruppe B: 9:00-10:30 Termine: Jeden Montag, mit Ausnahme des 25.5."
+  },
+  {
+    "objectID": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#lehrprobe-und-hausarbeit",
+    "href": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#lehrprobe-und-hausarbeit",
+    "title": "Präsentation 1 - Einleitung",
+    "section": "Lehrprobe und Hausarbeit",
+    "text": "Lehrprobe und Hausarbeit\n\nPVL: Lehrprobe\nPL: Hausarbeit"
+  },
+  {
+    "objectID": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#lehrprobe",
+    "href": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#lehrprobe",
+    "title": "Präsentation 1 - Einleitung",
+    "section": "Lehrprobe",
+    "text": "Lehrprobe\n\nThemenliste auf Moodle (Themenvergabe heute)\nRollenspiel oder Übungsanleitung\nZeit: mindestens 10 Minuten, Interaktion mit der Gruppe –&gt; bestanden!\nThematisch zeitversetzt um zwei LV"
+  },
+  {
+    "objectID": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#hausarbeit",
+    "href": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#hausarbeit",
+    "title": "Präsentation 1 - Einleitung",
+    "section": "Hausarbeit",
+    "text": "Hausarbeit\n\nVier Fallbeispiele\nPlanen einer Intervention"
+  },
+  {
+    "objectID": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#literatur",
+    "href": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#literatur",
+    "title": "Präsentation 1 - Einleitung",
+    "section": "Literatur",
+    "text": "Literatur\n\nBitte mit der Literatur vertraut machen, sodass ihr euch im Seminar einbringen könnt.\nLehrproben basieren auf der Moodle-Literatur zu diesem Thema."
+  },
+  {
+    "objectID": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#themen--und-gruppenfindung",
+    "href": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#themen--und-gruppenfindung",
+    "title": "Präsentation 1 - Einleitung",
+    "section": "Themen- und Gruppenfindung",
+    "text": "Themen- und Gruppenfindung\n&gt; Etherpad Gruppe A\n&gt; Etherpad Gruppe B"
+  },
+  {
+    "objectID": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#erwartungen-und-wünsche-an-den-kurs-quiz",
+    "href": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#erwartungen-und-wünsche-an-den-kurs-quiz",
+    "title": "Präsentation 1 - Einleitung",
+    "section": "Erwartungen und Wünsche an den Kurs + Quiz",
+    "text": "Erwartungen und Wünsche an den Kurs + Quiz\n\nMenti Gruppe A\n\n\nMenti Gruppe B"
+  },
+  {
+    "objectID": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#advance-organizer-1-einfluss-auf-sportliche-aktivität",
+    "href": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#advance-organizer-1-einfluss-auf-sportliche-aktivität",
+    "title": "Präsentation 1 - Einleitung",
+    "section": "Advance Organizer 1: Einfluss auf sportliche Aktivität",
+    "text": "Advance Organizer 1: Einfluss auf sportliche Aktivität\nHabt ihr in der Vergangenheit versucht, eure Bewegungsgewohnheiten zu ändern? Wie habt ihr das gemacht? War es erfolgreich? Sammelt im Etherpad."
+  },
+  {
+    "objectID": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#wie-man-interventionen-nicht-macht",
+    "href": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#wie-man-interventionen-nicht-macht",
+    "title": "Präsentation 1 - Einleitung",
+    "section": "Wie man Interventionen nicht macht",
+    "text": "Wie man Interventionen nicht macht\nMotivationscoach Jürgen Höller https://youtu.be/pFaBQ-lSSmQ?si=LCddCgC6PN23es5b&t=445 - Fatale Suggestion: Motivation entscheide alles –&gt; nicht haltbar, siehe z.B. Fraser et al. (1987); Brandstätter & Otto (2009) - Fragwürdige Strategien zur Motivationssteigerung"
+  },
+  {
+    "objectID": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#mini-exkurs-evidenzbasierte-motivationsförderung-in-bezug-auf-erfolg-kontext-bildung",
+    "href": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#mini-exkurs-evidenzbasierte-motivationsförderung-in-bezug-auf-erfolg-kontext-bildung",
+    "title": "Präsentation 1 - Einleitung",
+    "section": "Mini-Exkurs: Evidenzbasierte Motivationsförderung in Bezug auf Erfolg (Kontext Bildung)",
+    "text": "Mini-Exkurs: Evidenzbasierte Motivationsförderung in Bezug auf Erfolg (Kontext Bildung)\n\nKombinierte Trainings: Kombination mit Fähigkeiten-Training ist wirksamer als Motivation allein (Rheinberg & Schliep, 1985).\nReattributionstraining: Motivationsabträgliche Erklärungen (z. B. “Ich bin zu dumm”) ersetzen (Krug & Hanel, 1976).\nIndividuelle Bezugsnorm (BNO): Persönlicher Fortschritt bewerten -&gt; senkt die Misserfolgsangst (Rheinberg & Hendricks, 1980).\nFörderung der psychischen Grundbedürfnisse: Fördern von Autonomie, Kompetenzerleben und sozialer Eingebundenheit (Deci & Ryan, 2008).\nRealistische Zielsetzung: Erfolgserlebnisse durch Teilziele -&gt; Hoffnung auf Erfolg\nUmfassende Prüfung der langfristigen Effekte: ??"
+  },
+  {
+    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#programmentwicklung-vom-plan-zum-produkt",
+    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#programmentwicklung-vom-plan-zum-produkt",
+    "title": "Modul 08-006-0007",
+    "section": "Programmentwicklung: Vom Plan zum Produkt",
+    "text": "Programmentwicklung: Vom Plan zum Produkt\n\nZiel: Erstellung der konkreten Materialien und Komponenten.\nHerausforderung: Kreativität nutzen, OHNE die Wirkparameter zu verlieren.\nAnpassung: Materialien müssen sowohl zur Zielgruppe (z. B. Smartphone-Affin?) als auch zu den Umsetzenden (z. B. Trainer/Lehrkräfte) passen.\n\n\n\nJetzt wird es praktisch: Wir entwickeln Apps, Flyer, Kursmanuale oder Videos.\nWichtig: Eine App bringt nichts, wenn die Zielgruppe (z. B. Hochbetagte) keine Smartphones nutzt.\nDie Methoden aus Schritt 3 müssen “instrumentalisiert” werden."
+  },
+  {
+    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#struktur-kanäle",
+    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#struktur-kanäle",
+    "title": "Modul 08-006-0007",
+    "section": "Struktur & Kanäle",
+    "text": "Struktur & Kanäle\n\nUmfang & Ablauf: Wie intensiv ist das Programm? Laufen Module parallel oder nacheinander?\nKommunikationskanal: Das Medium (z. B. persönlicher Kontakt, App, Print).\nKommunikationsvehikel: Die Verpackung (z. B. Interview, Talkshow, Handbuch).\nThema: Ein roter Faden (z. B. “Piratenthema” für Kinder oder “Die virtuelle Kreuzfahrt”).\n\n\n\nEin Radiointerview (Kanal) eignet sich nicht für “Angeleitete Übung” (Methode).\nDas Thema hilft, die Zielgruppe emotional abzuholen und eine Identität zu schaffen."
+  },
+  {
+    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#produktion-qualitätssicherung",
+    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#produktion-qualitätssicherung",
+    "title": "Modul 08-006-0007",
+    "section": "Produktion & Qualitätssicherung",
+    "text": "Produktion & Qualitätssicherung\n\nInterdisziplinäre Teams: Zusammenarbeit mit Grafikern, ITlern oder Schauspielern.\nBriefing ist alles: Externe Fachkräfte kennen keine Wirkparameter (z. B. Coping Model)!\nPrätest & Pilotierung:\n\nPrätest: Einzelteile prüfen (Verständlichkeit, Ästhetik, Wirkung auf Determinanten).\nPilotversuch: Das komplette Programm im Testlauf (Reibungsloser Ablauf?).\n\n\n\n\nAls Psychologen müssen wir den Designern sagen: “Das Vorbild im Video darf nicht zu perfekt sein, es muss Hürden überwinden.”\nPrätest verhindert peinliche Fehler oder Unverständnis."
+  },
+  {
+    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#beispiel-piraten-im-kindergarten",
+    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#beispiel-piraten-im-kindergarten",
+    "title": "Modul 08-006-0007",
+    "section": "Beispiel: Piraten im Kindergarten",
+    "text": "Beispiel: Piraten im Kindergarten\n\nThema: Piratenkinder “Finn und Fine” als Identifikationsfiguren.\nKomponenten:\n\n20 Bewegungsstunden (je 45 Min.).\n15 Ernährungseinheiten (z. B. “Gesunde Durstlöscher”).\n14 Freizeiteinheiten (Einbindung der Eltern).\n56 Bewegungskarteikarten (für den Alltag).\n\nMethoden-Check: Modeling (via Handpuppen), Belohnung, Zielsetzung (Fernsehfreie Tage).\n\n\n\nHier sieht man die Kette: Verhaltensziel (Bewegung) -&gt; Methode (Modeling) -&gt; Anwendung (Handpuppen Finn & Fine).\nDie Bewegungskarten senken die Barriere für die Erzieher (Umsetzende)."
+  },
+  {
+    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#die-freizeiteinheiten-auszug",
+    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#die-freizeiteinheiten-auszug",
+    "title": "Modul 08-006-0007",
+    "section": "Die Freizeiteinheiten (Auszug)",
+    "text": "Die Freizeiteinheiten (Auszug)\n\n\n\n\n\n\n\n\nTitel\nZiel\nMethode\n\n\n\n\nPiratenfahne\nFernsehfreie Tage\nSelbstgesetztes Ziel, Eltern-Einbindung.\n\n\nPapierflieger\nBewegte Alternativen\nPräsentation von Handlungsalternativen.\n\n\nFreizeitampel\nReflexion Medienkonsum\nWissensvermittlung, Selbstreflexion.\n\n\n\n\n\nAchtet darauf, wie die Eltern als “Umwelt-Agierende” eingebunden werden (Briefe auf Deutsch, Türkisch, Russisch)."
+  },
+  {
+    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#evaluation-hat-es-funktioniert",
+    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#evaluation-hat-es-funktioniert",
+    "title": "Modul 08-006-0007",
+    "section": "Evaluation: Hat es funktioniert?",
+    "text": "Evaluation: Hat es funktioniert?\n\nZiel: Messung der Effekte (Effektevaluation) und Analyse des Prozesses (Prozessevaluation).\nLogik: Wir prüfen jede Stufe unseres “Logischen Modells der Veränderung” (Schritt 2).\nKontinuum: Evaluation ist kein einmaliges Event, sondern notwendige Qualitätssicherung.\n\n\n\nWir fragen: Haben sich die Determinanten geändert? Führt das zum Verhalten? Und verbessert das die Gesundheit?\nOhne Evaluation wissen wir nicht, ob Erfolg Zufall war oder Misserfolg an der Theorie lag."
+  },
+  {
+    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#effektevaluation-wirksamkeit-vs.-effektivität",
+    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#effektevaluation-wirksamkeit-vs.-effektivität",
+    "title": "Modul 08-006-0007",
+    "section": "Effektevaluation: Wirksamkeit vs. Effektivität",
+    "text": "Effektevaluation: Wirksamkeit vs. Effektivität\n\nWirksamkeit (Efficacy): Funktioniert es unter Laborbedingungen? (Homogene Stichprobe, hohe Kontrolle).\nEffektivität (Effectiveness): Funktioniert es in der “echten Welt”? (Heterogene Gruppen, stressiger Alltag der Umsetzer).\nMessgrößen:\n\nVeränderungsziele (Fragebögen zu Determinanten).\nVerhaltensziele (Schrittzähler, Tagebücher).\nGesundheitsziele (BMI, Blutdruck – oft erst langfristig!).\n\n\n\n\nEin Programm kann wirksam sein (im Labor), aber nicht effektiv (weil es im Alltag keiner schafft).\nTipp für die Hausarbeit: Überlegt euch Messgrößen für alle Ebenen!"
+  },
+  {
+    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#pwr.2p.test-vergleich-von-quoten",
+    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#pwr.2p.test-vergleich-von-quoten",
+    "title": "Modul 08-006-0007",
+    "section": "pwr.2p.test (Vergleich von Quoten)",
+    "text": "pwr.2p.test (Vergleich von Quoten)\nWenn ihr wissen wollt, wie viele Probanden ihr braucht, um zu zeigen, dass in der Interventionsgruppe (IG) prozentual mehr Leute sportlich aktiv sind als in der Kontrollgruppe (KG):\n\nlibrary(pwr)\n\n# Beispiel: IG erreicht zu 60% das Ziel, KG nur zu 40% (h = 0.4)\n# Wie viele Leute brauchen wir pro Gruppe für Power = 0.8?\npwr.2p.test(h = 0.4, sig.level = 0.05, power = 0.8, alternative = \"greater\")\n\n\n     Difference of proportion power calculation for binomial distribution (arcsine transformation) \n\n              h = 0.4\n              n = 77.28199\n      sig.level = 0.05\n          power = 0.8\n    alternative = greater\n\nNOTE: same sample sizes\n\n\n\n\nh ist die Effektstärke für Proportionen.\n“greater” nutzen wir, wenn wir eine gerichtete Hypothese haben (IG &gt; KG)."
+  },
+  {
+    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#prozessevaluation-das-warum-klären",
+    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#prozessevaluation-das-warum-klären",
+    "title": "Modul 08-006-0007",
+    "section": "Prozessevaluation: Das “Warum” klären",
+    "text": "Prozessevaluation: Das “Warum” klären\n\nWarum war ein Programm (nicht) erfolgreich?\n7 Kernkomponenten:\n\nKontext: Soziales Umfeld (z. B. religiöse Vorbehalte).\nReichweite: Welcher Anteil der Zielgruppe wurde erreicht?\nAusmaß (Dosis): Wurden alle Einheiten durchgeführt?\nEmpfang: Hat die Zielgruppe das Programm bis zum Ende absolviert?\nUmsetzungsgenauigkeit (Fidelity): Wurde es wie geplant durchgeführt?\nGesamtumsetzung: Gesamtfazit der Implementierung.\nAnwerben: Wie wurden Teilnehmende rekrutiert?\n\n\n\n\nBeispiel: Wenn die Erzieher die Ernährungseinheiten weglassen (Dosis), kann das Programm den BMI nicht senken. Das liegt dann nicht an der Theorie, sondern am Prozess!"
+  },
+  {
+    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#pwr.chisq.test-häufigkeiten-analysieren",
+    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#pwr.chisq.test-häufigkeiten-analysieren",
+    "title": "Modul 08-006-0007",
+    "section": "pwr.chisq.test (Häufigkeiten analysieren)",
+    "text": "pwr.chisq.test (Häufigkeiten analysieren)\nIdeal für die Prozessevaluation: Unterscheiden sich Teilnehmer und Abbrecher (Dropout-Analyse) signifikant?\n\n# Beispiel: Zusammenhang zwischen Geschlecht und Programmabbruch\n# Effektstärke w = 0.3 (mittel), 1 Freiheitsgrad (2x2 Tabelle)\npwr.chisq.test(w = 0.3, df = 1, sig.level = 0.05, power = 0.8)\n\n\n     Chi squared power calculation \n\n              w = 0.3\n              N = 87.20954\n             df = 1\n      sig.level = 0.05\n          power = 0.8\n\nNOTE: N is the number of observations\n\n\n\nHilfreich, um zu prüfen, ob eure Stichprobe für Untergruppen-Analysen (z. B. Männer vs. Frauen) groß genug ist."
+  },
+  {
+    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#evaluationsdesign-im-sport",
+    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#evaluationsdesign-im-sport",
+    "title": "Modul 08-006-0007",
+    "section": "Evaluationsdesign im Sport",
+    "text": "Evaluationsdesign im Sport\n\nGoldstandard: RCT (Randomized Controlled Trial).\nProblem im Feld: Einzelrandomisierung oft unmöglich (man kann nicht halbe Schulklassen trainieren).\nLösung: - Cluster-Randomisierung: Ganze Organisationen (Schulen/Vereine) zufällig zuteilen.\n\nWartelisten-Design: Die Kontrollgruppe erhält die Intervention zeitversetzt (ethisch oft besser).\n\n\n\n\n“Komm mit in das gesunde Boot” nutzt genau dieses Wartelisten-Design. Das erhöht die Akzeptanz bei den Schulen, da niemand leer ausgeht."
+  },
+  {
+    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#dokumentation-transparenz",
+    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#dokumentation-transparenz",
+    "title": "Modul 08-006-0007",
+    "section": "Dokumentation & Transparenz",
+    "text": "Dokumentation & Transparenz\n\nWarum dokumentieren?\n\nErmöglicht Replikation durch andere Forscher/Praktiker.\nIdentifiziert “aktive Komponenten” (Was genau hat gewirkt?).\nBildet die Basis für Wissenschaft und Praxis.\n\nIntervention Mapping Vorteil: Eine einheitliche Terminologie macht Programme weltweit vergleichbar.\n\n\n\nViele Entwickler vergessen die Dokumentation der “Black Box”. IM zwingt uns dazu, jeden Schritt von der Determinante bis zur Evaluation festzuhalten."
+  },
+  {
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#wie-misst-man-etwas-das-unsichtbar-ist",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#wie-misst-man-etwas-das-unsichtbar-ist",
+    "title": "Modul 08-006-0007",
+    "section": "Wie misst man etwas, das “unsichtbar” ist?",
+    "text": "Wie misst man etwas, das “unsichtbar” ist?\n\nempirisches vs. numerisches Relativ\nSkalenniveaus\nKonstrukte\nObjektivität, Reliabilität, Validität\n\n\nEmpirisches und Numerisches Relativ, Skalenniveaus, Objektivität, Reliabilität, Validität"
+  },
+  {
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#was-ist-ein-psychometrischer-test",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#was-ist-ein-psychometrischer-test",
+    "title": "Modul 08-006-0007",
+    "section": "Was ist ein psychometrischer Test?",
+    "text": "Was ist ein psychometrischer Test?\n\nEin standardisiertes Verfahren zur quantitativen Erfassung von Merkmalen.\nZiel: Inter- (zwischen Personen) und intraindividuelle (innerhalb einer Person über die Zeit) Unterschiede messen.\nIn der Rehabilitation: Prozessdiagnostik (Verändert sich die Motivation durch mein Training?).\n\n\n\nStandardisierung bedeutet: Gleiche Instruktion, gleiche Auswertung, gleiche Interpretation für alle.\nErinnert euch an die letzte Sitzung: Um “Erleben” (Piggin) messbar zu machen, brauchen wir Regeln."
+  },
+  {
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#herausforderungen-fehlerquellen",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#herausforderungen-fehlerquellen",
+    "title": "Modul 08-006-0007",
+    "section": "Herausforderungen & Fehlerquellen",
+    "text": "Herausforderungen & Fehlerquellen\n\nSoziale Erwünschtheit: “Ja, ich trainiere jeden Tag…”\nReaktivität: Allein die Messung verändert das Verhalten (Mere-Measurement-Effekt).\nDecken- & Bodeneffekte: Wenn der Test zu leicht oder zu schwer ist (z.B. ein Motivationsfragebogen, bei dem jeder “Hoch” ankreuzt).\n\n\n\nDemand-Effekt: Probanden antworten so, wie sie glauben, dass ihr es als Versuchsleiter hören wollt.\nWichtig für eure Hausarbeit: Kritische Reflexion der gewählten Skalen!"
+  },
+  {
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#selbstwirksamkeit-self-efficacy",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#selbstwirksamkeit-self-efficacy",
+    "title": "Modul 08-006-0007",
+    "section": "1. Selbstwirksamkeit (Self-Efficacy)",
+    "text": "1. Selbstwirksamkeit (Self-Efficacy)\n\nDas Vertrauen in die eigene Fähigkeit, eine Handlung auch bei Barrieren auszuführen.\nZentrales Konstrukt im HAPA & Sozial-kognitiver Theorie.\nMessung: “Ich bin mir sicher, dass ich Sport treiben kann, auch wenn es regnet…”\n\n\n\nEines der stärksten Prädiktoren für sportliche Aktivität.\nBezug zur Bachelorarbeit: Wie korreliert Selbstwirksamkeit mit der erinnerten Aktivität?"
+  },
+  {
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#stadien-der-veränderung-ttm",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#stadien-der-veränderung-ttm",
+    "title": "Modul 08-006-0007",
+    "section": "2. Stadien der Veränderung (TTM)",
+    "text": "2. Stadien der Veränderung (TTM)\n\nErfassung der Bereitschaft via “Stadienfragebögen”.\nFrage: “Planen Sie, in den nächsten 6 Monaten aktiver zu werden?”\nHilft bei der Zuweisung zu Interventionsgruppen (Match-Mismatch).\n\n\n\nKritik aus der Vorlesung: Sind Stadien wirklich diskret oder ein Kontinuum? (Siehe Adams & White Paper)."
+  },
+  {
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#einstellungen-affekt",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#einstellungen-affekt",
+    "title": "Modul 08-006-0007",
+    "section": "3. Einstellungen & Affekt",
+    "text": "3. Einstellungen & Affekt\n\nKognitiv: “Sport ist gesund für mich.”\nAffektiv: “Sport macht mir Spaß / gibt mir Energie.”\nStolz (Incentives): Antizipierter Stolz als Motivator für die Aufrechterhaltung.\n\n\n\nStolz ist ein machtvolles selbstbewertendes Gefühl. Wenn ich stolz auf meine Leistung bin, steigt die Wahrscheinlichkeit für Maintenance."
+  },
+  {
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#fragebögen-vs.-konstrukte",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#fragebögen-vs.-konstrukte",
+    "title": "Modul 08-006-0007",
+    "section": "Fragebögen vs. Konstrukte",
+    "text": "Fragebögen vs. Konstrukte\n\nAktivitätsfragebogen: Misst das Verhalten (Wie oft? Wie intensiv?).\nPsychometrischer Fragebogen: Misst die Determinanten des Verhaltens (Warum? Traue ich es mir zu?).\nProblem: Beide leiden unter dem Recall Bias (Erinnerungsverzerrung).\n\n\n\nWir nutzen die psychometrischen Tests in IM Schritt 2, um zu wissen, wo wir ansetzen müssen (z.B. mangelnde Selbstwirksamkeit stärken)."
+  },
+  {
+    "objectID": "5_webbasiert/praesentation5_web.html#humanoo",
+    "href": "5_webbasiert/praesentation5_web.html#humanoo",
+    "title": "Modul 08-006-0007",
+    "section": "Humanoo",
+    "text": "Humanoo"
+  },
+  {
+    "objectID": "5_webbasiert/praesentation5_web.html#webseitenerstellung-mit-quarto",
+    "href": "5_webbasiert/praesentation5_web.html#webseitenerstellung-mit-quarto",
+    "title": "Modul 08-006-0007",
+    "section": "Webseitenerstellung mit Quarto",
+    "text": "Webseitenerstellung mit Quarto"
+  },
+  {
+    "objectID": "5_webbasiert/praesentation5_web.html#online-coaching-tipps",
+    "href": "5_webbasiert/praesentation5_web.html#online-coaching-tipps",
+    "title": "Modul 08-006-0007",
+    "section": "Online-Coaching: Tipps",
+    "text": "Online-Coaching: Tipps\n\nkeine teure Kamera\nAnsteckmikro oder Headset gegen Umgebungsgeräusche\nSafe fail oder Failsafe\nDon’t touch a running system\nAusleuchtung von vorn\nOBS Studio"
+  },
+  {
+    "objectID": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#der-ökologische-ansatz",
+    "href": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#der-ökologische-ansatz",
+    "title": "Modul 08-006-0007",
+    "section": "Der Ökologische Ansatz",
+    "text": "Der Ökologische Ansatz\n\nPsychologie beschäftigt sich mit dem Erleben und Verhalten von Individuen. In der heutigen Psychologie wird Erleben und Verhalten als eine Wechselwirkung zwischen der Person einerseits und der Situation andererseits erklärt. Das Erleben und Verhalten von Individuen existiert also keineswegs in einem Vakuum. Dem ökologischen Ansatz zufolge ist ein Individuum in eine Reihe von Systemen eingebettet. Jede weiter außen die “Schicht”, desto weiter entfernt ist das System. Man spricht hier auch von proximal und distal. Ein proximales System wäre zum Beispiel die zwischenmenschliche Ebene. Hier interagieren wir direkt mit den Personen, und wir haben relativ viel Kontrolle über dieses System. Die Gesellschaft ist ein sehr distales System. Wir interagieren nicht direkt mit allen Personen, die die Gesellschaft ausmachen. Und wir haben auch relativ wenig Kontrolle über die Gesellschaft.\nIm Kontext der Gesundheitsförderung (oder hier, in diesem Seminar: Bewegungsförderung) ist dieser Ansatz auch sehr wichtig. Wenn wir wollen, dass Leute mehr Sport treiben, wäre es wenig erfolgreich, wenn wir dabei nur die Leute selbst betrachten. In jedem System gibt es Faktoren, die die Sportteilnahme beeinflussen. Auf der Zwischenmenschlichen Ebene könnten Verpflichtungen gegenüber Familienmitgliedern die Sportteilnahme beeinflussen. In Organisationen wie z.B. dem Unternehmen, bei dem man arbeitet, können Sportangebote die Bewegung fördern. In einer Gemeinschaft können unterschiedliche Ressourcen zur Sportteilnahme bereitstehen, wie z.B. Vereinsstrukturen, Parks, öffentliche Sportanlagen etc. Und die Einstellung zu Sport in der Gesellschaft beinflusst ebenso das Ausmaß, wie viel sich Leute bewegen.\n\n\n\nAbbildung 1: Der ökologische Ansatz in Interventionen zur Gesundheitsförderung"
+  },
+  {
+    "objectID": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#die-sechs-schritte-im-intervention-mapping",
+    "href": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#die-sechs-schritte-im-intervention-mapping",
+    "title": "Modul 08-006-0007",
+    "section": "Die Sechs Schritte im Intervention Mapping",
+    "text": "Die Sechs Schritte im Intervention Mapping\n\nVom Anfang bis zum Schluss sollten bei der Planung einer psychologisch fundierten Intervention diese sechs Schritte berücksichtigt werden. In der Realität ist dieser Prozess nicht so linear, wie es diese Liste suggeriert. Die einzelnen Schritte bauen aufeinander auf, aber es kommt oft vor, dass das Entwicklungsteam zwischen Schritten wechselt. Das ist ganz normal, wichtig ist nur, dass jeder Schritt durchlaufen wird.\nSchauen wir uns die Schritte mal im Einzelnen an.\nDie Bedarfsanalyse dient dazu, sich einen Überblick zu verschaffen. Hier werden Ursachen für das Problem gesucht. Diese können in der Person liegen (Verhaltensursachen), oder in der Situation (Umweltursachen). Es geht auch um Determinanten. Das ist ein wichtiges Stichwort hier. Determinanten sind veränderbare Faktoren, die beeinflussen, inwiefern die Teilnehmenden den Zielen der Intervention folgen können.\nAls Beispiel stellen wir uns vor, dass in einer Umfrage offenbart, dass Studierende der Uni Leipzig sich zu wenig bewegen. Im ersten Schritt fragen wir uns dann, was Problem ist (Bewegungsmangel), warum es ein Problem ist (Folgen?), wodurch das Problem verursacht wird (Ursachen), und für wen es ein Problem ist (Stichwort Zielgruppe).\nIn Schritt 3 geht es um Methoden, also generalisierbare Prozesse oder Techniken, die das Verhalten der Zielgruppe, bzw. der Agierenden auf Umweltebene beeinflussen. In unserem einfachen beispiel würde die Methode “Information” lauten. Diese Methoden müssen dann in praktische Anwendungen übersetzt werden, in unserem Beispiel also das Aushändigen von Werbematerial.\nIm nächsten Schritt, der Programmentwicklung, geht es dann darum, die Materialien und -komponenten zu entwickeln. In unserem Beispiel würde man also hier überlegen, wie genau man die Werbung gestaltet. Für die Produktion der Materialien müssen evtl. externe Personen, z.B: Grafikdesigner:innen, konsultiert werden. Man kann sich entscheiden, einen Prä-Test oder Pilotversuch zu machen, um die Materialien zu testen. Außerdem ist hier wichtig, die Zielgruppe zu berücksichtigen, z.B. wäre eine Smartphone-basierte Intervention nur sinnvoll, wenn die Zielgruppe Smartphones hat und gut mit diesen umgehen kann.\nDanach kommt die Annahme und Umsetzung. Die Personen, die entscheiden können, ob die Intervention eingeführt wird, sind die Annehmenden. Die Personen, die dann die Intervention umsetzten, wie z.B. Übungsleiter:innen sind die Umsetzenden. Beide müssen von dem Programm überzeugt werden.\nIm letzten Schritt bewertet man die Intervention. Einerseits dahingehend, wie gut es lief (Prozessevaluation). Also z.B. wie die Reichweite des Programms war etc. , &lt;&lt;&lt;&lt; 1. der Kontext, 2. die Reichweite, 3. das Ausmaß, in dem das Programm umgesetzt wurde, 4. das Ausmaß, in dem das Programm empfangen wurde, 5. die Umsetzungsgenauigkeit, 6. die Gesamtumsetzung und 7. das Anwerben von Teilnehmenden. &gt;&gt;&gt;\nAndererseits geht es um die Effektevaluation, also wie sehr sich die Gesundheit und Lebensqualität verbessert hat, und wie sich Verhaltensparameter und Umweltvariablen verändert haben. Dabei ist ein angemessenener Zeitrahmen wichtig. Kurz nach Auslegen der Werbung wird man kaum eine spürbare Verbesserung der Gesundheit feststellen, nach einem Semester hingegen schon.\n\n\nBedarfsanalyse\nErstellen von Programmzielen\n\nVeränderungsziele\nHandlungsziele\nVerhaltensziele\n\nAuswahl theoriebasierter Methoden und praktischer Anwendungen\nProgrammentwicklung\nAnnahme und Umsetzung des Programms"
+  },
+  {
+    "objectID": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#bedarfsanalyse",
+    "href": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#bedarfsanalyse",
+    "title": "Modul 08-006-0007",
+    "section": "Bedarfsanalyse",
+    "text": "Bedarfsanalyse"
+  },
+  {
+    "objectID": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#logisches-modell-des-problems",
+    "href": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#logisches-modell-des-problems",
+    "title": "Modul 08-006-0007",
+    "section": "Logisches Modell des Problems",
+    "text": "Logisches Modell des Problems\n\nLogisches Modell des Problems"
+  },
+  {
+    "objectID": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#logisches-modell-der-veränderung",
+    "href": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#logisches-modell-der-veränderung",
+    "title": "Modul 08-006-0007",
+    "section": "Logisches Modell der Veränderung",
+    "text": "Logisches Modell der Veränderung\n{fig-veraenderung}"
+  },
+  {
+    "objectID": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#logisches-modell-von-interventionen",
+    "href": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#logisches-modell-von-interventionen",
+    "title": "Modul 08-006-0007",
+    "section": "Logisches Modell von Interventionen",
+    "text": "Logisches Modell von Interventionen\n\nBartholomew und Kolleg:innen systematisieren in ihrem Ansatz des Intervention Mappings psychologische Interventionen. Dabei gibt es zwei Richtungen zu beachten. Zum einen, die angenomme Wirkrichtung, von dem was wir in der Intervention machen bis zu den Ergebnissen. Darunter seht ihr, dass die Reihenfolge der Planungsschritte umgekehrt ist: Wir starten mit einem Ergebnis, das wir erreichen wollen, leiten daraus Ziele ab, und kommen am Ende an konkreten Materialien (z.B. Flyer) und Aktivitäten (z.B. Workshops) an. [Erklärung des Modells]\nDiese systematisierung von psychologischen Interventionen ist für die abschließende Hausarbeit sehr relevant. Wenn ihr jeden dieser Schritte berücksichtigt, sollte es nicht schwerfallen, auf die benötigte Seitenzahl zu kommen.\n\n\n\nAbbildung 2: Logisches Modell von Interventionen"
+  },
+  {
+    "objectID": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#gruppenaufgabe-20-min",
+    "href": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#gruppenaufgabe-20-min",
+    "title": "Modul 08-006-0007",
+    "section": "Gruppenaufgabe (20 min)",
+    "text": "Gruppenaufgabe (20 min)\nFindet euch in 3er-Gruppen zusammen, wenn es nicht aufgeht auch zu zweit oder zu viert. Stellt euch vor, ihr wurdet als Planungsteam rekrutiert, um eine Intervention zu realisieren. Die Intervention soll Studierenden an der Uni Leipzig zu mehr physischer Aktivität verhelfen. Führt eine Bedarfsanalyse durch (benennt dabei Verhaltensfaktoren, Umweltfaktoren und Determinanten). Sammelt eure Ergebnisse Stichpunktartig und bereitet euch darauf vor, sie vor dem Plenum kurz zu erklären."
+  },
+  {
+    "objectID": "9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen/Praesentation9_Methoden.html#theoretische-methoden-und-praktische-anwendungen",
+    "href": "9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen/Praesentation9_Methoden.html#theoretische-methoden-und-praktische-anwendungen",
+    "title": "Modul 08-006-0007",
+    "section": "Theoretische Methoden und praktische Anwendungen",
+    "text": "Theoretische Methoden und praktische Anwendungen\n\nKernfrage: Wie bringen wir Menschen dazu, die Veränderungsziele aus Schritt 2 zu erreichen?\nDer Prozess: Strukturierte Auswahl von Theorien \\(\\rightarrow\\) Übersetzung in Interventionselemente.\nZiel: Eine lückenlose Kette von der Determinante bis zur Übung.\n\n\n\nIn Schritt 2 haben wir festgelegt, WAS sich ändern muss.\nIn Schritt 3 legen wir fest, WIE wir das erreichen.\nWichtig: Wir raten nicht, wir nutzen Evidenz."
+  },
+  {
+    "objectID": "9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen/Praesentation9_Methoden.html#die-drei-säulen-kasten-6.3",
+    "href": "9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen/Praesentation9_Methoden.html#die-drei-säulen-kasten-6.3",
+    "title": "Modul 08-006-0007",
+    "section": "Die drei Säulen (Kasten 6.3)",
+    "text": "Die drei Säulen (Kasten 6.3)\n\nTheoretische Methode: Allgemeine, theoriebasierte Technik (z. B. Modeling oder Angeleitete Übung). Sie ist universell gültig.\nPraktische Anwendung: Die spezifische Übersetzung für die Zielgruppe (z. B. ein Video eines Reha-Patienten oder ein gemeinsames Training).\nWirkparameter: Die “Gebrauchsanweisung” der Methode. Werden diese ignoriert, wirkt die Methode nicht!\n\n\n\nBeispiel Modeling: Es reicht nicht, IRGENDJEMANDEN zu zeigen.\nDas Model muss relevant sein (Wirkparameter)."
+  },
+  {
+    "objectID": "9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen/Praesentation9_Methoden.html#achtung-der-fehler-mit-den-wirkparametern",
+    "href": "9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen/Praesentation9_Methoden.html#achtung-der-fehler-mit-den-wirkparametern",
+    "title": "Modul 08-006-0007",
+    "section": "Achtung: Der Fehler mit den Wirkparametern",
+    "text": "Achtung: Der Fehler mit den Wirkparametern\n\nBeispiel Furchtappelle (Schreckbilder):\n\nIdee: Angst abschrecken (Emotionale Erregung).\nVergessene Wirkparameter: Furchtappelle funktionieren NUR, wenn gleichzeitig die Selbstwirksamkeit hoch ist und eine klare Handlungslösung angeboten wird.\nFolge: Defensive Reaktionen (Leugnung, Ignorieren), besonders bei Suchtverhalten.\n\n\n\n\nDas ist ein klassisches Beispiel für gut gemeinte, aber schlecht geplante Interventionen.\nOhne Selbstwirksamkeit führt Angst zu Abwehr, nicht zu Verhaltensänderung."
+  },
+  {
+    "objectID": "9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen/Praesentation9_Methoden.html#methoden-für-den-sportkontext-beispiele",
+    "href": "9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen/Praesentation9_Methoden.html#methoden-für-den-sportkontext-beispiele",
+    "title": "Modul 08-006-0007",
+    "section": "Methoden für den Sportkontext (Beispiele)",
+    "text": "Methoden für den Sportkontext (Beispiele)\n\nAngeleitete Übung (Guided Practice): Zur Steigerung von Fähigkeiten und Selbstwirksamkeit.\nModeling: Ein “Coping Model” zeigt, wie man Hürden im Training überwindet (nicht ein Profisportler, dem alles leicht fällt!).\nSoziale Unterstützung: Bindungen im Sportkurs stärken.\n\n\n\nCoping Model vs. Mastery Model: Ein Patient, der zeigt, wie er trotz Knieschmerzen mit dem Training beginnt, ist effektiver als ein Fitness-Model."
+  },
+  {
+    "objectID": "9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen/Praesentation9_Methoden.html#von-der-theorie-zur-matrix-tabelle-6.3",
+    "href": "9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen/Praesentation9_Methoden.html#von-der-theorie-zur-matrix-tabelle-6.3",
+    "title": "Modul 08-006-0007",
+    "section": "Von der Theorie zur Matrix (Tabelle 6.3)",
+    "text": "Von der Theorie zur Matrix (Tabelle 6.3)\nUm sicherzustellen, dass jedes Ziel adressiert wird, ordnen wir: 1. Veränderungsziel (z. B. “Kann Etiketten lesen”) 2. Determinante (z. B. Fähigkeit/Wissen) 3. Methode (z. B. Erfolgserlebnisse/Übung) 4. Anwendung (z. B. “Workshop: Einkaufs-Check im Supermarkt”)\n\n\nHinweis auf “Snack Healthy” Beispiel: Zeigen, wie Peer-Videos (Anwendung) die Methode des sozialen Vergleichs nutzen."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Präsentationsfolien und online-Termine",
+    "section": "",
+    "text": "Willkommen auf der Kursseite. Hier finden Sie alle Präsentationen und Materialien für das Sommersemester 2026."
+  },
+  {
+    "objectID": "index.html#kursinhalte",
+    "href": "index.html#kursinhalte",
+    "title": "Präsentationsfolien und online-Termine",
+    "section": "Kursinhalte",
+    "text": "Kursinhalte\n\nGrundlagen\n\nEinleitung & Fallbeispiele\nMessung und Definition sportlicher Aktivität\nPsychometrische Fragebögen\n\n\n\nSpezielle Anwendungsfälle\n\nKultursensible Interventionen\nWebbasierte Interventionen\n\n\n\nMethoden & Design\n\nStudiendesign & Stichprobe\n\n\n\nIntervention Mapping (IM)\n\nIM I: Bedarfsanalyse\nIM II: Zielsetzung\nIM III: Methodenwahl\nIM IV: Materialentwicklung\nIM V: Umsetzung\nIM VI: Evaluation\n\n\n\nRessourcen\n\nStichwortliste\nLinksammlung\n\n\n\n\n\n\n\nHinweise zur Nutzung\n\nDie Präsentationen sind als Reveal.js Slides optimiert.\nNutzen Sie die Taste m, um das Menü aufzurufen, oder f für den Vollbildmodus.\nAlle Literaturangaben finden Sie am Ende der jeweiligen Präsentation."
   }
 ]

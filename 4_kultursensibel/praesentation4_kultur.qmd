@@ -54,12 +54,16 @@ Plenumsdiskussion: Welche Gemeinsamkeiten und Unterschiede zu hiesigen Formen de
 
 -   **Frame-Switching**: Individuen können zwischen verschiedenen kulturellen Interpretationsrahmen wechseln, je nach dominantem Reiz [@lott, S. 11].
 -   **Interpretationsfilter**: Kultur bereitet uns darauf vor, Ereignissen Aufmerksamkeit zu schenken und ihnen Bedeutung zuzuschreiben [@lott, S. 13].
--   **Gegenseitige Konstitution**: Menschen schaffen kulturelle Prozesse, und kulturelle Prozesse schaffen Menschen [@lott, S. 24].
+-   **Gegenseitige Konstruktion**: Menschen schaffen kulturelle Prozesse, und kulturelle Prozesse schaffen Menschen [@lott, S. 24].
 
 ::: notes
 -   Frame-Switching erklärt, warum sich ein Sportler im Verein anders verhält als in der Familie.
 -   Als Kursleitung müssen wir verstehen, welchen "Frame" unsere Intervention triggert.
 :::
+
+## Übung: Das Multikulturelle Selbst
+
+![](2026-04-10%2012-34-42.jpg){width="333"}
 
 ## Interkulturelle Trainings
 
@@ -79,20 +83,20 @@ Interkulturelle Trainings lassen sich nach zwei Dimensionen klassifizieren [@Maz
 -   Für Sporttherapeuten ist laut Kinast [-@Kinast2010] oft eine Mischung aus beidem am effektivsten, um Handlungssicherheit zu gewinnen.
 :::
 
-## Methoden interkultureller Trainings 
+## Methoden interkultureller Trainings
 
 | Methode | Beschreibung |
-|:----------------|:----------------|
-| **Kulturspezifische Assimilators** | Konflikte einer Kultur mit Erklärungsoptionen. | 
-| **Kulturübergreifende Assimilators** | Allgemeine Sensibilisierung durch diverse Fallbeispiele. | 
-| **Cross-cultural dialogues** | Analyse von Kommunikation und Perspektivwechsel. 
-| **Simulationen** | Aktives Nachspielen interkultureller Begegnungen. 
-| **Selbstreflexion** | Analyse der eigenen kulturellen Prägung.
+|:---|:---|
+| **Kulturspezifische Assimilators** | Konflikte einer Kultur mit Erklärungsoptionen. |
+| **Kulturübergreifende Assimilators** | Allgemeine Sensibilisierung durch diverse Fallbeispiele. |
+| **Cross-cultural dialogues** | Analyse von Kommunikation und Perspektivwechsel. |
+| **Simulationen** | Aktives Nachspielen interkultureller Begegnungen. |
+| **Selbstreflexion** | Analyse der eigenen kulturellen Prägung. |
+
 [@Bolten2006]
 
 ::: notes
--   "Assimilators" (Kultur-Assimilator) helfen dabei, fremde Perspektiven als valide Interpretationen zu akzeptieren [@Kinast2010].
-Hier auf das .Jpg im Ordner bezug nehmen. 
+-   "Assimilators" (Kultur-Assimilator) helfen dabei, fremde Perspektiven als valide Interpretationen zu akzeptieren [@Kinast2010]. Hier auf das .Jpg im Ordner bezug nehmen.
 :::
 
 ## Ziele kultursensibler Gestaltung
@@ -112,11 +116,12 @@ Die Entwicklung interkultureller Kompetenz verfolgt Ziele auf drei psychologisch
 -   Ziel im Gesundheitssport: Eine Umgebung schaffen, in der sich alle "multikulturellen Selbste" (Lott) sicher fühlen.
 -   Kinast [-@Kinast2010] betont hierbei besonders die "Ambiguitätstoleranz" – also die Fähigkeit, Unsicherheiten in interkulturellen Situationen auszuhalten.
 :::
+
 # Kulturelle Dimensionen nach Hofstede
 
 ## Warum Kulturen unterschiedlich "ticken"
 
-Dimensionen von Geert Hofstede [@Hofstede1980;@Hofstede2001] 
+Dimensionen von Geert Hofstede [@Hofstede1980; @Hofstede2001]
 
 1.  **Machtdistanz**: Wie wird mit Hierarchien umgegangen?
 2.  **Individualismus vs. Kollektivismus**: Wer steht im Fokus – das "Ich" oder das "Wir"?
@@ -139,7 +144,7 @@ Dimensionen von Geert Hofstede [@Hofstede1980;@Hofstede2001]
 -   **Kollektivismus (z. B. viele asiatische & afrikanische Länder):**
     -   Fokus auf Harmonie und Loyalität zur Gruppe/Mannschaft.
     -   "Gesicht wahren": Kritik vor der versammelten Gruppe wird als extrem beschämend empfunden.
-    
+
 ## Machtdistanz & Unsicherheit
 
 ### Autorität im Training
@@ -155,15 +160,14 @@ Dimensionen von Geert Hofstede [@Hofstede1980;@Hofstede2001]
 -   Wenn Teilnehmende aus Kulturen mit hoher Machtdistanz nicht mitmachen, liegt das oft nicht an Faulheit, sondern an der Erwartung, dass der Trainer jeden Schritt einzeln diktiert.
 :::
 
-
 ::: notes
 -   **Praxis-Tipp:** In kollektivistischen Kulturen ist Lob vor der Gruppe super, Kritik sollte aber immer unter vier Augen erfolgen.
 :::
 
 ## Kritik am Modell
 
-- nur Individualismus und Langzeitorientierung robust als eigenständige Dimensionen belegbar
-- Vorschlag von @Minkov2017: Zweidimensionales Modell mit IDV-COLL und Flexibilität vs. Monumentalismus (FLX-MON)
+-   nur Individualismus und Langzeitorientierung robust als eigenständige Dimensionen belegbar
+-   Vorschlag von @Minkov2017: Zweidimensionales Modell mit IDV-COLL und Flexibilität vs. Monumentalismus (FLX-MON)
 
 ::: notes
 stabiles vs. anpassungsfähiges selbst
@@ -190,24 +194,11 @@ Sie koordinieren ab sofort die Bewegungsförderung in einer **Erstaufnahmeeinric
 3.  **Kommunikation:** Wie überwinden Sie Sprachbarrieren ohne Dolmetscher?
 4.  **Inklusion & Trauma:** Wie schaffen Sie einen "Safe Space" für Menschen mit Fluchterfahrungen?
 
-**Ziel:** Präsentation Ihres Konzepts (ca. 10 Min., bei 2 Personen 15 min) mit anschließender kollegialer Beratung (bzw. Diskussion mit Mitstudierenden).
+**Ziel:** Präsentation Ihres Konzepts mit anschließender kollegialer Beratung (bzw. Diskussion mit Mitstudierenden).
 
 ::: notes
-**Theoretischer Background für die Diskussion:**
--   **Akkulturation durch Sport (Gieß-Stüber):** Sport ist hier kein Assimilationsinstrument ("Ihr müsst jetzt deutsch werden"), sondern ein Raum für "Reflexive Interkulturalität". Die Teilnehmer bringen ihre Bewegungskultur mit, während der Sportverein als Brücke zur Gesellschaft dient.
--   **Frame-Switching (Lott, 2010):** Der Sportplatz muss als "Sicherer Frame" etabliert werden, in dem andere Regeln gelten als im stressigen Heim-Alltag [@lott, S. 11].
--   **Hofstede-Dimensionen:**
-    -   *Machtdistanz:* Trainer:innen sollten klare Führung bieten, da "Laissez-faire" oft als Inkompetenz oder Desinteresse missverstanden wird.
-    -   *Kollektivismus:* Fokus auf Team-Erfolge statt Einzelkritik, um "Gesichtsverlust" zu vermeiden.
--   **Traumasensible Tipps:**
-    -   Vermeidung von Trillerpfeifen (Trigger für Sirenen/Beschuss).
-    -   Keine Spiele mit "Einkesseln" oder Verfolgung (löst Panik aus).
-    -   Rhythmische, repetitive Bewegungen (Laufen, Tanzen, Trommeln) wirken regulierend auf das Nervensystem.
--   **Gender:**
-    -   Frauenspezifische Angebote sind oft essenziell für die Teilnahme (Sichtschutz!).
-    -   Gieß-Stüber betont, dass Schamgrenzen ernst genommen werden müssen, um Vertrauen aufzubauen.
+**Theoretischer Background für die Diskussion:** - **Akkulturation durch Sport (Gieß-Stüber):** Sport ist hier kein Assimilationsinstrument ("Ihr müsst jetzt deutsch werden"), sondern ein Raum für "Reflexive Interkulturalität". Die Teilnehmer bringen ihre Bewegungskultur mit, während der Sportverein als Brücke zur Gesellschaft dient. - **Frame-Switching (Lott, 2010):** Der Sportplatz muss als "Sicherer Frame" etabliert werden, in dem andere Regeln gelten als im stressigen Heim-Alltag [@lott, S. 11]. - **Hofstede-Dimensionen:** - *Machtdistanz:* Trainer:innen sollten klare Führung bieten, da "Laissez-faire" oft als Inkompetenz oder Desinteresse missverstanden wird. - *Kollektivismus:* Fokus auf Team-Erfolge statt Einzelkritik, um "Gesichtsverlust" zu vermeiden. - **Traumasensible Tipps:** - Vermeidung von Trillerpfeifen (Trigger für Sirenen/Beschuss). - Keine Spiele mit "Einkesseln" oder Verfolgung (löst Panik aus). - Rhythmische, repetitive Bewegungen (Laufen, Tanzen, Trommeln) wirken regulierend auf das Nervensystem. - **Gender:** - Frauenspezifische Angebote sind oft essenziell für die Teilnahme (Sichtschutz!). - Gieß-Stüber betont, dass Schamgrenzen ernst genommen werden müssen, um Vertrauen aufzubauen.
 :::
-
 
 ## Kollegiale Beratung
 

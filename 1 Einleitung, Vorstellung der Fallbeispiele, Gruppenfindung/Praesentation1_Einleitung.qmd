@@ -18,19 +18,20 @@ resources:
 ---
 
 ```{r setup}
+#| echo: false
 # if (!requireNamespace("needs"   )) install.packages("needs")
 # if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
-# needs("excelbib", "xfun")
+#needs("excelbib", "xfun")
 # xlsx_to_bib(from_root("References.xlsx"))
 ```
 
+# Fahrplan für heute
 
-# Einführung
-
- - Organisation des Seminars
- - Erwartungen und Wünsche an den Kurs
- - Advance Organizer: Bewegungsangebote und Interventionen
- - Themen- und Gruppenfindung
+-   Organisation des Seminars
+-   Themen- und Gruppenfindung
+-   Erwartungen und Wünsche an den Kurs
+-   Advance Organizer: Eigene Strategien der "Bewegungs-Intervention"
+-   Evtl. Mini-Exkurs: Wie man es nicht macht. 
 
 # Organisation des Seminars
 
@@ -39,7 +40,7 @@ resources:
 **Präsenztermine mit Saskia jeweils Freitag 9-17 Uhr**\
 *Gruppe A:*\
 08. Mai 2026\
-29. Mai 2026\	
+29. Mai 2026\
 26. Juni 2026\
 
 *Gruppe B:*\
@@ -47,61 +48,83 @@ resources:
 19. Juni 2026\
 03. Juli 2026\
 
-**Online-Termine jeweils Montag **
-*Gruppe A*: 7:15-8:45
-*Gruppe B*: 9:00-10:30
-Termine: Jeden Montag, mit Ausnahme des 25.5.
+**Online-Termine jeweils Montag** *Gruppe A*: 7:15-8:45 *Gruppe B*: 9:00-10:30 Termine: Jeden Montag, mit Ausnahme des 25.5.
 
 ## Lehrprobe und Hausarbeit
-- Erinnerungs-Emails
-- PVL: Lehrprobe 
-- PL: Hausarbeit 
+
+-   PVL: Lehrprobe
+-   PL: Hausarbeit
 
 ## Lehrprobe
 
-- Themenliste auf Moodle (Themenvergabe heute)
-- Rollenspiel oder Übungsanleitung
-- Bezug zum Lehrmaterial, Zeit: mindestens 10 Minuten --> bestanden! 
-- Thematisch zeitversetzt um eine LV
+-   Themenliste auf Moodle (Themenvergabe heute)
+-   Rollenspiel oder Übungsanleitung
+-   Zeit: mindestens 10 Minuten, Interaktion mit der Gruppe --\> bestanden!
+-   Thematisch zeitversetzt um zwei LV
 
 ## Hausarbeit
 
-- Vier Themen, angelehnt an die Themen in der Lehrprobe.
--Planen einer Intervention nach dem Ansatz des Intervention Mapping.
+-   Vier Fallbeispiele 
+-   Planen einer Intervention
 
 ## Literatur
 
-Moodle-Literatur ist vor dem Unterricht zu lesen!
-Lehrproben basieren auf der Moodle-Literatur zu diesem Thema
+- Bitte mit der Literatur vertraut machen, sodass ihr euch im Seminar einbringen könnt. 
+- Lehrproben basieren auf der Moodle-Literatur zu diesem Thema.
 
-# Erwartungen und Wünsche an den Kurs
+## Themen- und Gruppenfindung
 
-Menti:
+\> [Etherpad Gruppe A](https://moodle2.uni-leipzig.de/mod/etherpadlite/view.php?id=3149450)
 
-# Advance Organizer: Bewegungsangebote und Interventionen
+\> [Etherpad Gruppe B](https://moodle2.uni-leipzig.de/mod/etherpadlite/view.php?id=3170831)
 
-Suchen Sie online nach Apps, Videos, Artikeln oder sonstigen Angeboten, die damit werben, Bewegung zu fördern.
+# Inhaltliche Einführung
+
+## Erwartungen und Wünsche an den Kurs + Quiz
+
+> [Menti Gruppe A](https://www.mentimeter.com/app/presentation/ald7cs6no2chox99mmonayy6duommyo7/edit)
+
+> [Menti Gruppe B](https://www.mentimeter.com/app/presentation/aluuueqkxrr4xq8fhpuvny4o69qf82xw/edit?question=ytzb4fqpmb9c)
+
+![](2026-04-10%2011-58-30.jpg){fig-align="center"}
+
+## Advance Organizer 1: Einfluss auf sportliche Aktivität
+
+Habt ihr in der Vergangenheit versucht, eure Bewegungsgewohnheiten zu ändern? Wie habt ihr das gemacht? War es erfolgreich? Sammelt im Etherpad.
+
+## Wie man Interventionen *nicht* macht
+
+Motivationscoach Jürgen Höller
+<https://youtu.be/pFaBQ-lSSmQ?si=LCddCgC6PN23es5b&t=445>
+- Fatale Suggestion: Motivation entscheide alles
+--> nicht haltbar, siehe z.B. @Fraser1987; @brandstaetter2009
+- Fragwürdige Strategien zur Motivationssteigerung
+
+## Mini-Exkurs: Evidenzbasierte Motivationsförderung in Bezug auf Erfolg (Kontext Bildung)
+
+- **Kombinierte Trainings:** Kombination mit Fähigkeiten-Training ist wirksamer als Motivation allein [@rheinberg1985kombiniertes].
+- **Reattributionstraining:** Motivationsabträgliche Erklärungen (z. B. "Ich bin zu dumm") ersetzen [@Krug1976].
+- **Individuelle Bezugsnorm (BNO):** Persönlicher Fortschritt bewerten -> senkt die Misserfolgsangst [@Rheinberg1980].
+- **Förderung der psychischen Grundbedürfnisse:** Fördern von Autonomie, Kompetenzerleben und sozialer Eingebundenheit  [@Deci2008].
+- **Realistische Zielsetzung:** Erfolgserlebnisse durch Teilziele -> Hoffnung auf Erfolg
+- Umfassende Prüfung der langfristigen Effekte: ??
+
+# Advance Organizer 2: Bewegungsangebote
+
+Sucht online nach Apps, Videos, Artikeln oder sonstigen Angeboten für die breite Masse, die damit werben, Bewegung zu fördern oder darüber informieren.
 
 z.B: https://fit-gesund-aktiv.de/mehr-bewegung-im-alltag/
+
 https://www.techbook.de/mobile-lifestyle/apps/sport-apps
 
-Verleichen Sie mit dem Artikel von @Svendsen2022
+oder andere, Ihnen bekannte Angebote.
 
-Welche Gemeinsamkeiten und Unterschiede finden Sie?
+Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Ergänzen Sie im Etherpad.
 
 ::: notes
-
-- evidenzbasiert
-- theoriegeleitet
-
-
+-   evidenzbasiert
+-   theoriegeleitet
 :::
-
-# Themen- und Gruppenfindung
-
-
-Etherpad
-
 
 # References
 

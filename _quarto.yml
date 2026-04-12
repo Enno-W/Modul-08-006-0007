@@ -32,16 +32,18 @@ website:
             href: "8 Intervention Mapping II - Zielsetzung und Modell der Veränderung/Praesentation8_Zielsetzung.qmd"
           - text: "9. Methodenwahl"
             href: "9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen/Praesentation9_Methoden.qmd"
+          - text: "10. Materialentwicklung"
+            href: "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung"
           - text: "11. Annahme & Umsetzung"
             href: "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.qmd"
           - text: "12. Evaluation"
             href: "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.qmd"
-      - text: "Abschluss"
+      - text: "Ressourcen zum Lernen"
         menu:
-          - text: "13. Forschungsethik"
-            href: "13 Forschungsethik und Datenschutz/Praesentation13_Ethik.qmd"
-          - text: "14. Lehrproben & Hausarbeit"
-            href: "14 verbleibende Lehrproben, Kriterien der Hausarbeit, Peer-Feedback/Praesentation14_Abschluss_APA.qmd"
+          - text: "Stichwortliste"
+            href: "Stichwortliste.qmd"
+          - text: "Linksammlung"
+            href: "Linksammlung.qmd"
 format:
   revealjs:
     css: styles.css          # Path relative to the project root

@@ -144,6 +144,9 @@ Warum Fokusgruppen? Perfekt für IM Schritt 1 (Needs Assessment), um die Sprache
 ::: notes
 Das ist die "Königsdisziplin" für die Evaluation. Quantitative Daten zeigen DASS es wirkt, qualitative Daten zeigen WIE/WARUM es wirkt.
 :::
+# Gruppenarbeit: Korrelation
+
+- Findet auf https://www.tylervigen.com/spurious-correlations, bei der es (theoretisch) möglich wäre, eine oder beide der Variablen zu manipulieren. Überlegen Sie sich ein Experiment, dass einen kausalen Zusammenhang dieser Korrelation widerlegen soll. Dabei können Sie davon ausgehen, dass sie unbegrenzte Ressourcen und Einfluss haben. 
 
 # Übung: Stichprobenplanung
 
