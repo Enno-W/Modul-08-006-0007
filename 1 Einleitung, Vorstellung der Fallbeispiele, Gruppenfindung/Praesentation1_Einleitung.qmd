@@ -10,7 +10,7 @@ format:
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
-    date: 2011-11-11
+    date: 2026-04-13
 resources: 
   - "hintergrund.png"
 #csl: apa.csl
@@ -28,7 +28,7 @@ resources:
 # Fahrplan für heute
 
 -   Organisation des Seminars
--   Themen- und Gruppenfindung
+-   Themen- und Gruppenfindung für die PVL
 -   Erwartungen und Wünsche an den Kurs
 -   Advance Organizer: Eigene Strategien der "Bewegungs-Intervention"
 -   Evtl. Mini-Exkurs: Wie man es nicht macht. 
@@ -96,8 +96,10 @@ Habt ihr in der Vergangenheit versucht, eure Bewegungsgewohnheiten zu ändern? W
 
 Motivationscoach Jürgen Höller
 <https://youtu.be/pFaBQ-lSSmQ?si=LCddCgC6PN23es5b&t=445>
+
 - Fatale Suggestion: Motivation entscheide alles
---> nicht haltbar, siehe z.B. @Fraser1987; @brandstaetter2009
+    -nicht haltbar, siehe z.B. @Fraser1987; @brandstaetter2009
+
 - Fragwürdige Strategien zur Motivationssteigerung
 
 ## Mini-Exkurs: Evidenzbasierte Motivationsförderung in Bezug auf Erfolg (Kontext Bildung)
@@ -109,17 +111,17 @@ Motivationscoach Jürgen Höller
 - **Realistische Zielsetzung:** Erfolgserlebnisse durch Teilziele -> Hoffnung auf Erfolg
 - Umfassende Prüfung der langfristigen Effekte: ??
 
-# Advance Organizer 2: Bewegungsangebote
+<!-- # Advance Organizer 2: Bewegungsangebote -->
 
-Sucht online nach Apps, Videos, Artikeln oder sonstigen Angeboten für die breite Masse, die damit werben, Bewegung zu fördern oder darüber informieren.
+<!-- Sucht online nach Apps, Videos, Artikeln oder sonstigen Angeboten für die breite Masse, die damit werben, Bewegung zu fördern oder darüber informieren. -->
 
-z.B: https://fit-gesund-aktiv.de/mehr-bewegung-im-alltag/
+<!-- z.B: https://fit-gesund-aktiv.de/mehr-bewegung-im-alltag/ -->
 
-https://www.techbook.de/mobile-lifestyle/apps/sport-apps
+<!-- https://www.techbook.de/mobile-lifestyle/apps/sport-apps -->
 
-oder andere, Ihnen bekannte Angebote.
+<!-- oder andere, Ihnen bekannte Angebote. -->
 
-Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Ergänzen Sie im Etherpad.
+<!-- Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Ergänzen Sie im Etherpad. -->
 
 ::: notes
 -   evidenzbasiert

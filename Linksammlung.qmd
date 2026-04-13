@@ -4,12 +4,13 @@ format: html
 editor: visual
 ---
 
+Für die Inhalte externer Links wird keine Haftung übernommen!
+
 Logic models, theory of change and program evaluation (Elane Mandie)
 
 <https://youtu.be/lYi30bL0AMo>
 
-Overview Step 2: Logic model of change & outcomes for behavior and the environment,
-target populations.
+Overview Step 2: Logic model of change & outcomes for behavior and the environment, target populations.
 
 <https://interventionmapping.com/simpl/2.1/sIMpl%20%20step%202,%20lecture%201%20-%20overview.wmv>
 
@@ -33,8 +34,7 @@ Matrices of change objectives
 
 <http://interventionmapping.com/simpl/2.4/sIMpl%20-%20step%202,%20lecture%204%20-%20Matrices.wmv>
 
-Intervention Mapping: Summercourse 2017, step 3 (Gjalt-Jorn Peters, Open
-Universiteit). <https://youtu.be/6lv7LqA3PAk>
+Intervention Mapping: Summercourse 2017, step 3 (Gjalt-Jorn Peters, Open Universiteit). <https://youtu.be/6lv7LqA3PAk>
 
 Beispiel für Interventionsmaterial: <https://www.gesundes-boot.de/fileadmin/gesundes_boot/downloads/Gesundes_Boot_Spielideen_Bastelideen_Rezepte.pdf>
 
