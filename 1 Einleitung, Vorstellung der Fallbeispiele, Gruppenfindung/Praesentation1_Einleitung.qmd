@@ -8,8 +8,8 @@ format:
     pagetitle: "Modul 08-006-0007"
     parallax-background-image: "hintergrund.png"
     parallax-background-size: 4080px 3072px
-    parallax-background-horizontal: 200
-    parallax-background-vertical: 350
+    parallax-background-horizontal: 380
+    parallax-background-vertical: 330
     date: 2026-04-13
 resources: 
   - "hintergrund.png"
@@ -21,8 +21,8 @@ resources:
 #| echo: false
 # if (!requireNamespace("needs"   )) install.packages("needs")
 # if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
-#needs("excelbib", "xfun")
-# xlsx_to_bib(from_root("References.xlsx"))
+needs("excelbib", "xfun")
+xlsx_to_bib(from_root("References.xlsx"))
 ```
 
 # Fahrplan für heute
@@ -80,6 +80,19 @@ resources:
 
 # Inhaltliche Einführung
 
+## Intervention: Eine Definition
+
+
+"Unter Interventionsmaßnahmen verstehen wir jede
+Art vonaußengesteuerter, zielorientierter und syste
+matischer Beeinflussung von Personen- und/oder
+Systemmerkmalen. Jede Interventionsmaßnahme
+besteht mindestensauseinerMengezubearbeitender
+Aufgaben bzw. Probleme undmindestens einer
+Handlungsstrategie (z.B. Instruktion, Training)."
+[@HagerHasselhorn2000]
+
+
 ## Erwartungen und Wünsche an den Kurs + Quiz
 
 > [Menti Gruppe A](https://www.mentimeter.com/app/presentation/ald7cs6no2chox99mmonayy6duommyo7/edit)
@@ -127,6 +140,8 @@ Motivationscoach Jürgen Höller
 -   evidenzbasiert
 -   theoriegeleitet
 :::
+
+
 
 # References
 
