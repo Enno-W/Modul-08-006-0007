@@ -84,11 +84,10 @@ xlsx_to_bib(from_root("References.xlsx"))
 
 
 "Unter Interventionsmaßnahmen verstehen wir jede
-Art vonaußengesteuerter, zielorientierter und syste
-matischer Beeinflussung von Personen- und/oder
+Art von außengesteuerter, zielorientierter und systematischer Beeinflussung von Personen- und/oder
 Systemmerkmalen. Jede Interventionsmaßnahme
-besteht mindestensauseinerMengezubearbeitender
-Aufgaben bzw. Probleme undmindestens einer
+besteht mindestens aus einer Menge zu bearbeitender
+Aufgaben bzw. Probleme und mindestens einer
 Handlungsstrategie (z.B. Instruktion, Training)."
 [@HagerHasselhorn2000]
 
@@ -111,7 +110,7 @@ Motivationscoach Jürgen Höller
 <https://youtu.be/pFaBQ-lSSmQ?si=LCddCgC6PN23es5b&t=445>
 
 - Fatale Suggestion: Motivation entscheide alles
-    -nicht haltbar, siehe z.B. @Fraser1987; @brandstaetter2009
+    - nicht haltbar, siehe z.B. @Fraser1987; @brandstaetter2009
 
 - Fragwürdige Strategien zur Motivationssteigerung
 
