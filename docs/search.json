@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "Stichwortliste.html",
+    "href": "Stichwortliste.html",
+    "title": "Stichwortliste",
+    "section": "",
+    "text": "Glossar der Fachbegriffe\n\n\n\n\n\n\n\nFachbegriff\nDefinition / Erklärung\n\n\n\n\nPhysische Aktivität (PA)\nAktivität der Skelettmuskeln mit Energieumsatz; Steigerung des Energieumsatzes als Kennzeichen\n\n\nReduktionismus\nSichtweise, die komplexe Phänomene auf einzelne Aspekte (z.B. Energieumsatz) reduziert und das komplexe Erleben vernachlässigt\n\n\nBiopsychosozialer Ansatz\nIntegration von biologischen, psychischen und sozialen Ebenen zur ganzheitlichen Betrachtung von Gesundheit und Verhalten (Engel, 1977)\n\n\nMessen\nEmpirisches Relativ wird in ein numerisches Relativ überführt\n\n\nSkalenniveau\nBestimmt die zulässigen statistischen Verfahren: nominal, ordinal, intervall, metrisch, absolut\n\n\nDirekte Messung\nErhobene Daten entsprechen direkt der Zielgröße (z.B. Beobachtung)\n\n\nIndirekte Messung\nUmrechnung oder Auswertung nötig, um auf die Zielgröße zu schließen (z.B. Herzfrequenz → Intensität)\n\n\nKriteriumsmethode\nMessung von physischer Aktivität anhand eines Kriteriums, z.B. oxidativer Energiestoffwechsel oder direkte Beobachtung\n\n\nValidität\nGrad, in dem ein Messverfahren misst, was es messen soll\n\n\nSoziale Erwünschtheit\nVerzerrung bei Selbstberichten: Teilnehmer:innen antworten so, dass sie gesellschaftlich akzeptiert wirken\n\n\nRecall Bias\nErinnerungsverzerrung bei retrospektiven Angaben (z.B. Fragebögen)\n\n\nGütekriterien\nStandards zur Beurteilung der Qualität eines Messinstruments: Objektivität, Reliabilität, Validität\n\n\nObjektivität\nUnabhängigkeit der Messergebnisse von der durchführenden Person\n\n\nReliabilität\nZuverlässigkeit; Genauigkeit und Konsistenz eines Messverfahrens (z.B. Retest-Reliabilität, interne Konsistenz)"
+  },
+  {
     "objectID": "Linksammlung.html",
     "href": "Linksammlung.html",
     "title": "Linksammlung",
@@ -210,109 +217,88 @@
     "text": "Kollegiale Beratung\nDiskussionsfragen für die Gruppe\n\nFidelity vs. Adaption: Müssen wir die Regeln des Sports ändern, damit sie kulturell passen?\nRessourcen: Wie nutzen wir die vorhandenen Kompetenzen der Geflüchteten (z.B. als Co-Trainer)?\nGrenzen: Wo endet Sporttherapie und wo beginnt die Notwendigkeit für psychologische Fachberatung?\n\n\n\nHier kannst du das SCM-Modell (Fiske et al.) einbringen: Werden Geflüchtete oft nur auf der “Wärme”-Dimension (Mitleid) wahrgenommen, statt ihre “Kompetenz” (Stärken) zu sehen?\nZiel der Beratung: Den Studierenden helfen, von der “Defizit-Perspektive” (was fehlt den Leuten?) zur “Ressourcen-Perspektive” (was bringen sie mit?) zu wechseln."
   },
   {
-    "objectID": "2_messung/praesentation2_messung.html#die-mechanistische-perspektive",
-    "href": "2_messung/praesentation2_messung.html#die-mechanistische-perspektive",
-    "title": "Messung und Definition sportlicher Aktivität",
-    "section": "Die mechanistische Perspektive",
-    "text": "Die mechanistische Perspektive\n\nKlassische Definition: Aktivität der Skelettmuskeln mit Energieumsatz (Caspersen et al., 1985).\nSpezifizierung: Es muss eine Steigerung des Energieumsatzes vorliegen (Hollmann & Strüder, 2009).\nVorteil: Klare Operationalisierung für biologische Studien.\n\n\n\nEinstiegsfrage: Warum definieren wir das überhaupt?\nMechanistisch bedeutet: Mensch als Maschine.\nKrug et al. (2013) nutzen PA und körperliche Aktivität oft synonym."
-  },
-  {
-    "objectID": "2_messung/praesentation2_messung.html#die-kritik-am-reduktionismus",
-    "href": "2_messung/praesentation2_messung.html#die-kritik-am-reduktionismus",
-    "title": "Messung und Definition sportlicher Aktivität",
-    "section": "Die Kritik am Reduktionismus",
-    "text": "Die Kritik am Reduktionismus\n\nNur auf Energieumsatz zu schauen, ist “reduktionistisch” (Piggin, 2020).\nVernachlässigt das komplexe Erleben und das Verhalten.\nWiderspricht einer ganzheitlichen Betrachtung.\n\n\n\nWas fehlt bei der mechanistischen Sicht? (Spaß, soziale Interaktion, Kultur).\nÜberleitung zum biopsychosozialen Ansatz."
-  },
-  {
-    "objectID": "2_messung/praesentation2_messung.html#der-biopsychosoziale-ansatz",
-    "href": "2_messung/praesentation2_messung.html#der-biopsychosoziale-ansatz",
-    "title": "Messung und Definition sportlicher Aktivität",
-    "section": "Der biopsychosoziale Ansatz",
-    "text": "Der biopsychosoziale Ansatz\n\nAbgrenzung zum biomedizinischen (defizitorientierten) Ansatz.\nIntegration von drei Ebenen (Engel, 1977):\n\nBiologisch (Energieumsatz, Genetik)\nPsychisch (Affekt, Motive, Attribution)\nSozial (Beziehungen, Kontext)\n\n\n\n\nWarum ist das für Sportpsychologen wichtig?\nOhne die psychische Ebene können wir keine Interventionen planen (Intervention Mapping!)."
-  },
-  {
-    "objectID": "2_messung/praesentation2_messung.html#eine-ganzheitliche-definition",
-    "href": "2_messung/praesentation2_messung.html#eine-ganzheitliche-definition",
-    "title": "Messung und Definition sportlicher Aktivität",
-    "section": "Eine ganzheitliche Definition",
-    "text": "Eine ganzheitliche Definition\n\n„Physical activity involves people moving, acting and performing within culturally specific spaces and contexts, and influenced by a unique array of interests, emotions, ideas, instructions and relationships.“\n— Piggin (2020) (S. 5)\n\n\n\nDiese Definition bildet die Basis für unser Seminar.\nFokus auf: Emotionen, Ideen und Beziehungen."
-  },
-  {
-    "objectID": "2_messung/praesentation2_messung.html#kategorisierung-der-methoden",
-    "href": "2_messung/praesentation2_messung.html#kategorisierung-der-methoden",
-    "title": "Messung und Definition sportlicher Aktivität",
-    "section": "Kategorisierung der Methoden",
-    "text": "Kategorisierung der Methoden\n\nDirekt: Erhobene Daten = Zielgröße (z.B. Beobachtung).\nIndirekt: Umrechnung/Auswertung nötig (Eckert et al., 2014).\nKriteriumsmethoden: Goldstandard (oxidativer Energiestoffwechsel oder direkte Beobachtung) (Kohl et al., 2000).\n\n\n\nBeispiel für indirekt: Herzfrequenzvariabilität -&gt; Rückschluss auf Intensität."
-  },
-  {
-    "objectID": "2_messung/praesentation2_messung.html#validität-vs.-anwendbarkeit",
-    "href": "2_messung/praesentation2_messung.html#validität-vs.-anwendbarkeit",
-    "title": "Messung und Definition sportlicher Aktivität",
-    "section": "Validität vs. Anwendbarkeit",
-    "text": "Validität vs. Anwendbarkeit\n\nSystematisierung nach Müller et al. (2010):\nHohe Validität (Genauigkeit) = Geringe Anwendbarkeit (teuer, aufwendig).\nBeispiel: Doubly-Labeled-Water (DLW).\n\n\n\nDLW: Isotope im Wasser, sehr genau für Energieumsatz, aber kostet tausende Euro pro Proband."
-  },
-  {
-    "objectID": "2_messung/praesentation2_messung.html#subjektive-methoden-fragebögen",
-    "href": "2_messung/praesentation2_messung.html#subjektive-methoden-fragebögen",
-    "title": "Messung und Definition sportlicher Aktivität",
-    "section": "Subjektive Methoden: Fragebögen",
-    "text": "Subjektive Methoden: Fragebögen\n\nVorteile: Ressourcensparend, große Stichproben möglich.\nNachteile:\n\nSoziale Erwünschtheit.\nErinnerungsverzerrung (Recall Bias).\n\nEignung: Gut für Gruppenvergleiche, schwierig für Individualdiagnostik (Vanhees et al., 2005)."
-  },
-  {
-    "objectID": "2_messung/praesentation2_messung.html#fragebogen-beispiel-1---bsa-fragebogen",
-    "href": "2_messung/praesentation2_messung.html#fragebogen-beispiel-1---bsa-fragebogen",
-    "title": "Messung und Definition sportlicher Aktivität",
-    "section": "Fragebogen Beispiel 1 - BSA-Fragebogen",
-    "text": "Fragebogen Beispiel 1 - BSA-Fragebogen\nFuchs et al. (2015)\n\n::: notes - Wo würdet ihr die bei Mueller et al verorten? - Frage an die Studis: Wer von euch trackt seine Aktivität? (App vs. Gedächtnis). - Überleitung zur Übung. :::"
-  },
-  {
-    "objectID": "2_messung/praesentation2_messung.html#fragebogen-beispiel-2---session-rpe",
-    "href": "2_messung/praesentation2_messung.html#fragebogen-beispiel-2---session-rpe",
-    "title": "Messung und Definition sportlicher Aktivität",
-    "section": "Fragebogen Beispiel 2 - Session RPE",
-    "text": "Fragebogen Beispiel 2 - Session RPE\nFoster et al. (2001) Foster et al. (2021)"
-  },
-  {
-    "objectID": "2_messung/praesentation2_messung.html#wie-trackt-ihr-eure-aktivität",
-    "href": "2_messung/praesentation2_messung.html#wie-trackt-ihr-eure-aktivität",
-    "title": "Messung und Definition sportlicher Aktivität",
-    "section": "Wie trackt ihr eure Aktivität",
-    "text": "Wie trackt ihr eure Aktivität\n\nApp?\nGedächtnis?\nTagebuch?"
-  },
-  {
-    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#annahme-umsetzung-und-nachhaltigkeit",
-    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#annahme-umsetzung-und-nachhaltigkeit",
+    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#evaluation-hat-es-funktioniert",
+    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#evaluation-hat-es-funktioniert",
     "title": "Modul 08-006-0007",
-    "section": "Annahme, Umsetzung und Nachhaltigkeit",
-    "text": "Annahme, Umsetzung und Nachhaltigkeit\n\nDas Problem: Die beste Intervention wirkt nicht, wenn sie nicht genutzt wird.\nZiel: Menschen überzeugen, das Programm einzuführen (Annahme) und es dauerhaft beizubehalten (Nachhaltigkeit).\nZentrale Erkenntnis: Schritt 5 ist im Grunde eine “Intervention in der Intervention”.\n\n\n\nWir haben jetzt ein tolles Programm (Schritt 4). Aber wie kommt es in die Klinik/den Verein/die Schule?\nWir müssen die “Gatekeeper” (Entscheider) gewinnen."
+    "section": "Evaluation: Hat es funktioniert?",
+    "text": "Evaluation: Hat es funktioniert?\n\nZiel: Messung der Effekte (Effektevaluation) und Analyse des Prozesses (Prozessevaluation).\nLogik: Wir prüfen jede Stufe unseres “Logischen Modells der Veränderung” (Schritt 2).\nKontinuum: Evaluation ist kein einmaliges Event, sondern notwendige Qualitätssicherung.\n\n\n\nWir fragen: Haben sich die Determinanten geändert? Führt das zum Verhalten? Und verbessert das die Gesundheit?\nOhne Evaluation wissen wir nicht, ob Erfolg Zufall war oder Misserfolg an der Theorie lag."
   },
   {
-    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#wer-sind-die-akteure",
-    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#wer-sind-die-akteure",
+    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#effektevaluation-wirksamkeit-vs.-effektivität",
+    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#effektevaluation-wirksamkeit-vs.-effektivität",
     "title": "Modul 08-006-0007",
-    "section": "Wer sind die Akteure?",
-    "text": "Wer sind die Akteure?\n\nAnnehmende (Adopters): Personen mit Entscheidungsgewalt (z.B. Klinikleitung, Schulbehörde). Sie sagen “Ja” zum Programm.\nUmsetzende (Implementers): Personen, die das Programm operativ durchführen (z.B. Sporttherapeuten, Lehrkräfte).\nVernetzung: Erfolg hängt von der engen Einbindung beider Gruppen ab (Partizipation!).\n\n\n\nWichtig: Ein Schulleiter (Annehmer) führt den Sportkurs meist nicht selbst durch (Umsetzer). Beide brauchen unterschiedliche Motivationen."
+    "section": "Effektevaluation: Wirksamkeit vs. Effektivität",
+    "text": "Effektevaluation: Wirksamkeit vs. Effektivität\n\nWirksamkeit (Efficacy): Funktioniert es unter Laborbedingungen? (Homogene Stichprobe, hohe Kontrolle).\nEffektivität (Effectiveness): Funktioniert es in der “echten Welt”? (Heterogene Gruppen, stressiger Alltag der Umsetzer).\nMessgrößen:\n\nVeränderungsziele (Fragebögen zu Determinanten).\nVerhaltensziele (Schrittzähler, Tagebücher).\nGesundheitsziele (BMI, Blutdruck – oft erst langfristig!).\n\n\n\n\nEin Programm kann wirksam sein (im Labor), aber nicht effektiv (weil es im Alltag keiner schafft).\nTipp für die Hausarbeit: Überlegt euch Messgrößen für alle Ebenen!"
   },
   {
-    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#die-drei-säulen-der-implementierung",
-    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#die-drei-säulen-der-implementierung",
+    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#pwr.2p.test-vergleich-von-quoten",
+    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#pwr.2p.test-vergleich-von-quoten",
     "title": "Modul 08-006-0007",
-    "section": "Die drei Säulen der Implementierung",
-    "text": "Die drei Säulen der Implementierung\n\nAnnahme: Die Entscheidung zur Einführung.\nKorrekte Umsetzung (Fidelity): Wird das Programm so durchgeführt wie geplant? (Dosis, Vollständigkeit).\nNachhaltigkeit (Sustainability): Wird das Programm Teil der Routine oder verschwindet es nach der Förderphase?\n\n\n\nWir wenden hier die Schritte 1-4 des IM erneut an: Wir erstellen Matrizen für die Umsetzer!\nWas müssen die Erzieher tun (Handlungsziele) und was hält sie davon ab (Determinanten)?"
+    "section": "pwr.2p.test (Vergleich von Quoten)",
+    "text": "pwr.2p.test (Vergleich von Quoten)\nWenn ihr wissen wollt, wie viele Probanden ihr braucht, um zu zeigen, dass in der Interventionsgruppe (IG) prozentual mehr Leute sportlich aktiv sind als in der Kontrollgruppe (KG):\n\nlibrary(pwr)\n\n# Beispiel: IG erreicht zu 60% das Ziel, KG nur zu 40% (h = 0.4)\n# Wie viele Leute brauchen wir pro Gruppe für Power = 0.8?\npwr.2p.test(h = 0.4, sig.level = 0.05, power = 0.8, alternative = \"greater\")\n\n\n     Difference of proportion power calculation for binomial distribution (arcsine transformation) \n\n              h = 0.4\n              n = 77.28199\n      sig.level = 0.05\n          power = 0.8\n    alternative = greater\n\nNOTE: same sample sizes\n\n\n\n\nh ist die Effektstärke für Proportionen.\n“greater” nutzen wir, wenn wir eine gerichtete Hypothese haben (IG &gt; KG)."
   },
   {
-    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#praxisbeispiel-der-multiplikatorenansatz",
-    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#praxisbeispiel-der-multiplikatorenansatz",
+    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#prozessevaluation-das-warum-klären",
+    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#prozessevaluation-das-warum-klären",
     "title": "Modul 08-006-0007",
-    "section": "Praxisbeispiel: Der Multiplikatorenansatz",
-    "text": "Praxisbeispiel: Der Multiplikatorenansatz\n“Komm mit in das gesunde Boot”\n\nStrategie: Pro Bezirk werden zwei Erzieher als Multiplikatoren ausgebildet.\nVorteile:\n\nReduziert Kosten (keine externen Fachkräfte nötig).\nKommunikation “auf Augenhöhe” (Erhöht Akzeptanz & Selbstwirksamkeit).\nVorhandene Netzwerke werden genutzt.\n\nNachhaltigkeit: Das Programm wird durch die interne Kompetenz im Kindergartenalltag verankert.\n\n\n\nMultiplikatoren wirken auf die Determinanten: Wissen, Fähigkeiten und vor allem die Einstellung der Kollegen."
+    "section": "Prozessevaluation: Das “Warum” klären",
+    "text": "Prozessevaluation: Das “Warum” klären\n\nWarum war ein Programm (nicht) erfolgreich?\n7 Kernkomponenten:\n\nKontext: Soziales Umfeld (z. B. religiöse Vorbehalte).\nReichweite: Welcher Anteil der Zielgruppe wurde erreicht?\nAusmaß (Dosis): Wurden alle Einheiten durchgeführt?\nEmpfang: Hat die Zielgruppe das Programm bis zum Ende absolviert?\nUmsetzungsgenauigkeit (Fidelity): Wurde es wie geplant durchgeführt?\nGesamtumsetzung: Gesamtfazit der Implementierung.\nAnwerben: Wie wurden Teilnehmende rekrutiert?\n\n\n\n\nBeispiel: Wenn die Erzieher die Ernährungseinheiten weglassen (Dosis), kann das Programm den BMI nicht senken. Das liegt dann nicht an der Theorie, sondern am Prozess!"
   },
   {
-    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#die-matrix-für-umsetzende-tabelle-7.2",
-    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#die-matrix-für-umsetzende-tabelle-7.2",
+    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#pwr.chisq.test-häufigkeiten-analysieren",
+    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#pwr.chisq.test-häufigkeiten-analysieren",
     "title": "Modul 08-006-0007",
-    "section": "Die Matrix für Umsetzende (Tabelle 7.2)",
-    "text": "Die Matrix für Umsetzende (Tabelle 7.2)\n\n\n\n\n\n\n\n\nHandlungsziel (Erzieher…)\nWissen\nSelbstwirksamkeit\n\n\n\n\n…entscheiden sich zur Umsetzung\nWissen, dass das Programm existiert.\nGlauben, dass sie die Umsetzung schaffen.\n\n\n…führen Komponenten korrekt aus\nBenennen alle Komponenten.\nBewerten sich als fähig zur korrekten Durchführung.\n\n\n\n\n\nSchaut euch die Tabelle an: Hier geht es nicht um die Kinder, sondern um die Kompetenz der Erzieher!"
+    "section": "pwr.chisq.test (Häufigkeiten analysieren)",
+    "text": "pwr.chisq.test (Häufigkeiten analysieren)\nIdeal für die Prozessevaluation: Unterscheiden sich Teilnehmer und Abbrecher (Dropout-Analyse) signifikant?\n\n# Beispiel: Zusammenhang zwischen Geschlecht und Programmabbruch\n# Effektstärke w = 0.3 (mittel), 1 Freiheitsgrad (2x2 Tabelle)\npwr.chisq.test(w = 0.3, df = 1, sig.level = 0.05, power = 0.8)\n\n\n     Chi squared power calculation \n\n              w = 0.3\n              N = 87.20954\n             df = 1\n      sig.level = 0.05\n          power = 0.8\n\nNOTE: N is the number of observations\n\n\n\nHilfreich, um zu prüfen, ob eure Stichprobe für Untergruppen-Analysen (z. B. Männer vs. Frauen) groß genug ist."
+  },
+  {
+    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#evaluationsdesign-im-sport",
+    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#evaluationsdesign-im-sport",
+    "title": "Modul 08-006-0007",
+    "section": "Evaluationsdesign im Sport",
+    "text": "Evaluationsdesign im Sport\n\nGoldstandard: RCT (Randomized Controlled Trial).\nProblem im Feld: Einzelrandomisierung oft unmöglich (man kann nicht halbe Schulklassen trainieren).\nLösung: - Cluster-Randomisierung: Ganze Organisationen (Schulen/Vereine) zufällig zuteilen.\n\nWartelisten-Design: Die Kontrollgruppe erhält die Intervention zeitversetzt (ethisch oft besser).\n\n\n\n\n“Komm mit in das gesunde Boot” nutzt genau dieses Wartelisten-Design. Das erhöht die Akzeptanz bei den Schulen, da niemand leer ausgeht."
+  },
+  {
+    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#dokumentation-transparenz",
+    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#dokumentation-transparenz",
+    "title": "Modul 08-006-0007",
+    "section": "Dokumentation & Transparenz",
+    "text": "Dokumentation & Transparenz\n\nWarum dokumentieren?\n\nErmöglicht Replikation durch andere Forscher/Praktiker.\nIdentifiziert “aktive Komponenten” (Was genau hat gewirkt?).\nBildet die Basis für Wissenschaft und Praxis.\n\nIntervention Mapping Vorteil: Eine einheitliche Terminologie macht Programme weltweit vergleichbar.\n\n\n\nViele Entwickler vergessen die Dokumentation der “Black Box”. IM zwingt uns dazu, jeden Schritt von der Determinante bis zur Evaluation festzuhalten."
+  },
+  {
+    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#programmentwicklung-vom-plan-zum-produkt",
+    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#programmentwicklung-vom-plan-zum-produkt",
+    "title": "Modul 08-006-0007",
+    "section": "Programmentwicklung: Vom Plan zum Produkt",
+    "text": "Programmentwicklung: Vom Plan zum Produkt\n\nZiel: Erstellung der konkreten Materialien und Komponenten.\nHerausforderung: Kreativität nutzen, OHNE die Wirkparameter zu verlieren.\nAnpassung: Materialien müssen sowohl zur Zielgruppe (z. B. Smartphone-Affin?) als auch zu den Umsetzenden (z. B. Trainer/Lehrkräfte) passen.\n\n\n\nJetzt wird es praktisch: Wir entwickeln Apps, Flyer, Kursmanuale oder Videos.\nWichtig: Eine App bringt nichts, wenn die Zielgruppe (z. B. Hochbetagte) keine Smartphones nutzt.\nDie Methoden aus Schritt 3 müssen “instrumentalisiert” werden."
+  },
+  {
+    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#struktur-kanäle",
+    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#struktur-kanäle",
+    "title": "Modul 08-006-0007",
+    "section": "Struktur & Kanäle",
+    "text": "Struktur & Kanäle\n\nUmfang & Ablauf: Wie intensiv ist das Programm? Laufen Module parallel oder nacheinander?\nKommunikationskanal: Das Medium (z. B. persönlicher Kontakt, App, Print).\nKommunikationsvehikel: Die Verpackung (z. B. Interview, Talkshow, Handbuch).\nThema: Ein roter Faden (z. B. “Piratenthema” für Kinder oder “Die virtuelle Kreuzfahrt”).\n\n\n\nEin Radiointerview (Kanal) eignet sich nicht für “Angeleitete Übung” (Methode).\nDas Thema hilft, die Zielgruppe emotional abzuholen und eine Identität zu schaffen."
+  },
+  {
+    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#produktion-qualitätssicherung",
+    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#produktion-qualitätssicherung",
+    "title": "Modul 08-006-0007",
+    "section": "Produktion & Qualitätssicherung",
+    "text": "Produktion & Qualitätssicherung\n\nInterdisziplinäre Teams: Zusammenarbeit mit Grafikern, ITlern oder Schauspielern.\nBriefing ist alles: Externe Fachkräfte kennen keine Wirkparameter (z. B. Coping Model)!\nPrätest & Pilotierung:\n\nPrätest: Einzelteile prüfen (Verständlichkeit, Ästhetik, Wirkung auf Determinanten).\nPilotversuch: Das komplette Programm im Testlauf (Reibungsloser Ablauf?).\n\n\n\n\nAls Psychologen müssen wir den Designern sagen: “Das Vorbild im Video darf nicht zu perfekt sein, es muss Hürden überwinden.”\nPrätest verhindert peinliche Fehler oder Unverständnis."
+  },
+  {
+    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#beispiel-piraten-im-kindergarten",
+    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#beispiel-piraten-im-kindergarten",
+    "title": "Modul 08-006-0007",
+    "section": "Beispiel: Piraten im Kindergarten",
+    "text": "Beispiel: Piraten im Kindergarten\n\nThema: Piratenkinder “Finn und Fine” als Identifikationsfiguren.\nKomponenten:\n\n20 Bewegungsstunden (je 45 Min.).\n15 Ernährungseinheiten (z. B. “Gesunde Durstlöscher”).\n14 Freizeiteinheiten (Einbindung der Eltern).\n56 Bewegungskarteikarten (für den Alltag).\n\nMethoden-Check: Modeling (via Handpuppen), Belohnung, Zielsetzung (Fernsehfreie Tage).\n\n\n\nHier sieht man die Kette: Verhaltensziel (Bewegung) -&gt; Methode (Modeling) -&gt; Anwendung (Handpuppen Finn & Fine).\nDie Bewegungskarten senken die Barriere für die Erzieher (Umsetzende)."
+  },
+  {
+    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#die-freizeiteinheiten-auszug",
+    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#die-freizeiteinheiten-auszug",
+    "title": "Modul 08-006-0007",
+    "section": "Die Freizeiteinheiten (Auszug)",
+    "text": "Die Freizeiteinheiten (Auszug)\n\n\n\n\n\n\n\n\nTitel\nZiel\nMethode\n\n\n\n\nPiratenfahne\nFernsehfreie Tage\nSelbstgesetztes Ziel, Eltern-Einbindung.\n\n\nPapierflieger\nBewegte Alternativen\nPräsentation von Handlungsalternativen.\n\n\nFreizeitampel\nReflexion Medienkonsum\nWissensvermittlung, Selbstreflexion.\n\n\n\n\n\nAchtet darauf, wie die Eltern als “Umwelt-Agierende” eingebunden werden (Briefe auf Deutsch, Türkisch, Russisch)."
   },
   {
     "objectID": "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.html#termine",
@@ -392,137 +378,235 @@
     "text": "Mini-Exkurs: Evidenzbasierte Motivationsförderung in Bezug auf Erfolg (Kontext Bildung)\n\nKombinierte Trainings: Kombination mit Fähigkeiten-Training ist wirksamer als Motivation allein (Rheinberg & Schliep, 1985).\nReattributionstraining: Motivationsabträgliche Erklärungen (z. B. “Ich bin zu dumm”) ersetzen (Krug & Hanel, 1976).\nIndividuelle Bezugsnorm (BNO): Persönlicher Fortschritt bewerten -&gt; senkt die Misserfolgsangst (Rheinberg & Hendricks, 1980).\nFörderung der psychischen Grundbedürfnisse: Fördern von Autonomie, Kompetenzerleben und sozialer Eingebundenheit (Deci & Ryan, 2008).\nRealistische Zielsetzung: Erfolgserlebnisse durch Teilziele -&gt; Hoffnung auf Erfolg\nUmfassende Prüfung der langfristigen Effekte: ??\n\n\n\n\n\n\n\n\n\nevidenzbasiert\ntheoriegeleitet"
   },
   {
-    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#programmentwicklung-vom-plan-zum-produkt",
-    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#programmentwicklung-vom-plan-zum-produkt",
+    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#annahme-umsetzung-und-nachhaltigkeit",
+    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#annahme-umsetzung-und-nachhaltigkeit",
     "title": "Modul 08-006-0007",
-    "section": "Programmentwicklung: Vom Plan zum Produkt",
-    "text": "Programmentwicklung: Vom Plan zum Produkt\n\nZiel: Erstellung der konkreten Materialien und Komponenten.\nHerausforderung: Kreativität nutzen, OHNE die Wirkparameter zu verlieren.\nAnpassung: Materialien müssen sowohl zur Zielgruppe (z. B. Smartphone-Affin?) als auch zu den Umsetzenden (z. B. Trainer/Lehrkräfte) passen.\n\n\n\nJetzt wird es praktisch: Wir entwickeln Apps, Flyer, Kursmanuale oder Videos.\nWichtig: Eine App bringt nichts, wenn die Zielgruppe (z. B. Hochbetagte) keine Smartphones nutzt.\nDie Methoden aus Schritt 3 müssen “instrumentalisiert” werden."
+    "section": "Annahme, Umsetzung und Nachhaltigkeit",
+    "text": "Annahme, Umsetzung und Nachhaltigkeit\n\nDas Problem: Die beste Intervention wirkt nicht, wenn sie nicht genutzt wird.\nZiel: Menschen überzeugen, das Programm einzuführen (Annahme) und es dauerhaft beizubehalten (Nachhaltigkeit).\nZentrale Erkenntnis: Schritt 5 ist im Grunde eine “Intervention in der Intervention”.\n\n\n\nWir haben jetzt ein tolles Programm (Schritt 4). Aber wie kommt es in die Klinik/den Verein/die Schule?\nWir müssen die “Gatekeeper” (Entscheider) gewinnen."
   },
   {
-    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#struktur-kanäle",
-    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#struktur-kanäle",
+    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#wer-sind-die-akteure",
+    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#wer-sind-die-akteure",
     "title": "Modul 08-006-0007",
-    "section": "Struktur & Kanäle",
-    "text": "Struktur & Kanäle\n\nUmfang & Ablauf: Wie intensiv ist das Programm? Laufen Module parallel oder nacheinander?\nKommunikationskanal: Das Medium (z. B. persönlicher Kontakt, App, Print).\nKommunikationsvehikel: Die Verpackung (z. B. Interview, Talkshow, Handbuch).\nThema: Ein roter Faden (z. B. “Piratenthema” für Kinder oder “Die virtuelle Kreuzfahrt”).\n\n\n\nEin Radiointerview (Kanal) eignet sich nicht für “Angeleitete Übung” (Methode).\nDas Thema hilft, die Zielgruppe emotional abzuholen und eine Identität zu schaffen."
+    "section": "Wer sind die Akteure?",
+    "text": "Wer sind die Akteure?\n\nAnnehmende (Adopters): Personen mit Entscheidungsgewalt (z.B. Klinikleitung, Schulbehörde). Sie sagen “Ja” zum Programm.\nUmsetzende (Implementers): Personen, die das Programm operativ durchführen (z.B. Sporttherapeuten, Lehrkräfte).\nVernetzung: Erfolg hängt von der engen Einbindung beider Gruppen ab (Partizipation!).\n\n\n\nWichtig: Ein Schulleiter (Annehmer) führt den Sportkurs meist nicht selbst durch (Umsetzer). Beide brauchen unterschiedliche Motivationen."
   },
   {
-    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#produktion-qualitätssicherung",
-    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#produktion-qualitätssicherung",
+    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#die-drei-säulen-der-implementierung",
+    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#die-drei-säulen-der-implementierung",
     "title": "Modul 08-006-0007",
-    "section": "Produktion & Qualitätssicherung",
-    "text": "Produktion & Qualitätssicherung\n\nInterdisziplinäre Teams: Zusammenarbeit mit Grafikern, ITlern oder Schauspielern.\nBriefing ist alles: Externe Fachkräfte kennen keine Wirkparameter (z. B. Coping Model)!\nPrätest & Pilotierung:\n\nPrätest: Einzelteile prüfen (Verständlichkeit, Ästhetik, Wirkung auf Determinanten).\nPilotversuch: Das komplette Programm im Testlauf (Reibungsloser Ablauf?).\n\n\n\n\nAls Psychologen müssen wir den Designern sagen: “Das Vorbild im Video darf nicht zu perfekt sein, es muss Hürden überwinden.”\nPrätest verhindert peinliche Fehler oder Unverständnis."
+    "section": "Die drei Säulen der Implementierung",
+    "text": "Die drei Säulen der Implementierung\n\nAnnahme: Die Entscheidung zur Einführung.\nKorrekte Umsetzung (Fidelity): Wird das Programm so durchgeführt wie geplant? (Dosis, Vollständigkeit).\nNachhaltigkeit (Sustainability): Wird das Programm Teil der Routine oder verschwindet es nach der Förderphase?\n\n\n\nWir wenden hier die Schritte 1-4 des IM erneut an: Wir erstellen Matrizen für die Umsetzer!\nWas müssen die Erzieher tun (Handlungsziele) und was hält sie davon ab (Determinanten)?"
   },
   {
-    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#beispiel-piraten-im-kindergarten",
-    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#beispiel-piraten-im-kindergarten",
+    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#praxisbeispiel-der-multiplikatorenansatz",
+    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#praxisbeispiel-der-multiplikatorenansatz",
     "title": "Modul 08-006-0007",
-    "section": "Beispiel: Piraten im Kindergarten",
-    "text": "Beispiel: Piraten im Kindergarten\n\nThema: Piratenkinder “Finn und Fine” als Identifikationsfiguren.\nKomponenten:\n\n20 Bewegungsstunden (je 45 Min.).\n15 Ernährungseinheiten (z. B. “Gesunde Durstlöscher”).\n14 Freizeiteinheiten (Einbindung der Eltern).\n56 Bewegungskarteikarten (für den Alltag).\n\nMethoden-Check: Modeling (via Handpuppen), Belohnung, Zielsetzung (Fernsehfreie Tage).\n\n\n\nHier sieht man die Kette: Verhaltensziel (Bewegung) -&gt; Methode (Modeling) -&gt; Anwendung (Handpuppen Finn & Fine).\nDie Bewegungskarten senken die Barriere für die Erzieher (Umsetzende)."
+    "section": "Praxisbeispiel: Der Multiplikatorenansatz",
+    "text": "Praxisbeispiel: Der Multiplikatorenansatz\n“Komm mit in das gesunde Boot”\n\nStrategie: Pro Bezirk werden zwei Erzieher als Multiplikatoren ausgebildet.\nVorteile:\n\nReduziert Kosten (keine externen Fachkräfte nötig).\nKommunikation “auf Augenhöhe” (Erhöht Akzeptanz & Selbstwirksamkeit).\nVorhandene Netzwerke werden genutzt.\n\nNachhaltigkeit: Das Programm wird durch die interne Kompetenz im Kindergartenalltag verankert.\n\n\n\nMultiplikatoren wirken auf die Determinanten: Wissen, Fähigkeiten und vor allem die Einstellung der Kollegen."
   },
   {
-    "objectID": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#die-freizeiteinheiten-auszug",
-    "href": "10 Intervention Mapping IV - Materialentwicklung/Praesentation10_Materialentwicklung.html#die-freizeiteinheiten-auszug",
+    "objectID": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#die-matrix-für-umsetzende-tabelle-7.2",
+    "href": "11 Intervention Mapping V - Annahme und Umsetzung/Praesentation11_Annahme.html#die-matrix-für-umsetzende-tabelle-7.2",
     "title": "Modul 08-006-0007",
-    "section": "Die Freizeiteinheiten (Auszug)",
-    "text": "Die Freizeiteinheiten (Auszug)\n\n\n\n\n\n\n\n\nTitel\nZiel\nMethode\n\n\n\n\nPiratenfahne\nFernsehfreie Tage\nSelbstgesetztes Ziel, Eltern-Einbindung.\n\n\nPapierflieger\nBewegte Alternativen\nPräsentation von Handlungsalternativen.\n\n\nFreizeitampel\nReflexion Medienkonsum\nWissensvermittlung, Selbstreflexion.\n\n\n\n\n\nAchtet darauf, wie die Eltern als “Umwelt-Agierende” eingebunden werden (Briefe auf Deutsch, Türkisch, Russisch)."
+    "section": "Die Matrix für Umsetzende (Tabelle 7.2)",
+    "text": "Die Matrix für Umsetzende (Tabelle 7.2)\n\n\n\n\n\n\n\n\nHandlungsziel (Erzieher…)\nWissen\nSelbstwirksamkeit\n\n\n\n\n…entscheiden sich zur Umsetzung\nWissen, dass das Programm existiert.\nGlauben, dass sie die Umsetzung schaffen.\n\n\n…führen Komponenten korrekt aus\nBenennen alle Komponenten.\nBewerten sich als fähig zur korrekten Durchführung.\n\n\n\n\n\nSchaut euch die Tabelle an: Hier geht es nicht um die Kinder, sondern um die Kompetenz der Erzieher!"
   },
   {
-    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#evaluation-hat-es-funktioniert",
-    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#evaluation-hat-es-funktioniert",
-    "title": "Modul 08-006-0007",
-    "section": "Evaluation: Hat es funktioniert?",
-    "text": "Evaluation: Hat es funktioniert?\n\nZiel: Messung der Effekte (Effektevaluation) und Analyse des Prozesses (Prozessevaluation).\nLogik: Wir prüfen jede Stufe unseres “Logischen Modells der Veränderung” (Schritt 2).\nKontinuum: Evaluation ist kein einmaliges Event, sondern notwendige Qualitätssicherung.\n\n\n\nWir fragen: Haben sich die Determinanten geändert? Führt das zum Verhalten? Und verbessert das die Gesundheit?\nOhne Evaluation wissen wir nicht, ob Erfolg Zufall war oder Misserfolg an der Theorie lag."
+    "objectID": "2_messung/praesentation2_messung.html#orga",
+    "href": "2_messung/praesentation2_messung.html#orga",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Orga",
+    "text": "Orga\n\nGruppenwechsel\nHausarbeitsthemen"
   },
   {
-    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#effektevaluation-wirksamkeit-vs.-effektivität",
-    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#effektevaluation-wirksamkeit-vs.-effektivität",
-    "title": "Modul 08-006-0007",
-    "section": "Effektevaluation: Wirksamkeit vs. Effektivität",
-    "text": "Effektevaluation: Wirksamkeit vs. Effektivität\n\nWirksamkeit (Efficacy): Funktioniert es unter Laborbedingungen? (Homogene Stichprobe, hohe Kontrolle).\nEffektivität (Effectiveness): Funktioniert es in der “echten Welt”? (Heterogene Gruppen, stressiger Alltag der Umsetzer).\nMessgrößen:\n\nVeränderungsziele (Fragebögen zu Determinanten).\nVerhaltensziele (Schrittzähler, Tagebücher).\nGesundheitsziele (BMI, Blutdruck – oft erst langfristig!).\n\n\n\n\nEin Programm kann wirksam sein (im Labor), aber nicht effektiv (weil es im Alltag keiner schafft).\nTipp für die Hausarbeit: Überlegt euch Messgrößen für alle Ebenen!"
+    "objectID": "2_messung/praesentation2_messung.html#die-mechanistische-perspektive",
+    "href": "2_messung/praesentation2_messung.html#die-mechanistische-perspektive",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Die mechanistische Perspektive",
+    "text": "Die mechanistische Perspektive\n\nKlassische Definition: Aktivität der Skelettmuskeln mit Energieumsatz (Caspersen et al., 1985).\nSpezifizierung: Es muss eine Steigerung des Energieumsatzes vorliegen (Hollmann & Strüder, 2009).\nVorteil: Klare Operationalisierung für biologische Studien.\n\n\n\nEinstiegsfrage: Warum definieren wir das überhaupt?\nMechanistisch bedeutet: Mensch als Maschine.\nKrug et al. (2013) nutzen PA und körperliche Aktivität oft synonym."
   },
   {
-    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#pwr.2p.test-vergleich-von-quoten",
-    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#pwr.2p.test-vergleich-von-quoten",
-    "title": "Modul 08-006-0007",
-    "section": "pwr.2p.test (Vergleich von Quoten)",
-    "text": "pwr.2p.test (Vergleich von Quoten)\nWenn ihr wissen wollt, wie viele Probanden ihr braucht, um zu zeigen, dass in der Interventionsgruppe (IG) prozentual mehr Leute sportlich aktiv sind als in der Kontrollgruppe (KG):\n\nlibrary(pwr)\n\n# Beispiel: IG erreicht zu 60% das Ziel, KG nur zu 40% (h = 0.4)\n# Wie viele Leute brauchen wir pro Gruppe für Power = 0.8?\npwr.2p.test(h = 0.4, sig.level = 0.05, power = 0.8, alternative = \"greater\")\n\n\n     Difference of proportion power calculation for binomial distribution (arcsine transformation) \n\n              h = 0.4\n              n = 77.28199\n      sig.level = 0.05\n          power = 0.8\n    alternative = greater\n\nNOTE: same sample sizes\n\n\n\n\nh ist die Effektstärke für Proportionen.\n“greater” nutzen wir, wenn wir eine gerichtete Hypothese haben (IG &gt; KG)."
+    "objectID": "2_messung/praesentation2_messung.html#die-kritik-am-reduktionismus",
+    "href": "2_messung/praesentation2_messung.html#die-kritik-am-reduktionismus",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Die Kritik am Reduktionismus",
+    "text": "Die Kritik am Reduktionismus\n\nNur auf Energieumsatz zu schauen, ist “reduktionistisch” (Piggin, 2020).\nVernachlässigt das komplexe Erleben und das Verhalten.\nWiderspricht einer ganzheitlichen Betrachtung.\n\n\n\nWas fehlt bei der mechanistischen Sicht? (Spaß, soziale Interaktion, Kultur).\nÜberleitung zum biopsychosozialen Ansatz."
   },
   {
-    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#prozessevaluation-das-warum-klären",
-    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#prozessevaluation-das-warum-klären",
-    "title": "Modul 08-006-0007",
-    "section": "Prozessevaluation: Das “Warum” klären",
-    "text": "Prozessevaluation: Das “Warum” klären\n\nWarum war ein Programm (nicht) erfolgreich?\n7 Kernkomponenten:\n\nKontext: Soziales Umfeld (z. B. religiöse Vorbehalte).\nReichweite: Welcher Anteil der Zielgruppe wurde erreicht?\nAusmaß (Dosis): Wurden alle Einheiten durchgeführt?\nEmpfang: Hat die Zielgruppe das Programm bis zum Ende absolviert?\nUmsetzungsgenauigkeit (Fidelity): Wurde es wie geplant durchgeführt?\nGesamtumsetzung: Gesamtfazit der Implementierung.\nAnwerben: Wie wurden Teilnehmende rekrutiert?\n\n\n\n\nBeispiel: Wenn die Erzieher die Ernährungseinheiten weglassen (Dosis), kann das Programm den BMI nicht senken. Das liegt dann nicht an der Theorie, sondern am Prozess!"
+    "objectID": "2_messung/praesentation2_messung.html#der-biopsychosoziale-ansatz",
+    "href": "2_messung/praesentation2_messung.html#der-biopsychosoziale-ansatz",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Der biopsychosoziale Ansatz",
+    "text": "Der biopsychosoziale Ansatz\n\nAbgrenzung zum biomedizinischen (defizitorientierten) Ansatz.\nIntegration von drei Ebenen (Engel, 1977):\n\nBiologisch (Energieumsatz, Genetik)\nPsychisch (Affekt, Motive, Attribution)\nSozial (Beziehungen, Kontext)\n\n\n\n\nWarum ist das für Sportpsychologen wichtig?\nOhne die psychische Ebene können wir keine Interventionen planen (Intervention Mapping!)."
   },
   {
-    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#pwr.chisq.test-häufigkeiten-analysieren",
-    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#pwr.chisq.test-häufigkeiten-analysieren",
-    "title": "Modul 08-006-0007",
-    "section": "pwr.chisq.test (Häufigkeiten analysieren)",
-    "text": "pwr.chisq.test (Häufigkeiten analysieren)\nIdeal für die Prozessevaluation: Unterscheiden sich Teilnehmer und Abbrecher (Dropout-Analyse) signifikant?\n\n# Beispiel: Zusammenhang zwischen Geschlecht und Programmabbruch\n# Effektstärke w = 0.3 (mittel), 1 Freiheitsgrad (2x2 Tabelle)\npwr.chisq.test(w = 0.3, df = 1, sig.level = 0.05, power = 0.8)\n\n\n     Chi squared power calculation \n\n              w = 0.3\n              N = 87.20954\n             df = 1\n      sig.level = 0.05\n          power = 0.8\n\nNOTE: N is the number of observations\n\n\n\nHilfreich, um zu prüfen, ob eure Stichprobe für Untergruppen-Analysen (z. B. Männer vs. Frauen) groß genug ist."
+    "objectID": "2_messung/praesentation2_messung.html#eine-ganzheitliche-definition",
+    "href": "2_messung/praesentation2_messung.html#eine-ganzheitliche-definition",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Eine ganzheitliche Definition",
+    "text": "Eine ganzheitliche Definition\n\n„Physical activity involves people moving, acting and performing within culturally specific spaces and contexts, and influenced by a unique array of interests, emotions, ideas, instructions and relationships.“\n— Piggin (2020) (S. 5)\n\n\n\nDiese Definition bildet die Basis für unser Seminar.\nFokus auf: Emotionen, Ideen und Beziehungen."
   },
   {
-    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#evaluationsdesign-im-sport",
-    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#evaluationsdesign-im-sport",
-    "title": "Modul 08-006-0007",
-    "section": "Evaluationsdesign im Sport",
-    "text": "Evaluationsdesign im Sport\n\nGoldstandard: RCT (Randomized Controlled Trial).\nProblem im Feld: Einzelrandomisierung oft unmöglich (man kann nicht halbe Schulklassen trainieren).\nLösung: - Cluster-Randomisierung: Ganze Organisationen (Schulen/Vereine) zufällig zuteilen.\n\nWartelisten-Design: Die Kontrollgruppe erhält die Intervention zeitversetzt (ethisch oft besser).\n\n\n\n\n“Komm mit in das gesunde Boot” nutzt genau dieses Wartelisten-Design. Das erhöht die Akzeptanz bei den Schulen, da niemand leer ausgeht."
+    "objectID": "2_messung/praesentation2_messung.html#kategorisierung-der-methoden-kohl2000",
+    "href": "2_messung/praesentation2_messung.html#kategorisierung-der-methoden-kohl2000",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Kategorisierung der Methoden (Kohl et al., 2000)",
+    "text": "Kategorisierung der Methoden (Kohl et al., 2000)\n\nDirekt: Körpermaße wie Herzfrequenz oder Schritte (objektiv).\nIndirekt: Fragebögen, Umrechnung/Auswertung nötig (subjektiv).\nKriteriumsmethoden: Erfassung über des Energieumsatzes (DLW, Indirekte Kalometrie).\n\n\n\nBeispiel für indirekt: Herzfrequenzvariabilität -&gt; Rückschluss auf Intensität."
   },
   {
-    "objectID": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#dokumentation-transparenz",
-    "href": "12 Intervention Mapping VI - Evaluation und Dokumentation/Praesentation12_Eval.html#dokumentation-transparenz",
-    "title": "Modul 08-006-0007",
-    "section": "Dokumentation & Transparenz",
-    "text": "Dokumentation & Transparenz\n\nWarum dokumentieren?\n\nErmöglicht Replikation durch andere Forscher/Praktiker.\nIdentifiziert “aktive Komponenten” (Was genau hat gewirkt?).\nBildet die Basis für Wissenschaft und Praxis.\n\nIntervention Mapping Vorteil: Eine einheitliche Terminologie macht Programme weltweit vergleichbar.\n\n\n\nViele Entwickler vergessen die Dokumentation der “Black Box”. IM zwingt uns dazu, jeden Schritt von der Determinante bis zur Evaluation festzuhalten."
+    "objectID": "2_messung/praesentation2_messung.html#validität-vs.-anwendbarkeit",
+    "href": "2_messung/praesentation2_messung.html#validität-vs.-anwendbarkeit",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Validität vs. Anwendbarkeit",
+    "text": "Validität vs. Anwendbarkeit\n\nSystematisierung nach Müller et al. (2010):\nHohe Validität (Genauigkeit) = Geringe Anwendbarkeit (teuer, aufwendig).\nBeispiel: Doubly-Labeled-Water (DLW).\n\n\n\nDLW: Isotope im Wasser, sehr genau für Energieumsatz, aber kostet tausende Euro pro Proband."
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#subjektive-methoden-fragebögen",
+    "href": "2_messung/praesentation2_messung.html#subjektive-methoden-fragebögen",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Subjektive Methoden: Fragebögen",
+    "text": "Subjektive Methoden: Fragebögen\n\nVorteile: Ressourcensparend, große Stichproben möglich.\nNachteile:\n\nSoziale Erwünschtheit.\nErinnerungsverzerrung (Recall Bias).\n\nEignung: Gut für Gruppenvergleiche, schwierig für Individualdiagnostik (Vanhees et al., 2005)."
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#fragebogen-beispiel-1---bsa-fragebogen",
+    "href": "2_messung/praesentation2_messung.html#fragebogen-beispiel-1---bsa-fragebogen",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Fragebogen Beispiel 1 - BSA-Fragebogen",
+    "text": "Fragebogen Beispiel 1 - BSA-Fragebogen\nFuchs et al. (2015)"
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#fragebogen-beispiel-2---session-rpe",
+    "href": "2_messung/praesentation2_messung.html#fragebogen-beispiel-2---session-rpe",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Fragebogen Beispiel 2 - Session RPE",
+    "text": "Fragebogen Beispiel 2 - Session RPE\nFoster et al. (2001) Foster et al. (2021)"
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#kontext-1-interventionsstudie-mit-großer-stichprobe",
+    "href": "2_messung/praesentation2_messung.html#kontext-1-interventionsstudie-mit-großer-stichprobe",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Kontext 1: Interventionsstudie mit großer Stichprobe",
+    "text": "Kontext 1: Interventionsstudie mit großer Stichprobe\nDas Szenario\n\n\n\n\n\n\n\nMerkmal\nBeschreibung\n\n\n\n\nFragestellung\nZusammenhang zwischen Bewegungsverhalten und Herz-Kreislauf-Erkrankungen\n\n\nStichprobe\nn = 10.000 Personen aus der Allgemeinbevölkerung\n\n\nRessourcen\nGeringes Budget pro Person (ca. 5-10€)\n\n\nPersonal\nKeine spezielle Schulung der Erhebenden möglich\n\n\nDauer der Messung\nEinmalige Erhebung, ca. 15-20 Minuten pro Person"
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#kontext-2-intervention-mit-älteren-menschen-80-jahre",
+    "href": "2_messung/praesentation2_messung.html#kontext-2-intervention-mit-älteren-menschen-80-jahre",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Kontext 2: Intervention mit älteren Menschen (80+ Jahre)",
+    "text": "Kontext 2: Intervention mit älteren Menschen (80+ Jahre)\nDas Szenario\n\n\n\n\n\n\n\nMerkmal\nBeschreibung\n\n\n\n\nFragestellung\nEffekt eines wöchentlichen Bewegungsprogramms auf die Alltagsaktivität\n\n\nStichprobe\nn = 60 Personen, Durchschnittsalter 84 Jahre\n\n\nBesonderheit\nLeichte kognitive Einschränkungen (Erinnerungsvermögen eingeschränkt)\n\n\nTechnikaffinität\nMehrheit besitzt kein Smartphone\n\n\nMesszeitpunkte\nVorher (T1) und nachher (T2) - 8 Wochen Intervention"
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#kontext-3-validierungsstudie-im-labor",
+    "href": "2_messung/praesentation2_messung.html#kontext-3-validierungsstudie-im-labor",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Kontext 3: Validierungsstudie im Labor",
+    "text": "Kontext 3: Validierungsstudie im Labor\nDas Szenario\n\n\n\n\n\n\n\nMerkmal\nBeschreibung\n\n\n\n\nFragestellung\nEin neuer Kurzfragebogen zur Bewegungsmessung soll validiert werden\n\n\nKonkret\nSie wollen die Kriteriumsvalidität Ihres Fragebogens prüfen\n\n\nStichprobe\nn = 30 gesunde Erwachsene\n\n\nSetting\nKontrollierte Laborumgebung\n\n\nRessourcen\nAusreichend Budget für hochpräzise Messungen vorhanden"
+  },
+  {
+    "objectID": "2_messung/praesentation2_messung.html#kontext-4-intervention-mit-leistungssportlerinnen",
+    "href": "2_messung/praesentation2_messung.html#kontext-4-intervention-mit-leistungssportlerinnen",
+    "title": "Messung und Definition sportlicher Aktivität",
+    "section": "Kontext 4: Intervention mit Leistungssportler:innen",
+    "text": "Kontext 4: Intervention mit Leistungssportler:innen\nDas Szenario\n\n\n\n\n\n\n\nMerkmal\nBeschreibung\n\n\n\n\nFragestellung\nZusammenhang zwischen Trainingsintensität und Regenerationsbedarf\n\n\nStichprobe\nn = 20 Triathlet:innen im Wettkampftraining\n\n\nMessdauer\n4 Wochen im normalen Trainingsalltag\n\n\nAnforderungen\nEchtzeit-Daten, hohe Genauigkeit, minimale Einschränkung\n\n\nZielgrößen\nIntensität, Dauer, Häufigkeit der Belastung"
+  },
+  {
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#messen",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#messen",
+    "title": "Psychometrische Tests & relevante Konstrukte",
+    "section": "Messen",
+    "text": "Messen\n\nempirisches ➝ numerisches relativ\noperationalisieren\nSkalenniveaus: nominal, ordinal, intervall, metrisch, absolut\nStatistische Verfahren richten sich nach dem Skalenniveau!\n\n(Hussy et al., 2013; Sedlmeier & Renkewitz, 2018)"
   },
   {
     "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#wie-misst-man-etwas-das-unsichtbar-ist",
     "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#wie-misst-man-etwas-das-unsichtbar-ist",
-    "title": "Modul 08-006-0007",
+    "title": "Psychometrische Tests & relevante Konstrukte",
     "section": "Wie misst man etwas, das “unsichtbar” ist?",
-    "text": "Wie misst man etwas, das “unsichtbar” ist?\n\nempirisches vs. numerisches Relativ\nSkalenniveaus\nKonstrukte\nObjektivität, Reliabilität, Validität\n\n\nEmpirisches und Numerisches Relativ, Skalenniveaus, Objektivität, Reliabilität, Validität"
+    "text": "Wie misst man etwas, das “unsichtbar” ist?\n\nKonstrukte – theoretische Konzepte, die nicht direkt beobachtbar sind\nFaktorenanalyse – in diesem Kontext oft benutztes statistisches Verfahren zur Identifikation latenter Strukturen\nAuch Beobachtung oder offene Texte (z.B. implizite Motive)\n\n\nErinnerung: Empirisches und Numerisches Relativ, Skalenniveaus, Objektivität, Reliabilität, Validität"
+  },
+  {
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#ansätze-der-fragebogenkonstruktion",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#ansätze-der-fragebogenkonstruktion",
+    "title": "Psychometrische Tests & relevante Konstrukte",
+    "section": "Ansätze der Fragebogenkonstruktion",
+    "text": "Ansätze der Fragebogenkonstruktion\n\n\n\n\n\n\n\n\nAnsatz\nVorgehen\nBeispiel\n\n\n\n\nLexikalisch\nSprache als Grundlage; alle wichtigen Unterschiede haben sich sprachlich niedergeschlagen\nBig Five\n\n\nTheoriegeleitet (deduktiv)\nItems werden direkt aus Theorie abgeleitet\nPANAS (basierend auf Watson et al., 1985)\n\n\nFaktorenanalytisch (induktiv)\nFaktorenstruktur emergiert statistisch aus Daten\nEysencks PEN-Modell\n\n\nKriteriumsorientiert\nItems unterscheiden zwischen bekannten Gruppen\nKlinische Skalen\n\n\nIntuitiv/rational\nBasierend auf Expertenmeinung\nPilotierung neuer Skalen"
   },
   {
     "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#was-ist-ein-psychometrischer-test",
     "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#was-ist-ein-psychometrischer-test",
-    "title": "Modul 08-006-0007",
+    "title": "Psychometrische Tests & relevante Konstrukte",
     "section": "Was ist ein psychometrischer Test?",
-    "text": "Was ist ein psychometrischer Test?\n\nEin standardisiertes Verfahren zur quantitativen Erfassung von Merkmalen.\nZiel: Inter- (zwischen Personen) und intraindividuelle (innerhalb einer Person über die Zeit) Unterschiede messen.\nIn der Rehabilitation: Prozessdiagnostik (Verändert sich die Motivation durch mein Training?).\n\n\n\nStandardisierung bedeutet: Gleiche Instruktion, gleiche Auswertung, gleiche Interpretation für alle.\nErinnert euch an die letzte Sitzung: Um “Erleben” (Piggin) messbar zu machen, brauchen wir Regeln."
+    "text": "Was ist ein psychometrischer Test?\n\nEin standardisiertes Verfahren zur quantitativen Erfassung von Merkmalen\nZiel: Inter- (zwischen Personen) und intraindividuelle (innerhalb einer Person über die Zeit) Unterschiede messen\nIn der Rehabilitation: Prozessdiagnostik – Verändert sich die Motivation durch mein Training?\n\n\n\nStandardisierung bedeutet: Gleiche Instruktion, gleiche Auswertung, gleiche Interpretation für alle.\nErinnert euch an die letzte Sitzung: Um “Erleben” (Piggin) messbar zu machen, brauchen wir Regeln."
   },
   {
     "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#herausforderungen-fehlerquellen",
     "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#herausforderungen-fehlerquellen",
-    "title": "Modul 08-006-0007",
+    "title": "Psychometrische Tests & relevante Konstrukte",
     "section": "Herausforderungen & Fehlerquellen",
-    "text": "Herausforderungen & Fehlerquellen\n\nSoziale Erwünschtheit: “Ja, ich trainiere jeden Tag…”\nReaktivität: Allein die Messung verändert das Verhalten (Mere-Measurement-Effekt).\nDecken- & Bodeneffekte: Wenn der Test zu leicht oder zu schwer ist (z.B. ein Motivationsfragebogen, bei dem jeder “Hoch” ankreuzt).\n\n\n\nDemand-Effekt: Probanden antworten so, wie sie glauben, dass ihr es als Versuchsleiter hören wollt.\nWichtig für eure Hausarbeit: Kritische Reflexion der gewählten Skalen!"
+    "text": "Herausforderungen & Fehlerquellen\n\n\n\n\n\n\n\nFehlerquelle\nBeschreibung\n\n\n\n\nSoziale Erwünschtheit\n“Ja, ich trainiere jeden Tag…”\n\n\nReaktivität / Mere-Measurement-Effekt\nAllein die Messung verändert das Verhalten\n\n\nDecken- & Bodeneffekte\nTest zu leicht (alle “Hoch”) oder zu schwer (alle “Niedrig”)\n\n\nAntworttendenzen\nSystematische Tendenz, z.B. zu extremen Items oder zur Mitte\n\n\nUnaufmerksamkeit oder “Durchklicken”\nDeshalb: Seriousness Check!\n\n\n\n\nWichtig für eure Hausarbeit: Kritische Reflexion der gewählten Skalen!"
   },
   {
     "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#selbstwirksamkeit-self-efficacy",
     "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#selbstwirksamkeit-self-efficacy",
-    "title": "Modul 08-006-0007",
+    "title": "Psychometrische Tests & relevante Konstrukte",
     "section": "1. Selbstwirksamkeit (Self-Efficacy)",
-    "text": "1. Selbstwirksamkeit (Self-Efficacy)\n\nDas Vertrauen in die eigene Fähigkeit, eine Handlung auch bei Barrieren auszuführen.\nZentrales Konstrukt im HAPA & Sozial-kognitiver Theorie.\nMessung: “Ich bin mir sicher, dass ich Sport treiben kann, auch wenn es regnet…”\n\n\n\nEines der stärksten Prädiktoren für sportliche Aktivität.\nBezug zur Bachelorarbeit: Wie korreliert Selbstwirksamkeit mit der erinnerten Aktivität?"
+    "text": "1. Selbstwirksamkeit (Self-Efficacy)\n\nDefinition: Vertrauen in die eigene Fähigkeit, eine Handlung auch bei Barrieren auszuführen\nZentrales Konstrukt im HAPA (Health Action Process Approach) & der sozial-kognitiven Theorie\nMessung: Eigene Items bilden “Ich bin mir sicher, dass ich Sport treiben kann, auch wenn es regnet…”\n\noder McAuley et al. (1993)\n\nEines der stärksten Prädiktoren für sportliche Aktivität\n\n\n\nBezug zur Bachelorarbeit: Wie korreliert Selbstwirksamkeit mit der erinnerten Aktivität?"
   },
   {
-    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#stadien-der-veränderung-ttm",
-    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#stadien-der-veränderung-ttm",
-    "title": "Modul 08-006-0007",
-    "section": "2. Stadien der Veränderung (TTM)",
-    "text": "2. Stadien der Veränderung (TTM)\n\nErfassung der Bereitschaft via “Stadienfragebögen”.\nFrage: “Planen Sie, in den nächsten 6 Monaten aktiver zu werden?”\nHilft bei der Zuweisung zu Interventionsgruppen (Match-Mismatch).\n\n\n\nKritik aus der Vorlesung: Sind Stadien wirklich diskret oder ein Kontinuum? (Siehe Adams & White Paper)."
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#stadien-der-veränderung-hapa",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#stadien-der-veränderung-hapa",
+    "title": "Psychometrische Tests & relevante Konstrukte",
+    "section": "2. Stadien der Veränderung (HAPA)",
+    "text": "2. Stadien der Veränderung (HAPA)\n\nErfassung der Bereitschaft via Stadienfragebögen\nTypische Frage: z.B. Nachdem Sie begonnen haben, sich körperlich zu betätigen, geht es darum, regelmäßig an zwei oder mehr Tagen pro Woche körperlich aktiv zu sein. Wie zuversichtlich sind Sie, dass Ihnen das gelingen wird?\nAnwendung: Zuweisung zu Interventionsgruppen je nach Stadium\n\nLink zum Fragebogen hier\n\n\nKritik: Sind Stadien wirklich diskret oder ein Kontinuum? (Siehe Adams & White Paper)"
   },
   {
-    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#einstellungen-affekt",
-    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#einstellungen-affekt",
-    "title": "Modul 08-006-0007",
-    "section": "3. Einstellungen & Affekt",
-    "text": "3. Einstellungen & Affekt\n\nKognitiv: “Sport ist gesund für mich.”\nAffektiv: “Sport macht mir Spaß / gibt mir Energie.”\nStolz (Incentives): Antizipierter Stolz als Motivator für die Aufrechterhaltung.\n\n\n\nStolz ist ein machtvolles selbstbewertendes Gefühl. Wenn ich stolz auf meine Leistung bin, steigt die Wahrscheinlichkeit für Maintenance."
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#affekt-theoretische-grundlagen",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#affekt-theoretische-grundlagen",
+    "title": "Psychometrische Tests & relevante Konstrukte",
+    "section": "Affekt: Theoretische Grundlagen",
+    "text": "Affekt: Theoretische Grundlagen\n\n\n\n\n\nDas Modell von Watson et al. (1985)\n\nZwei unipolare, unabhängige Dimensionen:\n\nPositiver Affekt (PA): gute Gefühle, Lebensfreude\nNegativer Affekt (NA): unangenehme Erregung\n\nNiedriger PA = Abwesenheit von positivem Affekt (nicht automatisch hoher NA)"
   },
   {
-    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#fragebögen-vs.-konstrukte",
-    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#fragebögen-vs.-konstrukte",
-    "title": "Modul 08-006-0007",
-    "section": "Fragebögen vs. Konstrukte",
-    "text": "Fragebögen vs. Konstrukte\n\nAktivitätsfragebogen: Misst das Verhalten (Wie oft? Wie intensiv?).\nPsychometrischer Fragebogen: Misst die Determinanten des Verhaltens (Warum? Traue ich es mir zu?).\nProblem: Beide leiden unter dem Recall Bias (Erinnerungsverzerrung).\n\n\n\nWir nutzen die psychometrischen Tests in IM Schritt 2, um zu wissen, wo wir ansetzen müssen (z.B. mangelnde Selbstwirksamkeit stärken)."
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#messung-von-affekt-panas",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#messung-von-affekt-panas",
+    "title": "Psychometrische Tests & relevante Konstrukte",
+    "section": "Messung von Affekt: PANAS",
+    "text": "Messung von Affekt: PANAS\nPositive and Negative Affect Scale (Watson et al., 1988)\n\n10 Items für positiven Affekt (z.B. “interested”)\n10 Items für negativen Affekt (z.B. “distressed”)\nSkala: 1 (“not at all”) bis 5 (“extremely”)\nKeine negativ gepolten Items → Mittelwertbildung pro Dimension\n\nZustand oder Eigenschaft? - Zustand: aktuelles Gefühlserleben (“im Moment”) - Eigenschaft: tendenzielles Erleben (“im Allgemeinen”) – Aggregation von Zuständen\nDeutsche Übersetzung: Reliabilität α = .86 (Breyer & Bluemke, 2016) Link hier\n\nUnterschiedliche Anwendungen, z.B. für Eltern\n\n\nIn meiner Bachelorarbeit: Prä-Test mit Instruktion “speziell beim Training in den letzten 14 Tagen” (Aggregat), wiederholte Befragungen als Zustand (“im letzten Training”)"
+  },
+  {
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#attribution-ursachenzuschreibungen",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#attribution-ursachenzuschreibungen",
+    "title": "Psychometrische Tests & relevante Konstrukte",
+    "section": "4. Attribution (Ursachenzuschreibungen)",
+    "text": "4. Attribution (Ursachenzuschreibungen)\nUrsprung: Heider (1958)\n\nMensch als systematisch nach Erkenntnis strebendes Individuum\nZwei grundlegende Attributionskategorien:\n\nExternal: Ursache in der Umwelt liegend\nInternal: Ursache in der Person liegend"
+  },
+  {
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#attribution-nach-weiner-1986",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#attribution-nach-weiner-1986",
+    "title": "Psychometrische Tests & relevante Konstrukte",
+    "section": "Attribution nach Weiner (1986)",
+    "text": "Attribution nach Weiner (1986)\nDrei Dimensionen der Ursachenzuschreibung für Erfolge und Misserfolge:\n\n\n\n\n\n\n\n\nDimension\nBeschreibung\nBeispiel für Nicht-Einhalten eines Trainingsplans\n\n\n\n\nLokus\nInternal vs. external\n“Ich bin undiszipliniert” vs. “Das Wetter war schlecht”\n\n\nStabilität\nStabil vs. variabel\n“Ich bin einfach unsportlich” vs. “Heute hatte ich einen schlechten Tag”\n\n\nKontrollierbarkeit\nKontrollierbar vs. nicht kontrollierbar\n“Ich hätte mich mehr anstrengen können” vs. “Ich war krank”"
+  },
+  {
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#günstige-attribution",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#günstige-attribution",
+    "title": "Psychometrische Tests & relevante Konstrukte",
+    "section": "Günstige Attribution",
+    "text": "Günstige Attribution\nIm Reha-Kontext (Bewegungsförderung): Welche Attribution wäre bei Erfolg am günstigsten? Welche bei Misserfolg?"
+  },
+  {
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#attributionsstil",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#attributionsstil",
+    "title": "Psychometrische Tests & relevante Konstrukte",
+    "section": "Attributionsstil",
+    "text": "Attributionsstil\n\nDefinition: Persönlichkeitseigenschaft, die Attributionen besonders in uneindeutigen Situationen beeinflusst (Alloy, 1984; Seligman, 1979)\nBeispiel: Manche Personen attribuieren Erfolge eher internal → internaler Attributionsstil\n\nMessung: Attribution Style Questionnaire (Peterson et al., 1982)\n\n16 Szenarien (Erfolg/Misserfolg), z.B. “You have been looking for a job unsuccessfully”\nOffene Erfassung der Ursache\nSemantisches Differenzial (1-7) für Lokus, Stabilität, Globalität\nReliabilität & Validität gestützt durch Corr et al. (1996)"
+  },
+  {
+    "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#aufgabe",
+    "href": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#aufgabe",
+    "title": "Psychometrische Tests & relevante Konstrukte",
+    "section": "Aufgabe",
+    "text": "Aufgabe\nSzenario: Reha-Patient nach Herzinfarkt\nWelche Konstrukte sind hier relevant?\n\nAngst (vor Belastung)?\nSelbstwirksamkeit?\nIntention?\nAttributionen?\nAffekt?\n\nDiskutieren Sie: Welches Konstrukt würden Sie als Erstes messen – und warum?"
   },
   {
     "objectID": "5_webbasiert/praesentation5_web.html#humanoo",
@@ -641,6 +725,6 @@
     "href": "index.html#kursinhalte",
     "title": "Präsentationsfolien und online-Termine",
     "section": "Kursinhalte",
-    "text": "Kursinhalte\n\nGrundlagen\n\nEinleitung & Fallbeispiele\nMessung und Definition sportlicher Aktivität \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRessourcen\n\nStichwortliste\nLinksammlung\n\n\n\n\n\n\n\nHinweise zur Nutzung\n\nDie Präsentationen sind als Reveal.js Slides optimiert.\nNutzen Sie die Taste m, um das Menü aufzurufen, oder f für den Vollbildmodus.\nAlle Literaturangaben finden Sie am Ende der jeweiligen Präsentation.\n\n\n\nVorlesungstermine\nJeweils Montag\n13.04.26\n20.04.26\n27.04.26\n04.05.26\n11.05.26\n18.05.26\n01.06.26\n08.06.26\n15.06.26\n22.06.26\n29.06.26\n06.07.26"
+    "text": "Kursinhalte\n\nGrundlagen\n\nEinleitung & Fallbeispiele\nMessung und Definition sportlicher Aktivität\n\nSteckbrief\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRessourcen\n\nStichwortliste\nLinksammlung\n\n\n\n\n\n\n\nHinweise zur Nutzung\n\nDie Präsentationen sind als Reveal.js Slides optimiert.\nNutzen Sie die Taste m, um das Menü aufzurufen, oder f für den Vollbildmodus.\nAlle Literaturangaben finden Sie am Ende der jeweiligen Präsentation.\n\n\n\nVorlesungstermine\nJeweils Montag\n13.04.26\n20.04.26\n27.04.26\n04.05.26\n11.05.26\n18.05.26\n01.06.26\n08.06.26\n15.06.26\n22.06.26\n29.06.26\n06.07.26"
   }
 ]

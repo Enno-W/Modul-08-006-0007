@@ -10,24 +10,44 @@ format:
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
-    date: 2011-11-11
+    date: 2026-04-20
 resources: 
   - "hintergrund2.jpg"
 ---
 
 ```{r setup}
+#| echo: false
 # if (!requireNamespace("needs"   )) install.packages("needs")
 # if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
  needs("excelbib", "xfun")
  xlsx_to_bib(from_root("References.xlsx"))
 ```
 
-# Rückblick & Agenda
+# Agenda
 
--   Definitionen von Körperlicher Aktivität (PA)
--   Das Biopsychosoziale Modell
--   Messmethoden: Von Double-Labeled-Water bis Fragebogen
--   Validität vs. Anwendbarkeit
+-   Organisationsfragen
+-   Definitionen von physischer Aktivität (PA)
+-   Messmethoden: Von Doubly-Labeled-Water bis Fragebogen
+-   Fitnesstest: Praxisbeispiel
+-   Gruppenarbeit: Steckbrief einer Messmethode
+-   Hausarbeitsthemen
+
+## Orga
+
+- Gruppenwechsel
+- Hausarbeitsthemen
+
+# Rückblick
+
+[Gruppe B](https://moodle2.uni-leipzig.de/mod/etherpadlite/view.php?id=3175741)
+
+[Gruppe A](https://moodle2.uni-leipzig.de/mod/etherpadlite/view.php?id=3175745)
+
+Wie trackt ihr eure Aktivität?
+
+-   App?
+-   Gedächtnis?
+-   Tagebuch?
 
 # Definition von physischer Aktivität (PA)
 
@@ -79,11 +99,13 @@ resources:
 
 # Messmethoden physischer Aktivität
 
-## Kategorisierung der Methoden
 
--   **Direkt:** Erhobene Daten = Zielgröße (z.B. Beobachtung).
--   **Indirekt:** Umrechnung/Auswertung nötig [@Eckert2014].
--   **Kriteriumsmethoden:** Goldstandard (oxidativer Energiestoffwechsel oder direkte Beobachtung) [@Kohl2000].
+
+## Kategorisierung der Methoden [@Kohl2000]
+
+-   **Direkt:** Körpermaße wie Herzfrequenz oder Schritte (objektiv).
+-   **Indirekt:** Fragebögen, Umrechnung/Auswertung nötig (subjektiv).
+-   **Kriteriumsmethoden:** Erfassung über des Energieumsatzes (DLW, Indirekte Kalometrie).
 
 ::: notes
 -   Beispiel für indirekt: Herzfrequenzvariabilität -\> Rückschluss auf Intensität.
@@ -114,33 +136,105 @@ resources:
 ![](BSA.jpg)
 
 
-::: notes - Wo würdet ihr die bei Mueller et al verorten? - Frage an die Studis: Wer von euch trackt seine Aktivität? (App vs. Gedächtnis). - Überleitung zur Übung. 
-:::
+
+
 
 ## Fragebogen Beispiel 2 - Session RPE
 
-@Foster2001
-@Foster2021
+@Foster2001 @Foster2021
 
 ![](SessionRPE.jpg)
 
+# Praxis-Input: Kapazitätstests bzws. Fitnesstests
 
-## Wie trackt ihr eure Aktivität
+- Physiologische Maße: Herzratenvariablität, VO~2~max, Laktat
+- Wiederholung bestimmter Aufgaben, Erfassen Anzahl der Wiederholungen und Geschwindigkeit
+  - [Praxisbeispiel](https://ennosgermancourse-my.sharepoint.com/:b:/g/personal/enno_winkler_spb-ew_de/IQA9yxTHNEy8Rp4MhxgjnhltAWAUZsE0nst60z2-gM4W70E?e=XgxHQ9) aus den Special Olympics
+  ➝ Welche Aspekte der Fitness werden hier gemessen?
+  ➝ Ist das Verfahren fair? Was könnte an dem Fitnesstest noch verbessert werden?
+  
 
--   App?
--   Gedächtnis?
--   Tagebuch?
+# Gruppenübung: Steckbrief
 
-# Gruppenübung: Der "selfBACK"-Check
+Findet euch in Gruppen von 3-4 zusammen.
 
--   Schauen Sie sich die Messmethode in der Studie von @Svendsen2022 an.
--   Wie wird dort Aktivität gemessen?
--   Wo ordnen Sie diese Methode im Schema von @Mueller2010 ein?
+Füllt den Steckbrief (zu finden auf der Kurs-Website) aus, so gut ihr könnt.
 
-::: notes
--   Die selfBACK Studie nutzt Smartphone-Sensoren/Apps.
--   Diskussion: Ist das eine direkte oder indirekte Methode?
-:::
+Ihr könnt euch aus @Mueller2010 ein Verfahren aussuchen oder andere Messverfahren für sportliche Aktivität recherchieren. 
+
+# Plenum: Kontexte der Messung
+
+## Kontext 1: Interventionsstudie mit großer Stichprobe
+
+### Das Szenario
+
+| Merkmal | Beschreibung |
+|---------|--------------|
+| **Fragestellung** | Zusammenhang zwischen Bewegungsverhalten und Herz-Kreislauf-Erkrankungen |
+| **Stichprobe** | n = 10.000 Personen aus der Allgemeinbevölkerung |
+| **Ressourcen** | Geringes Budget pro Person (ca. 5-10€) |
+| **Personal** | Keine spezielle Schulung der Erhebenden möglich |
+| **Dauer der Messung** | Einmalige Erhebung, ca. 15-20 Minuten pro Person |
+
+
+## Kontext 2: Intervention mit älteren Menschen (80+ Jahre)
+
+### Das Szenario
+
+| Merkmal | Beschreibung |
+|---------|--------------|
+| **Fragestellung** | Effekt eines wöchentlichen Bewegungsprogramms auf die Alltagsaktivität |
+| **Stichprobe** | n = 60 Personen, Durchschnittsalter 84 Jahre |
+| **Besonderheit** | Leichte kognitive Einschränkungen (Erinnerungsvermögen eingeschränkt) |
+| **Technikaffinität** | Mehrheit besitzt kein Smartphone |
+| **Messzeitpunkte** | Vorher (T1) und nachher (T2) - 8 Wochen Intervention |
+
+
+## Kontext 3: Validierungsstudie im Labor
+
+### Das Szenario
+
+| Merkmal | Beschreibung |
+|---------|--------------|
+| **Fragestellung** | Ein neuer Kurzfragebogen zur Bewegungsmessung soll validiert werden |
+| **Konkret** | Sie wollen die **Kriteriumsvalidität** Ihres Fragebogens prüfen |
+| **Stichprobe** | n = 30 gesunde Erwachsene |
+| **Setting** | Kontrollierte Laborumgebung |
+| **Ressourcen** | Ausreichend Budget für hochpräzise Messungen vorhanden |
+
+## Kontext 4: Intervention mit Leistungssportler:innen
+
+### Das Szenario
+
+| Merkmal | Beschreibung |
+|---------|--------------|
+| **Fragestellung** | Zusammenhang zwischen Trainingsintensität und Regenerationsbedarf |
+| **Stichprobe** | n = 20 Triathlet:innen im Wettkampftraining |
+| **Messdauer** | 4 Wochen im normalen Trainingsalltag |
+| **Anforderungen** | Echtzeit-Daten, hohe Genauigkeit, minimale Einschränkung |
+| **Zielgrößen** | Intensität, Dauer, Häufigkeit der Belastung |
+
+# Wissens-Check
+
+Tretet dem [Spiel](https://quizlet.com/cn/1169077897/02-messung-von-pa-flash-cards/) auf Quizlet bei. 
+
+
+
+<!-- # Gruppenübung: Der "selfBACK"-Check -->
+
+<!-- -   Schauen Sie sich die Messmethode in der Studie von @Svendsen2022 an. -->
+
+<!-- -   Wie wird dort Aktivität gemessen? -->
+
+<!-- -   Wo ordnen Sie diese Methode im Schema von @Mueller2010 ein? -->
+
+<!-- ::: notes -->
+
+<!-- -   Die selfBACK Studie nutzt Smartphone-Sensoren/Apps. -->
+
+<!-- -   Diskussion: Ist das eine direkte oder indirekte Methode? -->
+
+<!-- ::: -->
 
 # Literaturverzeichnis
 

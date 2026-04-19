@@ -12,6 +12,8 @@ Willkommen auf der Kursseite. Hier finden Sie alle Präsentationen und Materiali
 
 1.  [Einleitung & Fallbeispiele](1%20Einleitung,%20Vorstellung%20der%20Fallbeispiele,%20Gruppenfindung/Praesentation1_Einleitung.qmd)
 2.  [Messung und Definition sportlicher Aktivität](2_messung/praesentation2_messung.qmd)
+    - [Steckbrief](2_messung/steckbrief.qmd)
+    
 <!-- 3.  [Psychometrische Fragebögen](3%20Psychometrische%20Fragebögen%20und%20Konstrukte/Praesentation3_Frageboegen.qmd) -->
 
 <!-- ### Spezielle Anwendungsfälle -->

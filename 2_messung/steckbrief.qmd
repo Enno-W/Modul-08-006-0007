@@ -1,0 +1,86 @@
+---
+title: "Steckbrief: Messverfahren für physische Aktivität"
+author: ""
+lang: de
+format: 
+  docx:
+    toc: false
+---
+
+# Steckbrief: \[Name des Verfahrens\]
+
+## Allgemeine Informationen
+
+|------|--------|
+| **Name** | |
+| **Deutscher Name** | |
+| **Kürzel** | |
+| **Autor:innen** | |
+| **Jahr der Publikation** | |
+| **Quelle (Primärliteratur)** | |
+
+## Beschreibung
+
+**Was wird gemessen?**  
+(Genau beschreiben: z.B. Schrittanzahl, Energieumsatz, Sportminuten pro Woche, Intensität, etc.)
+
+**Wie wird gemessen? Wie werden die Daten evtl. ausgewertet?**  
+(Verfahren kurz erklären: Fragebogen, Sensor, Tagebuch, etc.)
+
+**Skalenniveau**  
+( ☐ nominal / ☐ ordinal / ☐ intervall / ☐ metrisch / ☐ absolut)
+
+## Gütekriterien
+
+Welche Angaben werden zu Gütekriterien gemacht (u.a. Objektivität, Reliabilität, Validität)?
+
+## Anwendbarkeit
+
+| Kriterium | Bewertung | Anmerkung |
+|-----------|-----------|-----------|
+| **Dauer der Durchführung** | | |
+| **Benötigte Schulung** | | |
+| **Aufwand für Auswertung** | | |
+| **Benötigtes Material/Equipment** | | |
+
+## Praktische Informationen
+
+**Kosten**  
+(☐ kostenlos / ☐ günstig (<100€ pro Person) / ☐ teuer (>100€ pro Person) / ☐ sehr teuer (>500€ pro Person))
+
+**Verfügbare Sprachen**  
+(Original: ______________ / verfügbar in: _____________________)
+
+**Benötigte Zeit pro Messung**  
+(__________ Minuten / Stunden / Tage)
+
+## Einordnung
+
+**Wo verorten Sie das Verfahren im Spannungsfeld Validität vs. Anwendbarkeit?**  
+(z.B. "Hohe Validität, geringe Anwendbarkeit" -- ähnlich wie Doubly-Labeled-Water)
+
+**Für welche Kontexte ist das Verfahren geeignet?**  
+( ☐ Einzelfalldiagnostik / ☐ Gruppenvergleiche / ☐ Längsschnittstudien / ☐ Interventionsstudien / ☐ epidemiologische Studien / ☐ Feldforschung / ☐ Laborexperimente)
+
+**Passende Zielgruppen**  
+☐ Kinder / ☐ Jugendliche / ☐ Erwachsene / ☐ ältere Menschen / ☐ Patient:innen / ☐ Sportler:innen / ☐ allgemeine Bevölkerung
+
+**Andere:**
+
+## Stärken und Schwächen
+
+| Stärken | Schwächen / Limitationen |
+|---------|--------------------------|
+| | |
+| | |
+| | |
+
+## Anwendungsbeispiel(e)
+
+(Kurze Beschreibung einer Studie, in der das Verfahren eingesetzt wurde)
+
+## Quellen
+
+(Primärquelle + ggf. weitere Literatur, in der das Verfahren validiert oder angewendet wurde)
+
+---

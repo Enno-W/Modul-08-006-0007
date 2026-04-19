@@ -15,104 +15,281 @@ resources:
   - "hintergrund3.jpg"
 #csl: apa.csl
 #biblio-style: "apalike"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 ```{r setup}
 #| echo: false
 # if (!requireNamespace("needs"   )) install.packages("needs")
 # if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
-# needs("excelbib", "xfun")
-# xlsx_to_bib(from_root("References.xlsx"))
+ needs("excelbib", "xfun")
+ xlsx_to_bib(from_root("References.xlsx"))
 ```
+
+---
+title: "Psychometrische Tests & relevante Konstrukte"
+author: "Enno Winkler"
+lang: de
+format: 
+  revealjs:
+    footer: Modul 08-006-0007
+    pagetitle: "Psychometrische Tests"
+    parallax-background-image: "hintergrund3.jpg"
+    parallax-background-size: 4080px 3072px
+    parallax-background-horizontal: 200
+    parallax-background-vertical: 350
+resources: 
+  - "hintergrund3.jpg"
+---
 
 # Psychometrische Tests
 
+## Messen
+
+-   empirisches ➝ numerisches relativ
+-   operationalisieren
+-   Skalenniveaus: nominal, ordinal, intervall, metrisch, absolut
+-   Statistische Verfahren richten sich nach dem Skalenniveau!
+
+[@sedlmeier_forschungsmethoden_2018; @hussy2013]
+
 ## Wie misst man etwas, das "unsichtbar" ist?
 
-- empirisches vs. numerisches Relativ
-- Skalenniveaus
-- Konstrukte
-- Objektivität, Reliabilität, Validität
+-   **Konstrukte** – theoretische Konzepte, die nicht direkt beobachtbar
+    sind
+-   **Faktorenanalyse** – in diesem Kontext oft benutztes statistisches
+    Verfahren zur Identifikation latenter Strukturen
+-   Auch Beobachtung oder offene Texte (z.B. implizite Motive)
 
 ::: notes
-Empirisches und Numerisches Relativ, Skalenniveaus, Objektivität, Reliabilität, Validität
+Erinnerung: Empirisches und Numerisches Relativ, Skalenniveaus,
+Objektivität, Reliabilität, Validität
 :::
+
+## Ansätze der Fragebogenkonstruktion
+
+| Ansatz | Vorgehen | Beispiel |
+|---------------------|--------------------------|--------------------------|
+| **Lexikalisch** | Sprache als Grundlage; alle wichtigen Unterschiede haben sich sprachlich niedergeschlagen | Big Five |
+| **Theoriegeleitet (deduktiv)** | Items werden direkt aus Theorie abgeleitet | **PANAS** (basierend auf Watson et al., 1985) |
+| **Faktorenanalytisch (induktiv)** | Faktorenstruktur emergiert statistisch aus Daten | Eysencks PEN-Modell |
+| **Kriteriumsorientiert** | Items unterscheiden zwischen bekannten Gruppen | Klinische Skalen |
+| **Intuitiv/rational** | Basierend auf Expertenmeinung | Pilotierung neuer Skalen |
 
 ## Was ist ein psychometrischer Test?
 
-- Ein **standardisiertes** Verfahren zur quantitativen Erfassung von Merkmalen.
-- Ziel: **Inter-** (zwischen Personen) und **intraindividuelle** (innerhalb einer Person über die Zeit) Unterschiede messen.
-- In der Rehabilitation: **Prozessdiagnostik** (Verändert sich die Motivation durch mein Training?).
+-   Ein **standardisiertes** Verfahren zur quantitativen Erfassung von
+    Merkmalen
+-   Ziel: **Inter-** (zwischen Personen) und **intraindividuelle**
+    (innerhalb einer Person über die Zeit) Unterschiede messen
+-   In der Rehabilitation: **Prozessdiagnostik** – Verändert sich die
+    Motivation durch mein Training?
 
 ::: notes
-- Standardisierung bedeutet: Gleiche Instruktion, gleiche Auswertung, gleiche Interpretation für alle.
-- Erinnert euch an die letzte Sitzung: Um "Erleben" (Piggin) messbar zu machen, brauchen wir Regeln.
+-   Standardisierung bedeutet: Gleiche Instruktion, gleiche Auswertung,
+    gleiche Interpretation für alle.
+-   Erinnert euch an die letzte Sitzung: Um "Erleben" (Piggin) messbar
+    zu machen, brauchen wir Regeln.
 :::
 
 ## Herausforderungen & Fehlerquellen
 
-- **Soziale Erwünschtheit:** "Ja, ich trainiere jeden Tag..."
-- **Reaktivität:** Allein die Messung verändert das Verhalten (Mere-Measurement-Effekt).
-- **Decken- & Bodeneffekte:** Wenn der Test zu leicht oder zu schwer ist (z.B. ein Motivationsfragebogen, bei dem jeder "Hoch" ankreuzt).
+| Fehlerquelle | Beschreibung |
+|------------------------------------|------------------------------------|
+| **Soziale Erwünschtheit** | "Ja, ich trainiere jeden Tag..." |
+| **Reaktivität / Mere-Measurement-Effekt** | Allein die Messung verändert das Verhalten |
+| **Decken- & Bodeneffekte** | Test zu leicht (alle "Hoch") oder zu schwer (alle "Niedrig") |
+| **Antworttendenzen** | Systematische Tendenz, z.B. zu extremen Items oder zur Mitte |
+| **Unaufmerksamkeit oder "Durchklicken"** | Deshalb: Seriousness Check! |
 
 ::: notes
-- Demand-Effekt: Probanden antworten so, wie sie glauben, dass ihr es als Versuchsleiter hören wollt.
-- Wichtig für eure Hausarbeit: Kritische Reflexion der gewählten Skalen!
+Wichtig für eure Hausarbeit: Kritische Reflexion der gewählten Skalen!
 :::
 
-# Relevante Konstrukte für Bewegungsförderung
+------------------------------------------------------------------------
+
+# *Beispiele* relevanter Konstrukte für Bewegungsförderung
 
 ## 1. Selbstwirksamkeit (Self-Efficacy)
-- Das Vertrauen in die eigene Fähigkeit, eine Handlung auch bei Barrieren auszuführen.
-- **Zentrales Konstrukt im HAPA & Sozial-kognitiver Theorie.**
-- Messung: "Ich bin mir sicher, dass ich Sport treiben kann, auch wenn es regnet..."
 
-
-
-::: notes
-- Eines der stärksten Prädiktoren für sportliche Aktivität.
-- Bezug zur Bachelorarbeit: Wie korreliert Selbstwirksamkeit mit der erinnerten Aktivität?
-:::
-
-## 2. Stadien der Veränderung (TTM)
-- Erfassung der Bereitschaft via "Stadienfragebögen".
-- Frage: "Planen Sie, in den nächsten 6 Monaten aktiver zu werden?"
-- Hilft bei der Zuweisung zu Interventionsgruppen (Match-Mismatch).
+-   **Definition:** Vertrauen in die eigene Fähigkeit, eine Handlung
+    auch bei Barrieren auszuführen
+-   **Zentrales Konstrukt** im HAPA (Health Action Process Approach) &
+    der sozial-kognitiven Theorie
+-   **Messung:** Eigene Items bilden "Ich bin mir sicher, dass ich Sport
+    treiben kann, auch wenn es regnet..."
+    -   oder @mcauley_long-term_1993
+-   Eines der stärksten Prädiktoren für sportliche Aktivität
 
 ::: notes
-- Kritik aus der Vorlesung: Sind Stadien wirklich diskret oder ein Kontinuum? (Siehe Adams & White Paper).
+-   Bezug zur Bachelorarbeit: Wie korreliert Selbstwirksamkeit mit der
+    erinnerten Aktivität?
 :::
 
-## 3. Einstellungen & Affekt
-- **Kognitiv:** "Sport ist gesund für mich."
-- **Affektiv:** "Sport macht mir Spaß / gibt mir Energie."
-- **Stolz (Incentives):** Antizipierter Stolz als Motivator für die Aufrechterhaltung.
+## 2. Stadien der Veränderung (HAPA)
+
+-   **Erfassung der Bereitschaft** via Stadienfragebögen
+-   **Typische Frage:** z.B. Nachdem Sie begonnen haben, sich körperlich
+    zu betätigen, geht es darum, regelmäßig an zwei oder mehr Tagen pro
+    Woche körperlich aktiv zu sein. Wie zuversichtlich sind Sie, dass
+    Ihnen das gelingen wird?
+-   **Anwendung:** Zuweisung zu Interventionsgruppen je nach Stadium
+
+Link zum Fragebogen
+[hier](https://userpage.fu-berlin.de/%7Ehealth/hapa_assessment.pdf)
 
 ::: notes
-- Stolz ist ein machtvolles selbstbewertendes Gefühl. Wenn ich stolz auf meine Leistung bin, steigt die Wahrscheinlichkeit für Maintenance.
+-   Kritik: Sind Stadien wirklich diskret oder ein Kontinuum? (Siehe
+    Adams & White Paper)
 :::
 
-# Rückbezug: Aktivitätsmessung
+## Affekt: Theoretische Grundlagen
 
-## Fragebögen vs. Konstrukte
+<!-- ### Das Circumplex Model of Affect (Russell, 1980) -->
 
-- **Aktivitätsfragebogen:** Misst das *Verhalten* (Wie oft? Wie intensiv?).
-- **Psychometrischer Fragebogen:** Misst die *Determinanten* des Verhaltens (Warum? Traue ich es mir zu?).
-- **Problem:** Beide leiden unter dem *Recall Bias* (Erinnerungsverzerrung).
+<!-- - Basierend auf Anordnung von emotionsbeschreibenden Wörtern auf einem Kreis -->
+
+<!-- - Zwei bipolare Basisdimensionen: -->
+
+<!--   - **Valenz:** pleasure vs. displeasure -->
+
+<!--   - **Aktivierung:** arousal (Erregung) -->
+
+### Das Modell von Watson et al. (1985)
+
+-   Zwei **unipolare, unabhängige** Dimensionen:
+    -   **Positiver Affekt (PA):** gute Gefühle, Lebensfreude
+    -   **Negativer Affekt (NA):** unangenehme Erregung
+-   Niedriger PA = Abwesenheit von positivem Affekt (nicht automatisch
+    hoher NA)
+
+<!-- ## Das Dynamic Model of Affect Relationships [@Reich2003] -->
+
+<!-- | Kontext | Vorherrschende Konzeption | -->
+
+<!-- |---------|---------------------------| -->
+
+<!-- | **Unter Stress** | Bipolare Dimensionen [@Russell1980] – voneinander abhängig | -->
+
+<!-- | **Bei niedrigem Stress** | Unipolare, bivariate Konzeption [@Watson1985]– PA und NA unabhängig | -->
+
+## Messung von Affekt: PANAS
+
+**Positive and Negative Affect Scale (Watson et al., 1988)**
+
+-   10 Items für positiven Affekt (z.B. "interested")
+-   10 Items für negativen Affekt (z.B. "distressed")
+-   Skala: 1 ("not at all") bis 5 ("extremely")
+-   Keine negativ gepolten Items → Mittelwertbildung pro Dimension
+
+**Zustand oder Eigenschaft?** - **Zustand:** aktuelles Gefühlserleben
+("im Moment") - **Eigenschaft:** tendenzielles Erleben ("im
+Allgemeinen") – Aggregation von Zuständen
+
+**Deutsche Übersetzung:** Reliabilität α = .86 [@PANAS] Link
+[hier](https://zis.gesis.org/skala/Breyer-Bluemke-Deutsche-Version-der-Positive-and-Negative-Affect-Schedule-PANAS-%28GESIS-Panel%29?lang=de)
+
+-   Unterschiedliche Anwendungen, z.B. für
+    [Eltern](https://www.testarchiv.eu/de/test/9007913)
 
 ::: notes
-- Wir nutzen die psychometrischen Tests in IM Schritt 2, um zu wissen, wo wir ansetzen müssen (z.B. mangelnde Selbstwirksamkeit stärken).
+In meiner Bachelorarbeit: Prä-Test mit Instruktion "speziell beim
+Training in den letzten 14 Tagen" (Aggregat), wiederholte Befragungen
+als Zustand ("im letzten Training")
 :::
+
+## 4. Attribution (Ursachenzuschreibungen)
+
+### Ursprung: Heider (1958)
+
+-   Mensch als systematisch nach Erkenntnis strebendes Individuum
+-   Zwei grundlegende Attributionskategorien:
+    -   **External:** Ursache in der Umwelt liegend
+    -   **Internal:** Ursache in der Person liegend
+
+## Attribution nach Weiner (1986)
+
+**Drei Dimensionen der Ursachenzuschreibung für Erfolge und
+Misserfolge:**
+
+| Dimension | Beschreibung | Beispiel für Nicht-Einhalten eines Trainingsplans |
+|----------------|----------------|----------------------------------------|
+| **Lokus** | Internal vs. external | "Ich bin undiszipliniert" vs. "Das Wetter war schlecht" |
+| **Stabilität** | Stabil vs. variabel | "Ich bin einfach unsportlich" vs. "Heute hatte ich einen schlechten Tag" |
+| **Kontrollierbarkeit** | Kontrollierbar vs. nicht kontrollierbar | "Ich hätte mich mehr anstrengen können" vs. "Ich war krank" |
+
+<!-- ## Attribution nach Kelley (1967) -->
+
+<!-- **Kovariationsprinzip** – Attribution bei wiederholter Verhaltensbeobachtung anhand von drei Kriterien: -->
+
+<!-- | Kriterium | Frage | -->
+
+<!-- |-----------|-------| -->
+
+<!-- | **Distinktheit** | Wie stark variiert das Verhalten bei unterschiedlichen Auslösern? | -->
+
+<!-- | **Konsensus** | Wie stimmen Reaktionen unterschiedlicher Personen überein? | -->
+
+<!-- | **Konsistenz** | Wie stark variiert das Verhalten bei unterschiedlichen Rahmenbedingungen? | -->
+
+<!-- → Attribution erfolgt nach dem Kriterium, das am ehesten mit dem Verhalten **kovariiert** -->
+
+## Günstige Attribution
+
+Im Reha-Kontext (Bewegungsförderung): Welche Attribution wäre bei Erfolg
+am günstigsten? Welche bei Misserfolg?
+
+## Attributionsstil
+
+-   **Definition:** Persönlichkeitseigenschaft, die Attributionen
+    besonders in **uneindeutigen Situationen** beeinflusst (Alloy, 1984;
+    Seligman, 1979)
+-   **Beispiel:** Manche Personen attribuieren Erfolge eher internal →
+    **internaler Attributionsstil**
+
+### Messung: Attribution Style Questionnaire [@Peterson1982]
+
+-   16 Szenarien (Erfolg/Misserfolg), z.B. "You have been looking for a
+    job unsuccessfully"
+-   Offene Erfassung der Ursache
+-   Semantisches Differenzial (1-7) für Lokus, Stabilität, Globalität
+-   Reliabilität & Validität gestützt durch Corr et al. (1996)
+
+------------------------------------------------------------------------
 
 # Übung: Konstrukt-Check
 
-- Wählen Sie eines der Fallbeispiele.
-- Welche 3 Konstrukte würden Sie messen, um zu prüfen, ob Ihre Intervention wirkt?
-- Suchen Sie online kurz nach einer Beispiel-Skala (z.B. auf "ZPID" oder "GESIS").
+## Aufgabe
 
-::: notes
-- Beispiel: Reha-Patient nach Herzinfarkt. Konstrukte: Angst (vor Belastung), Selbstwirksamkeit, Intention.
-:::
+**Szenario:** Reha-Patient nach Herzinfarkt
+
+Welche Konstrukte sind hier relevant?
+
+-   Angst (vor Belastung)?
+-   Selbstwirksamkeit?
+-   Intention?
+-   Attributionen?
+-   Affekt?
+
+**Diskutieren Sie:** Welches Konstrukt würden Sie als Erstes messen –
+und warum?
+
+------------------------------------------------------------------------
+
+# Zusammenfassung der Konstrukte
+
+| Konstrukt | Kernaussage | Messbeispiel |
+|---------------------|------------------------|----------------------------|
+| **Selbstwirksamkeit** | Vertrauen in eigene Fähigkeiten | "Ich schaffe das auch bei Hindernissen" |
+| **Hapa-Stadien** | Bereitschaft zur Verhaltensänderung | "Ich plane, in 6 Monaten aktiver zu werden" |
+| **Einstellung (kognitiv)** | Überzeugung über Konsequenzen | "Sport ist gesund" |
+| **Affekt (emotional)** | Emotionale Bewertung | "Sport macht mir Spaß" (PANAS) |
+| **Attribution** | Ursachenzuschreibung für Erfolg/Misserfolg | "Lag das an mir oder an anderen?" (ASQ) |
+| **Attributionsstil** | Stabile Tendenz in Attributionen | Internal vs. external |
+
+------------------------------------------------------------------------
 
 # Literaturverzeichnis
 

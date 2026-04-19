@@ -1,17 +1,24 @@
 ---
 title: "Stichwortliste"
-format: docx
+format: html
 editor: visual
 ---
 
-## 
+# Glossar der Fachbegriffe
 
-Determinanten
-
-Handlungsziele
-
-Verhaltensziele
-
-ökologischer Ansatz
-
-Person-Situation-Interaktion
+| Fachbegriff | Definition / Erklärung |
+|-------------|------------------------|
+| **Physische Aktivität (PA)** | Aktivität der Skelettmuskeln mit Energieumsatz; Steigerung des Energieumsatzes als Kennzeichen |
+| **Reduktionismus** | Sichtweise, die komplexe Phänomene auf einzelne Aspekte (z.B. Energieumsatz) reduziert und das komplexe Erleben vernachlässigt  |
+| **Biopsychosozialer Ansatz** | Integration von biologischen, psychischen und sozialen Ebenen zur ganzheitlichen Betrachtung von Gesundheit und Verhalten (Engel, 1977) |
+| **Messen** | Empirisches Relativ wird in ein numerisches Relativ überführt |
+| **Skalenniveau** | Bestimmt die zulässigen statistischen Verfahren: nominal, ordinal, intervall, metrisch, absolut |
+| **Direkte Messung** | Erhobene Daten entsprechen direkt der Zielgröße (z.B. Beobachtung)  |
+| **Indirekte Messung** | Umrechnung oder Auswertung nötig, um auf die Zielgröße zu schließen (z.B. Herzfrequenz → Intensität) |
+| **Kriteriumsmethode** | Messung von physischer Aktivität anhand eines Kriteriums, z.B. oxidativer Energiestoffwechsel oder direkte Beobachtung |
+| **Validität** |  Grad, in dem ein Messverfahren misst, was es messen soll |
+| **Soziale Erwünschtheit** | Verzerrung bei Selbstberichten: Teilnehmer:innen antworten so, dass sie gesellschaftlich akzeptiert wirken |
+| **Recall Bias** | Erinnerungsverzerrung bei retrospektiven Angaben (z.B. Fragebögen) |
+| **Gütekriterien** | Standards zur Beurteilung der Qualität eines Messinstruments: Objektivität, Reliabilität, Validität |
+| **Objektivität** | Unabhängigkeit der Messergebnisse von der durchführenden Person |
+| **Reliabilität** | Zuverlässigkeit; Genauigkeit und Konsistenz eines Messverfahrens (z.B. Retest-Reliabilität, interne Konsistenz) |
