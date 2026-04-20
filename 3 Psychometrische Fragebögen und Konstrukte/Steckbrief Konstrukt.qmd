@@ -1,0 +1,115 @@
+---
+title: "Steckbrief: Psychologisches Konstrukt"
+author: ""
+lang: de
+format: 
+  docx:
+    toc: false
+---
+
+# Steckbrief: \[Name des Konstrukts\]
+
+## Allgemeine Informationen
+
+| Feld | Angabe |
+|------|--------|
+| **Name des Konstrukts** | |
+| **evtl. Deutscher Name** | |
+| **Evtl. relevantes Modell/Theorie** | |
+| **Autor:innen** (der Konzeptualisierung) | |
+| **Jahr der Erstbeschreibung** | |
+| **Quelle (Primärliteratur)** | |
+
+## Beschreibung des Konstrukts
+
+**Definition:**  
+(Was genau wird unter dem Konstrukt verstanden? Bitte mit Quelle)
+
+**Abgrenzung zu ähnlichen Konstrukten:**  
+(Wodurch unterscheidet es sich z.B. von Motivation, Einstellung, Persönlichkeitsmerkmal?)
+
+
+## Messung des Konstrukts
+
+**Wie wird das Konstrukt typischerweise gemessen?**  
+( ☐ Fragebogen / ☐ Beobachtung / ☐ Interview / ☐ Implizites Verfahren / ☐ Anderes)
+
+**Bekannte Messinstrumente (Beispiele):**  
+
+| Instrument | Autor:innen | Kurzbeschreibung |
+|------------|-------------|------------------|
+| | | |
+| | | |
+
+**Typische Item-Formulierung:**  
+(Bitte Beispielitem nennen)
+
+**Skalenniveau der Messung**  
+( ☐ nominal / ☐ ordinal / ☐ intervall / ☐ metrisch / ☐ absolut)
+
+**Zustand vs. Eigenschaft:**  
+( ☐ Zustand (state) / ☐ Eigenschaft (trait) / ☐ beides möglich – je nach Instruktion)
+
+## Gütekriterien (bezogen auf typische Messinstrumente)
+
+Welche Angaben werden zu Gütekriterien gemacht?
+
+| Kriterium | Typischer Befund | Anmerkung |
+|-----------|------------------|-----------|
+| **Retest-Reliabilität** | | |
+| **Interne Konsistenz** (Cronbachs α) | | |
+| **Konvergente Validität** | | |
+| **Diskriminante Validität** | | |
+| **Kriteriumsvalidität** | | |
+| **Faktorielle Validität** (z.B. CFI, RMSEA) | | |
+
+## Anwendbarkeit in der Forschung
+
+| Kriterium | Bewertung | Anmerkung |
+|-----------|-----------|-----------|
+| **Dauer der Messung** (pro Person) | | |
+| **Benötigte Schulung** | | |
+| **Aufwand für Auswertung** | | |
+| **Benötigtes Material/Equipment** | | |
+
+## Praktische Informationen
+
+**Kosten für Messinstrumente:**  
+( ☐ kostenlos / ☐ günstig (<100€) / ☐ teuer (>100€) / ☐ sehr teuer (>500€))
+
+**Verfügbare Sprachen:**  
+(Original: ______________ / verfügbar in: _____________________)
+
+**Vorliegende Normen/Referenzwerte:**  
+( ☐ ja / ☐ nein – falls ja: für welche Population?)
+
+## Einordnung
+
+**Für welche Kontexte ist das Konstrukt besonders relevant?**  
+( ☐ Interventionsstudien / ☐ Längsschnittstudien / ☐ Querschnittstudien / ☐ klinische Diagnostik / ☐ Gesundheitsförderung / ☐ Sportpsychologie / ☐ Arbeitspsychologie)
+
+**Zusammenhang zu Bewegung:**  
+(Welche Belege findet ihr für den Zusammenhang mit sportlicher Aktivität?)
+## Stärken und Schwächen des Konstrukts
+
+| Stärken | Schwächen / Limitationen |
+|---------|--------------------------|
+| | |
+| | |
+| | |
+
+## Anwendungsbeispiel(e)
+
+(Studie, in der das Konstrukt erfasst wurde)
+Studie zum Thema: 
+Quelle: 
+
+---
+
+## Zusatz für die Gruppenarbeit
+
+**Aufgabe für Ihre Gruppe:**
+
+1. Recherchieren Sie Ihr zugewiesenes Konstrukt
+2. Füllen Sie den Steckbrief so vollständig wie möglich aus
+3. Laden Sie den Steckbrief im Moodle hoch.

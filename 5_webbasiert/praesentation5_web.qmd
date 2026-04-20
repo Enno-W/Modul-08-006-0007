@@ -25,9 +25,14 @@ z.B: https://www.techbook.de/mobile-lifestyle/apps/sport-apps
 oder andere, Ihnen bekannte Angebote.
 
 Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Ergänzen Sie im Etherpad.
+
 ## typst
 
+Demonstration: Hausarbeit schreiben mit Typst.
+
 ## Humanoo
+
+Vorstellung der Interventionsplanung der App "Humanoo"
 
 ## Webseitenerstellung mit Quarto
 ## Online-Coaching: Tipps

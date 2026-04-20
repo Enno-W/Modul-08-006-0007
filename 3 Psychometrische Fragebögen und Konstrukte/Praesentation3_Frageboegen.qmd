@@ -44,6 +44,13 @@ resources:
   - "hintergrund3.jpg"
 ---
 
+# Agenda
+
+- Kurzer Überblick über Hausarbeitsthemen (denn: Nächste Woche Themenwahl)
+- Theoretischer Input
+- Gruppenarbeit
+- evtl. interaktives Quiz
+
 # Psychometrische Tests
 
 ## Messen
@@ -68,15 +75,14 @@ Erinnerung: Empirisches und Numerisches Relativ, Skalenniveaus,
 Objektivität, Reliabilität, Validität
 :::
 
-## Ansätze der Fragebogenkonstruktion
+# Hinweis
 
-| Ansatz | Vorgehen | Beispiel |
-|---------------------|--------------------------|--------------------------|
-| **Lexikalisch** | Sprache als Grundlage; alle wichtigen Unterschiede haben sich sprachlich niedergeschlagen | Big Five |
-| **Theoriegeleitet (deduktiv)** | Items werden direkt aus Theorie abgeleitet | **PANAS** (basierend auf Watson et al., 1985) |
-| **Faktorenanalytisch (induktiv)** | Faktorenstruktur emergiert statistisch aus Daten | Eysencks PEN-Modell |
-| **Kriteriumsorientiert** | Items unterscheiden zwischen bekannten Gruppen | Klinische Skalen |
-| **Intuitiv/rational** | Basierend auf Expertenmeinung | Pilotierung neuer Skalen |
+- Ergebnisse sind immer mit einer beachtlichen Unsicherheit behaftet
+- Ergebnisse mit Nachkommastellen täuschen Präzision vor, deshalb: 
+
+  - Vorsicht bei Einzelfalldiagnostik: Unsicherheit kommunizieren!
+
+  - Für die Einzeldiagnostik müsste ein *Vertrauensintervall* berechnet werden, dass Auskunft darüber gibt, in welchem Bereich der tatsächliche Wert mit einer bestimmten Wahrscheinlichkeit liegt. 
 
 ## Was ist ein psychometrischer Test?
 
@@ -84,14 +90,11 @@ Objektivität, Reliabilität, Validität
     Merkmalen
 -   Ziel: **Inter-** (zwischen Personen) und **intraindividuelle**
     (innerhalb einer Person über die Zeit) Unterschiede messen
--   In der Rehabilitation: **Prozessdiagnostik** – Verändert sich die
-    Motivation durch mein Training?
+-   Erfassung von **Zuständen** (States) und **Eigenschaften** (Traits)
 
 ::: notes
 -   Standardisierung bedeutet: Gleiche Instruktion, gleiche Auswertung,
     gleiche Interpretation für alle.
--   Erinnert euch an die letzte Sitzung: Um "Erleben" (Piggin) messbar
-    zu machen, brauchen wir Regeln.
 :::
 
 ## Herausforderungen & Fehlerquellen
@@ -105,14 +108,14 @@ Objektivität, Reliabilität, Validität
 | **Unaufmerksamkeit oder "Durchklicken"** | Deshalb: Seriousness Check! |
 
 ::: notes
-Wichtig für eure Hausarbeit: Kritische Reflexion der gewählten Skalen!
+
 :::
 
 ------------------------------------------------------------------------
 
 # *Beispiele* relevanter Konstrukte für Bewegungsförderung
 
-## 1. Selbstwirksamkeit (Self-Efficacy)
+## Selbstwirksamkeit (Self-Efficacy)
 
 -   **Definition:** Vertrauen in die eigene Fähigkeit, eine Handlung
     auch bei Barrieren auszuführen
@@ -128,34 +131,26 @@ Wichtig für eure Hausarbeit: Kritische Reflexion der gewählten Skalen!
     erinnerten Aktivität?
 :::
 
-## 2. Stadien der Veränderung (HAPA)
+## Stolz (Pride)
 
--   **Erfassung der Bereitschaft** via Stadienfragebögen
--   **Typische Frage:** z.B. Nachdem Sie begonnen haben, sich körperlich
-    zu betätigen, geht es darum, regelmäßig an zwei oder mehr Tagen pro
-    Woche körperlich aktiv zu sein. Wie zuversichtlich sind Sie, dass
-    Ihnen das gelingen wird?
--   **Anwendung:** Zuweisung zu Interventionsgruppen je nach Stadium
+### Zwei Facetten [@Tracy_tale_2007]
 
-Link zum Fragebogen
-[hier](https://userpage.fu-berlin.de/%7Ehealth/hapa_assessment.pdf)
+| Facet | Beschreibung | In Bewegungsförderung |
+|-------|--------------|----------------------|
+| **Authentischer Stolz** | "Ich bin stolz auf meine Leistung" (Anstrengung, Erfolg) 
+| **Überheblicher Stolz** | "Ich bin besser als andere" (Arroganz, Überlegenheit) |
 
-::: notes
--   Kritik: Sind Stadien wirklich diskret oder ein Kontinuum? (Siehe
-    Adams & White Paper)
-:::
+**Warum relevant?** Antizipierter Stolz wirkt als **Incentive** – Motivation, ein Ziel zu erreichen, um Stolz zu empfinden.
 
-## Affekt: Theoretische Grundlagen
+## Messung von Stolz 
 
-<!-- ### Das Circumplex Model of Affect (Russell, 1980) -->
+### Authentic and Hubristic Pride Scale @Tracy2007
 
-<!-- - Basierend auf Anordnung von emotionsbeschreibenden Wörtern auf einem Kreis -->
+- Je 7 Items pro Facette, Skala 1-5
+- Deutsche Übersetzung vorhanden
+- **Beispielitems:** "stolz", "erfolgreich" (authentisch) vs. "arrogant", "hochmütig" (überheblich)
 
-<!-- - Zwei bipolare Basisdimensionen: -->
-
-<!--   - **Valenz:** pleasure vs. displeasure -->
-
-<!--   - **Aktivierung:** arousal (Erregung) -->
+## Affekt
 
 ### Das Modell von Watson et al. (1985)
 
@@ -164,16 +159,6 @@ Link zum Fragebogen
     -   **Negativer Affekt (NA):** unangenehme Erregung
 -   Niedriger PA = Abwesenheit von positivem Affekt (nicht automatisch
     hoher NA)
-
-<!-- ## Das Dynamic Model of Affect Relationships [@Reich2003] -->
-
-<!-- | Kontext | Vorherrschende Konzeption | -->
-
-<!-- |---------|---------------------------| -->
-
-<!-- | **Unter Stress** | Bipolare Dimensionen [@Russell1980] – voneinander abhängig | -->
-
-<!-- | **Bei niedrigem Stress** | Unipolare, bivariate Konzeption [@Watson1985]– PA und NA unabhängig | -->
 
 ## Messung von Affekt: PANAS
 
@@ -220,22 +205,6 @@ Misserfolge:**
 | **Stabilität** | Stabil vs. variabel | "Ich bin einfach unsportlich" vs. "Heute hatte ich einen schlechten Tag" |
 | **Kontrollierbarkeit** | Kontrollierbar vs. nicht kontrollierbar | "Ich hätte mich mehr anstrengen können" vs. "Ich war krank" |
 
-<!-- ## Attribution nach Kelley (1967) -->
-
-<!-- **Kovariationsprinzip** – Attribution bei wiederholter Verhaltensbeobachtung anhand von drei Kriterien: -->
-
-<!-- | Kriterium | Frage | -->
-
-<!-- |-----------|-------| -->
-
-<!-- | **Distinktheit** | Wie stark variiert das Verhalten bei unterschiedlichen Auslösern? | -->
-
-<!-- | **Konsensus** | Wie stimmen Reaktionen unterschiedlicher Personen überein? | -->
-
-<!-- | **Konsistenz** | Wie stark variiert das Verhalten bei unterschiedlichen Rahmenbedingungen? | -->
-
-<!-- → Attribution erfolgt nach dem Kriterium, das am ehesten mit dem Verhalten **kovariiert** -->
-
 ## Günstige Attribution
 
 Im Reha-Kontext (Bewegungsförderung): Welche Attribution wäre bei Erfolg
@@ -244,8 +213,7 @@ am günstigsten? Welche bei Misserfolg?
 ## Attributionsstil
 
 -   **Definition:** Persönlichkeitseigenschaft, die Attributionen
-    besonders in **uneindeutigen Situationen** beeinflusst (Alloy, 1984;
-    Seligman, 1979)
+    besonders in **uneindeutigen Situationen** beeinflusst [@Seligman1979]
 -   **Beispiel:** Manche Personen attribuieren Erfolge eher internal →
     **internaler Attributionsstil**
 
@@ -257,26 +225,6 @@ am günstigsten? Welche bei Misserfolg?
 -   Semantisches Differenzial (1-7) für Lokus, Stabilität, Globalität
 -   Reliabilität & Validität gestützt durch Corr et al. (1996)
 
-------------------------------------------------------------------------
-
-# Übung: Konstrukt-Check
-
-## Aufgabe
-
-**Szenario:** Reha-Patient nach Herzinfarkt
-
-Welche Konstrukte sind hier relevant?
-
--   Angst (vor Belastung)?
--   Selbstwirksamkeit?
--   Intention?
--   Attributionen?
--   Affekt?
-
-**Diskutieren Sie:** Welches Konstrukt würden Sie als Erstes messen –
-und warum?
-
-------------------------------------------------------------------------
 
 # Zusammenfassung der Konstrukte
 
@@ -284,10 +232,16 @@ und warum?
 |---------------------|------------------------|----------------------------|
 | **Selbstwirksamkeit** | Vertrauen in eigene Fähigkeiten | "Ich schaffe das auch bei Hindernissen" |
 | **Hapa-Stadien** | Bereitschaft zur Verhaltensänderung | "Ich plane, in 6 Monaten aktiver zu werden" |
-| **Einstellung (kognitiv)** | Überzeugung über Konsequenzen | "Sport ist gesund" |
 | **Affekt (emotional)** | Emotionale Bewertung | "Sport macht mir Spaß" (PANAS) |
 | **Attribution** | Ursachenzuschreibung für Erfolg/Misserfolg | "Lag das an mir oder an anderen?" (ASQ) |
 | **Attributionsstil** | Stabile Tendenz in Attributionen | Internal vs. external |
+
+## Steckbrief: Konstrukte
+
+Gruppe 1: Selbstwirksamkeit (Self-Efficacy)
+Gruppe 2: Stolz
+Gruppe 3: Affekt
+Gruppe 4: Attribution
 
 ------------------------------------------------------------------------
 
