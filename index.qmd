@@ -38,6 +38,8 @@ Willkommen auf der Kursseite. Hier finden Sie alle Präsentationen und Materiali
 
 - [Stichwortliste](Stichwortliste.qmd)
 
+- [Quizlet-Kurs](https://quizlet.com/class/32543111/materials)
+
 - [Linksammlung (weiterführende Videos und Beispiele von Interventionen, optional)](Linksammlung.qmd)
 
 <!-- ### Abschluss & Rahmenbedingungen -->
