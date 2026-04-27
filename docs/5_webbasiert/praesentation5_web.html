@@ -6,8 +6,8 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-19cd9126a9a9c64aacb03dc90954a64a.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.8.4">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.9.37">
 
   <meta name="author" content="Enno Winkler">
   <meta name="dcterms.date" content="2011-11-11">
@@ -18,6 +18,9 @@
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
   <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -30,7 +33,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-2c1b5f745a11cfad616ebade4a4a7d24.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-0427d8d92a431aa6a6430e53ec02a470.css">
   <link rel="stylesheet" href="../styles.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -137,21 +140,18 @@
     <div class="slides">
 
 
-<section>
-<section id="advance-organizer-2-bewegungsangebote" class="title-slide slide level1 center">
-<h1>Advance Organizer 2: Bewegungsangebote</h1>
+<section id="bewegungsangebote-und-apps" class="title-slide slide level1 center">
+<h1>Bewegungsangebote und Apps</h1>
 <p>Sucht online nach Apps, Programmen oder sonstigen Angeboten für die breite Masse, die damit werben, Bewegung zu fördern oder darüber zu informieren.</p>
 <p>z.B: https://www.techbook.de/mobile-lifestyle/apps/sport-apps</p>
 <p>oder andere, Ihnen bekannte Angebote.</p>
 <p>Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Ergänzen Sie im Etherpad.</p>
 </section>
-<section id="typst" class="slide level2">
-<h2>typst</h2>
-<p>Demonstration: Hausarbeit schreiben mit Typst.</p>
-</section>
-<section id="humanoo" class="slide level2">
-<h2>Humanoo</h2>
-<p>Vorstellung der Interventionsplanung der App “Humanoo”</p>
+
+<section>
+<section id="app-selfback" class="title-slide slide level1 center">
+<h1>App “selfBack”</h1>
+<p>Diese App wurde aufwendig Intervention Mapping geplant und evaluiert. Woran ist das in der App zu erkennen?</p>
 </section>
 <section id="webseitenerstellung-mit-quarto" class="slide level2">
 <h2>Webseitenerstellung mit Quarto</h2>
@@ -373,7 +373,7 @@
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -523,13 +523,14 @@
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy

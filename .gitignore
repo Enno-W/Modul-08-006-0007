@@ -58,3 +58,5 @@ Literatur/
 .pdf
 
 *_files/
+
+**/*.quarto_ipynb

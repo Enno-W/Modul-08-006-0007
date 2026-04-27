@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.4">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>AlleQuellen – Modul 08-006-0007</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -91,10 +94,10 @@ div.csl-indent {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-c68da94286011e9302a35de07ef23a9e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1a9d1eb086739803fcf5a38595d919e0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-9b3b12babb541c315d9ea4b5d647408d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -212,16 +215,16 @@ div.csl-indent {
 
 
 <div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a> <span class="cf">if</span> (<span class="sc">!</span><span class="fu">requireNamespace</span>(<span class="st">"needs"</span>   )) <span class="fu">install.packages</span>(<span class="st">"needs"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a> <span class="cf">if</span> (<span class="sc">!</span><span class="fu">requireNamespace</span>(<span class="st">"needs"</span>   )) <span class="fu">install.packages</span>(<span class="st">"needs"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <div class="cell-output cell-output-stderr">
 <pre><code>Lade nötigen Namensraum: needs</code></pre>
 </div>
-<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a> <span class="cf">if</span> (<span class="sc">!</span><span class="fu">requireNamespace</span>(<span class="st">"excelbib"</span>)) <span class="fu">install_github</span>(<span class="st">"Enno-W/excelbib"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a> <span class="cf">if</span> (<span class="sc">!</span><span class="fu">requireNamespace</span>(<span class="st">"excelbib"</span>)) <span class="fu">install_github</span>(<span class="st">"Enno-W/excelbib"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <div class="cell-output cell-output-stderr">
 <pre><code>Lade nötigen Namensraum: excelbib</code></pre>
 </div>
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">needs</span>(<span class="st">"excelbib"</span>, <span class="st">"xfun"</span>)</span>
-<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="fu">xlsx_to_bib</span>(<span class="fu">from_root</span>(<span class="st">"References.xlsx"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">needs</span>(<span class="st">"excelbib"</span>, <span class="st">"xfun"</span>)</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="fu">xlsx_to_bib</span>(<span class="fu">from_root</span>(<span class="st">"References.xlsx"</span>))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <div class="cell-output cell-output-stderr">
 <pre><code>Bibliography has been successfully written to bibliography.bib</code></pre>
 </div>
@@ -278,7 +281,7 @@ Brand, T., Pischke, C., Steenbock, B., Schoenbach, J., Poettgen, S., Samkange-Ze
 Brewer, B. W., Cornelius, A. E., Van Raalte, J. L., Petitpas, A. J., Sklar, J. H., Pohlman, M. H., Krushell, R. J., &amp; Ditmar, T. D. (2000). Attributions for recovery and adherence to rehabilitation following anterior cruciate ligament reconstruction: A prospective analysis. <em>Psychology &amp; Health</em>, <em>15</em>(2), 283–291. <a href="https://doi.org/10.1080/08870440008400307">https://doi.org/10.1080/08870440008400307</a>
 </div>
 <div id="ref-breyer2016panas" class="csl-entry" role="listitem">
-Breyer, B., &amp; Bluemke, M. (2016). <span class="nocase">Deutsche Version der Positive and Negative Affect Schedule PANAS (GESIS Panel)</span>. <em><span>Zusammenstellung Sozialwissenschaftlicher Items Und Skalen (ZIS)</span></em>. <a href="https://doi.org/10.6102/ZIS242">https://doi.org/10.6102/ZIS242</a>
+Breyer, B., &amp; Bluemke, M. (2016). <span class="nocase">Deutsche Version der Positive and Negative Affect Schedule PANAS (GESIS Panel)</span>. <em><span class="nocase">Zusammenstellung sozialwissenschaftlicher Items und Skalen (ZIS)</span></em>. <a href="https://doi.org/10.6102/ZIS242">https://doi.org/10.6102/ZIS242</a>
 </div>
 <div id="ref-Buckholdt2014" class="csl-entry" role="listitem">
 Buckholdt, K. E., Parra, G. R., Anestis, M. D., Lavender, J. M., Jobe-Shields, L. E., Tull, M. T., &amp; Gratz, K. L. (2014). Emotion regulation difficulties and maladaptive behaviors: Examination of deliberate self-harm, disordered eating, and substance misuse in two samples. <em>Cognitive Therapy and Research</em>, <em>39</em>(2), 140–152. <a href="https://doi.org/10.1007/s10608-014-9655-3">https://doi.org/10.1007/s10608-014-9655-3</a>
@@ -548,7 +551,7 @@ Minkov, M. (2017). A revision of hofstede’s model of national culture: Old evi
 Morres, I. D., Hatzigeorgiadis, A., Stathi, A., Comoutos, N., Arpin-Cribbie, C., Krommidas, C., &amp; Theodorakis, Y. (2018). Aerobic exercise for adult patients with major depressive disorder in mental health services: A systematic review and meta-analysis. <em>Depression and Anxiety</em>, <em>36</em>(1), 39–53. <a href="https://doi.org/10.1002/da.22842">https://doi.org/10.1002/da.22842</a>
 </div>
 <div id="ref-Mueller2010" class="csl-entry" role="listitem">
-Müller, C., Winter, C., &amp; Rosenbaum, D. (2010). <span class="nocase">Aktuelle objektive Messverfahren zur Erfassung körperlicher Aktivität im Vergleich zu subjektiven Erhebungsmethoden: Current objective techniques for physical activity assessment in comparison with subjective methods</span>. <em><span>Deutsche Zeitschrift Für Sportmedizin</span></em>, <em>61</em>(1), 11–18. <a href="https://www.germanjournalsportsmedicine.com/fileadmin/content/archiv2010/heft01/11_uebersicht_mueller.pdf">https://www.germanjournalsportsmedicine.com/fileadmin/content/archiv2010/heft01/11_uebersicht_mueller.pdf</a>
+Müller, C., Winter, C., &amp; Rosenbaum, D. (2010). <span class="nocase">Aktuelle objektive Messverfahren zur Erfassung körperlicher Aktivität im Vergleich zu subjektiven Erhebungsmethoden: Current objective techniques for physical activity assessment in comparison with subjective methods</span>. <em><span class="nocase">Deutsche Zeitschrift für Sportmedizin</span></em>, <em>61</em>(1), 11–18. <a href="https://www.germanjournalsportsmedicine.com/fileadmin/content/archiv2010/heft01/11_uebersicht_mueller.pdf">https://www.germanjournalsportsmedicine.com/fileadmin/content/archiv2010/heft01/11_uebersicht_mueller.pdf</a>
 </div>
 <div id="ref-Munaf2017" class="csl-entry" role="listitem">
 Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie du Sert, N., Simonsohn, U., Wagenmakers, E.-J., Ware, J. J., &amp; Ioannidis, J. P. A. (2017). A manifesto for reproducible science. <em>Nature Human Behaviour</em>, <em>1</em>(1). <a href="https://doi.org/10.1038/s41562-016-0021">https://doi.org/10.1038/s41562-016-0021</a>
@@ -785,13 +788,14 @@ Yang, M. Z., Conner, M., &amp; Sheeran, P. (2025). The role of affect regulation
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

@@ -50,7 +50,6 @@ resources:
 - Steckbriefe
 - Theoretischer Input
 - Gruppenarbeit
-- evtl. interaktives Quiz
 
 ## Hausarbeiten
 
@@ -231,16 +230,6 @@ am günstigsten? Welche bei Misserfolg?
 -   Reliabilität & Validität gestützt durch Corr et al. (1996)
 
 
-# Zusammenfassung der Konstrukte
-
-| Konstrukt | Kernaussage | Messbeispiel |
-|---------------------|------------------------|----------------------------|
-| **Selbstwirksamkeit** | Vertrauen in eigene Fähigkeiten | "Ich schaffe das auch bei Hindernissen" |
-| **Hapa-Stadien** | Bereitschaft zur Verhaltensänderung | "Ich plane, in 6 Monaten aktiver zu werden" |
-| **Affekt (emotional)** | Emotionale Bewertung | "Sport macht mir Spaß" (PANAS) |
-| **Attribution** | Ursachenzuschreibung für Erfolg/Misserfolg | "Lag das an mir oder an anderen?" (ASQ) |
-| **Attributionsstil** | Stabile Tendenz in Attributionen | Internal vs. external |
-
 ## Steckbrief: Konstrukte
 
 Gruppe 1: Selbstwirksamkeit (Self-Efficacy)
@@ -251,7 +240,9 @@ Gruppe 3: Affekt
 
 Gruppe 4: Attribution
 
-------------------------------------------------------------------------
+# Quiz
+
+https://quizlet.com/class/32543111/materials
 
 # Literaturverzeichnis
 

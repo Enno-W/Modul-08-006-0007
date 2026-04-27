@@ -1,0 +1,4 @@
+- source: project
+  posit-connect-cloud:
+    - id: 019dcdbb-96cd-d8a1-f796-4b7edc878ffd
+      url: https://connect.posit.cloud/enno-w/content/019dcdbb-96cd-d8a1-f796-4b7edc878ffd

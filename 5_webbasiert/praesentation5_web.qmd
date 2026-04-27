@@ -16,7 +16,11 @@ resources:
 #csl: apa.csl
 #biblio-style: "apalike"
 ---
-# Advance Organizer 2: Bewegungsangebote
+# Prüfungsvorleistung
+
+Thema: Einsatz eines psychometrischen Fragebogens
+
+# Bewegungsangebote und Apps
 
 Sucht online nach Apps, Programmen oder sonstigen Angeboten für die breite Masse, die damit werben, Bewegung zu fördern oder darüber zu informieren.
 
@@ -26,15 +30,19 @@ oder andere, Ihnen bekannte Angebote.
 
 Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Ergänzen Sie im Etherpad.
 
-## typst
+# App "selfBack"
 
-Demonstration: Hausarbeit schreiben mit Typst.
+Diese App wurde aufwendig Intervention Mapping geplant und evaluiert. Woran ist das in der App zu erkennen?
 
-## Humanoo
-
-Vorstellung der Interventionsplanung der App "Humanoo"
 
 ## Webseitenerstellung mit Quarto
+
+- Voraussetzungen:
+  - RStudio mit der Erweiterung "Quarto"
+  - Account bei Posit connect cloud
+  
+- Schritte: File → New Project → New directory → Quarto Website
+
 ## Online-Coaching: Tipps
 
 - keine teure Kamera

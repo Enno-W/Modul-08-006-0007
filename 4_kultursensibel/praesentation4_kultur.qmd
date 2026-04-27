@@ -30,7 +30,68 @@ Schaut [Video 1](https://ennosgermancourse-my.sharepoint.com/:v:/r/personal/enno
 
 Plenumsdiskussion: Welche Gemeinsamkeiten und Unterschiede zu hiesigen Formen der sportlichen Aktivitäten fallen euch auf? Was glaubt ihr? Warum ist das so?
 
-## Kultursensible Interventionen
+# Kultursensible Interventionen
+
+## Kulturelle Dimensionen nach Hofstede
+
+<!-- ## Warum Kulturen unterschiedlich "ticken" -->
+
+<!-- Dimensionen von Geert Hofstede  -->
+
+<!-- 1.  **Machtdistanz**: Wie wird mit Hierarchien umgegangen? -->
+
+<!-- 2.  **Individualismus vs. Kollektivismus**: Wer steht im Fokus – das "Ich" oder das "Wir"? -->
+
+<!-- 3.  **Maskulinität vs. Feminität**: Fokus auf Leistung/Wettbewerb vs. Lebensqualität/Kooperation. -->
+
+<!-- 4.  **Unsicherheitsvermeidung**: Wie viel Struktur und Regeln braucht eine Gruppe? -->
+
+<!-- 5.  **Langzeitorientierung**: Berücksichtigung von langfristigen Auswirkungen -->
+
+<!-- ::: notes -->
+
+<!-- -   Diese Dimensionen sind keine Stereotype, sondern statistische Mittelwerte von Gesellschaften. -->
+
+<!-- -   Im Sport erklären sie oft, warum manche Athleten Traineranweisungen blind befolgen und andere alles hinterfragen. -->
+
+<!-- ::: -->
+
+[@Hofstede1980; @Hofstede2001]
+
+-   **Individualismus (z. B. USA, Deutschland):**
+    -   Fokus auf persönliche Ziele und Selbstverwirklichung.
+    -   Motivation durch individuelles Feedback und Wettbewerb.
+-   **Kollektivismus (z. B. viele asiatische & afrikanische Länder):**
+    -   Fokus auf Harmonie und Loyalität zur Gruppe/Mannschaft.
+    -   "Gesicht wahren": Kritik vor der versammelten Gruppe wird als extrem beschämend empfunden.
+
+<!-- ## Machtdistanz & Unsicherheit -->
+
+<!-- ### Autorität im Training -->
+
+<!-- -   **Hohe Machtdistanz:** -->
+
+<!--     -   Trainer:in ist eine unantastbare Autoritätsperson. -->
+
+<!--     -   Teilnehmende warten auf explizite Anweisungen und ergreifen selten Eigeninitiative. -->
+
+<!-- -   **Hohe Unsicherheitsvermeidung:** -->
+
+<!--     -   Starke Präferenz für klare Trainingspläne, Pünktlichkeit und bekannte Abläufe. -->
+
+<!--     -   Neue, experimentelle Übungen lösen eher Stress als Neugier aus. -->
+
+<!-- ## Kritik am Modell -->
+
+<!-- -   nur Individualismus und Langzeitorientierung robust als eigenständige Dimensionen belegbar -->
+
+<!-- -   Vorschlag von @Minkov2017: Zweidimensionales Modell mit IDV-COLL und Flexibilität vs. Monumentalismus (FLX-MON) -->
+
+<!-- ::: notes -->
+
+<!-- stabiles vs. anpassungsfähiges selbst -->
+
+<!-- ::: -->
 
 ### Theoretische Grundlagen nach Lott (2009)
 
@@ -38,7 +99,6 @@ Plenumsdiskussion: Welche Gemeinsamkeiten und Unterschiede zu hiesigen Formen de
 -   **Das multikulturelle Selbst**: Jede Person gehört gleichzeitig unterschiedlichen Kulturen an und besitzt ein einzigartiges multikulturelles Selbst [@lott, S. 2-3].
 -   **Kernmerkmale von Kultur**:
     -   Besteht aus geteilten Interpretationsmustern, Normen, Werten, Praktiken und Gewohnheiten [@lott, S. 13].
-    -   Basiert auf gemeinsamen Erfahrungen und Anpassungen an soziale Realitäten [@lott, S. 24].
     -   Ist ein dynamischer Prozess ("work in progress"), der sich ständig verändert [@lott, S. 13].
     -   Vermittlung erfolgt sowohl explizit als auch implizit durch Sozialisation [@lott, S. 13].
     -   Beinhaltet Verhaltensvorschriften (*Prescriptions*) und Einschränkungen (*Constraints*) [@lott, S. 12].
@@ -65,11 +125,11 @@ Plenumsdiskussion: Welche Gemeinsamkeiten und Unterschiede zu hiesigen Formen de
 
 Gruppenaktivitaet.jpg.jpg){width="333"}
 
-## Interkulturelle Trainings
+## Interkulturelle Trainings: Interventionen zur Sensibilisierung für kulturelle Gemeinsamkeiten und Unterschiede
 
 ### Ansätze und Inhalte
 
-Interkulturelle Trainings lassen sich nach zwei Dimensionen klassifizieren [@Mazziotta2016, S. 13-14]:
+Zwei Dimensionen [@Mazziotta2016, S. 13-14]:
 
 1.  **Nach dem Inhalt**:
     -   **Kulturspezifisch**: Fokus auf Wissen über eine ganz bestimmte Zielkultur [@Kinast2010, S. 166].
@@ -83,23 +143,7 @@ Interkulturelle Trainings lassen sich nach zwei Dimensionen klassifizieren [@Maz
 -   Für Sporttherapeuten ist laut Kinast [-@Kinast2010] oft eine Mischung aus beidem am effektivsten, um Handlungssicherheit zu gewinnen.
 :::
 
-## Methoden interkultureller Trainings
-
-| Methode | Beschreibung |
-|:-----------------------------------|:-----------------------------------|
-| **Kulturspezifische Assimilators** | Konflikte einer Kultur mit Erklärungsoptionen. |
-| **Kulturübergreifende Assimilators** | Allgemeine Sensibilisierung durch diverse Fallbeispiele. |
-| **Cross-cultural dialogues** | Analyse von Kommunikation und Perspektivwechsel. |
-| **Simulationen** | Aktives Nachspielen interkultureller Begegnungen. |
-| **Selbstreflexion** | Analyse der eigenen kulturellen Prägung. |
-
-[@Bolten2006]
-
-::: notes
--   "Assimilators" (Kultur-Assimilator) helfen dabei, fremde Perspektiven als valide Interpretationen zu akzeptieren [@Kinast2010]. Hier auf das .Jpg im Ordner bezug nehmen.
-:::
-
-## Ziele kultursensibler Gestaltung
+<!-- ## Ziele kultursensibler Gestaltung -->
 
 ### Die drei Ebenen der Kompetenz
 
@@ -112,79 +156,36 @@ Die Entwicklung interkultureller Kompetenz verfolgt Ziele auf drei psychologisch
 3.  **Verhaltensebene**:
     -   Verbesserung der kommunikativen und sozialen Fähigkeiten sowie der Konfliktlösungsstrategien.
 
+<!-- ## Methoden interkultureller Trainings -->
+
+<!-- | Methode | Beschreibung | -->
+
+<!-- |:-----------------------------------|:-----------------------------------| -->
+
+<!-- | **Kulturspezifische Assimilators** | Konflikte einer Kultur mit Erklärungsoptionen. | -->
+
+<!-- | **Kulturübergreifende Assimilators** | Allgemeine Sensibilisierung durch diverse Fallbeispiele. | -->
+
+<!-- | **Cross-cultural dialogues** | Analyse von Kommunikation und Perspektivwechsel. | -->
+
+<!-- | **Simulationen** | Aktives Nachspielen interkultureller Begegnungen. | -->
+
+<!-- | **Selbstreflexion** | Analyse der eigenen kulturellen Prägung. | -->
+
+<!-- [@Bolten2006] -->
+
+<!-- ::: notes -->
+
+<!-- -   "Assimilators" (Kultur-Assimilator) helfen dabei, fremde Perspektiven als valide Interpretationen zu akzeptieren [@Kinast2010]. Hier auf das .Jpg im Ordner bezug nehmen. -->
+
+<!-- ::: -->
+
 ::: notes
 -   Ziel im Gesundheitssport: Eine Umgebung schaffen, in der sich alle "multikulturellen Selbste" (Lott) sicher fühlen.
 -   Kinast [-@Kinast2010] betont hierbei besonders die "Ambiguitätstoleranz" – also die Fähigkeit, Unsicherheiten in interkulturellen Situationen auszuhalten.
 :::
 
-# Kulturelle Dimensionen nach Hofstede
-
-## Warum Kulturen unterschiedlich "ticken"
-
-Dimensionen von Geert Hofstede [@Hofstede1980; @Hofstede2001]
-
-1.  **Machtdistanz**: Wie wird mit Hierarchien umgegangen?
-2.  **Individualismus vs. Kollektivismus**: Wer steht im Fokus – das "Ich" oder das "Wir"?
-3.  **Maskulinität vs. Feminität**: Fokus auf Leistung/Wettbewerb vs. Lebensqualität/Kooperation.
-4.  **Unsicherheitsvermeidung**: Wie viel Struktur und Regeln braucht eine Gruppe?
-5.  **Langzeitorientierung**: Berücksichtigung von langfristigen Auswirkungen
-
-::: notes
--   Diese Dimensionen sind keine Stereotype, sondern statistische Mittelwerte von Gesellschaften.
--   Im Sport erklären sie oft, warum manche Athleten Traineranweisungen blind befolgen und andere alles hinterfragen.
-:::
-
-## Individualismus vs. Kollektivismus
-
-### Die Rolle der Gruppe im Sport
-
--   **Individualismus (z. B. USA, Deutschland):**
-    -   Fokus auf persönliche Ziele und Selbstverwirklichung.
-    -   Motivation durch individuelles Feedback und Wettbewerb.
--   **Kollektivismus (z. B. viele asiatische & afrikanische Länder):**
-    -   Fokus auf Harmonie und Loyalität zur Gruppe/Mannschaft.
-    -   "Gesicht wahren": Kritik vor der versammelten Gruppe wird als extrem beschämend empfunden.
-
-## Machtdistanz & Unsicherheit
-
-### Autorität im Training
-
--   **Hohe Machtdistanz:**
-    -   Trainer:in ist eine unantastbare Autoritätsperson.
-    -   Teilnehmende warten auf explizite Anweisungen und ergreifen selten Eigeninitiative.
--   **Hohe Unsicherheitsvermeidung:**
-    -   Starke Präferenz für klare Trainingspläne, Pünktlichkeit und bekannte Abläufe.
-    -   Neue, experimentelle Übungen lösen eher Stress als Neugier aus.
-
-::: notes
--   Wenn Teilnehmende aus Kulturen mit hoher Machtdistanz nicht mitmachen, liegt das oft nicht an Faulheit, sondern an der Erwartung, dass der Trainer jeden Schritt einzeln diktiert.
-:::
-
-::: notes
--   **Praxis-Tipp:** In kollektivistischen Kulturen ist Lob vor der Gruppe super, Kritik sollte aber immer unter vier Augen erfolgen.
-:::
-
-## Kritik am Modell
-
--   nur Individualismus und Langzeitorientierung robust als eigenständige Dimensionen belegbar
--   Vorschlag von @Minkov2017: Zweidimensionales Modell mit IDV-COLL und Flexibilität vs. Monumentalismus (FLX-MON)
-
-::: notes
-stabiles vs. anpassungsfähiges selbst
-:::
-
-## Anwendung: Kultursensibles Coaching
-
-### Checkliste für die Praxis
-
-Gruppenarbeit: Wie gelingt kultursensibles Coaching? Erstellt eine Liste mit Stichpunkten.
-
-::: notes
--   Denkt an das **Frame-Switching** [@lott]: Ein Athlet kann im Sportverein die "deutsche" geringe Machtdistanz leben, zu Hause aber strikt hierarchisch agieren.
-:::
-
-# Übung: Sport im Ankunftskontext
-
+# Themenfindung: Hausarbeit
 
 
 # Quellen
