@@ -9,8 +9,8 @@ format:
     parallax-background-image: "hintergrund3.jpg"
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
-    parallax-background-vertical: 350
-    date: 2011-11-11
+    parallax-background-vertical: 100
+    date: 2026-04-27
 resources: 
   - "hintergrund3.jpg"
 #csl: apa.csl
@@ -46,16 +46,25 @@ resources:
 
 # Agenda
 
-- Kurzer Überblick über Hausarbeitsthemen (denn: Nächste Woche Themenwahl)
+- Hausarbeitsthemen
+- Steckbriefe
 - Theoretischer Input
 - Gruppenarbeit
 - evtl. interaktives Quiz
+
+## Hausarbeiten
+
+- Themen 1 und 4 - Anwendungsfeld: Entwicklung einer Intervention zur Bewegungsförderung nach Intervention Mapping (Schule, BGM)
+- Themen 2 und 3 - Anwendungsfeld: Gruppenführung im Reha-Sport; Gruppendynamische Erkenntnisse und Verfahren, Strategien zur Verhaltensänderung
+
+## Steckbriefe
+
 
 # Psychometrische Tests
 
 ## Messen
 
--   empirisches ➝ numerisches relativ
+-   empirisches ➝ numerisches Relativ
 -   operationalisieren
 -   Skalenniveaus: nominal, ordinal, intervall, metrisch, absolut
 -   Statistische Verfahren richten sich nach dem Skalenniveau!
@@ -123,22 +132,18 @@ Objektivität, Reliabilität, Validität
     der sozial-kognitiven Theorie
 -   **Messung:** Eigene Items bilden "Ich bin mir sicher, dass ich Sport
     treiben kann, auch wenn es regnet..."
-    -   oder @mcauley_long-term_1993
+    -   oder validierte Skalen verwenden @mcauley_long-term_1993
 -   Eines der stärksten Prädiktoren für sportliche Aktivität
 
-::: notes
--   Bezug zur Bachelorarbeit: Wie korreliert Selbstwirksamkeit mit der
-    erinnerten Aktivität?
-:::
 
 ## Stolz (Pride)
 
 ### Zwei Facetten [@Tracy_tale_2007]
 
-| Facet | Beschreibung | In Bewegungsförderung |
-|-------|--------------|----------------------|
+| Facette | Beschreibung | 
+|-------|--------------|
 | **Authentischer Stolz** | "Ich bin stolz auf meine Leistung" (Anstrengung, Erfolg) 
-| **Überheblicher Stolz** | "Ich bin besser als andere" (Arroganz, Überlegenheit) |
+| **Überheblicher Stolz** | "Ich bin besser als andere" (Arroganz, Überlegenheit) 
 
 **Warum relevant?** Antizipierter Stolz wirkt als **Incentive** – Motivation, ein Ziel zu erreichen, um Stolz zu empfinden.
 
@@ -239,8 +244,11 @@ am günstigsten? Welche bei Misserfolg?
 ## Steckbrief: Konstrukte
 
 Gruppe 1: Selbstwirksamkeit (Self-Efficacy)
+
 Gruppe 2: Stolz
+
 Gruppe 3: Affekt
+
 Gruppe 4: Attribution
 
 ------------------------------------------------------------------------

@@ -6,6 +6,8 @@ editor: visual
 
 # Glossar der Fachbegriffe
 
+## Messung PA
+
 | Fachbegriff | Definition / Erklärung |
 |-------------|------------------------|
 | **Physische Aktivität (PA)** | Aktivität der Skelettmuskeln mit Energieumsatz; Steigerung des Energieumsatzes als Kennzeichen |
@@ -22,3 +24,32 @@ editor: visual
 | **Gütekriterien** | Standards zur Beurteilung der Qualität eines Messinstruments: Objektivität, Reliabilität, Validität |
 | **Objektivität** | Unabhängigkeit der Messergebnisse von der durchführenden Person |
 | **Reliabilität** | Zuverlässigkeit; Genauigkeit und Konsistenz eines Messverfahrens (z.B. Retest-Reliabilität, interne Konsistenz) |
+
+## Psychometrische Messung
+
+| Fachbegriff | Definition / Erklärung |
+|-------------|------------------------|
+| **Operationalisierung** | Festlegung von beobachtbaren Indikatoren, um ein theoretisches Konstrukt (z.B. Motivation) messbar zu machen. |
+| **Konstrukt** | Ein theoretisches Konzept (latente Variable), das nicht direkt beobachtbar ist, sondern über Indikatoren erschlossen werden muss. |
+| **Standardisierung** | Vereinheitlichung der Durchführung, Auswertung und Interpretation eines Tests, um Vergleichbarkeit zu gewährleisten. |
+| **Interindividuell** | Unterschiede zwischen verschiedenen Personen oder Gruppen zu einem bestimmten Zeitpunkt. |
+| **Intraindividuell** | Unterschiede innerhalb einer Person über verschiedene Zeitpunkte hinweg (z.B. Messwiederholung). |
+| **State (Zustand)** | Ein zeitlich instabiles, aktuelles psychisches Befinden (z.B. momentaner Ärger). |
+| **Trait (Eigenschaft)** | Eine zeitlich stabile und über Situationen hinweg konsistente Persönlichkeitseigenschaft (z.B. generelle Ängstlichkeit). |
+| **Decken- & Bodeneffekte** | Verzerrung, wenn ein Test zu leicht (alle erreichen Max-Punktzahl) oder zu schwer (alle erreichen Min-Punktzahl) ist. |
+| **Selbstwirksamkeit** | Die subjektive Überzeugung, eine schwierige Aufgabe aufgrund eigener Kompetenzen bewältigen zu können (Bandura). |
+| **Affekt (PA/NA)** | Die affektive Dimension des Erlebens; unterteilt in Positiven Affekt (Lust, Aktivität) und Negativen Affekt (Angst, Verlegenheit). |
+| **Attribution** | Der Prozess der Ursachenzuschreibung für ein Ereignis oder ein Handlungsergebnis (Erfolg/Misserfolg). |
+| **Lokus der Kontrolle** | Dimension der Attribution: Liegt die Ursache innerhalb der Person (internal) oder außerhalb (external)? |
+| **Vertrauensintervall** | Statistischer Bereich, in dem der wahre Wert einer Person unter Berücksichtigung des Messfehlers mit einer gewissen Wahrscheinlichkeit liegt. |
+
+## Kultursensible Interventionen
+
+| Fachbegriff | Definition / Erklärung |
+|-------------|------------------------|
+| **Multikulturalismus** | Auffassung, dass menschliches Verhalten kontextabhängig erlernt wird und Vielfalt innerhalb einer Gesellschaft als wertvoll betrachtet wird (Lott, 2009). |
+| **Multikulturelles Selbst** | Konzept, nach dem jede Person gleichzeitig verschiedenen kulturellen Gruppen angehört (z.B. Beruf, Ethnie, Alter) und diese Identitäten individuell integriert. |
+| **Frame-Switching** | Psychologischer Prozess, bei dem Individuen je nach situativem Reiz zwischen verschiedenen kulturellen Interpretationsrahmen wechseln. |
+| **Machtdistanz** | Dimension nach Hofstede, die beschreibt, inwieweit weniger mächtige Mitglieder einer Kultur die ungleiche Verteilung von Macht akzeptieren und erwarten. |
+| **Individualismus / Kollektivismus** | Dimension, die das Verhältnis zwischen Einzelinteresse (Selbstverwirklichung) und Gruppeninteresse (Harmonie/Loyalität) beschreibt. |
+| **Interkulturelle Kompetenz** | Fähigkeit, auf Basis von Wissen (kognitiv), Empathie (affektiv) und Handlungssicherheit (behavioral) in kulturellen Überschneidungssituationen angemessen zu agieren. |
