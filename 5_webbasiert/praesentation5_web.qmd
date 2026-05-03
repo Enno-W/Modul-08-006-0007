@@ -16,6 +16,7 @@ resources:
 #csl: apa.csl
 #biblio-style: "apalike"
 ---
+
 # Prüfungsvorleistung
 
 Thema: Einsatz eines psychometrischen Fragebogens
@@ -28,29 +29,15 @@ z.B: https://www.techbook.de/mobile-lifestyle/apps/sport-apps
 
 oder andere, Ihnen bekannte Angebote.
 
-Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Ergänzen Sie im Etherpad.
-
-# App "selfBack"
-
-Diese App wurde aufwendig Intervention Mapping geplant und evaluiert. Woran ist das in der App zu erkennen?
-
+Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Sammelt im Etherpad.
 
 ## Webseitenerstellung mit Quarto
 
-- Voraussetzungen:
-  - RStudio mit der Erweiterung "Quarto"
-  - Account bei Posit connect cloud
-  
-- Schritte: File → New Project → New directory → Quarto Website
-
-## Online-Coaching: Tipps
-
-- keine teure Kamera
-- Ansteckmikro oder Headset gegen Umgebungsgeräusche
-- Safe fail oder Failsafe
-- Don't touch a running system
-- Ausleuchtung von vorn
-- OBS Studio
+-   Voraussetzungen:
+    -   RStudio mit der Erweiterung "Quarto"
+    -   Account bei Posit connect cloud
+-   [Schritte](https://quarto.org/docs/websites/): File → New Project → New directory → Quarto Website
+-   [Online stellen](https://quarto.org/docs/publishing/posit-connect-cloud.html): quarto publish posit-connect-cloud
 
 ```{r setup}
 # if (!requireNamespace("needs"   )) install.packages("needs")

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Kultursensible Interventionen"
 author: "Enno Winkler"
 lang: de
 format: 
@@ -24,39 +24,41 @@ resources:
 xlsx_to_bib(from_root("References.xlsx"))
 ```
 
+# Prüfungsvorleistung
+
+Messung von PA im Kontext Schule
+
+Aufgabe der Zuhörenden: Ihr seid Schulpersonal und hört eine Präsentation dazu, wie das Aktivitätsniveau der Schüler:innen gemessen werden soll. Viele Eltern beklagen sich über Bewegungsmangel der Kinder in der Schule. Stellt Fragen und diskutiert mit der präsentierenden Person über die beste Möglichkeit.
+
 # Video
 
-Schaut [Video 1](https://ennosgermancourse-my.sharepoint.com/:v:/r/personal/enno_winkler_spb-ew_de/Documents/Lehre%20%20So%20Se2026/Video_Park.mp4?csf=1&web=1&e=oNnFXB "Qigong-Video") und [Video 2](https://ennosgermancourse-my.sharepoint.com/:v:/r/personal/enno_winkler_spb-ew_de/Documents/Lehre%20%20So%20Se2026/Video_Kindergarten.mp4?csf=1&web=1&e=dTPcqN "Kindergarten Video") an.
+Schaut [Video 1](https://ennosgermancourse-my.sharepoint.com/:v:/r/personal/enno_winkler_spb-ew_de/Documents/Lehre%20%20So%20Se2026/Video_Park.mp4?csf=1&web=1&e=oNnFXB "Qigong-Video"); [Video 2](https://ennosgermancourse-my.sharepoint.com/:v:/g/personal/enno_winkler_spb-ew_de/IQDA-fx-Ba68R4xT8qWjp8tGAePb1kpb0h45z_Mm0GSs6GQ?e=P98vr8) und [Video 3](https://ennosgermancourse-my.sharepoint.com/:v:/r/personal/enno_winkler_spb-ew_de/Documents/Lehre%20%20So%20Se2026/Video_Kindergarten.mp4?csf=1&web=1&e=dTPcqN "Kindergarten Video") an.
 
 Plenumsdiskussion: Welche Gemeinsamkeiten und Unterschiede zu hiesigen Formen der sportlichen Aktivitäten fallen euch auf? Was glaubt ihr? Warum ist das so?
 
-# Kultursensible Interventionen
+# Kulturelle Dimensionen
 
-## Kulturelle Dimensionen nach Hofstede
+## Fünf Dimensionen nach Hofstede
 
-<!-- ## Warum Kulturen unterschiedlich "ticken" -->
+1.  **Machtdistanz**: Wie wird mit Hierarchien umgegangen?
 
-<!-- Dimensionen von Geert Hofstede  -->
+2.  **Individualismus vs. Kollektivismus**: Wer steht im Fokus – das "Ich" oder das "Wir"?
 
-<!-- 1.  **Machtdistanz**: Wie wird mit Hierarchien umgegangen? -->
+3.  **Maskulinität vs. Feminität**: Fokus auf Leistung/Wettbewerb vs. Lebensqualität/Kooperation.
 
-<!-- 2.  **Individualismus vs. Kollektivismus**: Wer steht im Fokus – das "Ich" oder das "Wir"? -->
+4.  **Unsicherheitsvermeidung**: Wie viel Struktur und Regeln braucht eine Gruppe?
 
-<!-- 3.  **Maskulinität vs. Feminität**: Fokus auf Leistung/Wettbewerb vs. Lebensqualität/Kooperation. -->
+5.  **Langzeitorientierung**: Berücksichtigung von langfristigen Auswirkungen
 
-<!-- 4.  **Unsicherheitsvermeidung**: Wie viel Struktur und Regeln braucht eine Gruppe? -->
+::: notes
+-   Diese Dimensionen sind keine Stereotype, sondern statistische Mittelwerte von Gesellschaften.
 
-<!-- 5.  **Langzeitorientierung**: Berücksichtigung von langfristigen Auswirkungen -->
-
-<!-- ::: notes -->
-
-<!-- -   Diese Dimensionen sind keine Stereotype, sondern statistische Mittelwerte von Gesellschaften. -->
-
-<!-- -   Im Sport erklären sie oft, warum manche Athleten Traineranweisungen blind befolgen und andere alles hinterfragen. -->
-
-<!-- ::: -->
+-   Im Sport erklären sie oft, warum manche Athleten Traineranweisungen blind befolgen und andere alles hinterfragen.
+:::
 
 [@Hofstede1980; @Hofstede2001]
+
+## Individualismus und Kollektivismus
 
 -   **Individualismus (z. B. USA, Deutschland):**
     -   Fokus auf persönliche Ziele und Selbstverwirklichung.
@@ -93,7 +95,9 @@ Plenumsdiskussion: Welche Gemeinsamkeiten und Unterschiede zu hiesigen Formen de
 
 <!-- ::: -->
 
-### Theoretische Grundlagen nach Lott (2009)
+# Das multikulturelle Selbst
+
+## Theoretische Grundlagen nach Lott (2009)
 
 -   **Multikulturalismus**: Jedes menschliche Verhalten ist erlernt und tritt kontextabhängig in Erscheinung [@lott, S. 13].
 -   **Das multikulturelle Selbst**: Jede Person gehört gleichzeitig unterschiedlichen Kulturen an und besitzt ein einzigartiges multikulturelles Selbst [@lott, S. 2-3].
@@ -101,7 +105,6 @@ Plenumsdiskussion: Welche Gemeinsamkeiten und Unterschiede zu hiesigen Formen de
     -   Besteht aus geteilten Interpretationsmustern, Normen, Werten, Praktiken und Gewohnheiten [@lott, S. 13].
     -   Ist ein dynamischer Prozess ("work in progress"), der sich ständig verändert [@lott, S. 13].
     -   Vermittlung erfolgt sowohl explizit als auch implizit durch Sozialisation [@lott, S. 13].
-    -   Beinhaltet Verhaltensvorschriften (*Prescriptions*) und Einschränkungen (*Constraints*) [@lott, S. 12].
 
 ::: notes
 -   Lott betont, dass wir nicht nur eine Kultur "haben", sondern ein Mosaik aus Identitäten sind.
@@ -121,40 +124,63 @@ Plenumsdiskussion: Welche Gemeinsamkeiten und Unterschiede zu hiesigen Formen de
 -   Als Kursleitung müssen wir verstehen, welchen "Frame" unsere Intervention triggert.
 :::
 
-## Übung: Das Multikulturelle Selbst
+## Strong Minds bei den Special Olympics ![](strong_minds.jpg)
 
-Gruppenaktivitaet.jpg.jpg){width="333"}
+## Kultur in den Special Olympics World Games
 
-## Interkulturelle Trainings: Interventionen zur Sensibilisierung für kulturelle Gemeinsamkeiten und Unterschiede
+![](happy_notes.jpg){width="690"}
 
-### Ansätze und Inhalte
+## Übung: Das multikulturelle Selbst
 
-Zwei Dimensionen [@Mazziotta2016, S. 13-14]:
+![](Gruppenaktivitaet.jpg)
 
-1.  **Nach dem Inhalt**:
-    -   **Kulturspezifisch**: Fokus auf Wissen über eine ganz bestimmte Zielkultur [@Kinast2010, S. 166].
-    -   **Kulturübergreifend**: Allgemeine Sensibilisierung für den kulturellen Einfluss [@Mazziotta2016, S. 14].
-2.  **Nach dem methodischen Ansatz**:
-    -   **Didaktische Ansätze**: Fokus auf kognitive Wissensvermittlung (z. B. Vorträge) [@Kinast2010, S. 167].
-    -   **Erfahrungsbasierte Ansätze**: Fokus auf emotionales Erleben und Verhalten (z. B. Rollenspiele) [@Mazziotta2016, S. 15].
+# Gruppenaufteilung für die Hausarbeit
 
-::: notes
--   Didaktisch = "Lernen über", Erfahrungsbasiert = "Erleben von".
--   Für Sporttherapeuten ist laut Kinast [-@Kinast2010] oft eine Mischung aus beidem am effektivsten, um Handlungssicherheit zu gewinnen.
-:::
+(Gruppenaktivitaet.jpg){width="333"}<!-- ## Interkulturelle Trainings: Interventionen zur Sensibilisierung für kulturelle Gemeinsamkeiten und Unterschiede -->
 
-<!-- ## Ziele kultursensibler Gestaltung -->
+<!-- ### Ansätze und Inhalte -->
 
-### Die drei Ebenen der Kompetenz
+<!-- Zwei Dimensionen [@Mazziotta2016, S. 13-14]: -->
 
-Die Entwicklung interkultureller Kompetenz verfolgt Ziele auf drei psychologischen Ebenen [@Mazziotta2016, S. 24; @Kinast2010, S. 161]:
+<!-- 1.  **Nach dem Inhalt**: -->
 
-1.  **Kognitive Ebene**:
-    -   Wissen über kulturelle Einflüsse, Normen und multiple Identitäten.
-2.  **Affektive Ebene**:
-    -   Steigerung von Respekt und Empathie; Abbau von Vorurteilen, Ängsten und Unsicherheiten.
-3.  **Verhaltensebene**:
-    -   Verbesserung der kommunikativen und sozialen Fähigkeiten sowie der Konfliktlösungsstrategien.
+<!--     -   **Kulturspezifisch**: Fokus auf Wissen über eine ganz bestimmte Zielkultur [@Kinast2010, S. 166]. -->
+
+<!--     -   **Kulturübergreifend**: Allgemeine Sensibilisierung für den kulturellen Einfluss [@Mazziotta2016, S. 14]. -->
+
+<!-- 2.  **Nach dem methodischen Ansatz**: -->
+
+<!--     -   **Didaktische Ansätze**: Fokus auf kognitive Wissensvermittlung (z. B. Vorträge) [@Kinast2010, S. 167]. -->
+
+<!--     -   **Erfahrungsbasierte Ansätze**: Fokus auf emotionales Erleben und Verhalten (z. B. Rollenspiele) [@Mazziotta2016, S. 15]. -->
+
+<!-- ::: notes -->
+
+<!-- -   Didaktisch = "Lernen über", Erfahrungsbasiert = "Erleben von". -->
+
+<!-- -   Für Sporttherapeuten ist laut Kinast [-@Kinast2010] oft eine Mischung aus beidem am effektivsten, um Handlungssicherheit zu gewinnen. -->
+
+<!-- ::: -->
+
+<!-- <!-- ## Ziele kultursensibler Gestaltung -->
+
+--\>
+
+<!-- ### Die drei Ebenen der Kompetenz -->
+
+<!-- Die Entwicklung interkultureller Kompetenz verfolgt Ziele auf drei psychologischen Ebenen [@Mazziotta2016, S. 24; @Kinast2010, S. 161]: -->
+
+<!-- 1.  **Kognitive Ebene**: -->
+
+<!--     -   Wissen über kulturelle Einflüsse, Normen und multiple Identitäten. -->
+
+<!-- 2.  **Affektive Ebene**: -->
+
+<!--     -   Steigerung von Respekt und Empathie; Abbau von Vorurteilen, Ängsten und Unsicherheiten. -->
+
+<!-- 3.  **Verhaltensebene**: -->
+
+<!--     -   Verbesserung der kommunikativen und sozialen Fähigkeiten sowie der Konfliktlösungsstrategien. -->
 
 <!-- ## Methoden interkultureller Trainings -->
 
@@ -186,7 +212,6 @@ Die Entwicklung interkultureller Kompetenz verfolgt Ziele auf drei psychologisch
 :::
 
 # Themenfindung: Hausarbeit
-
 
 # Quellen
 
