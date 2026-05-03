@@ -34,7 +34,7 @@ Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Sammel
 ## Webseitenerstellung mit Quarto
 
 -   Voraussetzungen:
-    -   RStudio mit der Erweiterung "Quarto"
+    -   Programmiersprache R und [RStudio](https://posit.co/download/rstudio-desktop) mit der Erweiterung "Quarto"
     -   Account bei Posit connect cloud
 -   [Schritte](https://quarto.org/docs/websites/): File → New Project → New directory → Quarto Website
 -   [Online stellen](https://quarto.org/docs/publishing/posit-connect-cloud.html): quarto publish posit-connect-cloud
