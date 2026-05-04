@@ -28,6 +28,13 @@
     "text": "Fachbegriff\nDefinition / Erklärung\n\n\n\n\nMultikulturalismus\nAuffassung, dass menschliches Verhalten kontextabhängig erlernt wird und Vielfalt innerhalb einer Gesellschaft als wertvoll betrachtet wird (Lott, 2009).\n\n\nMultikulturelles Selbst\nKonzept, nach dem jede Person gleichzeitig verschiedenen kulturellen Gruppen angehört (z.B. Beruf, Ethnie, Alter) und diese Identitäten individuell integriert.\n\n\nFrame-Switching\nPsychologischer Prozess, bei dem Individuen je nach situativem Reiz zwischen verschiedenen kulturellen Interpretationsrahmen wechseln.\n\n\nMachtdistanz\nDimension nach Hofstede, die beschreibt, inwieweit weniger mächtige Mitglieder einer Kultur die ungleiche Verteilung von Macht akzeptieren und erwarten.\n\n\nIndividualismus / Kollektivismus\nDimension, die das Verhältnis zwischen Einzelinteresse (Selbstverwirklichung) und Gruppeninteresse (Harmonie/Loyalität) beschreibt.\n\n\nInterkulturelle Kompetenz\nFähigkeit, auf Basis von Wissen (kognitiv), Empathie (affektiv) und Handlungssicherheit (behavioral) in kulturellen Überschneidungssituationen angemessen zu agieren."
   },
   {
+    "objectID": "Stichwortliste.html#webbasierte-interventionen",
+    "href": "Stichwortliste.html#webbasierte-interventionen",
+    "title": "Stichwortliste",
+    "section": "",
+    "text": "Fachbegriff\nDefinition / Erklärung\n\n\n\n\nBCTs (Behavior Change Techniques)\nStandardisierte Techniken (z.B. Zielsetzung, Feedback), die gezielt zur Veränderung gesundheitsbezogenen Verhaltens eingesetzt werden.\n\n\nAdhärenz\nDas Ausmaß der kontinuierlichen und regelmäßigen Nutzung einer digitalen Intervention; kritischer Erfolgsfaktor für langfristige Effekte.\n\n\nSelf-Monitoring\nSystematische Erfassung und Rückmeldung des eigenen Verhaltens (z.B. via Sensorik), um Bewusstsein und Kontrolle zu fördern.\n\n\nPersonalisierung\nAnpassung von Interventionsinhalten oder Feedback-Mechanismen an das individuelle Nutzerprofil zur Steigerung der Relevanz.\n\n\nGamification\nNutzung spielerischer Elemente (z.B. Belohnungen, Fortschrittsbalken) in Nicht-Spiel-Kontexten, um Motivation und Engagement zu erhöhen.\n\n\nNudging\nMethode zur subtilen Verhaltenssteuerung, bei der durch kleine Anreize (z. B. Push-Benachrichtigungen, Voreinstellungen) Entscheidungen in eine bestimmte Richtung gelenkt werden, ohne Wahlmöglichkeiten einzuschränken."
+  },
+  {
     "objectID": "Linksammlung.html",
     "href": "Linksammlung.html",
     "title": "Linksammlung",
@@ -105,25 +112,18 @@
     "text": "Verwendung des Pakets pwr\nKorrelation zwischen Selbstwirksamkeit und PA (r = 0.3)\n\npwr.r.test(r = 0.3, sig.level = 0.05, power = 0.8)\n\n\n     approximate correlation power calculation (arctangh transformation) \n\n              n = 84.07364\n              r = 0.3\n      sig.level = 0.05\n          power = 0.8\n    alternative = two.sided"
   },
   {
-    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#pwr.2p.test",
-    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#pwr.2p.test",
+    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#anova",
+    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#anova",
     "title": "Modul 08-006-0007",
-    "section": "pwr.2p.test",
-    "text": "pwr.2p.test\n\n## Exercise 6.1 p. 198 from Cohen (1988)\npwr.2p.test(h=0.3,n=80,sig.level=0.05,alternative=\"greater\")\n\n\n     Difference of proportion power calculation for binomial distribution (arcsine transformation) \n\n              h = 0.3\n              n = 80\n      sig.level = 0.05\n          power = 0.5996777\n    alternative = greater\n\nNOTE: same sample sizes"
+    "section": "Anova",
+    "text": "Anova\n(nach Cohen (1988))\nVergleich von 4 Interventionsgruppen je 20 Personen, Effektstärke f=.28, 20 Personen pro Gruppe\n\n## Exercise 8.1 P. 357 from Cohen (1988)\npwr.anova.test(f=0.28,k=4,n=20,sig.level=0.05)\n\n\n     Balanced one-way analysis of variance power calculation \n\n              k = 4\n              n = 20\n              f = 0.28\n      sig.level = 0.05\n          power = 0.5149793\n\nNOTE: n is number in each group"
   },
   {
-    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#pwr.p.test",
-    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#pwr.p.test",
+    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#chi-square",
+    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#chi-square",
     "title": "Modul 08-006-0007",
-    "section": "pwr.p.test",
-    "text": "pwr.p.test\n\n## Exercise 6.5 p. 203 from Cohen (1988)\npwr.p.test(h=0.2,n=60,sig.level=0.05,alternative=\"two.sided\")\n\n\n     proportion power calculation for binomial distribution (arcsine transformation) \n\n              h = 0.2\n              n = 60\n      sig.level = 0.05\n          power = 0.3408451\n    alternative = two.sided"
-  },
-  {
-    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#pwr.chisq.test",
-    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#pwr.chisq.test",
-    "title": "Modul 08-006-0007",
-    "section": "pwr.chisq.test",
-    "text": "pwr.chisq.test\n\n## Exercise 7.3 p. 251\npwr.chisq.test(w=0.346,df=(2-1)*(3-1),N=140,sig.level=0.01)\n\n\n     Chi squared power calculation \n\n              w = 0.346\n              N = 140\n             df = 2\n      sig.level = 0.01\n          power = 0.8854053\n\nNOTE: N is the number of observations\n\n\nCohen (1988)"
+    "section": "Chi Square",
+    "text": "Chi Square\nw: Effektstärke (Cramer’s V).\ndf: Freiheitsgrade (Anzahl Zeilen - 1) * (Anzahl Spalten - 1).\nN: Gesamtstichprobengröße (Achtung: nicht pro Gruppe!).\n\n## Exercise 7.3 p. 251\npwr.chisq.test(w=0.346,df=(2-1)*(3-1),N=140,sig.level=0.01)\n\n\n     Chi squared power calculation \n\n              w = 0.346\n              N = 140\n             df = 2\n      sig.level = 0.01\n          power = 0.8854053\n\nNOTE: N is the number of observations"
   },
   {
     "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#qualitative-stichprobenplahnung",
@@ -623,18 +623,39 @@
     "text": "Dokumentation & Transparenz\n\nWarum dokumentieren?\n\nErmöglicht Replikation durch andere Forscher/Praktiker.\nIdentifiziert “aktive Komponenten” (Was genau hat gewirkt?).\nBildet die Basis für Wissenschaft und Praxis.\n\nIntervention Mapping Vorteil: Eine einheitliche Terminologie macht Programme weltweit vergleichbar.\n\n\n\nViele Entwickler vergessen die Dokumentation der “Black Box”. IM zwingt uns dazu, jeden Schritt von der Determinante bis zur Evaluation festzuhalten."
   },
   {
-    "objectID": "5_webbasiert/praesentation5_web.html#zentrale-erkenntnisse-domin-et-al.-2021",
-    "href": "5_webbasiert/praesentation5_web.html#zentrale-erkenntnisse-domin-et-al.-2021",
+    "objectID": "5_webbasiert/praesentation5_web.html#zentrale-erkenntnisse-domin2021",
+    "href": "5_webbasiert/praesentation5_web.html#zentrale-erkenntnisse-domin2021",
     "title": "Modul 08-006-0007",
-    "section": "Zentrale Erkenntnisse: Domin et al. (2021)",
-    "text": "Zentrale Erkenntnisse: Domin et al. (2021)\n\nTheorie-Defizit: Viele Interventionen scheitern an mangelnder theoretischer Fundierung (sog. „Black Box“-Problematik).\nWirksamkeit durch BCTs: Erfolg korreliert stark mit dem gezielten Einsatz von Behavior Change Techniques (z.B. Feedback, Zielsetzung, Monitoring).\nAdhärenz-Herausforderung: Das Nutzerengagement sinkt über die Zeit drastisch; langfristige Bindung bleibt die kritische Hürde.\nQualitätslücke: Häufig mangelhafte methodische Dokumentation erschwert die Vergleichbarkeit und Evidenzbewertung."
+    "section": "Zentrale Erkenntnisse: Domin et al. (2021)",
+    "text": "Zentrale Erkenntnisse: Domin et al. (2021)\n\nTheorie-Defizit: Viele Interventionen scheitern an mangelnder theoretischer Fundierung (sog. „Black Box“-Problematik).\nWirksamkeit durch BCTs: Erfolg korreliert stark mit dem gezielten Einsatz von Behavior Change Techniques (z.B. Feedback, Zielsetzung, Monitoring).\nAdhärenz-Herausforderung: Das Nutzerengagement sinkt über die Zeit drastisch; langfristige Bindung bleibt die kritische Hürde.\nQualitätslücke: Häufig mangelhafte methodische Dokumentation erschwert die Vergleichbarkeit und Evidenzbewertung."
   },
   {
     "objectID": "5_webbasiert/praesentation5_web.html#webseitenerstellung-mit-quarto",
     "href": "5_webbasiert/praesentation5_web.html#webseitenerstellung-mit-quarto",
     "title": "Modul 08-006-0007",
     "section": "Webseitenerstellung mit Quarto",
-    "text": "Webseitenerstellung mit Quarto\n\nVoraussetzungen:\n\nProgrammiersprache R und RStudio mit der Erweiterung “Quarto”\nAccount bei Posit connect cloud\n\nSchritte: File → New Project → New directory → Quarto Website\nOnline stellen: quarto publish posit-connect-cloud im Terminal\nZeit zum eigenen Experimentieren und Troubleshooting\n\n\n\n\n\nDomin, A., Spruijt-Metz, D., Theisen, D., Ouzzahra, Y., & Vögele, C. (2021). Smartphone-Based Interventions for Physical Activity Promotion: Scoping Review of the Evidence Over the Last 10 Years. JMIR mHealth and uHealth, 9(7), e24308. https://doi.org/10.2196/24308"
+    "text": "Webseitenerstellung mit Quarto\n\nVoraussetzungen:\n\nProgrammiersprache R und RStudio mit der Erweiterung “Quarto”\nAccount bei Posit connect cloud\n\nSchritte: File → New Project → New directory → Quarto Website\nOnline stellen: quarto publish posit-connect-cloud im Terminal\nZeit zum eigenen Experimentieren und Troubleshooting"
+  },
+  {
+    "objectID": "5_webbasiert/praesentation5_web.html#selfback-svendsen2022",
+    "href": "5_webbasiert/praesentation5_web.html#selfback-svendsen2022",
+    "title": "Modul 08-006-0007",
+    "section": "SelfBACK (Svendsen et al., 2022)",
+    "text": "SelfBACK (Svendsen et al., 2022)\n\nAuf Intervention Mapping basierende App “selfBACK”"
+  },
+  {
+    "objectID": "5_webbasiert/praesentation5_web.html#evtl.-vorstellung-des-anti-doping-projekts-viral",
+    "href": "5_webbasiert/praesentation5_web.html#evtl.-vorstellung-des-anti-doping-projekts-viral",
+    "title": "Modul 08-006-0007",
+    "section": "evtl. Vorstellung des Anti-Doping Projekts “ViRAL”",
+    "text": "evtl. Vorstellung des Anti-Doping Projekts “ViRAL”\nLink zur Projektseite"
+  },
+  {
+    "objectID": "5_webbasiert/praesentation5_web.html#evtl.-app-vorstellung-humanoo",
+    "href": "5_webbasiert/praesentation5_web.html#evtl.-app-vorstellung-humanoo",
+    "title": "Modul 08-006-0007",
+    "section": "evtl. App-Vorstellung “Humanoo”",
+    "text": "evtl. App-Vorstellung “Humanoo”\n(externe Präsentation)"
   },
   {
     "objectID": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#der-ökologische-ansatz",
@@ -679,11 +700,11 @@
     "text": "Logisches Modell von Interventionen\n\nBartholomew und Kolleg:innen systematisieren in ihrem Ansatz des Intervention Mappings psychologische Interventionen. Dabei gibt es zwei Richtungen zu beachten. Zum einen, die angenomme Wirkrichtung, von dem was wir in der Intervention machen bis zu den Ergebnissen. Darunter seht ihr, dass die Reihenfolge der Planungsschritte umgekehrt ist: Wir starten mit einem Ergebnis, das wir erreichen wollen, leiten daraus Ziele ab, und kommen am Ende an konkreten Materialien (z.B. Flyer) und Aktivitäten (z.B. Workshops) an. [Erklärung des Modells]\nDiese systematisierung von psychologischen Interventionen ist für die abschließende Hausarbeit sehr relevant. Wenn ihr jeden dieser Schritte berücksichtigt, sollte es nicht schwerfallen, auf die benötigte Seitenzahl zu kommen.\n\n\n\nAbbildung 2: Logisches Modell von Interventionen"
   },
   {
-    "objectID": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#gruppenaufgabe-20-min",
-    "href": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#gruppenaufgabe-20-min",
+    "objectID": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#reality-check-im-plenum",
+    "href": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#reality-check-im-plenum",
     "title": "Modul 08-006-0007",
-    "section": "Gruppenaufgabe (20 min)",
-    "text": "Gruppenaufgabe (20 min)\nFindet euch in 3er-Gruppen zusammen, wenn es nicht aufgeht auch zu zweit oder zu viert. Stellt euch vor, ihr wurdet als Planungsteam rekrutiert, um eine Intervention zu realisieren. Die Intervention soll Studierenden an der Uni Leipzig zu mehr physischer Aktivität verhelfen. Führt eine Bedarfsanalyse durch (benennt dabei Verhaltensfaktoren, Umweltfaktoren und Determinanten). Sammelt eure Ergebnisse Stichpunktartig und bereitet euch darauf vor, sie vor dem Plenum kurz zu erklären."
+    "section": "Reality-Check im Plenum",
+    "text": "Reality-Check im Plenum\nStellt euch vor, ihr wurdet als Planungsteam rekrutiert, um eine Intervention zu realisieren. Die Intervention soll Studierenden an der Uni Leipzig zu mehr physischer Aktivität verhelfen. Führt eine Bedarfsanalyse durch (benennt dabei Verhaltensfaktoren, Umweltfaktoren und Determinanten)."
   },
   {
     "objectID": "9 Intervention Mapping III - Auswahl von Methoden und Praktischen Anwendungen/Praesentation9_Methoden.html#theoretische-methoden-und-praktische-anwendungen",
@@ -732,48 +753,6 @@
     "href": "index.html#kursinhalte",
     "title": "Präsentationsfolien und online-Termine",
     "section": "Kursinhalte",
-    "text": "Kursinhalte\n\nGrundlagen\n\nEinleitung & Fallbeispiele\nMessung und Definition sportlicher Aktivität\n\nSteckbrief\n\nPsychometrische Fragebögen\n\nSteckbrief Konstrukte\n\nKultursensible Interventionen\nWebbasierte Interventionen\n\nR Skript Poweranalyse\n\n\n\n\n\n\n\n\n\n\n\n\n\nRessourcen\n\nStichwortliste\nQuizlet-Kurs\nLinksammlung (weiterführende Videos und Beispiele von Interventionen, optional)\n\n\n\n\n\n\n\nHinweise zur Nutzung\n\nDie Präsentationen sind als Reveal.js Slides optimiert.\nNutzen Sie die Taste m, um das Menü aufzurufen, oder f für den Vollbildmodus.\nAlle Literaturangaben finden Sie am Ende der jeweiligen Präsentation.\n\n\n\nVorlesungstermine\nJeweils Montag\n13.04.26\n20.04.26\n27.04.26\n04.05.26\n11.05.26\n18.05.26\n01.06.26\n08.06.26\n15.06.26\n22.06.26\n29.06.26\n06.07.26"
-  },
-  {
-    "objectID": "Stichwortliste.html#webbasierte-interventionen",
-    "href": "Stichwortliste.html#webbasierte-interventionen",
-    "title": "Stichwortliste",
-    "section": "",
-    "text": "Fachbegriff\nDefinition / Erklärung\n\n\n\n\nBCTs (Behavior Change Techniques)\nStandardisierte Techniken (z.B. Zielsetzung, Feedback), die gezielt zur Veränderung gesundheitsbezogenen Verhaltens eingesetzt werden.\n\n\nAdhärenz\nDas Ausmaß der kontinuierlichen und regelmäßigen Nutzung einer digitalen Intervention; kritischer Erfolgsfaktor für langfristige Effekte.\n\n\nSelf-Monitoring\nSystematische Erfassung und Rückmeldung des eigenen Verhaltens (z.B. via Sensorik), um Bewusstsein und Kontrolle zu fördern.\n\n\nPersonalisierung\nAnpassung von Interventionsinhalten oder Feedback-Mechanismen an das individuelle Nutzerprofil zur Steigerung der Relevanz.\n\n\nGamification\nNutzung spielerischer Elemente (z.B. Belohnungen, Fortschrittsbalken) in Nicht-Spiel-Kontexten, um Motivation und Engagement zu erhöhen.\n\n\nNudging\nMethode zur subtilen Verhaltenssteuerung, bei der durch kleine Anreize (z. B. Push-Benachrichtigungen, Voreinstellungen) Entscheidungen in eine bestimmte Richtung gelenkt werden, ohne Wahlmöglichkeiten einzuschränken."
-  },
-  {
-    "objectID": "5_webbasiert/praesentation5_web.html",
-    "href": "5_webbasiert/praesentation5_web.html",
-    "title": "Agenda",
-    "section": "",
-    "text": "PVL\nEtherpad-Aktivität: Bewegungsangebote und Apps\nForschungsergebnisse zur Effektivität von Smartphone-Interventionen\nWebseitenerstellung mit Quarto"
-  },
-  {
-    "objectID": "5_webbasiert/praesentation5_web.html#zentrale-erkenntnisse-domin2021",
-    "href": "5_webbasiert/praesentation5_web.html#zentrale-erkenntnisse-domin2021",
-    "title": "Modul 08-006-0007",
-    "section": "Zentrale Erkenntnisse: Domin et al. (2021)",
-    "text": "Zentrale Erkenntnisse: Domin et al. (2021)\n\nTheorie-Defizit: Viele Interventionen scheitern an mangelnder theoretischer Fundierung (sog. „Black Box“-Problematik).\nWirksamkeit durch BCTs: Erfolg korreliert stark mit dem gezielten Einsatz von Behavior Change Techniques (z.B. Feedback, Zielsetzung, Monitoring).\nAdhärenz-Herausforderung: Das Nutzerengagement sinkt über die Zeit drastisch; langfristige Bindung bleibt die kritische Hürde.\nQualitätslücke: Häufig mangelhafte methodische Dokumentation erschwert die Vergleichbarkeit und Evidenzbewertung."
-  },
-  {
-    "objectID": "5_webbasiert/praesentation5_web.html#section",
-    "href": "5_webbasiert/praesentation5_web.html#section",
-    "title": "Agenda",
-    "section": "",
-    "text": "# if (!requireNamespace(\"needs\"   )) install.packages(\"needs\")\n# if (!requireNamespace(\"excelbib\")) install_github(\"Enno-W/excelbib\")\n# needs(\"excelbib\", \"xfun\")\n# #xlsx_to_bib(from_root(\"References.xlsx\"))"
-  },
-  {
-    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#pwr.chisq.test-gemäß-cohen1988",
-    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#pwr.chisq.test-gemäß-cohen1988",
-    "title": "Modul 08-006-0007",
-    "section": "pwr.chisq.test gemäß Cohen (1988)",
-    "text": "pwr.chisq.test gemäß Cohen (1988)\nw: Effektstärke (Cramer’s V). df: Freiheitsgrade (Anzahl Zeilen - 1) * (Anzahl Spalten - 1). N: Gesamtstichprobengröße (Achtung: nicht pro Gruppe!).\n\n## Exercise 7.3 p. 251\npwr.chisq.test(w=0.346,df=(2-1)*(3-1),N=140,sig.level=0.01)\n\n\n     Chi squared power calculation \n\n              w = 0.346\n              N = 140\n             df = 2\n      sig.level = 0.01\n          power = 0.8854053\n\nNOTE: N is the number of observations"
-  },
-  {
-    "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html",
-    "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html",
-    "title": "Studiendesign und Stichprobe",
-    "section": "",
-    "text": "# if (!requireNamespace(\"needs\"   )) install.packages(\"needs\")\n# if (!requireNamespace(\"excelbib\")) install_github(\"Enno-W/excelbib\")\n# needs(\"excelbib\", \"xfun\")\n# xlsx_to_bib(from_root(\"References.xlsx\"))"
+    "text": "Kursinhalte\n\nGrundlagen\n\nEinleitung & Fallbeispiele\nMessung und Definition sportlicher Aktivität\n\nSteckbrief\n\nPsychometrische Fragebögen\n\nSteckbrief Konstrukte\n\nKultursensible Interventionen\nWebbasierte Interventionen\n\nR Skript Poweranalyse\n\n\n\n\nMethoden & Design\n\nStudiendesign & Stichprobe\n\n\n\n\n\n\n\n\n\n\nRessourcen\n\nStichwortliste\nQuizlet-Kurs\nLinksammlung (weiterführende Videos und Beispiele von Interventionen, optional)\n\n\n\n\n\n\n\nHinweise zur Nutzung\n\nDie Präsentationen sind als Reveal.js Slides optimiert.\nNutzen Sie die Taste m, um das Menü aufzurufen, oder f für den Vollbildmodus.\nAlle Literaturangaben finden Sie am Ende der jeweiligen Präsentation.\n\n\n\nVorlesungstermine\nJeweils Montag\n13.04.26\n20.04.26\n27.04.26\n04.05.26\n11.05.26\n18.05.26\n01.06.26\n08.06.26\n15.06.26\n22.06.26\n29.06.26\n06.07.26"
   }
 ]

@@ -95,13 +95,11 @@ Diese systematisierung von psychologischen Interventionen ist für die abschlie�
 ![Logisches Modell von Interventionen](logisch_modell.svg){#fig-logischesmodell}
 
 
-## Gruppenaufgabe (20 min)
+## Reality-Check im Plenum
 
-Findet euch in 3er-Gruppen zusammen, wenn es nicht aufgeht auch zu zweit oder zu viert. 
 Stellt euch vor, ihr wurdet als Planungsteam rekrutiert, um eine Intervention zu realisieren. 
 Die Intervention soll Studierenden an der Uni Leipzig zu mehr physischer Aktivität verhelfen. 
 Führt eine Bedarfsanalyse durch (benennt dabei Verhaltensfaktoren, Umweltfaktoren und Determinanten). 
-Sammelt eure Ergebnisse Stichpunktartig und bereitet euch darauf vor, sie vor dem Plenum kurz zu erklären. 
 
 # Literaturverzeichnis
 

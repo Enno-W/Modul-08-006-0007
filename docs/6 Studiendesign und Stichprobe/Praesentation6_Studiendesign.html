@@ -237,8 +237,8 @@
 <li class="fragment">Warum planen wir die Stichprobe vor der Intervention?</li>
 <li class="fragment"><strong>Vermeidung von Fehlern:</strong>
 <ul>
-<li class="fragment"><em>Type I Error (<span class="math inline">\(\alpha\)</span>):</em> Effekt sehen, wo keiner ist.</li>
-<li class="fragment"><em>Type II Error (<span class="math inline">\(\beta\)</span>):</em> Effekt übersehen, der existiert (mangelnde Power).</li>
+<li class="fragment"><em>Type I Error (</em><span class="math inline">\(\alpha\)</span>): Effekt sehen, wo keiner ist.</li>
+<li class="fragment"><em>Type II Error (</em><span class="math inline">\(\beta\)</span>): Effekt übersehen, der existiert (mangelnde Power).</li>
 </ul></li>
 <li class="fragment">Schon vorab muss geklärt werden, wie am Ende evaluiert wird.</li>
 </ul>
@@ -290,7 +290,7 @@
 <section>
 <section id="power-analyse-mit-r" class="title-slide slide level1 center">
 <h1>Power-Analyse mit R</h1>
-
+<p>R-Skript <a href="https://enno-w.github.io/Modul-08-006-0007/6%20Studiendesign%20und%20Stichprobe/R-Skript_Poweranalyse.R">hier</a> verfügbar.</p>
 </section>
 <section id="verwendung-des-pakets-pwr" class="slide level2">
 <h2>Verwendung des Pakets <code>pwr</code></h2>
@@ -331,11 +331,11 @@ NOTE: n is number in *each* group</code></pre>
     alternative = two.sided</code></pre>
 </div>
 </div>
-</section></section>
-<section>
-<section id="pwr.anova.test---anova-gemäß-cohen1988" class="title-slide slide level1 center">
-<h1>pwr.anova.test - Anova gemäß <span class="citation" data-cites="Cohen1988">Cohen (<a href="#/literaturverzeichnis" role="doc-biblioref" onclick="">1988</a>)</span></h1>
-<p>Vergleich von 4 Interventionsgruppen je 20 Personen, Effektstärke f=.28</p>
+</section>
+<section id="anova" class="slide level2">
+<h2>Anova</h2>
+<p>(nach <span class="citation" data-cites="Cohen1988">Cohen (<a href="#/literaturverzeichnis" role="doc-biblioref" onclick="">1988</a>)</span>)</p>
+<p>Vergleich von 4 Interventionsgruppen je 20 Personen, Effektstärke f=.28, 20 Personen pro Gruppe</p>
 <div class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a></a><span class="do">## Exercise 8.1 P. 357 from Cohen (1988)</span></span>
 <span id="cb5-2"><a></a><span class="fu">pwr.anova.test</span>(<span class="at">f=</span><span class="fl">0.28</span>,<span class="at">k=</span><span class="dv">4</span>,<span class="at">n=</span><span class="dv">20</span>,<span class="at">sig.level=</span><span class="fl">0.05</span>)</span></code></pre></div><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></div>
@@ -353,9 +353,11 @@ NOTE: n is number in each group</code></pre>
 </div>
 </div>
 </section>
-<section id="pwr.chisq.test-gemäß-cohen1988" class="slide level2">
-<h2>pwr.chisq.test gemäß <span class="citation" data-cites="Cohen1988">Cohen (<a href="#/literaturverzeichnis" role="doc-biblioref" onclick="">1988</a>)</span></h2>
-<p>w: Effektstärke (Cramer’s V). df: Freiheitsgrade (Anzahl Zeilen - 1) * (Anzahl Spalten - 1). N: Gesamtstichprobengröße (Achtung: nicht pro Gruppe!).</p>
+<section id="chi-square" class="slide level2">
+<h2>Chi Square</h2>
+<p>w: Effektstärke (Cramer’s V).</p>
+<p>df: Freiheitsgrade (Anzahl Zeilen - 1) * (Anzahl Spalten - 1).</p>
+<p>N: Gesamtstichprobengröße (Achtung: nicht pro Gruppe!).</p>
 <div class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a></a><span class="do">## Exercise 7.3 p. 251</span></span>
 <span id="cb7-2"><a></a><span class="fu">pwr.chisq.test</span>(<span class="at">w=</span><span class="fl">0.346</span>,<span class="at">df=</span>(<span class="dv">2-1</span>)<span class="sc">*</span>(<span class="dv">3-1</span>),<span class="at">N=</span><span class="dv">140</span>,<span class="at">sig.level=</span><span class="fl">0.01</span>)</span></code></pre></div><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></div>
@@ -457,10 +459,10 @@ NOTE: N is the number of observations</code></pre>
           display:block!important;
       }</style></aside>
 </section></section>
-<section id="evtl.-gruppenarbeit-korrelation" class="title-slide slide level1 center">
-<h1>evtl. Gruppenarbeit: Korrelation</h1>
+<section id="evtl.-gruppenarbeit-correlation-vs.-causation---kreative-übung-zur-studienplanung" class="title-slide slide level1 center">
+<h1>evtl. Gruppenarbeit: correlation vs.&nbsp;causation - Kreative Übung zur Studienplanung</h1>
 <ul>
-<li class="fragment">Findet auf https://www.tylervigen.com/spurious-correlations, Korrelationen, bei denen es (theoretisch) möglich wäre, eine oder beide der Variablen zu manipulieren. Überlegen Sie sich ein Experiment, dass einen kausalen Zusammenhang dieser Korrelation prüfen soll. Dabei können Sie davon ausgehen, dass sie unbegrenzte Ressourcen und Einfluss haben.</li>
+<li class="fragment">Findet auf <a href="https://www.tylervigen.com/spurious-correlations" class="uri">https://www.tylervigen.com/spurious-correlations</a> Korrelationen, bei denen es (theoretisch) möglich wäre, eine oder beide der Variablen zu manipulieren. Überlegen Sie sich ein Experiment, dass einen kausalen Zusammenhang dieser Korrelation prüfen soll. Dabei können Sie davon ausgehen, dass sie unbegrenzte Ressourcen und Einfluss haben.</li>
 </ul>
 </section>
 

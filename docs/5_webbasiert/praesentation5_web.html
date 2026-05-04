@@ -184,7 +184,7 @@
 <p>Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Sammelt im Etherpad.</p>
 </section>
 <section id="zentrale-erkenntnisse-domin2021" class="slide level2">
-<h2>Zentrale Erkenntnisse: <span class="citation" data-cites="Domin2021">Domin et al. (<a href="#/webseitenerstellung-mit-quarto" role="doc-biblioref" onclick="">2021</a>)</span></h2>
+<h2>Zentrale Erkenntnisse: <span class="citation" data-cites="Domin2021">Domin et al. (<a href="#/literaturverzeichnis" role="doc-biblioref" onclick="">2021</a>)</span></h2>
 <ul>
 <li class="fragment"><strong>Theorie-Defizit:</strong> Viele Interventionen scheitern an mangelnder theoretischer Fundierung (sog. „Black Box“-Problematik).</li>
 <li class="fragment"><strong>Wirksamkeit durch BCTs:</strong> Erfolg korreliert stark mit dem gezielten Einsatz von <em>Behavior Change Techniques</em> (z.B. Feedback, Zielsetzung, Monitoring).</li>
@@ -192,26 +192,52 @@
 <li class="fragment"><strong>Qualitätslücke:</strong> Häufig mangelhafte methodische Dokumentation erschwert die Vergleichbarkeit und Evidenzbewertung.</li>
 </ul>
 </section>
-<section id="webseitenerstellung-mit-quarto" class="slide level2 smaller scrollable">
+<section id="webseitenerstellung-mit-quarto" class="slide level2">
 <h2>Webseitenerstellung mit Quarto</h2>
 <ul>
 <li class="fragment">Voraussetzungen:
 <ul>
-<li class="fragment">Programmiersprache R und <a href="https://posit.co/download/rstudio-desktop">RStudio</a> mit der Erweiterung “Quarto”</li>
-<li class="fragment">Account bei Posit connect cloud</li>
+<li class="fragment">Programmiersprache R und <a href="https://posit.co/download/rstudio-desktop">RStudio</a> mit der Erweiterung “<a href="https://quarto.org/docs/download/index.html">Quarto</a>”</li>
+<li class="fragment">Account bei <a href="https://connect.posit.cloud/home">Posit connect cloud</a></li>
 </ul></li>
 <li class="fragment"><a href="https://quarto.org/docs/websites/">Schritte</a>: File → New Project → New directory → Quarto Website</li>
 <li class="fragment"><a href="https://quarto.org/docs/publishing/posit-connect-cloud.html">Online stellen</a>: <code>quarto publish posit-connect-cloud</code> im Terminal</li>
 <li class="fragment"><strong>Zeit zum eigenen Experimentieren und Troubleshooting</strong></li>
 </ul>
+</section></section>
+<section>
+<section id="beispiele-web-basierte-interventionen" class="title-slide slide level1 center">
+<h1>Beispiele Web-basierte Interventionen</h1>
+
+</section>
+<section id="selfback-svendsen2022" class="slide level2">
+<h2>SelfBACK <span class="citation" data-cites="Svendsen2022">(<a href="#/literaturverzeichnis" role="doc-biblioref" onclick="">Svendsen et al., 2022</a>)</span></h2>
+
+<img data-src="selfBACK.jpg" class="r-stretch quarto-figure-center"><p class="caption">Auf Intervention Mapping basierende App “selfBACK”</p></section>
+<section id="evtl.-vorstellung-des-anti-doping-projekts-viral" class="slide level2">
+<h2>evtl. Vorstellung des Anti-Doping Projekts “ViRAL”</h2>
+<p><a href="https://viraltheproject.aau.dk/index.php/project-details/">Link zur Projektseite</a></p>
+</section>
+<section id="evtl.-app-vorstellung-humanoo" class="slide level2">
+<h2>evtl. App-Vorstellung “Humanoo”</h2>
+<p>(externe Präsentation)</p>
+</section></section>
+<section id="literaturverzeichnis" class="title-slide slide level1 smaller scrollable">
+<h1>Literaturverzeichnis</h1>
+<div class="refs">
+
+</div>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
 <div id="ref-Domin2021" class="csl-entry" role="listitem">
 Domin, A., Spruijt-Metz, D., Theisen, D., Ouzzahra, Y., &amp; Vögele, C. (2021). Smartphone-Based Interventions for Physical Activity Promotion: Scoping Review of the Evidence Over the Last 10 Years. <em>JMIR mHealth and uHealth</em>, <em>9</em>(7), e24308. <a href="https://doi.org/10.2196/24308">https://doi.org/10.2196/24308</a>
 </div>
+<div id="ref-Svendsen2022" class="csl-entry" role="listitem">
+Svendsen, M. J., Sandal, L. F., Kjær, P., Nicholl, B. I., Cooper, K., Mair, F., Hartvigsen, J., Stochkendahl, M. J., Søgaard, K., Mork, P. J., &amp; Rasmussen, C. (2022). Using Intervention Mapping to Develop a Decision Support System–Based Smartphone App (selfBACK) to Support Self-management of Nonspecific Low Back Pain: Development and Usability Study. <em>Journal of Medical Internet Research</em>, <em>24</em>(1), e26555. <a href="https://doi.org/10.2196/26555">https://doi.org/10.2196/26555</a>
 </div>
-</section></section>
+</div>
+</section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <p><img src="../leipzig_logo.svg" class="slide-logo"></p>
@@ -442,82 +468,6 @@ Domin, A., Spruijt-Metz, D., Theisen, D., Ouzzahra, Y., &amp; Vögele, C. (2021)
         ]
       });
     </script>
-    
-
-    <script>
-
-      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-
-      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-
-      // slide changes (different for each slide format).
-
-      (function () {
-
-        // dispatch for htmlwidgets
-
-        function fireSlideEnter() {
-
-          const event = window.document.createEvent("Event");
-
-          event.initEvent("slideenter", true, true);
-
-          window.document.dispatchEvent(event);
-
-        }
-
-    
-
-        function fireSlideChanged(previousSlide, currentSlide) {
-
-          fireSlideEnter();
-
-    
-
-          // dispatch for shiny
-
-          if (window.jQuery) {
-
-            if (previousSlide) {
-
-              window.jQuery(previousSlide).trigger("hidden");
-
-            }
-
-            if (currentSlide) {
-
-              window.jQuery(currentSlide).trigger("shown");
-
-            }
-
-          }
-
-        }
-
-    
-
-        // hookup for slidy
-
-        if (window.w3c_slidy) {
-
-          window.w3c_slidy.add_observer(function (slide_num) {
-
-            // slide_num starts at position 1
-
-            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-
-          });
-
-        }
-
-    
-
-      })();
-
-    </script>
-
-    
-
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {
         const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
