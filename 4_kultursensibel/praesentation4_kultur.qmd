@@ -24,6 +24,29 @@ resources:
 xlsx_to_bib(from_root("References.xlsx"))
 ```
 
+# Agenda
+
+-   Rückblick: Steckbriefe
+
+-   PVL: Keine, aber kurze Diskussion zu SOCARP (10min)
+
+-   Bewertung bei der PVL (5 min)
+
+-   Input zu Kultur (20 min)
+
+-   Gruppenübung (20 min)
+
+-   Hausarbeitsthemen (20 min)
+
+-   Evtl. Quiz (wenn Zeit übrig ist)
+
+## Steckbriefe
+
+- Selbstwirksamkeit
+- Affekt
+- Stolz
+- Attribution
+
 # Prüfungsvorleistung
 
 Messung von PA im Kontext Schule
@@ -36,7 +59,7 @@ Schaut [Video 1](https://ennosgermancourse-my.sharepoint.com/:v:/r/personal/enno
 
 Plenumsdiskussion: Welche Gemeinsamkeiten und Unterschiede zu hiesigen Formen der sportlichen Aktivitäten fallen euch auf? Was glaubt ihr? Warum ist das so?
 
-# Kulturelle Dimensionen
+# Kultursensible Intervention (Theorie)
 
 ## Fünf Dimensionen nach Hofstede
 
@@ -124,7 +147,32 @@ Plenumsdiskussion: Welche Gemeinsamkeiten und Unterschiede zu hiesigen Formen de
 -   Als Kursleitung müssen wir verstehen, welchen "Frame" unsere Intervention triggert.
 :::
 
+# Kultursensible Intervention (Praxis)
+
+## Planung kultursensibler Interventionen nach DOSB
+
+* **Zielgruppenanalyse (Multidimensionalität):** Berücksichtigung der Vielfaltsdimensionen (Herkunft, Alter, Behinderung, soz. Status) statt homogener Gruppenbilder.
+* **Niedrigschwelliger Zugang:** Orientierung am DOSB-Prinzip der Bedarfsorientierung und Offenheit statt exklusiver Zugangsbarrieren.
+* **Nachhaltigkeit durch Vernetzung:** Verankerung in bestehenden Strukturen (Stützpunktvereine) statt einmaliger „Leuchtturmprojekte“.
+
+::: notes
+- Verbindung zur DOSB-Strategie: Integrationsarbeit ist kein "Zufall", sondern gezielte Planung.
+- Die Studierenden sollen in ihrer Hausarbeit konkret begründen, warum ihre geplante Maßnahme zu dieser Vielfalt passt.
+:::
+
 ## Strong Minds bei den Special Olympics ![](strong_minds.jpg)
+
+## Stationen
+
+-   Anti-Stress-Ball, Windmühle
+
+-   Positive Emotionen: "Schreib oder male etwas, das dich glücklich macht."
+
+-   Angeleitete Bewegung
+
+-   Arbeit mit Bildern zum Thema Hilfe und Unterstützung
+
+-   Abschließender Fragebogen und Dokumentation
 
 ## Kultur in den Special Olympics World Games
 
@@ -134,9 +182,9 @@ Plenumsdiskussion: Welche Gemeinsamkeiten und Unterschiede zu hiesigen Formen de
 
 ![](Gruppenaktivitaet.jpg)
 
-# Gruppenaufteilung für die Hausarbeit
 
-(Gruppenaktivitaet.jpg){width="333"}<!-- ## Interkulturelle Trainings: Interventionen zur Sensibilisierung für kulturelle Gemeinsamkeiten und Unterschiede -->
+
+<!-- ## Interkulturelle Trainings: Interventionen zur Sensibilisierung für kulturelle Gemeinsamkeiten und Unterschiede -->
 
 <!-- ### Ansätze und Inhalte -->
 
@@ -164,7 +212,6 @@ Plenumsdiskussion: Welche Gemeinsamkeiten und Unterschiede zu hiesigen Formen de
 
 <!-- <!-- ## Ziele kultursensibler Gestaltung -->
 
---\>
 
 <!-- ### Die drei Ebenen der Kompetenz -->
 
@@ -212,6 +259,8 @@ Plenumsdiskussion: Welche Gemeinsamkeiten und Unterschiede zu hiesigen Formen de
 :::
 
 # Themenfindung: Hausarbeit
+
+--\> siehe Etherpad im Moodle
 
 # Quellen
 

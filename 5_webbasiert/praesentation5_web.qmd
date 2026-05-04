@@ -17,9 +17,15 @@ resources:
 #biblio-style: "apalike"
 ---
 
+# Agenda
+
+-   PVL
+
+-   Etherpad-Aktivität: Bewegungsangebote und Apps
+
 # Prüfungsvorleistung
 
-Thema: Einsatz eines psychometrischen Fragebogens
+Thema: Online-Einsatz eines psychometrischen Fragebogens
 
 # Bewegungsangebote und Apps
 
@@ -30,6 +36,13 @@ z.B: https://www.techbook.de/mobile-lifestyle/apps/sport-apps
 oder andere, Ihnen bekannte Angebote.
 
 Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Sammelt im Etherpad.
+
+## Zentrale Erkenntnisse: Domin et al. (2021)
+
+- **Theorie-Defizit:** Viele Interventionen scheitern an mangelnder theoretischer Fundierung (sog. „Black Box“-Problematik).
+- **Wirksamkeit durch BCTs:** Erfolg korreliert stark mit dem gezielten Einsatz von *Behavior Change Techniques* (z.B. Feedback, Zielsetzung, Monitoring).
+- **Adhärenz-Herausforderung:** Das Nutzerengagement sinkt über die Zeit drastisch; langfristige Bindung bleibt die kritische Hürde.
+- **Qualitätslücke:** Häufig mangelhafte methodische Dokumentation erschwert die Vergleichbarkeit und Evidenzbewertung.
 
 ## Webseitenerstellung mit Quarto
 

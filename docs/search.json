@@ -193,7 +193,7 @@
     "href": "4_kultursensibel/praesentation4_kultur.html#übung-das-multikulturelle-selbst",
     "title": "Kultursensible Interventionen",
     "section": "Übung: Das multikulturelle Selbst",
-    "text": "Übung: Das multikulturelle Selbst"
+    "text": "Übung: Das multikulturelle Selbst\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZiel im Gesundheitssport: Eine Umgebung schaffen, in der sich alle “multikulturellen Selbste” (Lott) sicher fühlen.\nKinast (2010) betont hierbei besonders die “Ambiguitätstoleranz” – also die Fähigkeit, Unsicherheiten in interkulturellen Situationen auszuhalten."
   },
   {
     "objectID": "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.html#hausarbeiten",
@@ -606,7 +606,7 @@
     "href": "5_webbasiert/praesentation5_web.html#webseitenerstellung-mit-quarto",
     "title": "Modul 08-006-0007",
     "section": "Webseitenerstellung mit Quarto",
-    "text": "Webseitenerstellung mit Quarto\n\nVoraussetzungen:\n\nRStudio mit der Erweiterung “Quarto”\nAccount bei Posit connect cloud\n\nSchritte: File → New Project → New directory → Quarto Website\nOnline stellen: quarto publish posit-connect-cloud"
+    "text": "Webseitenerstellung mit Quarto\n\nVoraussetzungen:\n\nProgrammiersprache R und RStudio mit der Erweiterung “Quarto”\nAccount bei Posit connect cloud\n\nSchritte: File → New Project → New directory → Quarto Website\nOnline stellen: quarto publish posit-connect-cloud"
   },
   {
     "objectID": "7 Intervention Mapping I - Bedarfsanalyse und logisches Modell des Problems/Praesentation7_Bedarfsanalyse.html#der-ökologische-ansatz",
@@ -705,5 +705,40 @@
     "title": "Präsentationsfolien und online-Termine",
     "section": "Kursinhalte",
     "text": "Kursinhalte\n\nGrundlagen\n\nEinleitung & Fallbeispiele\nMessung und Definition sportlicher Aktivität\n\nSteckbrief\n\nPsychometrische Fragebögen\n\nSteckbrief Konstrukte \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRessourcen\n\nStichwortliste\nQuizlet-Kurs\nLinksammlung (weiterführende Videos und Beispiele von Interventionen, optional)\n\n\n\n\n\n\n\nHinweise zur Nutzung\n\nDie Präsentationen sind als Reveal.js Slides optimiert.\nNutzen Sie die Taste m, um das Menü aufzurufen, oder f für den Vollbildmodus.\nAlle Literaturangaben finden Sie am Ende der jeweiligen Präsentation.\n\n\n\nVorlesungstermine\nJeweils Montag\n13.04.26\n20.04.26\n27.04.26\n04.05.26\n11.05.26\n18.05.26\n01.06.26\n08.06.26\n15.06.26\n22.06.26\n29.06.26\n06.07.26"
+  },
+  {
+    "objectID": "4_kultursensibel/praesentation4_kultur.html#stationen",
+    "href": "4_kultursensibel/praesentation4_kultur.html#stationen",
+    "title": "Kultursensible Interventionen",
+    "section": "Stationen",
+    "text": "Stationen\n\nAnti-Stress-Ball, Windmühle\nPositive Emotionen: “Schreib oder male etwas, das dich glücklich macht.”\nAngeleitete Bewegung\nArbeit mit Bildern zum Thema Hilfe und Unterstützung\nAbschließender Fragebogen und Dokumentation"
+  },
+  {
+    "objectID": "4_kultursensibel/praesentation4_kultur.html#planung-kultursensibler-interventionen",
+    "href": "4_kultursensibel/praesentation4_kultur.html#planung-kultursensibler-interventionen",
+    "title": "Kultursensible Interventionen",
+    "section": "Planung kultursensibler Interventionen",
+    "text": "Planung kultursensibler Interventionen\n\nZielgruppenanalyse (Multidimensionalität): Berücksichtigung der Vielfaltsdimensionen (Herkunft, Alter, Behinderung, soz. Status) statt homogener Gruppenbilder.\nNiedrigschwelliger Zugang: Orientierung am DOSB-Prinzip der Bedarfsorientierung und Offenheit statt exklusiver Zugangsbarrieren.\nBerücksichtigung von Frame-Switching: Raum für unterschiedliche kulturelle Interpretationsrahmen lassen; Interventionen müssen flexibel auf Teilnehmer:innen reagieren.\nNachhaltigkeit durch Vernetzung: Verankerung in bestehenden Strukturen (Stützpunktvereine) statt einmaliger „Leuchtturmprojekte“.\n\n\n\nVerbindung zur DOSB-Strategie: Integrationsarbeit ist kein “Zufall”, sondern gezielte Planung.\nDie Studierenden sollen in ihrer Hausarbeit konkret begründen, warum ihre geplante Maßnahme zu dieser Vielfalt passt."
+  },
+  {
+    "objectID": "4_kultursensibel/praesentation4_kultur.html#planung-kultursensibler-interventionen-nach-dosb",
+    "href": "4_kultursensibel/praesentation4_kultur.html#planung-kultursensibler-interventionen-nach-dosb",
+    "title": "Kultursensible Interventionen",
+    "section": "Planung kultursensibler Interventionen nach DOSB",
+    "text": "Planung kultursensibler Interventionen nach DOSB\n\nZielgruppenanalyse (Multidimensionalität): Berücksichtigung der Vielfaltsdimensionen (Herkunft, Alter, Behinderung, soz. Status) statt homogener Gruppenbilder.\nNiedrigschwelliger Zugang: Orientierung am DOSB-Prinzip der Bedarfsorientierung und Offenheit statt exklusiver Zugangsbarrieren.\nNachhaltigkeit durch Vernetzung: Verankerung in bestehenden Strukturen (Stützpunktvereine) statt einmaliger „Leuchtturmprojekte“.\n\n\n\nVerbindung zur DOSB-Strategie: Integrationsarbeit ist kein “Zufall”, sondern gezielte Planung.\nDie Studierenden sollen in ihrer Hausarbeit konkret begründen, warum ihre geplante Maßnahme zu dieser Vielfalt passt."
+  },
+  {
+    "objectID": "5_webbasiert/praesentation5_web.html#zentrale-erkenntnisse-domin-et-al.-2021",
+    "href": "5_webbasiert/praesentation5_web.html#zentrale-erkenntnisse-domin-et-al.-2021",
+    "title": "Modul 08-006-0007",
+    "section": "Zentrale Erkenntnisse: Domin et al. (2021)",
+    "text": "Zentrale Erkenntnisse: Domin et al. (2021)\n\nTheorie-Defizit: Viele Interventionen scheitern an mangelnder theoretischer Fundierung (sog. „Black Box“-Problematik).\nWirksamkeit durch BCTs: Erfolg korreliert stark mit dem gezielten Einsatz von Behavior Change Techniques (z.B. Feedback, Zielsetzung, Monitoring).\nAdhärenz-Herausforderung: Das Nutzerengagement sinkt über die Zeit drastisch; langfristige Bindung bleibt die kritische Hürde.\nQualitätslücke: Häufig mangelhafte methodische Dokumentation erschwert die Vergleichbarkeit und Evidenzbewertung."
+  },
+  {
+    "objectID": "4_kultursensibel/praesentation4_kultur.html#steckbriefe",
+    "href": "4_kultursensibel/praesentation4_kultur.html#steckbriefe",
+    "title": "Kultursensible Interventionen",
+    "section": "Steckbriefe",
+    "text": "Steckbriefe\n\nSelbstwirksamkeit\nAffekt\nStolz\nAttribution"
   }
 ]
