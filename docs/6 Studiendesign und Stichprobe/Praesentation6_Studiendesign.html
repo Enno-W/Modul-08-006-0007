@@ -234,13 +234,13 @@
 <section id="das-fundament-der-evaluation" class="slide level2">
 <h2>Das Fundament der Evaluation</h2>
 <ul>
-<li class="fragment">Warum planen wir die Stichprobe vorher?</li>
+<li class="fragment">Warum planen wir die Stichprobe vor der Intervention?</li>
 <li class="fragment"><strong>Vermeidung von Fehlern:</strong>
 <ul>
 <li class="fragment"><em>Type I Error (<span class="math inline">\(\alpha\)</span>):</em> Effekt sehen, wo keiner ist.</li>
 <li class="fragment"><em>Type II Error (<span class="math inline">\(\beta\)</span>):</em> Effekt übersehen, der existiert (mangelnde Power).</li>
 </ul></li>
-<li class="fragment"><strong>Ressourceneffizienz:</strong> Wie viele Probanden brauchen wir wirklich für signifikante Ergebnisse?</li>
+<li class="fragment">Schon vorab muss geklärt werden, wie am Ende evaluiert wird.</li>
 </ul>
 <aside class="notes">
 <ul>
@@ -262,10 +262,11 @@
 <section id="power" class="slide level2">
 <h2>Power</h2>
 <ul>
+<li class="fragment">Wahrscheinlichkeit, dass ein vorliegender Effekt auch als solcher erkannt wird.</li>
 <li class="fragment">Faustregel für Höhe der Power (<span class="math inline">\(1-\beta\)</span>): <strong>0.80</strong></li>
 <li class="fragment">Abhängig von:
 <ol type="1">
-<li class="fragment">Effektstärke (<span class="math inline">\(d\)</span>, <span class="math inline">\(f^2\)</span>, <span class="math inline">\(r\)</span>) - Was erwarten wir?</li>
+<li class="fragment">Effektstärke (<span class="math inline">\(d\)</span>, <span class="math inline">\(g\)</span>, <span class="math inline">\(r\)</span>) - Was für einen Effekt erwarten wir?</li>
 <li class="fragment">Signifikanzniveau (<span class="math inline">\(\alpha\)</span>) - Meist 0.05.</li>
 <li class="fragment">Stichprobengröße (<span class="math inline">\(n\)</span>).</li>
 </ol></li>
@@ -293,14 +294,13 @@
 </section>
 <section id="verwendung-des-pakets-pwr" class="slide level2">
 <h2>Verwendung des Pakets <code>pwr</code></h2>
+<p>Wie viele Studienteilnehmer brauchen wir für einen mittleren Effekt (d = 0.5) im t-Test?</p>
 <div class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a></a><span class="co"># Installation: install.packages("pwr")</span></span>
 <span id="cb1-2"><a></a><span class="fu">library</span>(pwr)</span>
 <span id="cb1-3"><a></a></span>
-<span id="cb1-4"><a></a><span class="co"># Beispiel: Wie viele Studienteilnehmer brauchen wir für einen </span></span>
-<span id="cb1-5"><a></a><span class="co"># mittleren Effekt (d = 0.5) im t-Test?</span></span>
-<span id="cb1-6"><a></a><span class="fu">pwr.t.test</span>(<span class="at">d =</span> <span class="fl">0.5</span>, <span class="at">sig.level =</span> <span class="fl">0.05</span>, <span class="at">power =</span> <span class="fl">0.8</span>, </span>
-<span id="cb1-7"><a></a>           <span class="at">type =</span> <span class="st">"two.sample"</span>, <span class="at">alternative =</span> <span class="st">"two.sided"</span>)</span></code></pre></div><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb1-4"><a></a><span class="fu">pwr.t.test</span>(<span class="at">d =</span> <span class="fl">0.5</span>, <span class="at">sig.level =</span> <span class="fl">0.05</span>, <span class="at">power =</span> <span class="fl">0.8</span>, </span>
+<span id="cb1-5"><a></a>           <span class="at">type =</span> <span class="st">"two.sample"</span>, <span class="at">alternative =</span> <span class="st">"two.sided"</span>)</span></code></pre></div><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>
      Two-sample t test power calculation 
@@ -317,9 +317,9 @@ NOTE: n is number in *each* group</code></pre>
 </section>
 <section id="verwendung-des-pakets-pwr-1" class="slide level2">
 <h2>Verwendung des Pakets <code>pwr</code></h2>
+<p>Korrelation zwischen Selbstwirksamkeit und PA (r = 0.3)</p>
 <div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a></a><span class="co"># Beispiel: Korrelation zwischen Selbstwirksamkeit und PA (r = 0.3)</span></span>
-<span id="cb3-2"><a></a><span class="fu">pwr.r.test</span>(<span class="at">r =</span> <span class="fl">0.3</span>, <span class="at">sig.level =</span> <span class="fl">0.05</span>, <span class="at">power =</span> <span class="fl">0.8</span>)</span></code></pre></div><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a></a><span class="fu">pwr.r.test</span>(<span class="at">r =</span> <span class="fl">0.3</span>, <span class="at">sig.level =</span> <span class="fl">0.05</span>, <span class="at">power =</span> <span class="fl">0.8</span>)</span></code></pre></div><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>
      approximate correlation power calculation (arctangh transformation) 
@@ -333,8 +333,9 @@ NOTE: n is number in *each* group</code></pre>
 </div>
 </section></section>
 <section>
-<section id="pwr.anova.test" class="title-slide slide level1 center">
-<h1>pwr.anova.test</h1>
+<section id="pwr.anova.test---anova-gemäß-cohen1988" class="title-slide slide level1 center">
+<h1>pwr.anova.test - Anova gemäß <span class="citation" data-cites="Cohen1988">Cohen (<a href="#/literaturverzeichnis" role="doc-biblioref" onclick="">1988</a>)</span></h1>
+<p>Vergleich von 4 Interventionsgruppen je 20 Personen, Effektstärke f=.28</p>
 <div class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a></a><span class="do">## Exercise 8.1 P. 357 from Cohen (1988)</span></span>
 <span id="cb5-2"><a></a><span class="fu">pwr.anova.test</span>(<span class="at">f=</span><span class="fl">0.28</span>,<span class="at">k=</span><span class="dv">4</span>,<span class="at">n=</span><span class="dv">20</span>,<span class="at">sig.level=</span><span class="fl">0.05</span>)</span></code></pre></div><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></div>
@@ -351,49 +352,13 @@ NOTE: n is number in *each* group</code></pre>
 NOTE: n is number in each group</code></pre>
 </div>
 </div>
-<p><span class="citation" data-cites="Cohen1988">Cohen (<a href="#/literaturverzeichnis" role="doc-biblioref" onclick="">1988</a>)</span></p>
 </section>
-<section id="pwr.2p.test" class="slide level2">
-<h2>pwr.2p.test</h2>
+<section id="pwr.chisq.test-gemäß-cohen1988" class="slide level2">
+<h2>pwr.chisq.test gemäß <span class="citation" data-cites="Cohen1988">Cohen (<a href="#/literaturverzeichnis" role="doc-biblioref" onclick="">1988</a>)</span></h2>
+<p>w: Effektstärke (Cramer’s V). df: Freiheitsgrade (Anzahl Zeilen - 1) * (Anzahl Spalten - 1). N: Gesamtstichprobengröße (Achtung: nicht pro Gruppe!).</p>
 <div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a></a><span class="do">## Exercise 6.1 p. 198 from Cohen (1988)</span></span>
-<span id="cb7-2"><a></a><span class="fu">pwr.2p.test</span>(<span class="at">h=</span><span class="fl">0.3</span>,<span class="at">n=</span><span class="dv">80</span>,<span class="at">sig.level=</span><span class="fl">0.05</span>,<span class="at">alternative=</span><span class="st">"greater"</span>)</span></code></pre></div><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>
-     Difference of proportion power calculation for binomial distribution (arcsine transformation) 
-
-              h = 0.3
-              n = 80
-      sig.level = 0.05
-          power = 0.5996777
-    alternative = greater
-
-NOTE: same sample sizes</code></pre>
-</div>
-</div>
-</section>
-<section id="pwr.p.test" class="slide level2">
-<h2>pwr.p.test</h2>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb9"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a></a><span class="do">## Exercise 6.5 p. 203 from Cohen (1988)</span></span>
-<span id="cb9-2"><a></a><span class="fu">pwr.p.test</span>(<span class="at">h=</span><span class="fl">0.2</span>,<span class="at">n=</span><span class="dv">60</span>,<span class="at">sig.level=</span><span class="fl">0.05</span>,<span class="at">alternative=</span><span class="st">"two.sided"</span>)</span></code></pre></div><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>
-     proportion power calculation for binomial distribution (arcsine transformation) 
-
-              h = 0.2
-              n = 60
-      sig.level = 0.05
-          power = 0.3408451
-    alternative = two.sided</code></pre>
-</div>
-</div>
-</section>
-<section id="pwr.chisq.test" class="slide level2">
-<h2>pwr.chisq.test</h2>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb11"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a></a><span class="do">## Exercise 7.3 p. 251</span></span>
-<span id="cb11-2"><a></a><span class="fu">pwr.chisq.test</span>(<span class="at">w=</span><span class="fl">0.346</span>,<span class="at">df=</span>(<span class="dv">2-1</span>)<span class="sc">*</span>(<span class="dv">3-1</span>),<span class="at">N=</span><span class="dv">140</span>,<span class="at">sig.level=</span><span class="fl">0.01</span>)</span></code></pre></div><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a></a><span class="do">## Exercise 7.3 p. 251</span></span>
+<span id="cb7-2"><a></a><span class="fu">pwr.chisq.test</span>(<span class="at">w=</span><span class="fl">0.346</span>,<span class="at">df=</span>(<span class="dv">2-1</span>)<span class="sc">*</span>(<span class="dv">3-1</span>),<span class="at">N=</span><span class="dv">140</span>,<span class="at">sig.level=</span><span class="fl">0.01</span>)</span></code></pre></div><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>
      Chi squared power calculation 
@@ -407,11 +372,10 @@ NOTE: same sample sizes</code></pre>
 NOTE: N is the number of observations</code></pre>
 </div>
 </div>
-<p><span class="citation" data-cites="Cohen1988">Cohen (<a href="#/literaturverzeichnis" role="doc-biblioref" onclick="">1988</a>)</span></p>
 </section></section>
 <section>
 <section id="qualitative-stichprobenplanung-und-mixed-methods" class="title-slide slide level1 center">
-<h1>Qualitative Stichprobenplanung und mixed Methods</h1>
+<h1>Qualitative Stichprobenplanung und mixed methods</h1>
 
 </section>
 <section id="qualitative-stichprobenplahnung" class="slide level2">
@@ -464,13 +428,6 @@ NOTE: N is the number of observations</code></pre>
           display:block!important;
       }</style></aside>
 </section></section>
-<section id="gruppenarbeit-korrelation" class="title-slide slide level1 center">
-<h1>Gruppenarbeit: Korrelation</h1>
-<ul>
-<li class="fragment">Findet auf https://www.tylervigen.com/spurious-correlations, bei der es (theoretisch) möglich wäre, eine oder beide der Variablen zu manipulieren. Überlegen Sie sich ein Experiment, dass einen kausalen Zusammenhang dieser Korrelation widerlegen soll. Dabei können Sie davon ausgehen, dass sie unbegrenzte Ressourcen und Einfluss haben.</li>
-</ul>
-</section>
-
 <section>
 <section id="übung-stichprobenplanung" class="title-slide slide level1 center">
 <h1>Übung: Stichprobenplanung</h1>
@@ -479,11 +436,11 @@ NOTE: N is the number of observations</code></pre>
 <section id="aufgabe" class="slide level2">
 <h2>Aufgabe</h2>
 <ul>
-<li class="fragment">Skizzieren Sie für Ihr Gruppenprojekt:
+<li class="fragment">Skizzieren Sie für Ihre Hausarbeit:
 <ol type="1">
 <li class="fragment">Wer ist die <strong>Zielgruppe</strong>? (Einschlusskriterien)</li>
 <li class="fragment">Wie viele Personen benötigen Sie (grobe Schätzung via <code>pwr</code>)?</li>
-<li class="fragment">Welche <strong>qualitativen Methoden</strong> könnten Ihre Daten ergänzen?</li>
+<li class="fragment">Welche <strong>qualitativen Methoden</strong> könnten Ihre Evaluation ergänzen?</li>
 </ol></li>
 </ul>
 <aside class="notes">
@@ -500,6 +457,13 @@ NOTE: N is the number of observations</code></pre>
           display:block!important;
       }</style></aside>
 </section></section>
+<section id="evtl.-gruppenarbeit-korrelation" class="title-slide slide level1 center">
+<h1>evtl. Gruppenarbeit: Korrelation</h1>
+<ul>
+<li class="fragment">Findet auf https://www.tylervigen.com/spurious-correlations, Korrelationen, bei denen es (theoretisch) möglich wäre, eine oder beide der Variablen zu manipulieren. Überlegen Sie sich ein Experiment, dass einen kausalen Zusammenhang dieser Korrelation prüfen soll. Dabei können Sie davon ausgehen, dass sie unbegrenzte Ressourcen und Einfluss haben.</li>
+</ul>
+</section>
+
 <section id="literaturverzeichnis" class="title-slide slide level1 smaller scrollable">
 <h1>Literaturverzeichnis</h1>
 <div class="refs">

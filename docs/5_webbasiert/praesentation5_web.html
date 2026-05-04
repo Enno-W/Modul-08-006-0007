@@ -32,7 +32,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-0427d8d92a431aa6a6430e53ec02a470.css">
   <link rel="stylesheet" href="../styles.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -145,6 +165,8 @@
 <ul>
 <li class="fragment"><p>PVL</p></li>
 <li class="fragment"><p>Etherpad-Aktivität: Bewegungsangebote und Apps</p></li>
+<li class="fragment"><p>Forschungsergebnisse zur Effektivität von Smartphone-Interventionen</p></li>
+<li class="fragment"><p>Webseitenerstellung mit Quarto</p></li>
 </ul>
 </section>
 
@@ -161,8 +183,8 @@
 <p>oder andere, Ihnen bekannte Angebote.</p>
 <p>Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Sammelt im Etherpad.</p>
 </section>
-<section id="zentrale-erkenntnisse-domin-et-al.-2021" class="slide level2">
-<h2>Zentrale Erkenntnisse: Domin et al.&nbsp;(2021)</h2>
+<section id="zentrale-erkenntnisse-domin2021" class="slide level2">
+<h2>Zentrale Erkenntnisse: <span class="citation" data-cites="Domin2021">Domin et al. (<a href="#/webseitenerstellung-mit-quarto" role="doc-biblioref" onclick="">2021</a>)</span></h2>
 <ul>
 <li class="fragment"><strong>Theorie-Defizit:</strong> Viele Interventionen scheitern an mangelnder theoretischer Fundierung (sog. „Black Box“-Problematik).</li>
 <li class="fragment"><strong>Wirksamkeit durch BCTs:</strong> Erfolg korreliert stark mit dem gezielten Einsatz von <em>Behavior Change Techniques</em> (z.B. Feedback, Zielsetzung, Monitoring).</li>
@@ -170,7 +192,7 @@
 <li class="fragment"><strong>Qualitätslücke:</strong> Häufig mangelhafte methodische Dokumentation erschwert die Vergleichbarkeit und Evidenzbewertung.</li>
 </ul>
 </section>
-<section id="webseitenerstellung-mit-quarto" class="slide level2">
+<section id="webseitenerstellung-mit-quarto" class="slide level2 smaller scrollable">
 <h2>Webseitenerstellung mit Quarto</h2>
 <ul>
 <li class="fragment">Voraussetzungen:
@@ -179,10 +201,16 @@
 <li class="fragment">Account bei Posit connect cloud</li>
 </ul></li>
 <li class="fragment"><a href="https://quarto.org/docs/websites/">Schritte</a>: File → New Project → New directory → Quarto Website</li>
-<li class="fragment"><a href="https://quarto.org/docs/publishing/posit-connect-cloud.html">Online stellen</a>: quarto publish posit-connect-cloud</li>
+<li class="fragment"><a href="https://quarto.org/docs/publishing/posit-connect-cloud.html">Online stellen</a>: <code>quarto publish posit-connect-cloud</code> im Terminal</li>
+<li class="fragment"><strong>Zeit zum eigenen Experimentieren und Troubleshooting</strong></li>
 </ul>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-Domin2021" class="csl-entry" role="listitem">
+Domin, A., Spruijt-Metz, D., Theisen, D., Ouzzahra, Y., &amp; Vögele, C. (2021). Smartphone-Based Interventions for Physical Activity Promotion: Scoping Review of the Evidence Over the Last 10 Years. <em>JMIR mHealth and uHealth</em>, <em>9</em>(7), e24308. <a href="https://doi.org/10.2196/24308">https://doi.org/10.2196/24308</a>
+</div>
+</div>
 </section></section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
@@ -366,7 +394,7 @@
         mobileViewDistance: 2,
 
         // Parallax background image
-        parallaxBackgroundImage: 'hintergrund4.jpg', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
+        parallaxBackgroundImage: 'hintergrund5.jpg', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
 
         // Parallax background size
         parallaxBackgroundSize: '4080px 3072px', // CSS syntax, e.g. "2100px 900px"

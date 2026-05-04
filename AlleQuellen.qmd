@@ -180,7 +180,8 @@ xlsx_to_bib(from_root("References.xlsx"))
 @Lally2013
 @Fuchs2015
 @DOSB2024
-
+@Domin2021
+@Michie2013
 
 ::: refs
 :::

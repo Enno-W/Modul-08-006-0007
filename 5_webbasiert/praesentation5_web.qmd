@@ -6,7 +6,7 @@ format:
   revealjs:
     footer: Modul 08-006-0007
     pagetitle: "Modul 08-006-0007"
-    parallax-background-image: "hintergrund4.jpg"
+    parallax-background-image: "hintergrund5.jpg"
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
@@ -23,6 +23,10 @@ resources:
 
 -   Etherpad-Aktivität: Bewegungsangebote und Apps
 
+-   Forschungsergebnisse zur Effektivität von Smartphone-Interventionen
+
+-   Webseitenerstellung mit Quarto
+
 # Prüfungsvorleistung
 
 Thema: Online-Einsatz eines psychometrischen Fragebogens
@@ -37,12 +41,12 @@ oder andere, Ihnen bekannte Angebote.
 
 Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Sammelt im Etherpad.
 
-## Zentrale Erkenntnisse: Domin et al. (2021)
+## Zentrale Erkenntnisse: @Domin2021
 
-- **Theorie-Defizit:** Viele Interventionen scheitern an mangelnder theoretischer Fundierung (sog. „Black Box“-Problematik).
-- **Wirksamkeit durch BCTs:** Erfolg korreliert stark mit dem gezielten Einsatz von *Behavior Change Techniques* (z.B. Feedback, Zielsetzung, Monitoring).
-- **Adhärenz-Herausforderung:** Das Nutzerengagement sinkt über die Zeit drastisch; langfristige Bindung bleibt die kritische Hürde.
-- **Qualitätslücke:** Häufig mangelhafte methodische Dokumentation erschwert die Vergleichbarkeit und Evidenzbewertung.
+-   **Theorie-Defizit:** Viele Interventionen scheitern an mangelnder theoretischer Fundierung (sog. „Black Box“-Problematik).
+-   **Wirksamkeit durch BCTs:** Erfolg korreliert stark mit dem gezielten Einsatz von *Behavior Change Techniques* (z.B. Feedback, Zielsetzung, Monitoring).
+-   **Adhärenz-Herausforderung:** Das Nutzerengagement sinkt über die Zeit drastisch; langfristige Bindung bleibt die kritische Hürde.
+-   **Qualitätslücke:** Häufig mangelhafte methodische Dokumentation erschwert die Vergleichbarkeit und Evidenzbewertung.
 
 ## Webseitenerstellung mit Quarto
 
@@ -50,9 +54,11 @@ Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Sammel
     -   Programmiersprache R und [RStudio](https://posit.co/download/rstudio-desktop) mit der Erweiterung "Quarto"
     -   Account bei Posit connect cloud
 -   [Schritte](https://quarto.org/docs/websites/): File → New Project → New directory → Quarto Website
--   [Online stellen](https://quarto.org/docs/publishing/posit-connect-cloud.html): quarto publish posit-connect-cloud
+-   [Online stellen](https://quarto.org/docs/publishing/posit-connect-cloud.html): `quarto publish posit-connect-cloud` im Terminal
+-   **Zeit zum eigenen Experimentieren und Troubleshooting**
 
 ```{r setup}
+
 # if (!requireNamespace("needs"   )) install.packages("needs")
 # if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
 # needs("excelbib", "xfun")

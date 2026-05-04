@@ -19,6 +19,7 @@ Willkommen auf der Kursseite. Hier finden Sie alle Präsentationen und Materiali
 
 4.  [Kultursensible Interventionen](4_kultursensibel/praesentation4_kultur.qmd)
 5.  [Webbasierte Interventionen](5_webbasiert/praesentation5_web.qmd)
+    - [R Skript Poweranalyse](6%20Studiendesign%20und%20Stichprobe/R-Skript_Poweranalyse.R)
 
 <!-- ### Methoden & Design -->
 
