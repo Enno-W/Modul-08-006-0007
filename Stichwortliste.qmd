@@ -40,7 +40,6 @@ editor: visual
 | **Selbstwirksamkeit** | Die subjektive Überzeugung, eine schwierige Aufgabe aufgrund eigener Kompetenzen bewältigen zu können (Bandura). |
 | **Affekt (PA/NA)** | Die affektive Dimension des Erlebens; unterteilt in Positiven Affekt (Lust, Aktivität) und Negativen Affekt (Angst, Verlegenheit). |
 | **Attribution** | Der Prozess der Ursachenzuschreibung für ein Ereignis oder ein Handlungsergebnis (Erfolg/Misserfolg). |
-| **Lokus der Kontrolle** | Dimension der Attribution: Liegt die Ursache innerhalb der Person (internal) oder außerhalb (external)? |
 | **Vertrauensintervall** | Statistischer Bereich, in dem der wahre Wert einer Person unter Berücksichtigung des Messfehlers mit einer gewissen Wahrscheinlichkeit liegt. |
 
 ## Kultursensible Interventionen
@@ -53,3 +52,14 @@ editor: visual
 | **Machtdistanz** | Dimension nach Hofstede, die beschreibt, inwieweit weniger mächtige Mitglieder einer Kultur die ungleiche Verteilung von Macht akzeptieren und erwarten. |
 | **Individualismus / Kollektivismus** | Dimension, die das Verhältnis zwischen Einzelinteresse (Selbstverwirklichung) und Gruppeninteresse (Harmonie/Loyalität) beschreibt. |
 | **Interkulturelle Kompetenz** | Fähigkeit, auf Basis von Wissen (kognitiv), Empathie (affektiv) und Handlungssicherheit (behavioral) in kulturellen Überschneidungssituationen angemessen zu agieren. |
+
+## Webbasierte Interventionen
+
+| Fachbegriff | Definition / Erklärung |
+|-------------|------------------------|
+| **BCTs (Behavior Change Techniques)** | Standardisierte Techniken (z.B. Zielsetzung, Feedback), die gezielt zur Veränderung gesundheitsbezogenen Verhaltens eingesetzt werden. |
+| **Adhärenz** | Das Ausmaß der kontinuierlichen und regelmäßigen Nutzung einer digitalen Intervention; kritischer Erfolgsfaktor für langfristige Effekte. |
+| **Self-Monitoring** | Systematische Erfassung und Rückmeldung des eigenen Verhaltens (z.B. via Sensorik), um Bewusstsein und Kontrolle zu fördern. |
+| **Personalisierung** | Anpassung von Interventionsinhalten oder Feedback-Mechanismen an das individuelle Nutzerprofil zur Steigerung der Relevanz. |
+| **Gamification** | Nutzung spielerischer Elemente (z.B. Belohnungen, Fortschrittsbalken) in Nicht-Spiel-Kontexten, um Motivation und Engagement zu erhöhen. |
+| **Nudging** | Methode zur subtilen Verhaltenssteuerung, bei der durch kleine Anreize (z. B. Push-Benachrichtigungen, Voreinstellungen) Entscheidungen in eine bestimmte Richtung gelenkt werden, ohne Wahlmöglichkeiten einzuschränken. |

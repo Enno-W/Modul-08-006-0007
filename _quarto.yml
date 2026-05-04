@@ -16,12 +16,12 @@ website:
             href: "1 Einleitung, Vorstellung der Fallbeispiele, Gruppenfindung/Praesentation1_Einleitung.qmd"
           - text: "2. Messung & Definition"
             href: "2_messung/praesentation2_messung.qmd"
-      #     - text: "3. Psychometrie"
-      #       href: "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.qmd"
-      # - text: "Spezielle Anwendungsfälle"
-      #   menu:
-      #     - text: "4. Kultursensible Interventionen"
-      #       href: "4_kultursensibel/praesentation4_kultur.qmd"
+          - text: "3. Psychometrie"
+            href: "3 Psychometrische Fragebögen und Konstrukte/Praesentation3_Frageboegen.qmd"
+      - text: "Spezielle Anwendungsfälle"
+        menu:
+          - text: "4. Kultursensible Interventionen"
+            href: "4_kultursensibel/praesentation4_kultur.qmd"
       #     - text: "5. Webbasierte Interventionen"
       #       href: "5_webbasiert/praesentation5_web.qmd"
       # - text: "Intervention Mapping"

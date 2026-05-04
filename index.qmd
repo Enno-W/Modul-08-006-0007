@@ -16,10 +16,9 @@ Willkommen auf der Kursseite. Hier finden Sie alle Präsentationen und Materiali
     
 3.  [Psychometrische Fragebögen](3%20Psychometrische%20Fragebögen%20und%20Konstrukte/Praesentation3_Frageboegen.qmd)
     - [Steckbrief Konstrukte](3%20Psychometrische%20Fragebögen%20und%20Konstrukte/Steckbrief%20Konstrukt.qmd)
-<!-- ### Spezielle Anwendungsfälle -->
 
-<!-- 4.  [Kultursensible Interventionen](4_kultursensibel/praesentation4_kultur.qmd) -->
-<!-- 5.  [Webbasierte Interventionen](5_webbasiert/praesentation5_web.qmd) -->
+4.  [Kultursensible Interventionen](4_kultursensibel/praesentation4_kultur.qmd)
+5.  [Webbasierte Interventionen](5_webbasiert/praesentation5_web.qmd)
 
 <!-- ### Methoden & Design -->
 
