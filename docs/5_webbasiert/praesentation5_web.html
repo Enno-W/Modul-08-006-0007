@@ -159,14 +159,44 @@
   <div class="reveal">
     <div class="slides">
 
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Webbasierte Interventionsmethoden</h1>
 
+<div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Enno Winkler 
+</div>
+</div>
+</div>
+
+  <p class="date">2011-11-11</p>
+</section>
 <section id="agenda" class="title-slide slide level1 center">
 <h1>Agenda</h1>
 <ul>
+<li class="fragment"><p>PL Themenverteilung -&gt; geklärt?</p></li>
+<li class="fragment"><p>2-Minuten-Rückblick</p></li>
 <li class="fragment"><p>PVL</p></li>
 <li class="fragment"><p>Etherpad-Aktivität: Bewegungsangebote und Apps</p></li>
 <li class="fragment"><p>Forschungsergebnisse zur Effektivität von Smartphone-Interventionen</p></li>
 <li class="fragment"><p>Webseitenerstellung mit Quarto</p></li>
+<li class="fragment"><p>Evtl. Vorstellung “Humanoo” und Projekt “ViRAL”</p></li>
+</ul>
+</section>
+
+<section id="minuten-rückblick" class="title-slide slide level1 center">
+<h1>2-Minuten-Rückblick</h1>
+<ul>
+<li class="fragment"><p>Messung von PA: Ein Kontinuum von hoher Validität und hohem Aufwand (Kriteriumsmethoden) über mittelmäßige Validität und mittlemäßigen Aufwand (Direkte Methoden) bishin zu geringer Validität und geringem Aufwand (Indirekte Methoden)</p></li>
+<li class="fragment"><p>Konstrukte: Selbstwirksamkeit (der “Katalysator”), Positiver Affekt (der “Motivator”), Negativer Affekt (Rückfallrisiko), Stolz (das “Barometer”), Attribution (Umgang mit Erfolg und Misserfolg).</p>
+<ul>
+<li class="fragment">Messung mit validierten Fragebögen</li>
+</ul></li>
+<li class="fragment"><p>Kultursensible Interventionen: Kulturvergleichende Psychologie // das multikulturelle Selbst</p>
+<ul>
+<li class="fragment">Praxis: Einfachheit, Zugänglichkeit, Vernetzung</li>
+</ul></li>
 </ul>
 </section>
 
@@ -178,22 +208,33 @@
 <section>
 <section id="bewegungsangebote-und-apps" class="title-slide slide level1 center">
 <h1>Bewegungsangebote und Apps</h1>
-<p>Sucht online nach Apps, Programmen oder sonstigen Angeboten für die breite Masse, die damit werben, Bewegung zu fördern oder darüber zu informieren.</p>
-<p>z.B: https://www.techbook.de/mobile-lifestyle/apps/sport-apps</p>
-<p>oder andere, Ihnen bekannte Angebote.</p>
+<p>Sucht online nach Apps, Programmen oder sonstigen Angeboten für die breite Masse, die damit werben, Bewegung zu fördern oder darüber zu informieren (5-10 Minuten).</p>
+<p>z.B: <a href="https://www.techbook.de/mobile-lifestyle/apps/sport-apps" class="uri">https://www.techbook.de/mobile-lifestyle/apps/sport-apps</a></p>
+<p>oder andere, euch bekannte Angebote.</p>
 <p>Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Sammelt im Etherpad.</p>
+<p><strong>Hinweis:</strong> Als Teil einer professionellen Intervention sollten solche Angebote nur direkt genutzt werden, wenn sie theoriebasiert und durch Evidenz gestützt sind. Viele Ideen hier könnten allerdings nach entsprechender theoretischer Einbettung und Evaluation genutzt werden.</p>
 </section>
-<section id="zentrale-erkenntnisse-domin2021" class="slide level2">
-<h2>Zentrale Erkenntnisse: <span class="citation" data-cites="Domin2021">Domin et al. (<a href="#/literaturverzeichnis" role="doc-biblioref" onclick="">2021</a>)</span></h2>
+<section id="zentrale-erkenntnisse-domin2021-5min" class="slide level2">
+<h2>Zentrale Erkenntnisse: <span class="citation" data-cites="Domin2021">Domin et al. (<a href="#/literaturverzeichnis" role="doc-biblioref" onclick="">2021</a>)</span> (5min)</h2>
 <ul>
 <li class="fragment"><strong>Theorie-Defizit:</strong> Viele Interventionen scheitern an mangelnder theoretischer Fundierung (sog. „Black Box“-Problematik).</li>
 <li class="fragment"><strong>Wirksamkeit durch BCTs:</strong> Erfolg korreliert stark mit dem gezielten Einsatz von <em>Behavior Change Techniques</em> (z.B. Feedback, Zielsetzung, Monitoring).</li>
 <li class="fragment"><strong>Adhärenz-Herausforderung:</strong> Das Nutzerengagement sinkt über die Zeit drastisch; langfristige Bindung bleibt die kritische Hürde.</li>
 <li class="fragment"><strong>Qualitätslücke:</strong> Häufig mangelhafte methodische Dokumentation erschwert die Vergleichbarkeit und Evidenzbewertung.</li>
 </ul>
+</section></section>
+<section id="beispiel-web-basierte-intervention-selfback-svendsen2022" class="title-slide slide level1 center">
+<h1>Beispiel Web-basierte Intervention: SelfBACK <span class="citation" data-cites="Svendsen2022">(<a href="#/literaturverzeichnis" role="doc-biblioref" onclick="">Svendsen et al., 2022</a>)</span></h1>
+
+<img data-src="selfBACK.jpg" class="r-stretch quarto-figure-center"><p class="caption">Auf Intervention Mapping basierende App “selfBACK”</p></section>
+
+<section>
+<section id="webseitenerstellung-mit-quarto" class="title-slide slide level1 center">
+<h1>Webseitenerstellung mit Quarto</h1>
+
 </section>
-<section id="webseitenerstellung-mit-quarto" class="slide level2">
-<h2>Webseitenerstellung mit Quarto</h2>
+<section id="setup" class="slide level2">
+<h2>Setup</h2>
 <ul>
 <li class="fragment">Voraussetzungen:
 <ul>
@@ -204,16 +245,19 @@
 <li class="fragment"><a href="https://quarto.org/docs/publishing/posit-connect-cloud.html">Online stellen</a>: <code>quarto publish posit-connect-cloud</code> im Terminal</li>
 <li class="fragment"><strong>Zeit zum eigenen Experimentieren und Troubleshooting</strong></li>
 </ul>
-</section></section>
-<section>
-<section id="beispiele-web-basierte-interventionen" class="title-slide slide level1 center">
-<h1>Beispiele Web-basierte Interventionen</h1>
-
+<p>Beispiele für solche Seiten: <a href="https://interventionmapping.com/" class="uri">https://interventionmapping.com/</a> (Intervention Mapping Homepage!)</p>
 </section>
-<section id="selfback-svendsen2022" class="slide level2">
-<h2>SelfBACK <span class="citation" data-cites="Svendsen2022">(<a href="#/literaturverzeichnis" role="doc-biblioref" onclick="">Svendsen et al., 2022</a>)</span></h2>
-
-<img data-src="selfBACK.jpg" class="r-stretch quarto-figure-center"><p class="caption">Auf Intervention Mapping basierende App “selfBACK”</p></section>
+<section id="eigenes-experimentieren" class="slide level2">
+<h2>Eigenes Experimentieren</h2>
+<p>Weitere Möglichkeiten:</p>
+<ul>
+<li class="fragment"><p>Bilder: <a href="https://quarto.org/docs/authoring/figures.html" class="uri">https://quarto.org/docs/authoring/figures.html</a></p></li>
+<li class="fragment"><p>Videos: <a href="https://quarto.org/docs/authoring/videos.html" class="uri">https://quarto.org/docs/authoring/videos.html</a></p></li>
+<li class="fragment"><p>Themes und CSS-Styling: <a href="https://quarto.org/docs/output-formats/html-themes.html" class="uri">https://quarto.org/docs/output-formats/html-themes.html</a></p></li>
+<li class="fragment"><p>Andere Formate: PDF, Word und co. <a href="https://quarto.org/docs/output-formats/all-formats.html" class="uri">https://quarto.org/docs/output-formats/all-formats.html</a></p></li>
+<li class="fragment"><p>Zitation: <a href="https://quarto.org/docs/authoring/citations.html" class="uri">https://quarto.org/docs/authoring/citations.html</a></p></li>
+</ul>
+</section>
 <section id="evtl.-vorstellung-des-anti-doping-projekts-viral" class="slide level2">
 <h2>evtl. Vorstellung des Anti-Doping Projekts “ViRAL”</h2>
 <p><a href="https://viraltheproject.aau.dk/index.php/project-details/">Link zur Projektseite</a></p>

@@ -19,12 +19,12 @@ Willkommen auf der Kursseite. Hier finden Sie alle Präsentationen und Materiali
 
 4.  [Kultursensible Interventionen](4_kultursensibel/praesentation4_kultur.qmd)
 5.  [Webbasierte Interventionen](5_webbasiert/praesentation5_web.qmd)
-    - [R Skript Poweranalyse](6%20Studiendesign%20und%20Stichprobe/R-Skript_Poweranalyse.R)
+    
 
 ### Methoden & Design
 
 6.  [Studiendesign & Stichprobe](6%20Studiendesign%20und%20Stichprobe/Praesentation6_Studiendesign.qmd)
-
+    - [R Skript Poweranalyse](6%20Studiendesign%20und%20Stichprobe/R-Skript_Poweranalyse.R)
 <!-- ### Intervention Mapping (IM) -->
 
 <!-- 7.  [IM I: Bedarfsanalyse](7%20Intervention%20Mapping%20I%20-%20Bedarfsanalyse%20und%20logisches%20Modell%20des%20Problems/Praesentation7_Bedarfsanalyse.qmd) -->
@@ -54,6 +54,7 @@ Willkommen auf der Kursseite. Hier finden Sie alle Präsentationen und Materiali
 -   Die Präsentationen sind als **Reveal.js Slides** optimiert.
 -   Nutzen Sie die Taste `m`, um das Menü aufzurufen, oder `f` für den Vollbildmodus.
 -   Alle Literaturangaben finden Sie am Ende der jeweiligen Präsentation.
+-   Für externe Links wird keine Haftung übernommen. 
 
 ### Vorlesungstermine
 

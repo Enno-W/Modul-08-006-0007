@@ -28,11 +28,12 @@ resources:
 
 ## Das Fundament der Evaluation
 
--   Warum planen wir die Stichprobe vor der Intervention?
 -   **Vermeidung von Fehlern:**
     -   *Type I Error (*$\alpha$): Effekt sehen, wo keiner ist.
     -   *Type II Error (*$\beta$): Effekt übersehen, der existiert (mangelnde Power).
--   Schon vorab muss geklärt werden, wie am Ende evaluiert wird.
+-   Warum planen wir die Stichprobe vor der Intervention?
+    -   Schon vorab muss geklärt werden, wie am Ende evaluiert wird.
+    -   HARKing, optional stopping vermeiden
 
 ::: notes
 -   Evaluation fängt bei der Stichprobe an.
@@ -46,7 +47,7 @@ resources:
 -   Abhängig von:
     1.  Effektstärke ($d$, $g$, $r$) - Was für einen Effekt erwarten wir?
     2.  Signifikanzniveau ($\alpha$) - Meist 0.05.
-    3.  Stichprobengröße ($n$).
+    3.  Stichprobengröße ($N$).
 
 ::: notes
 -   Faustregel: Je kleiner der erwartete Effekt (z.B. minimale Verhaltensänderung durch Flyer), desto größer muss $n$ sein.

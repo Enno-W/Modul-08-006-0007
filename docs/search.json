@@ -88,14 +88,14 @@
     "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#das-fundament-der-evaluation",
     "title": "Modul 08-006-0007",
     "section": "Das Fundament der Evaluation",
-    "text": "Das Fundament der Evaluation\n\nWarum planen wir die Stichprobe vor der Intervention?\nVermeidung von Fehlern:\n\nType I Error (\\(\\alpha\\)): Effekt sehen, wo keiner ist.\nType II Error (\\(\\beta\\)): Effekt übersehen, der existiert (mangelnde Power).\n\nSchon vorab muss geklärt werden, wie am Ende evaluiert wird.\n\n\n\nEvaluation fängt bei der Stichprobe an.\nIm Reha-Sport oft kleine Gruppen -&gt; Problem der statistischen Power."
+    "text": "Das Fundament der Evaluation\n\nVermeidung von Fehlern:\n\nType I Error (\\(\\alpha\\)): Effekt sehen, wo keiner ist.\nType II Error (\\(\\beta\\)): Effekt übersehen, der existiert (mangelnde Power).\n\nWarum planen wir die Stichprobe vor der Intervention?\n\nSchon vorab muss geklärt werden, wie am Ende evaluiert wird.\nHARKing, optional stopping vermeiden\n\n\n\n\nEvaluation fängt bei der Stichprobe an.\nIm Reha-Sport oft kleine Gruppen -&gt; Problem der statistischen Power."
   },
   {
     "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#power",
     "href": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#power",
     "title": "Modul 08-006-0007",
     "section": "Power",
-    "text": "Power\n\nWahrscheinlichkeit, dass ein vorliegender Effekt auch als solcher erkannt wird.\nFaustregel für Höhe der Power (\\(1-\\beta\\)): 0.80\nAbhängig von:\n\nEffektstärke (\\(d\\), \\(g\\), \\(r\\)) - Was für einen Effekt erwarten wir?\nSignifikanzniveau (\\(\\alpha\\)) - Meist 0.05.\nStichprobengröße (\\(n\\)).\n\n\n\n\nFaustregel: Je kleiner der erwartete Effekt (z.B. minimale Verhaltensänderung durch Flyer), desto größer muss \\(n\\) sein."
+    "text": "Power\n\nWahrscheinlichkeit, dass ein vorliegender Effekt auch als solcher erkannt wird.\nFaustregel für Höhe der Power (\\(1-\\beta\\)): 0.80\nAbhängig von:\n\nEffektstärke (\\(d\\), \\(g\\), \\(r\\)) - Was für einen Effekt erwarten wir?\nSignifikanzniveau (\\(\\alpha\\)) - Meist 0.05.\nStichprobengröße (\\(N\\)).\n\n\n\n\nFaustregel: Je kleiner der erwartete Effekt (z.B. minimale Verhaltensänderung durch Flyer), desto größer muss \\(n\\) sein."
   },
   {
     "objectID": "6 Studiendesign und Stichprobe/Praesentation6_Studiendesign.html#verwendung-des-pakets-pwr",
@@ -623,37 +623,37 @@
     "text": "Dokumentation & Transparenz\n\nWarum dokumentieren?\n\nErmöglicht Replikation durch andere Forscher/Praktiker.\nIdentifiziert “aktive Komponenten” (Was genau hat gewirkt?).\nBildet die Basis für Wissenschaft und Praxis.\n\nIntervention Mapping Vorteil: Eine einheitliche Terminologie macht Programme weltweit vergleichbar.\n\n\n\nViele Entwickler vergessen die Dokumentation der “Black Box”. IM zwingt uns dazu, jeden Schritt von der Determinante bis zur Evaluation festzuhalten."
   },
   {
-    "objectID": "5_webbasiert/praesentation5_web.html#zentrale-erkenntnisse-domin2021",
-    "href": "5_webbasiert/praesentation5_web.html#zentrale-erkenntnisse-domin2021",
-    "title": "Modul 08-006-0007",
-    "section": "Zentrale Erkenntnisse: Domin et al. (2021)",
-    "text": "Zentrale Erkenntnisse: Domin et al. (2021)\n\nTheorie-Defizit: Viele Interventionen scheitern an mangelnder theoretischer Fundierung (sog. „Black Box“-Problematik).\nWirksamkeit durch BCTs: Erfolg korreliert stark mit dem gezielten Einsatz von Behavior Change Techniques (z.B. Feedback, Zielsetzung, Monitoring).\nAdhärenz-Herausforderung: Das Nutzerengagement sinkt über die Zeit drastisch; langfristige Bindung bleibt die kritische Hürde.\nQualitätslücke: Häufig mangelhafte methodische Dokumentation erschwert die Vergleichbarkeit und Evidenzbewertung."
+    "objectID": "5_webbasiert/praesentation5_web.html#zentrale-erkenntnisse-domin2021-5min",
+    "href": "5_webbasiert/praesentation5_web.html#zentrale-erkenntnisse-domin2021-5min",
+    "title": "Webbasierte Interventionsmethoden",
+    "section": "Zentrale Erkenntnisse: Domin et al. (2021) (5min)",
+    "text": "Zentrale Erkenntnisse: Domin et al. (2021) (5min)\n\nTheorie-Defizit: Viele Interventionen scheitern an mangelnder theoretischer Fundierung (sog. „Black Box“-Problematik).\nWirksamkeit durch BCTs: Erfolg korreliert stark mit dem gezielten Einsatz von Behavior Change Techniques (z.B. Feedback, Zielsetzung, Monitoring).\nAdhärenz-Herausforderung: Das Nutzerengagement sinkt über die Zeit drastisch; langfristige Bindung bleibt die kritische Hürde.\nQualitätslücke: Häufig mangelhafte methodische Dokumentation erschwert die Vergleichbarkeit und Evidenzbewertung."
   },
   {
-    "objectID": "5_webbasiert/praesentation5_web.html#webseitenerstellung-mit-quarto",
-    "href": "5_webbasiert/praesentation5_web.html#webseitenerstellung-mit-quarto",
-    "title": "Modul 08-006-0007",
-    "section": "Webseitenerstellung mit Quarto",
-    "text": "Webseitenerstellung mit Quarto\n\nVoraussetzungen:\n\nProgrammiersprache R und RStudio mit der Erweiterung “Quarto”\nAccount bei Posit connect cloud\n\nSchritte: File → New Project → New directory → Quarto Website\nOnline stellen: quarto publish posit-connect-cloud im Terminal\nZeit zum eigenen Experimentieren und Troubleshooting"
+    "objectID": "5_webbasiert/praesentation5_web.html#setup",
+    "href": "5_webbasiert/praesentation5_web.html#setup",
+    "title": "Webbasierte Interventionsmethoden",
+    "section": "Setup",
+    "text": "Setup\n\nVoraussetzungen:\n\nProgrammiersprache R und RStudio mit der Erweiterung “Quarto”\nAccount bei Posit connect cloud\n\nSchritte: File → New Project → New directory → Quarto Website\nOnline stellen: quarto publish posit-connect-cloud im Terminal\nZeit zum eigenen Experimentieren und Troubleshooting\n\nBeispiele für solche Seiten: https://interventionmapping.com/ (Intervention Mapping Homepage!)"
   },
   {
-    "objectID": "5_webbasiert/praesentation5_web.html#selfback-svendsen2022",
-    "href": "5_webbasiert/praesentation5_web.html#selfback-svendsen2022",
-    "title": "Modul 08-006-0007",
-    "section": "SelfBACK (Svendsen et al., 2022)",
-    "text": "SelfBACK (Svendsen et al., 2022)\n\nAuf Intervention Mapping basierende App “selfBACK”"
+    "objectID": "5_webbasiert/praesentation5_web.html#eigenes-experimentieren",
+    "href": "5_webbasiert/praesentation5_web.html#eigenes-experimentieren",
+    "title": "Webbasierte Interventionsmethoden",
+    "section": "Eigenes Experimentieren",
+    "text": "Eigenes Experimentieren\nWeitere Möglichkeiten:\n\nBilder: https://quarto.org/docs/authoring/figures.html\nVideos: https://quarto.org/docs/authoring/videos.html\nThemes und CSS-Styling: https://quarto.org/docs/output-formats/html-themes.html\nAndere Formate: PDF, Word und co. https://quarto.org/docs/output-formats/all-formats.html\nZitation: https://quarto.org/docs/authoring/citations.html"
   },
   {
     "objectID": "5_webbasiert/praesentation5_web.html#evtl.-vorstellung-des-anti-doping-projekts-viral",
     "href": "5_webbasiert/praesentation5_web.html#evtl.-vorstellung-des-anti-doping-projekts-viral",
-    "title": "Modul 08-006-0007",
+    "title": "Webbasierte Interventionsmethoden",
     "section": "evtl. Vorstellung des Anti-Doping Projekts “ViRAL”",
     "text": "evtl. Vorstellung des Anti-Doping Projekts “ViRAL”\nLink zur Projektseite"
   },
   {
     "objectID": "5_webbasiert/praesentation5_web.html#evtl.-app-vorstellung-humanoo",
     "href": "5_webbasiert/praesentation5_web.html#evtl.-app-vorstellung-humanoo",
-    "title": "Modul 08-006-0007",
+    "title": "Webbasierte Interventionsmethoden",
     "section": "evtl. App-Vorstellung “Humanoo”",
     "text": "evtl. App-Vorstellung “Humanoo”\n(externe Präsentation)"
   },
@@ -753,6 +753,6 @@
     "href": "index.html#kursinhalte",
     "title": "Präsentationsfolien und online-Termine",
     "section": "Kursinhalte",
-    "text": "Kursinhalte\n\nGrundlagen\n\nEinleitung & Fallbeispiele\nMessung und Definition sportlicher Aktivität\n\nSteckbrief\n\nPsychometrische Fragebögen\n\nSteckbrief Konstrukte\n\nKultursensible Interventionen\nWebbasierte Interventionen\n\nR Skript Poweranalyse\n\n\n\n\nMethoden & Design\n\nStudiendesign & Stichprobe\n\n\n\n\n\n\n\n\n\n\nRessourcen\n\nStichwortliste\nQuizlet-Kurs\nLinksammlung (weiterführende Videos und Beispiele von Interventionen, optional)\n\n\n\n\n\n\n\nHinweise zur Nutzung\n\nDie Präsentationen sind als Reveal.js Slides optimiert.\nNutzen Sie die Taste m, um das Menü aufzurufen, oder f für den Vollbildmodus.\nAlle Literaturangaben finden Sie am Ende der jeweiligen Präsentation.\n\n\n\nVorlesungstermine\nJeweils Montag\n13.04.26\n20.04.26\n27.04.26\n04.05.26\n11.05.26\n18.05.26\n01.06.26\n08.06.26\n15.06.26\n22.06.26\n29.06.26\n06.07.26"
+    "text": "Kursinhalte\n\nGrundlagen\n\nEinleitung & Fallbeispiele\nMessung und Definition sportlicher Aktivität\n\nSteckbrief\n\nPsychometrische Fragebögen\n\nSteckbrief Konstrukte\n\nKultursensible Interventionen\nWebbasierte Interventionen\n\n\n\nMethoden & Design\n\nStudiendesign & Stichprobe\n\nR Skript Poweranalyse \n\n\n\n\n\n\n\n\n\n\nRessourcen\n\nStichwortliste\nQuizlet-Kurs\nLinksammlung (weiterführende Videos und Beispiele von Interventionen, optional)\n\n\n\n\n\n\n\nHinweise zur Nutzung\n\nDie Präsentationen sind als Reveal.js Slides optimiert.\nNutzen Sie die Taste m, um das Menü aufzurufen, oder f für den Vollbildmodus.\nAlle Literaturangaben finden Sie am Ende der jeweiligen Präsentation.\nFür externe Links wird keine Haftung übernommen.\n\n\n\nVorlesungstermine\nJeweils Montag\n13.04.26\n20.04.26\n27.04.26\n04.05.26\n11.05.26\n18.05.26\n01.06.26\n08.06.26\n15.06.26\n22.06.26\n29.06.26\n06.07.26"
   }
 ]
