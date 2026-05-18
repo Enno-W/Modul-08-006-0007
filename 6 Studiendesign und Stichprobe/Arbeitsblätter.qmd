@@ -1,0 +1,85 @@
+---
+title: "Arbeitsblätter - Brainstorming zur Stichprobengröße"
+format: docx
+editor: visual
+---
+
+# Einleitung und Zielstellung
+
+Dieses Arbeitsblatt dient der strukturierten Vorbereitung eurer Hausarbeit. Wählt nach dem gewählten Fallbeispiel den passenden Pfad (Pfad A für große Organisationen/Strukturen, Pfad B für Rehasport-Kleingruppen).
+
+------------------------------------------------------------------------
+
+# Pfad A: Makro-Interventionen (Fallbeispiel 1 & 4)
+
+*Relevant für: Fallbeispiel 1 (Femgart-Grundschule) und Fallbeispiel 4 (TechSolutions GmbH).*
+
+## Aufgabe 1: Theoriegeleitete Effektschätzung (Cohen-Konventionen)
+
+**Frage:** Welchen Effekt (klein, mittel, groß) erwartet ihr basierend auf dem spezifischen Kontext Ihrer Schule oder Ihres Unternehmens für Ihre primäre Zielvariable? Begründen Sie Ihre Wahl kurz anhand der Rahmenbedingungen aus dem Fallbeispiel.
+
+*💡 Hinweis:* In komplexen, realen Settings (z. B. Schulhöfe mit hohem Migrationsanteil oder IT-Firmen mit einer ausgeprägten "Hustle Culture") sind große Effekte ($d \geq 0.80$) oft unrealistisch. Kleine bis mittlere Effekte ($d = 0.20$ bis $0.50$) haben hier meist schon eine hohe Praxisrelevanz. Idealerweise findet ihr ähnliche Studien, die einen Effekt berichten.
+
+Dafür sind Reviews gut geeignet:
+
+Kriemler, S., Meyer, U., Martin, E., Sluijs, E. M. F. van, Andersen, L.
+B., & Martin, B. W. (2011). Effect of school-based interventions on
+physical activity and fitness in children and adolescents: A review of
+reviews and systematic update. *British Journal of Sports Medicine*, *45*(11), 923–930. <https://doi.org/10.1136/bjsports-2011-090186>
+
+Malik, S. H., Blake, H., & Suggs, L. S. (2013). A systematic review
+of workplace health promotion interventions for increasing physical
+activity. *British Journal of Health Psychology*, *19*(1), 149–180. <https://doi.org/10.1111/bjhp.12052>
+
+**Eure Notizen:**
+<br><br><br><br><br><br><br><br>
+
+## Aufgabe 2: Quantitative Studienplanung mit `pwr`
+
+**Frage:** Berechnen Sie mit dem R-Paket `pwr`, wie viele Personen Sie für eine valide Evaluation (Standard: Teststärke/Power = 0.80, Signifikanzniveau $\alpha = 0.05$) in Ihrer Schule oder Ihrer Firma akquirieren müssten.
+
+*💡 Hinweis:* Nutzt das R-Skript im Moodle als Vorlage in RStudio und tragt das berechnete $n$ (pro Gruppe) bzw. Gesamt-$N$ unten ein. 
+
+**Eure Notizen:**
+<br><br><br><br><br><br><br><br>
+
+## Aufgabe 3: 
+
+**Frage:** Wie wollt ihr das Einverständnis (Informed Consent) der Versuchspersonen konkret einholen? Mit wie vielen Absagen (Non-Response) bzw. vorzeitigen Abbrüchen (Drop-out) müsst ihr im Verlauf kalkulieren und wie verändert dies die "Brutto"-Stichprobe?
+
+*💡 Hinweis:* Hier könnt ihr strukturelle Barrieren aus dem Text (z. B. skeptische Elternräte in der Grundschule oder ein schutzorientierter Betriebsrat) einbeziehen?
+
+**Eure Notizen:**
+<br><br><br><br><br><br><br><br>
+
+
+# Pfad B: Mikro-Interventionen / Kleingruppen (Fallbeispiel 2 & 3)
+
+*Relevant für: Fallbeispiel 2 (Rehasport "Rücken aktiv") und Fallbeispiel 3 (Rehasport "Comeback").*
+
+## Aufgabe 1: Qualitative Evaluationsmethoden (Tiefe vs. Breite)
+
+**Frage:** Da eure Gruppen sehr klein sind ($n = 8-9$ Personen), fallen klassische Signifikanztests wegen mangelnder statistischer Power aus. Welche qualitativen Methoden (z. B. Leitfadeninterviews, Fokusgruppen) nutzt ihr stattdessen, um den Erfolg eures Konflikt- oder Motivationsmanagements tiefgehend zu prüfen? 
+
+*💡 Hinweis:* Überlegt euch auch die passenden Zeitpunkte. Wann macht eine Erhebung Sinn? (Z. B. ein vertrauliches Einzelinterview mit der abgelenkten Sportstudentin Jessica mitten in der Intervention oder eine gemeinsame Fokusgruppe mit allen Teilnehmenden am Ende der 12 Einheiten, um den Gruppenkonflikt zu reflektieren?)
+
+**Eure Notizen:**
+<br><br><br><br><br><br><br><br>
+
+## Aufgabe 2: Deskriptive Prozess- und Verhaltensdaten
+
+**Frage:** Welche objektiven Verhaltensdaten (z. B. tatsächliche Trainingsanwesenheit/Adhärenz, Fehlzeiten, Abbruchraten, Ausfall von Heimübungen) könnt und solltet ihr fortlaufend quantitativ erfassen? Wie bereitet ihr diese Daten deskriptiv (also ganz ohne Signifikanztest) für eure Hausarbeit auf?
+
+*💡 Hinweis:* Erstellt eine einfache Liste von messbaren Prozessmetriken. Das Dokumentieren von Verhalten (z. B. Jessicas Trainingstagebuch oder wie oft Markus seine Heimübungen vergisst) liefert euch wichtige Zahlen, die ihr super mit den qualitativen Interviews kombinieren könnt (Mixed-Methods-Ansatz).
+
+**Eure Notizen:**
+<br><br><br><br><br><br><br><br>
+
+## Aufgabe 3: Beziehungsgestaltung und Psychologische Sicherheit
+
+**Frage:** Wie baut ihr im Setting der Kleingruppe aktiv Vertrauen und psychologische Sicherheit auf, damit die Teilnehmenden in den Interviews ehrlich antworten und verdeckte Barrieren unbeschönigt offenlegen? 
+
+*💡 Hinweis:* Denkt an konkrete Maßnahmen zur Reduktion von sozialer Erwünschtheit. Mit welcher offenen, wertfreien Einstiegsfrage würdet ihr ein Interview beginnen, um verweigernde Personen (wie Herrn K.) oder gestresste Teilnehmende (wie Lena in der Prüfungsphase) emotional abzuholen?
+
+**Eure Notizen:**
+<br><br><br><br><br><br><br><br>

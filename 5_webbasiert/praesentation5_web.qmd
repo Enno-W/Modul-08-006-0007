@@ -70,7 +70,7 @@ Wie wird hier versucht, auf die sportliche Aktivität Einfluss zu nehmen? Sammel
 
 # Beispiel Web-basierte Intervention: SelfBACK [@Svendsen2022]
 
-![Auf Intervention Mapping basierende App "selfBACK"](selfBACK.jpg){alt="Auf Intervention Mapping basierende App \"selfBACK\""}
+![Auf Intervention Mapping basierende App "selfBACK"](selfBACK.jpg)
 
 # Webseitenerstellung mit Quarto
 

@@ -61,5 +61,19 @@ editor: visual
 | **Adhärenz** | Das Ausmaß der kontinuierlichen und regelmäßigen Nutzung einer digitalen Intervention; kritischer Erfolgsfaktor für langfristige Effekte. |
 | **Self-Monitoring** | Systematische Erfassung und Rückmeldung des eigenen Verhaltens (z.B. via Sensorik), um Bewusstsein und Kontrolle zu fördern. |
 | **Personalisierung** | Anpassung von Interventionsinhalten oder Feedback-Mechanismen an das individuelle Nutzerprofil zur Steigerung der Relevanz. |
-| **Gamification** | Nutzung spielerischer Elemente (z.B. Belohnungen, Fortschrittsbalken) in Nicht-Spiel-Kontexten, um Motivation und Engagement zu erhöhen. |
-| **Nudging** | Methode zur subtilen Verhaltenssteuerung, bei der durch kleine Anreize (z. B. Push-Benachrichtigungen, Voreinstellungen) Entscheidungen in eine bestimmte Richtung gelenkt werden, ohne Wahlmöglichkeiten einzuschränken. |
+| **Gamification** | Nutzung spielerischer Elemente (z.B. Belohnungen, Fortschrittsbalken) in Nicht-Spiel-Kontexten, um Motivation und Engagement zu erhöhen. ||
+
+## Studienplanung & Teststärke
+
+| Fachbegriff | Definition / Erklärung |
+|-------------|------------------------|
+| **Power (Teststärke)** | Die Wahrscheinlichkeit ($1 - \beta$), einen tatsächlich vorhandenen Effekt in einer Stichprobe durch einen statistischen Test auch signifikant nachzuweisen. |
+| **Alpha-Signifikanzniveau** | Die vorab festgelegte Grenze ($\alpha$, meist 5%), ab der ein Testergebnis als statistisch signifikant gilt; bestimmt die tolerierte Irrtumswahrscheinlichkeit. |
+| **Alpha-Fehler (Fehler 1. Art)** | Das fälschliche Ablehnen der Nullhypothese ($H_0$). Man nimmt an, es gäbe einen Effekt, obwohl in der Population keiner existiert (falsch-positiv). |
+| **Beta-Fehler (Fehler 2. Art)** | Das fälschliche Beibehalten der Nullhypothese ($H_0$). Man übersieht einen tatsächlich vorhandenen Effekt in der Population (falsch-negativ). |
+| **Stichprobengröße ($n$ / $N$)** | Die Anzahl der Untersuchungseinheiten. Sie muss vorab per Power-Analyse kalkuliert werden, um eine Über- oder Unterpowerung der Studie zu vermeiden. |
+| **Optional Stopping** | Eine unzulässige Praxis (p-Hacking), bei der die Datenerhebung so lange fortgesetzt und zwischendurch analysiert wird, bis ein signifikantes Ergebnis erzielt wird. |
+| **HARKing** | Akronym für *Hypothesizing After the Results are Known*. Das nachträgliche Formulieren von Hypothesen erst nach der Datenauswertung, um sie als vorab geplant auszugeben. |
+| **Kleiner / Mittlerer / Großer Effekt** | Konventionen nach Cohen zur Einordnung der praktischen Relevanz eines Befundes (z. B. bei Korrelationen $r$: $.10$ klein, $.30$ mittel, $.50$ groß; bei $d$: $.20$ / $.50$ / $.80$). |
+| **t-Test** | Ein Verfahren zum Vergleich von maximal zwei Mittelwerten (z. B. Interventions- vs. Kontrollgruppe oder Prä- vs. Post-Test). |
+| **ANOVA (Varianzanalyse)** | Ein statistisches Verfahren zum gleichzeitigen Vergleich der Mittelwerte von drei oder mehr Gruppen (überprüft die Varianz zwischen und innerhalb der Gruppen). |

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Studiendesign und Stichprobengröße"
 author: "Enno Winkler"
 lang: de
 format: 
@@ -24,15 +24,33 @@ resources:
 # xlsx_to_bib(from_root("References.xlsx"))
 ```
 
+# Agenda
+
+-   PVL (Gruppe A: keine; Gruppe B: Sarah Löwe, Svenja Link)
+-   Theoretischer Input: Stichprobengröße, Signifikanz, Effekt und Power
+-   Mini Quiz
+-   Gruppenarbeit: Erstes Brainstorming für die Hausarbeit
+-   15-min Q&A: Hausarbeit (mit Saskia)
+
+# PVL
+
+Entwicklung eines Bewegungs-Konzepts für eine Erstaufnahmeeinrichtung für Geflüchtete. 
+
+**Aufgabe an die Zuhörenden:** Stellt euch vor, ihr gehört zu den Mitarbeitenden der Einrichtung und sollt bei der Umsetzung helfen. Stellt zu dem vorgestellten Konzept Verständnisfragen und evtl. kritische Rückfragen zur Umsetzung.
+
+
 # Studiendesign und Stichprobe
+
+- Umfrage zu Vorwissen
+- Mini-Quiz am Ende!
 
 ## Das Fundament der Evaluation
 
 -   **Vermeidung von Fehlern:**
     -   *Type I Error (*$\alpha$): Effekt sehen, wo keiner ist.
     -   *Type II Error (*$\beta$): Effekt übersehen, der existiert (mangelnde Power).
--   Warum planen wir die Stichprobe vor der Intervention?
-    -   Schon vorab muss geklärt werden, wie am Ende evaluiert wird.
+-   Warum vor der Intervention schon Gedanken zur Evaluation machen?
+    -   Schon vorab muss geklärt werden, wie am Ende evaluiert wird und wie viele Personen dafür benötigt werden.
     -   HARKing, optional stopping vermeiden
 
 ::: notes
@@ -40,6 +58,22 @@ resources:
 -   Im Reha-Sport oft kleine Gruppen -\> Problem der statistischen Power.
 :::
 
+
+## Effektgrößen & Konventionen
+
+- **Bedeutung:** Beschreiben die praktische Relevanz und die absolute Stärke eines Effekts, unabhängig von der Stichprobengröße.
+- **Konventionen nach Cohen (1988):**
+
+| Testverfahren / Maß | Kleiner Effekt | Mittlerer Effekt | Großer Effekt |
+|---------------------|:--------------:|:----------------:|:-------------:|
+| **$t$-Test** (Cohen's $d$) | $0.20$ | $0.50$ | $0.80$ |
+| **Korrelation** ($r$) | $0.10$ | $0.30$ | $0.50$ |
+| **ANOVA** (Cohen's $f$) | $0.10$ | $0.25$ | $0.40$ |
+
+::: notes
+- Wichtig für die Hausarbeit: Diese Werte sind reine Richtwerte (Konventionen). 
+- In der Sportwissenschaft und Gesundheitsförderung sind "kleine" Effekte (z. B. $d = 0.20$ bei der Steigerung von Alltagsbewegung) oft schon klinisch hochrelevant, wenn sie die breite Masse erreichen!
+:::
 ## Power
 
 -   Wahrscheinlichkeit, dass ein vorliegender Effekt auch als solcher erkannt wird.
@@ -53,7 +87,13 @@ resources:
 -   Faustregel: Je kleiner der erwartete Effekt (z.B. minimale Verhaltensänderung durch Flyer), desto größer muss $n$ sein.
 :::
 
-# Power-Analyse mit R
+## Quiz
+
+▶️ Zoom-Umfrage
+
+# R-Demo
+
+**Wie viele Personen brauchen wir, um eine bestimmte Power zu erreichen?**
 
 R-Skript [hier](https://enno-w.github.io/Modul-08-006-0007/6%20Studiendesign%20und%20Stichprobe/R-Skript_Poweranalyse.R) verfügbar.
 
@@ -96,66 +136,64 @@ Vergleich von 4 Interventionsgruppen je 20 Personen, Effektstärke f=.28, 20 Per
 
 ## Exercise 8.1 P. 357 from Cohen (1988)
 pwr.anova.test(f=0.28,k=4,n=20,sig.level=0.05)
+
 ```
 
-## Chi Square
+## Tipp zur Auswahl der statistischen Methode
 
-w: Effektstärke (Cramer's V).
-
-df: Freiheitsgrade (Anzahl Zeilen - 1) \* (Anzahl Spalten - 1).
-
-N: Gesamtstichprobengröße (Achtung: nicht pro Gruppe!).
-
-```{r demonstration_chisq}
-#| echo: true
-#| eval: true
-
-## Exercise 7.3 p. 251
-pwr.chisq.test(w=0.346,df=(2-1)*(3-1),N=140,sig.level=0.01)
-```
+Einen Entscheidungsbaum dafür findet ihr hier:
+https://www.methodenberatung.uzh.ch/de/datenanalyse_spss/entscheidassistent.html
 
 # Qualitative Stichprobenplanung und mixed methods
 
 ## Qualitative Stichprobenplahnung
 
--   Ziel ist nicht Repräsentativität, sondern **Sättigung** (*Theoretical Saturation*).
 -   **Methoden:**
-    -   **Fokusgruppen:** Gruppendynamik nutzen, um Barrieren zu identifizieren (IM Schritt 1).
+    -   **Fokusgruppen:** Gruppendynamik nutzen, um Barrieren zu identifizieren.
     -   **Leitfadeninterviews:** Tiefe Einblicke in individuelle Motive.
--   **Stichprobenwahl:** Bewusste Auswahl (*Purposive Sampling*) statt Zufall.
+-   **Stichprobenwahl:** Meistens bewusste Auswahl statt Zufall.
+-   Auch Kombi von quantitativ und qualitativ ist möglich (mixed-methods-design)
+
+## Einwilligung (Consent)
+
+- Grundsatz: Datenerhebung nur mit Rechtsgrundlage (z. B. Einwilligung)  
+- Freiwilligkeit: Ablehnung ohne Nachteile → Ausschluss aus Stichprobe  
+- Ethikrichtlinien: Deutsche Gesellschaft für Psychologie (DGPs) / American Psychological Association (APA)  
+
+
+➡️ Damit rechnen, dass einige Personen ablehnen
+
+➡️ Gewinnung von Versuchspersonen wird leicht unterschätzt (Besonde bei Längsschnittstudien!)
+
 
 ::: notes
-Warum Fokusgruppen? Perfekt für IM Schritt 1 (Needs Assessment), um die Sprache der Zielgruppe zu lernen.
+Auch scheinbar anonyme Beobachtungen sind oft nur pseudonymisiert → Einwilligung nötig.
 :::
 
-## Mixed-Methods Design
+# Gruppenarbeit: Erstes Brainstorming 
 
--   Kombination aus quantitativen & qualitativen Daten.
--   **Beispiel für die Hausarbeit:**
-    -   **Quantitativ:** Fragebogen zu PA (Pre-Post Messung).
-    -   **Qualitativ:** Fokusgruppe nach der Intervention (*"Warum haben Sie das Training abgebrochen?"*).
--   Erhöht die Validität der Evaluation und erklärt das "Warum" hinter den Zahlen.
+## Aufgabe für die Gruppenarbeit (20 Min)
 
-::: notes
-Das ist die "Königsdisziplin" für die Evaluation. Quantitative Daten zeigen DASS es wirkt, qualitative Daten zeigen WIE/WARUM es wirkt.
-:::
+**Arbeitsblatt auf der Kurs-Website:** Wählt den Pfad, der zu eurem Fallbeispiel passt
 
-# Übung: Stichprobenplanung
+### Pfad A: Makro-Interventionen (Fallbeispiel 1 & 4)
+1. **Effektschätzung:** Welchen Effekt (klein, mittel, groß) erwartet ihr basierend auf dem Kontext Schule/Unternehmen? Findet ihr eventuell ähnliche Interventionen, die einen Effekt berichten? 
+2. **Quantitative Planung:** Berechnet mit `pwr`, wie viele Personen ihr für eine valide Evaluation (Power = 0.80) in eurer Schule/Firma akquirieren müsstet.
+3. Wie bekommt ihr das Einverständnis von den Versuchspersonen? Wie viele Personen werden möglicherweise ablehnen?
 
-## Aufgabe
+## Aufgabe für die Gruppenarbeit (20 Min)
 
--   Skizzieren Sie für Ihre Hausarbeit:
-    1.  Wer ist die **Zielgruppe**? (Einschlusskriterien)
-    2.  Wie viele Personen benötigen Sie (grobe Schätzung via `pwr`)?
-    3.  Welche **qualitativen Methoden** könnten Ihre Evaluation ergänzen?
+### Pfad B: Mikro-Interventionen / Kleingruppen (Fallbeispiel 2 & 3)
+1. **Qualitative Evaluation:** Da die Gruppen sehr klein sind (n = 8-9): Welche qualitativen Methoden (z. B. Leitfadeninterviews mit Jessica, Fokusgruppe am Ende der 12 Einheiten) nutzt ihr, um den Erfolg eures Konflikt-/Motivationsmanagements zu prüfen?
+2. **Prozessdaten:** Welche Verhaltensdaten (Adhärenz, Fehlzeiten, Abbruchraten) erhebt ihr fortlaufend quantitativ als Deskriptive Statistik (ohne Signifikanztest)?
+3. Wie baut ihr Vertrauen und psychologische Sicherheit auf, damit die Teilnehmenden bei den Interviews ehrlich antworten?
 
-::: notes
-Studierende sollen kurz reflektieren: "Ist meine geplante Intervention bei 10 Leuten überhaupt statistisch testbar?"
-:::
+**Das dient als Vorbereitung für die Hausarbeit und muss nicht hochgeladen werden.**
 
-# evtl. Gruppenarbeit: correlation vs. causation - Kreative Übung zur Studienplanung
 
--   Findet auf <https://www.tylervigen.com/spurious-correlations> Korrelationen, bei denen es (theoretisch) möglich wäre, eine oder beide der Variablen zu manipulieren. Überlegen Sie sich ein Experiment, dass einen kausalen Zusammenhang dieser Korrelation prüfen soll. Dabei können Sie davon ausgehen, dass sie unbegrenzte Ressourcen und Einfluss haben.
+## Gruppenarbeit - Alternative: correlation vs. causation - Kreative Übung zu Studienplanung und kritischem Hinterfragen von KI
+
+-   Findet auf <https://www.tylervigen.com/spurious-correlations> Korrelationen, bei denen es (theoretisch) möglich wäre, eine oder beide der Variablen zu manipulieren. Überlegen Sie sich ein Studiendesign, das einen kausalen Zusammenhang dieser Korrelation prüfen soll. Dabei können Sie davon ausgehen, dass sie unbegrenzte Ressourcen und Einfluss haben.
 
 # Literaturverzeichnis
 

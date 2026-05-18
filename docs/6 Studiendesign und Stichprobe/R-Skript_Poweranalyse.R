@@ -14,9 +14,5 @@ pwr.t.test(d = 0.5, sig.level = 0.05, power = 0.8,
 pwr.r.test(r = 0.3, sig.level = 0.05, power = 0.8)
 
 # Anova
-#Vergleich von 4 Interventionsgruppen je 20 Personen, Effektstärke f=.28
-pwr.anova.test(f=0.28,k=4,n=20,sig.level=0.05)
-
-# Chi-Square-Test
-##Test auf Unabhängigkeit von kategorialen Variablen (z.B. Geschlecht vs. Sportstatus).
-pwr.chisq.test(w=0.346,df=(2-1)*(3-1),N=140,sig.level=0.01)
+#Vergleich von 4 Interventionsgruppen, Effektstärke f=.28
+pwr.anova.test(f=0.28,k=4,sig.level=0.05, power = 0.8)

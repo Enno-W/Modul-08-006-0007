@@ -182,6 +182,9 @@ xlsx_to_bib(from_root("References.xlsx"))
 @DOSB2024
 @Domin2021
 @Michie2013
+@Wu2023
+@Kriemler2011
+@Malik2013
 
 ::: refs
 :::

@@ -25,6 +25,7 @@ Willkommen auf der Kursseite. Hier finden Sie alle Präsentationen und Materiali
 
 6.  [Studiendesign & Stichprobe](6%20Studiendesign%20und%20Stichprobe/Praesentation6_Studiendesign.qmd)
     - [R Skript Poweranalyse](6%20Studiendesign%20und%20Stichprobe/R-Skript_Poweranalyse.R)
+    - [Arbeitsblätter](6%20Studiendesign%20und%20Stichprobe/Arbeitsblätter.qmd)    
 <!-- ### Intervention Mapping (IM) -->
 
 <!-- 7.  [IM I: Bedarfsanalyse](7%20Intervention%20Mapping%20I%20-%20Bedarfsanalyse%20und%20logisches%20Modell%20des%20Problems/Praesentation7_Bedarfsanalyse.qmd) -->

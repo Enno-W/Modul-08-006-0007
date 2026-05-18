@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -404,9 +433,62 @@ ul.task-list li input[type="checkbox"] {
 <td><strong>Gamification</strong></td>
 <td>Nutzung spielerischer Elemente (z.B. Belohnungen, Fortschrittsbalken) in Nicht-Spiel-Kontexten, um Motivation und Engagement zu erhöhen.</td>
 </tr>
+</tbody>
+</table>
+</section>
+<section id="studienplanung-teststärke" class="level2">
+<h2 class="anchored" data-anchor-id="studienplanung-teststärke">Studienplanung &amp; Teststärke</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 35%">
+<col style="width: 64%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Fachbegriff</th>
+<th>Definition / Erklärung</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Power (Teststärke)</strong></td>
+<td>Die Wahrscheinlichkeit (<span class="math inline">\(1 - \beta\)</span>), einen tatsächlich vorhandenen Effekt in einer Stichprobe durch einen statistischen Test auch signifikant nachzuweisen.</td>
+</tr>
 <tr class="even">
-<td><strong>Nudging</strong></td>
-<td>Methode zur subtilen Verhaltenssteuerung, bei der durch kleine Anreize (z. B. Push-Benachrichtigungen, Voreinstellungen) Entscheidungen in eine bestimmte Richtung gelenkt werden, ohne Wahlmöglichkeiten einzuschränken.</td>
+<td><strong>Alpha-Signifikanzniveau</strong></td>
+<td>Die vorab festgelegte Grenze (<span class="math inline">\(\alpha\)</span>, meist 5%), ab der ein Testergebnis als statistisch signifikant gilt; bestimmt die tolerierte Irrtumswahrscheinlichkeit.</td>
+</tr>
+<tr class="odd">
+<td><strong>Alpha-Fehler (Fehler 1. Art)</strong></td>
+<td>Das fälschliche Ablehnen der Nullhypothese (<span class="math inline">\(H_0\)</span>). Man nimmt an, es gäbe einen Effekt, obwohl in der Population keiner existiert (falsch-positiv).</td>
+</tr>
+<tr class="even">
+<td><strong>Beta-Fehler (Fehler 2. Art)</strong></td>
+<td>Das fälschliche Beibehalten der Nullhypothese (<span class="math inline">\(H_0\)</span>). Man übersieht einen tatsächlich vorhandenen Effekt in der Population (falsch-negativ).</td>
+</tr>
+<tr class="odd">
+<td><strong>Stichprobengröße (<span class="math inline">\(n\)</span> / <span class="math inline">\(N\)</span>)</strong></td>
+<td>Die Anzahl der Untersuchungseinheiten. Sie muss vorab per Power-Analyse kalkuliert werden, um eine Über- oder Unterpowerung der Studie zu vermeiden.</td>
+</tr>
+<tr class="even">
+<td><strong>Optional Stopping</strong></td>
+<td>Eine unzulässige Praxis (p-Hacking), bei der die Datenerhebung so lange fortgesetzt und zwischendurch analysiert wird, bis ein signifikantes Ergebnis erzielt wird.</td>
+</tr>
+<tr class="odd">
+<td><strong>HARKing</strong></td>
+<td>Akronym für <em>Hypothesizing After the Results are Known</em>. Das nachträgliche Formulieren von Hypothesen erst nach der Datenauswertung, um sie als vorab geplant auszugeben.</td>
+</tr>
+<tr class="even">
+<td><strong>Kleiner / Mittlerer / Großer Effekt</strong></td>
+<td>Konventionen nach Cohen zur Einordnung der praktischen Relevanz eines Befundes (z. B. bei Korrelationen <span class="math inline">\(r\)</span>: <span class="math inline">\(.10\)</span> klein, <span class="math inline">\(.30\)</span> mittel, <span class="math inline">\(.50\)</span> groß; bei <span class="math inline">\(d\)</span>: <span class="math inline">\(.20\)</span> / <span class="math inline">\(.50\)</span> / <span class="math inline">\(.80\)</span>).</td>
+</tr>
+<tr class="odd">
+<td><strong>t-Test</strong></td>
+<td>Ein Verfahren zum Vergleich von maximal zwei Mittelwerten (z. B. Interventions- vs.&nbsp;Kontrollgruppe oder Prä- vs.&nbsp;Post-Test).</td>
+</tr>
+<tr class="even">
+<td><strong>ANOVA (Varianzanalyse)</strong></td>
+<td>Ein statistisches Verfahren zum gleichzeitigen Vergleich der Mittelwerte von drei oder mehr Gruppen (überprüft die Varianz zwischen und innerhalb der Gruppen).</td>
 </tr>
 </tbody>
 </table>
