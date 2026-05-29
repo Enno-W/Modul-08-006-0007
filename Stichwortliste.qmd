@@ -77,3 +77,19 @@ editor: visual
 | **Kleiner / Mittlerer / Großer Effekt** | Konventionen nach Cohen zur Einordnung der praktischen Relevanz eines Befundes (z. B. bei Korrelationen $r$: $.10$ klein, $.30$ mittel, $.50$ groß; bei $d$: $.20$ / $.50$ / $.80$). |
 | **t-Test** | Ein Verfahren zum Vergleich von maximal zwei Mittelwerten (z. B. Interventions- vs. Kontrollgruppe oder Prä- vs. Post-Test). |
 | **ANOVA (Varianzanalyse)** | Ein statistisches Verfahren zum gleichzeitigen Vergleich der Mittelwerte von drei oder mehr Gruppen (überprüft die Varianz zwischen und innerhalb der Gruppen). |
+
+## Bedarfsanalyse (Intervention Mapping I)
+
+| Fachbegriff | Definition / Erklärung |
+|-------------|------------------------|
+| **Intervention Mapping (IM)** | Ein sechsstufiges, theorie- und evidenzbasiertes Protokoll zur systematischen Entwicklung, Implementierung und Evaluation von Gesundheitsförderungsprogrammen. |
+| **Ökologischer Ansatz** | Sichtweise, nach der Verhalten nicht im Vakuum entsteht, sondern durch die dynamische Wechselwirkung einer Person mit mehreren eingebetteten Umweltsystemen bestimmt wird. |
+| **Bedarfsanalyse (Needs Assessment)** | Der erste Schritt des Intervention Mapping; die systematische Untersuchung eines Gesundheitsproblems, seiner Ursachen sowie der betroffenen Zielgruppe und deren Ressourcen. |
+| **Logisches Modell des Problems** | Eine visuelle Ursachen-Wirkungs-Kette, die den Weg von den psychologischen Determinanten und Umweltfaktoren über das Verhalten bis hin zum Gesundheitsproblem und der Lebensqualität grafisch darstellt. |
+| **Determinanten** | Meist kognitive oder psychologische Faktoren innerhalb einer Person (z. B. Einstellungen, Selbstwirksamkeit, Wissen), die das Verhalten oder die Umweltfaktoren direkt steuern. |
+| **Umweltfaktoren** | Äußere Bedingungen (physischer, sozialer, organisationaler oder ökonomischer Natur) außerhalb der Zielperson, die deren Gesundheitsverhalten beeinflussen. |
+| **Verhaltensfaktoren** | Spezifische, beobachtbare Handlungen oder Gewohnheiten der Zielgruppe (Risiko- oder Schutzverhalten), die das Gesundheitsproblem direkt bedingen. |
+| **Gesundheitsproblem** | Die manifesten medizinischen oder biologischen Risiken und Einschränkungen einer Zielgruppe (z. B. motorische Defizite, Adipositas, Herz-Kreislauf-Erkrankungen). |
+| **Gesundheitsbezogene Lebensqualität** | Die subjektiv wahrgenommene Beeinträchtigung des alltäglichen Wohlbefindens und Funktionierens, die aus dem spezifischen Gesundheitsproblem resultiert (z. B. Frustration, soziale Isolation). |
+| **Programm-Ziel (Outcome Objective)** | Die präzise Festlegung des gewünschten Endzustands einer Intervention auf Verhaltens- oder Gesundheitsebene (Wer verändert was, bis wann und um wie viel?). |
+

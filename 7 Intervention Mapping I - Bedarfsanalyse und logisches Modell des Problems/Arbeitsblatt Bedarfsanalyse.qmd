@@ -1,0 +1,76 @@
+---
+title: "Arbeitsblatt: Brainstorming zur Bedarfsanalyse"
+subtitle: "Modul 08-006-0007 — Seminar: Psychologische Interventionen"
+format: 
+  docx:
+    prefer-html: true
+editor: visual
+---
+
+# Einleitung und Zielstellung
+
+Dieses Arbeitsblatt unterstützt euch dabei, Schritt 1 des Intervention Mapping (die Bedarfsanalyse) sauber für eure Hausarbeit vorzubereiten. Ihr könnt die Aufgaben in der Gruppe aufteilen. Bearbeitet anschließend die Checkliste am Ende zusammen. 
+------------------------------------------------------------------------
+
+# Aufgaben und Leitfragen für euer Gruppen-Brainstorming
+
+## Aufgabe 1: Partizipation und die Planungsgruppe
+
+**Frage:** Wen bezieht ihr noch in eure Planungsgruppe ein? Wie bindet ihr die Zielgruppe selbst oder wichtige Vermittlerpersonen (Intermediäre wie Lehrer, Eltern, Trainer oder den Betriebsrat) ein, um die Bedarfsanalyse abzusichern?
+
+**Eure Notizen:** <br><br><br><br><br><br><br><br>
+
+## Aufgabe 2: Zielgruppe, Gesundheitsproblem und Lebensqualität
+
+**Frage:** Wer genau ist eure Zielgruppe und unter welchem spezifischen Gesundheitsproblem leidet sie? Wie schränkt dieses Problem die gesundheitsbezogene Lebensqualität im Alltag ein?
+
+**Eure Notizen:** <br><br><br><br><br><br><br><br>
+
+## Aufgabe 3: Verhaltens- und Umweltursachen
+
+**Frage:** Welche konkreten Verhaltensweisen der Personen (z. B. langes Sitzen, Medienkonsum) und welche Faktoren in deren Umwelt (z. B. fehlende Grünflächen, mangelnde Sportangebote, familiäre Barrieren) verursachen das Gesundheitsproblem?
+
+**Eure Notizen:** <br><br><br><br><br><br><br><br>
+
+## Aufgabe 4: Determinanten und Ressourcen
+
+**Frage:** Warum zeigen die Personen dieses Risikoverhalten (Determinanten wie mangelnde Selbstwirksamkeit oder fehlendes Wissen)? Welche Stärken und Ressourcen (materielle Mittel, Motivation, Zusammenhalt) bringt die Zielgruppe aber gleichzeitig schon mit?
+
+**Eure Notizen:** <br><br><br><br><br><br><br><br>
+
+## Aufgabe 5: Bewertung und Priorisierung
+
+**Frage:** Wenn ihr eure gesammelten Verhaltens- und Umweltfaktoren nach *Relevanz* (Wie wichtig für die Gesundheit?) und *Veränderbarkeit* (Wie leicht können wir das durch eine Intervention ändern?) bewertet: Auf welche zwei bis drei Hauptfaktoren konzentriert ihr euch? Die Bewertung kann matrixartig erfolgen - mit Relevanz auf einer Achse und Veränderbarkeit auf der anderen Achse. (Ihr könnt in einer Hausarbeit nicht alle Probleme auf einmal lösen. Konzentriert euch auf die Faktoren, die sowohl wichtig als auch gut veränderbar sind. Sonst wird es zu umfangreich.)
+
+**Eure Notizen:** <br><br><br><br><br><br><br><br>
+
+## Aufgabe 6: Theorie
+
+**Frage:** Bei Saskia habt ihr verschiedene Modelle der Verhaltensänderung kennengelernt (siehe Präsi der ersten LV unter "Modelle der Verhaltensänderung"). Welche dieser Theorien könnt ihr heranziehen? 
+
+**Eure Notizen:** <br><br><br><br><br><br><br><br>
+
+## Aufgabe 7: Das logische Modell des Problems & Programm-Ziel
+
+**Frage:** Wie sieht die logische Kette eures Problems aus? Welches konkrete Gesamtziel (Wer verändert was, wann und um wie viel?) formuliert ihr für das Ende eurer Intervention? (Eine Vorlage für das logische Modell für draw.io findet ihr auf der Kurswebsite.)
+
+**Eure Notizen:** <br><br><br><br><br><br><br><br>
+
+![](logisches_modell_problem.svg)
+
+![](logisches_modell_problem_leer.svg)
+
+# Eure Checkliste für die Hausarbeit
+
+Geht die Punkte in eurer Gruppe am Ende durch. Könnt ihr überall ein Kreuz setzen?
+
+-   [ ] **Planungsgruppe & Partizipation:** Habt ihr beschrieben, wer an der Planung beteiligt ist und wie die Zielgruppe/wichtige Akteure einbezogen werden? *(Ergänzung laut Lehrbuch)*
+-   [ ] **Zielgruppe:** Ist die Zielgruppe klar und präzise beschrieben (inkl. Kontext, Alter, etc.)?
+-   [ ] **Gesundheitsproblem & Lebensqualität:** Ist das konkrete Problem (z. B. Übergewicht/motorische Defizite) und dessen Auswirkung auf die gesundheitsbezogene Lebensqualität benannt?
+-   [ ] **Verhaltens- und Umweltursachen:** Habt ihr klar getrennt, was das Risikoverhalten der Personen ist und welche Faktoren in der Umwelt (physisch, sozial, organisatorisch) das Problem bedingen?
+-   [ ] **Determinanten:** Sind die psychologischen Ursachen für das Verhalten und die Umweltursachen benannt (z. B. Selbstwirksamkeit, Einstellungen, Normen)?
+-   [ ] **Stärken & Ressourcen:** Wurden die Potenziale der Zielgruppe (vorhandenes Wissen, Räume, soziale Strukturen) erfasst?
+-   [ ] **Bewertung nach Relevanz & Veränderbarkeit:** Habt ihr die Verhaltens- und Umweltfaktoren systematisch bewertet, um Prioritäten zu setzen?
+-   [ ] **Modell der Verhaltensänderung** Habt ihr Verhaltensmodell benannt, das als theoretischer Rahmen der Interventionsplanung dient? 
+-   [ ] **Logisches Modell des Problems:** Habt ihr die Zusammenhänge in einem grafischen Modell visualisiert?
+-   [ ] **Programm-Ziel:** Ist das Gesamtziel festgeschrieben (Wer verändert was, bis wann und um wie viel)?

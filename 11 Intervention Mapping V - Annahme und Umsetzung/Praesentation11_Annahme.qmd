@@ -82,6 +82,21 @@ resources:
 - Schaut euch die Tabelle an: Hier geht es nicht um die Kinder, sondern um die Kompetenz der Erzieher!
 :::
 
+## Logisches Modell von Interventionen
+
+::: notes
+Bartholomew und Kolleg:innen systematisieren in ihrem Ansatz des Intervention Mappings psychologische Interventionen.
+Dabei gibt es zwei Richtungen zu beachten.
+Zum einen, die angenomme Wirkrichtung, von dem was wir in der Intervention machen bis zu den Ergebnissen.
+Darunter seht ihr, dass die Reihenfolge der Planungsschritte umgekehrt ist: Wir starten mit einem Ergebnis, das wir erreichen wollen, leiten daraus Ziele ab, und kommen am Ende an konkreten Materialien (z.B. Flyer) und Aktivitäten (z.B. Workshops) an.
+\[Erklärung des Modells\]
+
+Diese systematisierung von psychologischen Interventionen ist für die abschließende Hausarbeit sehr relevant.
+Wenn ihr jeden dieser Schritte berücksichtigt, sollte es nicht schwerfallen, auf die benötigte Seitenzahl zu kommen.
+:::
+
+![Logisches Modell von Interventionen](logisch_modell.svg){#fig-logischesmodell}
+
 # Übung: Wer sind Ihre Gatekeeper?
 
 1. Wer muss in Ihrem Projekt "Ja" sagen (**Annehmende**)?

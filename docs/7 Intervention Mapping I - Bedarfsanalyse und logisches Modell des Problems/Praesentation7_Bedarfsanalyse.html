@@ -32,7 +32,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-0427d8d92a431aa6a6430e53ec02a470.css">
   <link rel="stylesheet" href="../styles.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -141,8 +161,8 @@
 
 
 <section>
-<section id="intervention-mapping" class="title-slide slide level1 center">
-<h1>Intervention Mapping</h1>
+<section id="intervention-mapping-bartholomew2006" class="title-slide slide level1 center">
+<h1>Intervention Mapping <span class="citation" data-cites="Bartholomew2006">(<a href="#/literaturverzeichnis" role="doc-biblioref" onclick="">Bartholomew et al., 2006</a>)</span></h1>
 
 </section>
 <section id="der-ökologische-ansatz" class="slide level2">
@@ -167,27 +187,6 @@ Abbildung&nbsp;1: Der ökologische Ansatz in Interventionen zur Gesundheitsförd
 </p></section>
 <section id="die-sechs-schritte-im-intervention-mapping" class="slide level2">
 <h2>Die Sechs Schritte im Intervention Mapping</h2>
-<aside class="notes">
-<p>Vom Anfang bis zum Schluss sollten bei der Planung einer psychologisch fundierten Intervention diese sechs Schritte berücksichtigt werden. In der Realität ist dieser Prozess nicht so linear, wie es diese Liste suggeriert. Die einzelnen Schritte bauen aufeinander auf, aber es kommt oft vor, dass das Entwicklungsteam zwischen Schritten wechselt. Das ist ganz normal, wichtig ist nur, dass jeder Schritt durchlaufen wird.</p>
-<p>Schauen wir uns die Schritte mal im Einzelnen an.</p>
-<p>Die Bedarfsanalyse dient dazu, sich einen Überblick zu verschaffen. Hier werden Ursachen für das Problem gesucht. Diese können in der Person liegen (Verhaltensursachen), oder in der Situation (Umweltursachen). Es geht auch um Determinanten. Das ist ein wichtiges Stichwort hier. Determinanten sind veränderbare Faktoren, die beeinflussen, inwiefern die Teilnehmenden den Zielen der Intervention folgen können.</p>
-<p>Als Beispiel stellen wir uns vor, dass in einer Umfrage offenbart, dass Studierende der Uni Leipzig sich zu wenig bewegen. Im ersten Schritt fragen wir uns dann, was Problem ist (Bewegungsmangel), warum es ein Problem ist (Folgen?), wodurch das Problem verursacht wird (Ursachen), und für wen es ein Problem ist (Stichwort Zielgruppe).</p>
-<p>In Schritt 3 geht es um Methoden, also generalisierbare Prozesse oder Techniken, die das Verhalten der Zielgruppe, bzw. der Agierenden auf Umweltebene beeinflussen. In unserem einfachen beispiel würde die Methode “Information” lauten. Diese Methoden müssen dann in praktische Anwendungen übersetzt werden, in unserem Beispiel also das Aushändigen von Werbematerial.</p>
-<p>Im nächsten Schritt, der Programmentwicklung, geht es dann darum, die Materialien und -komponenten zu entwickeln. In unserem Beispiel würde man also hier überlegen, wie genau man die Werbung gestaltet. Für die Produktion der Materialien müssen evtl. externe Personen, z.B: Grafikdesigner:innen, konsultiert werden. Man kann sich entscheiden, einen Prä-Test oder Pilotversuch zu machen, um die Materialien zu testen. Außerdem ist hier wichtig, die Zielgruppe zu berücksichtigen, z.B. wäre eine Smartphone-basierte Intervention nur sinnvoll, wenn die Zielgruppe Smartphones hat und gut mit diesen umgehen kann.</p>
-<p>Danach kommt die Annahme und Umsetzung. Die Personen, die entscheiden können, ob die Intervention eingeführt wird, sind die Annehmenden. Die Personen, die dann die Intervention umsetzten, wie z.B. Übungsleiter:innen sind die Umsetzenden. Beide müssen von dem Programm überzeugt werden.</p>
-<p>Im letzten Schritt bewertet man die Intervention. Einerseits dahingehend, wie gut es lief (Prozessevaluation). Also z.B. wie die Reichweite des Programms war etc. , &lt;&lt;&lt;&lt; 1. der Kontext, 2. die Reichweite, 3. das Ausmaß, in dem das Programm umgesetzt wurde, 4. das Ausmaß, in dem das Programm empfangen wurde, 5. die Umsetzungsgenauigkeit, 6. die Gesamtumsetzung und 7. das Anwerben von Teilnehmenden. &gt;&gt;&gt;</p>
-<p>Andererseits geht es um die Effektevaluation, also wie sehr sich die Gesundheit und Lebensqualität verbessert hat, und wie sich Verhaltensparameter und Umweltvariablen verändert haben. Dabei ist ein angemessenener Zeitrahmen wichtig. Kurz nach Auslegen der Werbung wird man kaum eine spürbare Verbesserung der Gesundheit feststellen, nach einem Semester hingegen schon.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
 <ol type="1">
 <li class="fragment"><strong>Bedarfsanalyse</strong></li>
 <li class="fragment">Erstellen von Programmzielen
@@ -200,49 +199,54 @@ Abbildung&nbsp;1: Der ökologische Ansatz in Interventionen zur Gesundheitsförd
 <li class="fragment">Programmentwicklung</li>
 <li class="fragment">Annahme und Umsetzung des Programms</li>
 </ol>
+</section></section>
+<section>
+<section id="bedarfsanalyse" class="title-slide slide level1 center">
+<h1>Bedarfsanalyse</h1>
+
 </section>
-<section id="bedarfsanalyse" class="slide level2">
-<h2>Bedarfsanalyse</h2>
+<section id="kernfragen" class="slide level2">
+<h2>Kernfragen</h2>
+<ul>
+<li class="fragment">Was ist das Problem?</li>
+<li class="fragment">Warum ist es ein Problem?</li>
+<li class="fragment">Was verursacht das Problem?</li>
+<li class="fragment">Für wen ist es ein Problem?</li>
+</ul>
 </section>
 <section id="logisches-modell-des-problems" class="slide level2">
 <h2>Logisches Modell des Problems</h2>
 
 <img data-src="logisches_modell_problem.svg" class="r-stretch quarto-figure-center"><p class="caption">Logisches Modell des Problems</p></section>
-<section id="logisches-modell-der-veränderung" class="slide level2">
-<h2>Logisches Modell der Veränderung</h2>
-<p><img data-src="logisches_modell_veraenderung.svg" alt="Logisches Modell der Veränderung">{fig-veraenderung}</p>
+<section id="schlüsselbegriffe" class="slide level2">
+<h2>Schlüsselbegriffe</h2>
+<p><strong>Determinanten:</strong> Faktoren, die das Gesundheitsverhalten bzw. die Umweltfaktoren direkt beeinflussen, meistens kognitiv (z.B. Einstellung, Selbstwirksamkeit etc.)</p>
+<p><strong>Umweltfaktoren:</strong> Faktoren außerhalb der Person, die das Gesundheitsverhalten beeinflussen.</p>
+<p><strong>Verhaltensfaktoren:</strong> Persönliche Verhaltensweisen, die das Gesundheitsverhalten direkt beeinflussen.</p>
+<p><strong>Gesundheitsproblem:</strong> medizinische Risiken, wie z.B. Übergewicht oder motorische Defizite, erhöhtes Risiko für Herz-Kreislauf-Krankheiten etc.</p>
+<p><strong>Gesundheitsbezogene Lebensqualität</strong>: Aspekte der Lebensqualität, der durch das Gesundheitsproblem beeinträchtigt wird, z.B. geringeres Wohlbefinden oder Frustration im Sportunterricht.</p>
 </section>
-<section id="logisches-modell-von-interventionen" class="slide level2">
-<h2>Logisches Modell von Interventionen</h2>
-<aside class="notes">
-<p>Bartholomew und Kolleg:innen systematisieren in ihrem Ansatz des Intervention Mappings psychologische Interventionen. Dabei gibt es zwei Richtungen zu beachten. Zum einen, die angenomme Wirkrichtung, von dem was wir in der Intervention machen bis zu den Ergebnissen. Darunter seht ihr, dass die Reihenfolge der Planungsschritte umgekehrt ist: Wir starten mit einem Ergebnis, das wir erreichen wollen, leiten daraus Ziele ab, und kommen am Ende an konkreten Materialien (z.B. Flyer) und Aktivitäten (z.B. Workshops) an. [Erklärung des Modells]</p>
-<p>Diese systematisierung von psychologischen Interventionen ist für die abschließende Hausarbeit sehr relevant. Wenn ihr jeden dieser Schritte berücksichtigt, sollte es nicht schwerfallen, auf die benötigte Seitenzahl zu kommen.</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside>
-
-<img data-src="logisch_modell.svg" class="r-stretch quarto-figure-center" id="fig-logischesmodell"><p class="caption">
-Abbildung&nbsp;2: Logisches Modell von Interventionen
-</p></section>
-<section id="reality-check-im-plenum" class="slide level2">
-<h2>Reality-Check im Plenum</h2>
-<p>Stellt euch vor, ihr wurdet als Planungsteam rekrutiert, um eine Intervention zu realisieren. Die Intervention soll Studierenden an der Uni Leipzig zu mehr physischer Aktivität verhelfen. Führt eine Bedarfsanalyse durch (benennt dabei Verhaltensfaktoren, Umweltfaktoren und Determinanten).</p>
+<section id="gruppenarbeit" class="slide level2">
+<h2>Gruppenarbeit</h2>
+<p>Bearbeitet das Arbeitsblatt zu dieser Einheit.</p>
 </section></section>
-<section id="literaturverzeichnis" class="title-slide slide level1 center">
+<section id="evtl.-quiz" class="title-slide slide level1 center">
+<h1>evtl. Quiz</h1>
+<p>–&gt; <a href="https://quizlet.com/de/karteikarten/gesundheitsforderung-intervention-mapping-okologische-ansatze-und-verhaltensfaktoren-1185104374">Quiz</a></p>
+</section>
+
+<section id="literaturverzeichnis" class="title-slide slide level1 smaller scrollable">
 <h1>Literaturverzeichnis</h1>
 <div class="refs">
 
 </div>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-Bartholomew2006" class="csl-entry" role="listitem">
+Bartholomew, L. K., Parcel, G. S., Kok, G., &amp; Gottlieb, N. H. (2006). <em>Planning health promotion programs: An intervention mapping approach</em> (2. Aufl.). Jossey-Bass/Wiley.
+</div>
+</div>
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
