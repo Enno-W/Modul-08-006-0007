@@ -93,3 +93,14 @@ editor: visual
 | **Gesundheitsbezogene Lebensqualität** | Die subjektiv wahrgenommene Beeinträchtigung des alltäglichen Wohlbefindens und Funktionierens, die aus dem spezifischen Gesundheitsproblem resultiert (z. B. Frustration, soziale Isolation). |
 | **Programm-Ziel (Outcome Objective)** | Die präzise Festlegung des gewünschten Endzustands einer Intervention auf Verhaltens- oder Gesundheitsebene (Wer verändert was, bis wann und um wie viel?). |
 
+## Zielsetzung und Modell der Veränderung (Intervention Mapping II)
+
+| Fachbegriff | Definition / Erklärung |
+|-------------|------------------------|
+| **Logisches Modell der Veränderung** | Eine visuelle Kette, die den lösungsorientierten Weg von der verbesserten Gesundheit über das Zielverhalten und die Umweltbedingungen bis hin zu den psychologischen Veränderungen (Determinanten) abbildet (Arbeitsrichtung von rechts nach links). |
+| **Verhaltensziel (Behavioral Outcome)** | Das übergeordnete, gewünschte Endverhalten der Zielpopulation am Ende der Intervention (z. B. „Mindestens 50 % der Studierenden nehmen an einem Hochschulsport-Kurs teil“). |
+| **Handlungsziel (Performance Objective — PO)** | Die Zerlegung des Zielverhaltens in logische, spezifische und direkt beobachtbare Teil-Handlungen oder Einzelschritte, die von der Zielgruppe oder den Umweltakteuren ausgeführt werden müssen. |
+| **Umweltziel (Environmental Outcome)** | Der angestrebte Soll-Zustand auf organisationaler, physischer oder interpersoneller Ebene, der nicht von der Zielgruppe selbst, sondern durch das Handeln externer Akteure verändert wird (z. B. Bereitstellung von Budget für Sportgeräte). |
+| **Umweltakteure (Agents / Intermediäre)** | Personen, Gruppen oder Institutionen außerhalb der primären Zielpopulation (z. B. Universitätsleitung, Lehrkräfte, Führungskräfte), die Kontrolle über Umweltfaktoren besitzen und diese durch ihr eigenes Handeln verändern können. |
+| **Veränderungsziel (Change Objective — CO)** | Das präzise Lern- oder Entwicklungsziel in der Matrix; es beschreibt die kognitive oder emotionale Veränderung innerhalb einer bestimmten Determinante (z. B. Wissen, Selbstwirksamkeit), die zwingend nötig ist, damit ein Handlungsziel erreicht wird. |
+| **Matrix der Veränderungsziele** | Das zentrale Planungswerkzeug in Schritt 2, bei dem die Handlungsziele (Zeilen) systematisch mit den psychologischen Determinanten (Spalten) gekreuzt werden. Die Schnittpunkte bilden die exakten Veränderungsziele. |

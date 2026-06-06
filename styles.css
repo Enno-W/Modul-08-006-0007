@@ -44,3 +44,14 @@ a:hover {
     color: rgb(0, 0, 139) !important; /* Optional: Changes color on hover */
     text-decoration: underline; /* Optional: Adds underline on hover */
 }
+
+.reveal table {
+  table-layout: fixed; /* Zwingt den Browser, feste Breiten zu respektieren */
+  width: 100%;         /* Nutzt die volle Folienbreite */
+}
+
+/* Optional: Verkleinere die Schriftart spezifisch NUR für Tabellen */
+.reveal table th, .reveal table td {
+  font-size: 0.65em;   /* Verhindert das "Zersprengen" der Spalten durch dein globales 1.7em */
+  padding: 0.4em;      /* Schafft saubere Abstände innerhalb der Zellen */
+}

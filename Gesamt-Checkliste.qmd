@@ -1,0 +1,23 @@
+---
+title: "Gesamt-Checkliste"
+format: html
+editor: visual
+---
+
+- [ ] **Planungsgruppe & Partizipation:** Habt ihr beschrieben, wer an der Planung beteiligt ist und wie die Zielgruppe/wichtige Akteure einbezogen werden? *(Ergänzung laut Lehrbuch)*
+- [ ] **Zielgruppe:** Ist die Zielgruppe klar und präzise beschrieben (inkl. Kontext, Alter, etc.)?
+- [ ] **Gesundheitsproblem & Lebensqualität:** Ist das konkrete Problem (z. B. Übergewicht/motorische Defizite) und dessen Auswirkung auf die gesundheitsbezogene Lebensqualität benannt?
+- [ ] **Verhaltens- und Umweltursachen:** Habt ihr klar getrennt, was das Risikoverhalten der Personen ist und welche Faktoren in der Umwelt (physisch, sozial, organisatorisch) das Problem bedingen?
+- [ ] **Determinanten:** Sind die psychologischen Ursachen für das Verhalten und die Umweltursachen benannt (z. B. Selbstwirksamkeit, Einstellungen, Normen)?
+- [ ] **Stärken & Ressourcen:** Wurden die Potenziale der Zielgruppe (vorhandenes Wissen, Räume, soziale Strukturen) erfasst?
+- [ ] **Bewertung nach Relevanz & Veränderbarkeit:** Habt ihr die Verhaltens- und Umweltfaktoren systematisch bewertet, um Prioritäten zu setzen?
+- [ ] **Modell der Verhaltensänderung** Habt ihr Verhaltensmodell benannt, das als theoretischer Rahmen der Interventionsplanung dient?
+- [ ] **Logisches Modell des Problems:** Habt ihr die Zusammenhänge in einem grafischen Modell visualisiert?
+- [ ] **Programm-Ziel:** Ist das Gesamtziel festgeschrieben (Wer verändert was, bis wann und um wie viel)?
+- [ ] **Power-Analyse:** Berichtet ihr, wie viele Daten von Teilnehmenden ihr braucht, um aussagekräftige Ergebnisse mit einer angemessenen Power zu bekommen?
+  - [ ] **Programmziele:** Das globale Gesundheits- und Verhaltensziel ist klar definiert und messbar formuliert.
+  - [ ] **Handlungsziele (Performance Objectives):** Das Zielverhalten ist vollständig in spezifische, beobachtbare Teilhandlungen der Zielgruppe zerlegt worden.
+  - [ ] **Umwelt-Ziele:** Falls Umweltfaktoren adressiert werden, sind klare Handlungsziele für die jeweiligen Akteure (Intermediäre) benannt.
+  - [ ] **Determinanten-Auswahl:** Die für die Matrix genutzten Determinanten basieren logisch auf den Ergebnissen der Bedarfsanalyse aus Schritt 1.
+  - [ ] **Veränderungsziele (Change Objectives):** Die Zellen der Matrix enthalten konkrete Einheiten und keine bloßen Wiederholungen des Handlungsziels.
+  - [ ] **Positive Formulierung:** Die Veränderungsziele sind positiv formuliert (z. B. „Die Personen *nennen*...“, „Die Personen *bewerten*...“, „Die Personen *äußern die Überzeugung, dass*...“). Sie sagen, was Personen tun sollen, nicht, was sie nicht tun sollen.

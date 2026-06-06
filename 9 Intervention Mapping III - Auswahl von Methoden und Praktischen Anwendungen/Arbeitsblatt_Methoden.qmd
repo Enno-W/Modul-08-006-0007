@@ -1,0 +1,90 @@
+---
+title: "Arbeitsblatt: Theoretische Methoden und praktische Anwendungen"
+subtitle: "Modul 08-006-0007 — Seminar: Psychologische Interventionen"
+format: 
+  docx:
+    prefer-html: true
+editor: visual
+---
+
+# Hausarbeitsthemen 1 und 4
+
+## Einleitung und Zielstellung
+
+Dieses Arbeitsblatt unterstützt euch bei Schritt 3 des Intervention Mapping (Auswahl von theoretischen Methoden und praktischen Anwendungen). Nachdem ihr im letzten Schritt festgelegt habt, *was* sich ändern soll (Change Objectives), bestimmt ihr nun das *Wie*. Ihr sucht evidenzbasierte Methoden aus der Literatur und übersetzt sie in kreative, passgenaue Maßnahmen für eure Zielgruppe im Sport- oder Bewegungskontext.
+
+------------------------------------------------------------------------
+
+Vorentlastung: Werft einen Blick auf die BCT-Taxonomie im Moodle. Wie haben Svendsen et al. (2022) die theoretischen Methoden in der *selfBACK*-App umgesetzt? Welche praktischen Anwendungen (z. B. Push-Nachrichten, Videos) wurden dort genutzt?
+
+## Aufgaben und Leitfragen für euer Gruppen-Brainstorming
+
+### Aufgabe 1: Methoden-Matching für die Zielgruppe
+**Frage:** Welche theoretischen Methoden (z. B. *Modeling*, *Guided Practice*, *Feedback*) passen zu den Determinanten aus eurer Matrix? Welche Bedingungen (Wirkparameter) müsst ihr einhalten, damit die Methoden statistisch und psychologisch überhaupt wirken können?
+
+**Eure Notizen:** <br><br><br><br>
+
+### Aufgabe 2: Übersetzung in praktische Anwendungen
+**Frage:** Wie sehen die konkreten Werkzeuge, Medien oder Aktivitäten aus, die die Zielgruppe am Ende zu Gesicht bekommt? (z. B. Ist die Methode *Modeling* ein Video, ein Live-Vortrag oder eine Peer-Demonstration im Betrieb/auf dem Schulhof?)
+
+**Eure Notizen:** <br><br><br><br>
+
+### Aufgabe 3: Erstellung der Zuweisungs-Tabelle
+
+Orientiert euch beim Aufbau an der klassischen Strukturierung aus der Vorlesung (siehe Abbildung in). Verknüpft eure Bausteine logisch von links nach rechts.
+
+#### 📋 Minimal-Beispiel zur Orientierung (Setting: Betriebliche Gesundheitsförderung)
+
+| Determinante | Veränderungsziel (CO) | Theoretische Methode | Praktische Anwendung (operationalisiert) |
+| :--- | :--- | :--- | :--- |
+| **Selbstwirksamkeit** | Mitarbeitende äußern die Überzeugung, dass sie die aktive Minipause trotz Zeitdruck im Arbeitsalltag durchführen können. | **Erfolgserlebnisse** (*Graded Tasks*) | Die App startet in Woche 1 mit einer ultra-kurzen 2-Minuten-Dehnübung und steigert sich wöchentlich nur minimal. |
+| **Subjektive Norm** | Mitarbeitende nehmen wahr, dass auch das Management und die Kolleg*innen die Bewegungspause im Büro wertschätzen. | **Information über die Wertschätzung Anderer** | Ein kurzes Video im Intranet, in dem der Abteilungsleiter gemeinsam mit Angestellten eine aktive Pause vormacht. |
+
+#### Eure eigene Methoden-Matrix:
+
+| Determinante | Veränderungsziel (CO) | Theoretische Methode | Praktische Anwendung |
+| :--- | :--- | :--- | :--- |
+| | | | |
+| | | | |
+| | | | |
+
+---
+
+# Hausarbeitsthemen 2 und 3
+
+## Einleitung und Anpassung der Logik
+
+Bei den praxisnahen Fallbeispielen (Thema 2: Gruppenkonflikte und Thema 3: Motivationskrise/Adhärenz) erfindet ihr keine großflächigen Kampagnen. Schritt 3 bedeutet für euch: Ihr wählt **theoriebasierte Führungstechniken, Kommunikationsmodelle oder psychologische Steuerungsstrategien** aus und übersetzt sie in konkrete Handlungsanweisungen für euch als Kursleitung in der nächsten Trainingseinheit.
+
+---
+
+## Aufgaben und Leitfragen für euer Gruppen-Brainstorming
+
+### Aufgabe 1: Auswahl der psychologischen Steuerungsmethoden
+**Frage:** Welche sportpsychologischen oder kommunikativen Methoden helfen euch, die Blockaden der Teilnehmenden aufzubrechen? (Thema 2: z. B. Deeskalationstechniken, Mediation, TARGET-Strukturierung. Thema 3: z. B. Barrieren-Management, WOOP-Strategie, Förderung der Autonomie).
+
+**Eure Notizen:** <br><br><br><br>
+
+### Aufgabe 2: Operationalisierung im Kursraum (Das Trainerhandeln)
+**Frage:** Was sagt oder tut ihr als Kursleitung ganz konkret in der Halle? Wie moderiert ihr das Geschehen, und wie lauten eure exakten verbalen Statements (z. B. Wie sieht das GFK-Gespräch mit Herrn K. im Vier-Augen-Kontext konkret aus)?
+
+**Eure Notizen:** <br><br><br><br>
+
+### Aufgabe 3: Erstellung der Führungs- und Interventionsmatrix
+
+Verknüpft eure psychologischen Hebel direkt mit dem konkreten Verhalten im Sportkurs.
+
+#### 📋 Minimal-Beispiel zur Orientierung (Fallarbeit)
+
+| Psychologische Ebene | Angestrebtes Verhalten im Kurs | Gewählte Führungsmethode | Konkrete Umsetzung durch die Kursleitung |
+| :--- | :--- | :--- | :--- |
+| **Konflikt / Beziehung** *(Thema 2)* | Herr K. und Frau M. lösen Missverständnisse in Partnerübungen ohne verbale Angriffe. | **Gewaltfreie Kommunikation (GFK)** nach Rosenberg | Die Kursleitung bittet Herrn K. nach Kursende zum Gespräch und nutzt das Schema: „Mir ist aufgefallen... (Beobachtung), ich mache mir Sorgen... (Gefühl), ich wünsche mir... (Bedürfnis), bitte... (Bitte)“. |
+| **Volition / Barriere** *(Thema 3)* | Markus überwindet die abendliche Erschöpfung nach der Arbeit und erscheint zum Kurs. | **Handlungsplanung** (*Wenn-Dann-Pläne* nach Gollwitzer) | Im Coaching-Gespräch füllt die Kursleitung mit Markus eine Postkarte aus: „**Wenn** ich um 17:00 Uhr müde nach Hause komme, **dann** ziehe ich sofort meine Laufschuhe an und gehe los.“ |
+
+#### Eure eigene Matrix für das Fallbeispiel:
+
+| Psychologische Ebene | Angestrebtes Verhalten im Kurs | Gewählte Führungsmethode | Konkrete Umsetzung durch die Kursleitung |
+| :--- | :--- | :--- | :--- |
+| | | | |
+| | | | |
+| | | | |

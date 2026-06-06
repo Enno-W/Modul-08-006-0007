@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "IM Schritt 1 - Bedarfsanalyse"
 author: "Enno Winkler"
 lang: de
 format: 
@@ -10,7 +10,7 @@ format:
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
-    date: 2011-11-11
+    date: 2026-06-01
 resources: 
   - "hintergrund7.jpg"
 #csl: apa.csl
@@ -26,6 +26,17 @@ editor:
 # needs("excelbib", "xfun")
 #xlsx_to_bib(from_root("References.xlsx"))
 ```
+# Agenda
+
+- Prüfungsvorleistung (Gruppe A: keine; Gruppe B: Vanessa)
+- Der ökologische Ansatz
+- Intervention Mapping - Schritt 1: Bedarfsanalyse
+- Zusammenkommen im Plenum - Bericht und Wrap-up
+
+# PVL
+## Aufgabe für die Zuhörenden
+
+Ihr seid jugendliche Athlet:innen, die viel auf Reisen sind. Nehmt aktiv an der Infoveranstaltung teil und beteiligt euch danach an der Diskussion. 
 
 # Intervention Mapping [@Bartholomew2006]
 
@@ -62,12 +73,10 @@ Und die Einstellung zu Sport in der Gesellschaft beinflusst ebenso das Ausmaß, 
 
 1.  **Bedarfsanalyse**
 2.  Erstellen von Programmzielen
-    -   Veränderungsziele
-    -   Handlungsziele
-    -   Verhaltensziele
 3.  Auswahl theoriebasierter Methoden und praktischer Anwendungen
 4.  Programmentwicklung
 5.  Annahme und Umsetzung des Programms
+6.  Evaluation
 
 # Bedarfsanalyse
 
@@ -78,21 +87,32 @@ Und die Einstellung zu Sport in der Gesellschaft beinflusst ebenso das Ausmaß, 
 - Was verursacht das Problem?
 - Für wen ist es ein Problem?
 
-## Logisches Modell des Problems
-
-![Logisches Modell des Problems](logisches_modell_problem.svg)
-
 ## Schlüsselbegriffe
-
-**Determinanten:** Faktoren, die das Gesundheitsverhalten bzw. die Umweltfaktoren direkt beeinflussen, meistens kognitiv (z.B. Einstellung, Selbstwirksamkeit etc.)
 
 **Umweltfaktoren:** Faktoren außerhalb der Person, die das Gesundheitsverhalten beeinflussen.
 
-**Verhaltensfaktoren:** Persönliche Verhaltensweisen, die das Gesundheitsverhalten direkt beeinflussen. 
+**Verhaltensfaktoren:** Persönliche Verhaltensweisen, die das Gesundheitsproblem direkt beeinflussen. 
+
+**Determinanten:** Faktoren, die das Gesundheitsverhalten bzw. die Umweltfaktoren direkt beeinflussen, meistens kognitiv (z.B. Einstellung, Selbstwirksamkeit etc.)
 
 **Gesundheitsproblem:** medizinische Risiken, wie z.B. Übergewicht oder motorische Defizite, erhöhtes Risiko für Herz-Kreislauf-Krankheiten etc. 
 
 **Gesundheitsbezogene Lebensqualität**: Aspekte der Lebensqualität, der durch das Gesundheitsproblem beeinträchtigt wird, z.B. geringeres Wohlbefinden oder Frustration im Sportunterricht. 
+
+## Beispiele für Determinanten
+
+- Einstellung 
+- Selbstwirksamkeit 
+- Fähigkeiten 
+- Risikowahrnehmung
+- Affekt
+- Stolz
+- Attribution
+- Automatisierung
+
+## Logisches Modell des Problems
+
+![](logisches_modell_problem.svg)
 
 
 

@@ -23,80 +23,84 @@ resources:
 # needs("excelbib", "xfun")
 # xlsx_to_bib(from_root("References.xlsx"))
 ```
-::: notes
-Erwähne die Taxonomie von Kok et al. (2016). Sie ist das Standardwerk im IM, um Methoden zu finden. Du kannst sie als Link im Moodle bereitstellen.
-:::
 
 # Intervention Mapping Schritt 3
+
 ## Theoretische Methoden und praktische Anwendungen
 
-- **Kernfrage:** Wie bringen wir Menschen dazu, die Veränderungsziele aus Schritt 2 zu erreichen?
-- **Der Prozess:** Strukturierte Auswahl von Theorien $\rightarrow$ Übersetzung in Interventionselemente.
-- **Ziel:** Eine lückenlose Kette von der Determinante bis zur Übung.
-
 ::: notes
-- In Schritt 2 haben wir festgelegt, WAS sich ändern muss.
-- In Schritt 3 legen wir fest, WIE wir das erreichen.
-- Wichtig: Wir raten nicht, wir nutzen Evidenz.
+-   In Schritt 2 haben wir festgelegt, WAS sich ändern muss.
+-   In Schritt 3 legen wir fest, WIE wir das erreichen.
+-   Wichtig: Wir raten nicht, wir nutzen Evidenz.
 :::
 
-## Die drei Säulen (Kasten 6.3)
-
-1. **Theoretische Methode:** Allgemeine, theoriebasierte Technik (z. B. *Modeling* oder *Angeleitete Übung*). Sie ist universell gültig.
-2. **Praktische Anwendung:** Die spezifische Übersetzung für die Zielgruppe (z. B. ein Video eines Reha-Patienten oder ein gemeinsames Training).
-3. **Wirkparameter:** Die "Gebrauchsanweisung" der Methode. Werden diese ignoriert, wirkt die Methode nicht!
+1.  **Theoretische Methode:** Allgemeine, theoriebasierte Technik (z. B. *Modeling* oder *Angeleitete Übung*). Sie ist universell gültig.
+2.  **Praktische Anwendung:** Die spezifische Übersetzung für die Zielgruppe (z. B. ein Video eines Reha-Patienten oder ein gemeinsames Training).
+3.  **Wirkparameter:** Die "Gebrauchsanweisung" der Methode. Werden diese ignoriert, wirkt die Methode nicht!
 
 ::: notes
-- Beispiel Modeling: Es reicht nicht, IRGENDJEMANDEN zu zeigen. 
-- Das Model muss relevant sein (Wirkparameter).
+-   Beispiel Modeling: Es reicht nicht, IRGENDJEMANDEN zu zeigen.
+-   Das Model muss relevant sein (Wirkparameter).
 :::
 
 ## Achtung: Der Fehler mit den Wirkparametern
 
-- **Beispiel Furchtappelle (Schreckbilder):**
-  - Idee: Angst abschrecken (Emotionale Erregung).
-  - **Vergessene Wirkparameter:** Furchtappelle funktionieren NUR, wenn gleichzeitig die **Selbstwirksamkeit** hoch ist und eine klare Handlungslösung angeboten wird.
-  - **Folge:** Defensive Reaktionen (Leugnung, Ignorieren), besonders bei Suchtverhalten.
+-   **Beispiel Furchtappelle (Schreckbilder):**
+    -   Idee: Angst abschrecken (Emotionale Erregung).
+    -   **Vergessene Wirkparameter:** Furchtappelle funktionieren NUR, wenn gleichzeitig die **Selbstwirksamkeit** hoch ist und eine klare Handlungslösung angeboten wird.
+    -   **Folge:** Defensive Reaktionen (Leugnung, Ignorieren), besonders bei Suchtverhalten.
 
 ::: notes
-- Das ist ein klassisches Beispiel für gut gemeinte, aber schlecht geplante Interventionen. 
-- Ohne Selbstwirksamkeit führt Angst zu Abwehr, nicht zu Verhaltensänderung.
+-   Das ist ein klassisches Beispiel für gut gemeinte, aber schlecht geplante Interventionen.
+-   Ohne Selbstwirksamkeit führt Angst zu Abwehr, nicht zu Verhaltensänderung.
 :::
 
 ## Methoden für den Sportkontext (Beispiele)
 
-- **Angeleitete Übung (*Guided Practice*):** Zur Steigerung von Fähigkeiten und Selbstwirksamkeit.
-- **Modeling:** Ein "Coping Model" zeigt, wie man Hürden im Training überwindet (nicht ein Profisportler, dem alles leicht fällt!).
-- **Soziale Unterstützung:** Bindungen im Sportkurs stärken.
+-   **Angeleitete Übung (*Guided Practice*):** Zur Steigerung von Fähigkeiten und Selbstwirksamkeit.
+-   **Modeling:** Ein "Coping Model" zeigt, wie man Hürden im Training überwindet (nicht ein Profisportler, dem alles leicht fällt!).
+-   **Soziale Unterstützung:** Bindungen im Sportkurs stärken.
 
+## Methoden für den Sportkontext (Beispiele aus der BCT)
 
+-   **Handlungsplanung (*Action planning* — BCT 1.4):** Detailreiches Planen von Kontext, Zeit und Intensität (z. B. feste Lauf-Termine direkt als Blocker in den Outlook-Kalender der Mitarbeitenden eintragen oder verbindliche Bewegungszeiten im schulischen Stundenplan verankern).
+-   **Selbstbeobachtung des Verhaltens (*Self-monitoring of behavior* — BCT 2.3):** Eigenständiges Erfassen der Aktivität über Tools (z. B. Durchführung einer App-basierten Schrittzähler-Challenge zwischen verschiedenen Abteilungen einer Firma oder Nutzen eines analogen Bewegungstagebuchs im Sportunterricht).
+-   **Hinweisreize (*Prompts/cues* — BCT 7.1):** Platzieren von Triggern direkt am Ort der Entscheidung (z. B. Motivations-Sticker an den Aufzugtüren des Bürogebäudes, die zur Treppennutzung auffordern, oder farbige Bodenmarkierungen auf dem Schulhof, die zum Spieleschuppen führen).
+-   **Umstrukturierung der physischen Umwelt (*Restructuring the physical environment* — BCT 12.1):** Die Infrastruktur so verändern, dass Barrieren abgebaut werden (z. B. Anschaffung von höhenverstellbaren Schreibtischen/Stehpulten im Betrieb oder das Entfernen von Süßwarenautomaten aus dem direkten Sichtbereich der Schulkinder).
 
 ::: notes
-- Coping Model vs. Mastery Model: Ein Patient, der zeigt, wie er trotz Knieschmerzen mit dem Training beginnt, ist effektiver als ein Fitness-Model.
+-   Coping Model vs. Mastery Model: Ein Patient, der zeigt, wie er trotz Knieschmerzen mit dem Training beginnt, ist effektiver als ein Fitness-Model.
 :::
 
-## Von der Theorie zur Matrix (Tabelle 6.3)
+## Von der Theorie zur Matrix
 
 Um sicherzustellen, dass jedes Ziel adressiert wird, ordnen wir:
-1. **Veränderungsziel** (z. B. "Kann Etiketten lesen")
-2. **Determinante** (z. B. Fähigkeit/Wissen)
-3. **Methode** (z. B. Erfolgserlebnisse/Übung)
-4. **Anwendung** (z. B. "Workshop: Einkaufs-Check im Supermarkt")
+
+1.  **Veränderungsziel**
+
+2.  **Determinante**
+
+3.  **Methode**
+
+4.  **Anwendung**
 
 ::: notes
-- Hinweis auf "Snack Healthy" Beispiel: Zeigen, wie Peer-Videos (Anwendung) die Methode des sozialen Vergleichs nutzen.
+-   Hinweis auf "Snack Healthy" Beispiel: Zeigen, wie Peer-Videos (Anwendung) die Methode des sozialen Vergleichs nutzen.
 :::
 
+## Beispielhafter **Auszug** aus einer Matrix für Methoden und Anwendungen
+
+| Determinante | Veränderungsziel | Methode | Anwendung |
+| :--- | :--- | :--- | :--- |
+| **Einstellung** | **A:** Äußern sich positiv über kurze Bewegungspausen im Alltag.<br>**B:** Äußern sich positiv über das Nutzen der Treppe statt des Aufzugs.<br>**C:** Äußern sich positiv über das Einplanen aktiver Wegezeiten. | **Direkte Erfahrung**<br>*(Veränderungsziele: A, B)*<br><br>**Argumente**<br>*(Veränderungsziele: A, B, C)* | Eine kurze, angeleitete "Schnupper-Pause" direkt im der Firma anbieten, bei der die Teilnehmenden die Effekte einer aktiven Pause spüren.<br><br>Video in einem Team-Meeting zeigen: Peers/Kolleg*innen berichten in kurzen Statements, warum sie die Treppe nutzen und wie sich dadurch ihre Alltagsfitness verbessert hat. |
 # Übung: Methoden-Matching
 
-- Nehmen Sie Ihr Veränderungsziel aus der letzten Übung.
-- Wählen Sie eine passende **Theoretische Methode** (z. B. aus der Taxonomie von Kok et al.).
-- Skizzieren Sie eine **Praktische Anwendung** für Ihre Reha-Gruppe.
-- **Check:** Welche Wirkparameter müssen Sie beachten?
+Bearbeitet hierzu das Arbeitsblatt
 
 ::: notes
-- Beispiel: Ziel "Traut sich zu, zu Hause Kniebeugen zu machen". Methode: Modeling + Guided Practice. Anwendung: Physiotherapeut macht es vor, Patient macht es nach, bekommt Feedback.
+-   Beispiel: Ziel "Traut sich zu, zu Hause Kniebeugen zu machen". Methode: Modeling + Guided Practice. Anwendung: Physiotherapeut macht es vor, Patient macht es nach, bekommt Feedback.
 :::
+
 # Literaturverzeichnis
 
 ::: refs

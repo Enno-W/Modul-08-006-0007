@@ -1,0 +1,121 @@
+---
+title: "Arbeitsblatt: Matrix der Veränderungsziele"
+subtitle: "Modul 08-006-0007 — Seminar: Psychologische Interventionen"
+format: 
+  docx:
+    prefer-html: true
+editor: visual
+---
+
+# Hausarbeitsthemen 1 und 4
+
+** Bitte bereitet euch darauf vor, die Ergebnisse am Ende zu präsentieren.**
+
+## Einleitung und Zielstellung
+
+Dieses Arbeitsblatt unterstützt euch bei Schritt 2 des Intervention Mapping (Erstellen von Programmzielen und der Matrix). Hier entscheidet sich, was eure Intervention im Kern verändern soll. Ihr übersetzt die Ursachen aus der Bedarfsanalyse in konkrete Handlungsziele (Performance Objectives) und verknüpft sie mit den psychologischen Determinanten zu präzisen Veränderungszielen (Change Objectives).
+
+------------------------------------------------------------------------
+
+Vorentlastung: Überfliegt nochmals den Artikel von Svendsen et al. (2022). Wie haben die Autor:innen dort Schritt 2 umgesetzt? Welche konkreten Handlungsziele (Performance Objectives) wurden für die Nutzer:innen der *selfBACK*-App formuliert, um das Selbstmanagement bei Rückenschmerzen zu verbessern?
+
+Svendsen, M. J., Sandal, L. F., Kjær, P., Nicholl, B. I., Cooper, K., Mair, F., Hartvigsen, J., Stochkendahl, M. J., Søgaard, K., Mork, P. J., & Rasmussen, C. (2022). Using intervention mapping to develop a decision support system–based smartphone app (selfBACK) to support self-management of nonspecific low back pain: Development and usability study. *Journal of Medical Internet Research*, *24*(1), e26555. https://doi.org/10.2196/26555
+
+## Aufgaben und Leitfragen für euer Gruppen-Brainstorming
+
+### Aufgabe 1: Präzisierung der Programmziele (Outcome Objectives)
+**Frage:** Holt euer Gesamtziel aus Schritt 1 hervor. Liegt es präzise im „Wer verändert was, bis wann und um wie viel“-Format vor? 
+
+**Eure Notizen:** <br><br><br><br>
+
+### Aufgabe 2: Handlungsziele für das Verhalten (Performance Objectives)
+**Frage:** Welche spezifischen Teil-Handlungen muss die Zielgruppe ausführen, um das Verhaltensziel zu erreichen? Brecht das Verhalten in logische, beobachtbare Einzelschritte herunter.
+
+*Tipp:* Fragt euch: „Was genau müssen die Personen tun?“ (z. B. Schritt 1: App herunterladen, Schritt 2: Wöchentlichen Trainingsplan erstellen, Schritt 3: Barrieren im Alltag protokollieren).
+
+**Eure Notizen:** <br><br><br><br>
+
+### Aufgabe 3: Handlungsziele für die Umwelt (Environmental Outcomes)
+**Frage:** Wenn eure Bedarfsanalyse ergeben hat, dass sich auf organisationaler oder interpersoneller Ebene etwas ändern muss (z. B. Lehrer, Führungskräfte, Eltern): Welche konkreten Handlungsziele müssen diese Akteure umsetzen, damit die Zielgruppe in ihrer Verhaltensänderung unterstützt wird?
+
+**Eure Notizen:** <br><br><br><br>
+
+### Aufgabe 4: Das Herzstück – Die Matrix der Veränderungsziele
+**Frage:** Verknüpft nun eure Handlungsziele (Zeilen) mit den wichtigsten Determinanten aus Schritt 1 (Spalten). In den Schnittpunkten formuliert ihr die **Veränderungsziele (Change Objectives)**. Sie beschreiben, was sich bei der Zielgruppe kognitiv oder emotional verändern muss, damit das Handlungsziel erreicht wird.
+
+#### Mini-Beispiel zur Orientierung (Setting: Schule / Pausenbewegung)
+
+| Handlungsziel (PO) | Determinante 1: Wissen | Determinante 2: Selbstwirksamkeit |
+|-------------------|------------------------|-----------------------------------|
+| **PO 1:** Die Kinder nutzen in den Hofpausen aktiv die neuen Bewegungsmaterialien. | Die Kinder **nennen** mindestens drei Spiele, die sie mit den neuen Materialien spielen können. | Die Kinder **äußern die Überzeugung**, dass sie die Spiele auch dann spielen können, wenn die Peers anfangs zuschauen. |
+| **PO 2:** Die Kinder holen sich selbstständig Materialien aus dem Spielschuppen. | Die Kinder **beschreiben** die Ausleihregeln des Spielschuppens fehlerfrei. | Die Kinder **trauen sich zu**, die Ausleihe auch ohne die Hilfe von Lehrkräften zu organisieren. |
+
+#### Euer Entwurf der Matrix:
+Nutzt diese Tabelle für ein erstes Brainstorming eurer wichtigsten Verknüpfungen.
+
+| Handlungsziel (PO) | Determinante 1: ____________ | Determinante 2: ____________ |
+|-------------------|------------------------------|------------------------------|
+| **PO 1:** | | |
+| **PO 2:** | | |
+| **PO 3:** | | |
+
+**Eure Notizen / Ergänzungen:** <br><br><br><br>
+
+------------------------------------------------------------------------
+
+## Eure Checkliste für die Hausarbeit (Schritt 2)
+
+Geht die Punkte in eurer Gruppe am Ende durch. Könnt ihr überall ein Kreuz setzen?
+
+- [ ] **Programmziele:** Das globale Gesundheits- und Verhaltensziel ist klar definiert und messbar formuliert.
+- [ ] **Handlungsziele (Performance Objectives):** Das Zielverhalten ist vollständig in spezifische, beobachtbare Teilhandlungen der Zielgruppe zerlegt worden.
+- [ ] **Umwelt-Ziele:** Falls Umweltfaktoren adressiert werden, sind klare Handlungsziele für die jeweiligen Akteure (Intermediäre) benannt.
+- [ ] **Determinanten-Auswahl:** Die für die Matrix genutzten Determinanten basieren logisch auf den Ergebnissen der Bedarfsanalyse aus Schritt 1.
+- [ ] **Veränderungsziele (Change Objectives):** Die Zellen der Matrix enthalten konkrete Einheiten und keine bloßen Wiederholungen des Handlungsziels.
+- [ ] **Positive Formulierung:** Die Veränderungsziele sind positiv formuliert (z. B. „Die Personen *nennen*...“, „Die Personen *bewerten*...“, „Die Personen *äußern die Überzeugung, dass*...“). Sie sagen, was Personen tun sollen, nicht, was sie nicht tun sollen. 
+
+
+# Hausarbeitsthemen 2 und 3
+
+## Einleitung und Anpassung der Logik
+
+Für die Arbeit mit den Fallbeispielen (Thema 2: Konflikte/Gruppenführung und Thema 3: Motivation/Adhärenz) bauen wir kein neues Gesundheitsprogramm von Null auf. Schritt 2 bedeutet hier: Ihr übersetzt die psychosozialen Probleme aus eurer Analyse in konkrete **Führungs- und Verhaltensziele für die Kurssituation**. Ihr bestimmt genau, welches Verhalten im Kursraum gezeigt werden soll und welche psychologischen Veränderungen dafür nötig sind.
+
+---
+
+## Aufgaben und Leitfragen für euer Gruppen-Brainstorming
+
+### Aufgabe 1: Präzisierung der Interventionsziele
+**Frage:** Was genau soll sich bis zum Ende eures Fallbeispiels im Kurs verändert haben? Formuliert das übergeordnete Ziel für eure Intervention (z. B. Wiederherstellung der konstruktiven Zusammenarbeit in der Rehasportgruppe oder Festigung der Adhärenz in kritischen Phasen).
+
+**Eure Notizen:** <br><br><br><br>
+
+### Aufgabe 2: Handlungsziele für die Teilnehmenden (Performance Objectives)
+**Frage:** Welche konkreten Verhaltensweisen müssen die Betroffenen (z. B. Herr K. und Frau M. oder Jessica und Markus) im Kurskontext zeigen, damit das Ziel erreicht wird? Brecht das Verhalten in beobachtbare Einzelschritte herunter (z. B. „Sprechen in Ich-Botschaften bei Konflikten“ oder „Anwenden von Wenn-Dann-Plänen bei Motivationslöchern“).
+
+**Eure Notizen:** <br><br><br><br>
+
+### Aufgabe 3: Handlungsziele für die Kursleitung (Führungshandeln)
+**Frage:** Was müsst ihr als Gruppenleitung konkret tun, um dieses Verhalten zu unterstützen? Welche methodischen oder strukturellen Schritte setzt ihr um (z. B. Umgestaltung der Partnerarbeit nach dem TARGET-Modell, Durchführung eines deeskalierenden Klärungsgesprächs nach GFK)?
+
+**Eure Notizen:** <br><br><br><br>
+
+### Aufgabe 4: Die Matrix für das Fallbeispiel
+**Frage:** Verknüpft eure Handlungsziele für den Kurs (Zeilen) mit den psychologischen Determinanten aus den gelernten Modellen (Spalten). Was muss sich auf der Ebene des Wissens, der Selbstwirksamkeit, der Kommunikation oder der motivationalen Grundbedürfnisse ändern?
+
+#### Mini-Beispiel zur Orientierung (Thema 2 & 3)
+
+| Handlungsziel (PO) | Determinante: Selbstwirksamkeit / Vertrauen | Determinante: Kompetenzerleben / Fertigkeiten |
+|-------------------|--------------------------------------------|----------------------------------------------|
+| **PO 1 (Teilnehmende):** Herr K. äußert Frustrationen sachlich und konstruktiv. | Herr K. **äußert die Überzeugung**, dass seine sportlichen Einschränkungen von der Gruppe respektiert werden. | Herr K. **wendet** die Schritte der gewaltfreien Kommunikation im Gespräch **an**. |
+| **PO 2 (Kursleitung):** Die Trainerin gestaltet Aufgaben kooperativ und bedürfnisorientiert. | Die Trainerin **traut sich zu**, verbale Konflikte in der Gruppe sofort moderierend aufzufangen. | Die Trainerin **strukturiert** die Übungen nach den TARGET-Prinzipien um, um sozialen Vergleich zu minimieren. |
+
+#### Euer Entwurf der Matrix für das Fallbeispiel:
+
+| Handlungsziel (PO) | Determinante 1: ____________ | Determinante 2: ____________ |
+|-------------------|------------------------------|------------------------------|
+| **PO 1:** | | |
+| **PO 2:** | | |
+| **PO 3:** | | |
+
+**Eure Notizen / Ergänzungen:** <br><br><br><br>
