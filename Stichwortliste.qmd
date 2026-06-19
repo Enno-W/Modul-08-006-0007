@@ -104,3 +104,32 @@ editor: visual
 | **Umweltakteure (Agents / Intermediäre)** | Personen, Gruppen oder Institutionen außerhalb der primären Zielpopulation (z. B. Universitätsleitung, Lehrkräfte, Führungskräfte), die Kontrolle über Umweltfaktoren besitzen und diese durch ihr eigenes Handeln verändern können. |
 | **Veränderungsziel (Change Objective — CO)** | Das präzise Lern- oder Entwicklungsziel in der Matrix; es beschreibt die kognitive oder emotionale Veränderung innerhalb einer bestimmten Determinante (z. B. Wissen, Selbstwirksamkeit), die zwingend nötig ist, damit ein Handlungsziel erreicht wird. |
 | **Matrix der Veränderungsziele** | Das zentrale Planungswerkzeug in Schritt 2, bei dem die Handlungsziele (Zeilen) systematisch mit den psychologischen Determinanten (Spalten) gekreuzt werden. Die Schnittpunkte bilden die exakten Veränderungsziele. |
+
+## Auswahl von Methoden (Intervention Mapping III)
+
+## Methoden und praktische Anwendungen (Intervention Mapping III)
+
+| Fachbegriff | Definition / Erklärung |
+|-------------|------------------------|
+| **Theoretische Methode** | Eine allgemeine, theoriebasierte und empirisch fundierte Technik zur Veränderung von psychologischen Determinanten (z. B. *Modeling*, *Diskussion* oder *Geleitetes Entdecken*). Sie ist unabhängig von der konkreten Zielgruppe formuliert. |
+| **Praktische Anwendung** | Die spezifische, zielgruppengerechte Übersetzung einer theoretischen Methode in ein reales Interventionsmaterial oder eine konkrete Aktivität (z. B. ein Video von Kolleg\*innen, ein Bewegungstagebuch oder eine App-Challenge). |
+| **Wirkparameter (Parameter)** | Die Bedingungen und Voraussetzungen, unter denen eine theoretische Methode überhaupt erst ihre psychologische Wirkung entfalten kann. Werden diese missachtet, bleibt die Intervention wirkungslos oder schlägt ins Gegenteil um. |
+| **Furchtappelle (Fear Appeals)** | Eine Methode zur emotionalen Erregung. Wichtigster Wirkparameter: Sie funktionieren *nur*, wenn gleichzeitig die Selbstwirksamkeit gestärkt und eine klare, machbare Handlungslösung angeboten wird – andernfalls drohen defensive Reaktionen (Leugnung, Ignorieren). 
+| **Handlungsplanung (Action Planning)** | Eine Verhaltensänderungstechnik (BCT 1.4), bei der die Zielgruppe den Kontext, die Zeit, den Ort und die Intensität des neuen Verhaltens extrem detailreich im Voraus plant (z. B. feste Blocker im Outlook-Kalender für die aktive Pause). |
+| **Selbstbeobachtung (Self-monitoring)** | Eine Verhaltensänderungstechnik (BCT 2.3), bei der das eigene Verhalten eigenständig erfasst und dokumentiert wird (z. B. über ein analoges Bewegungstagebuch oder eine App-basierte Schrittzähler-Challenge). |
+| **Umstrukturierung der Umwelt** | Eine Verhaltensänderungstechnik (BCT 12.1), bei der die physische oder soziale Infrastruktur so verändert wird, dass Barrieren abgebaut oder gesunde Alternativen erleichtert werden (z. B. Höhenverstellbare Schreibtische, Piano Stairs). |
+| **Matrix für Methoden und Anwendungen** | Das Planungswerkzeug in Schritt 3, in dem den zuvor definierten Veränderungszielen (COs) systematisch die passenden theoriebasierten Methoden, deren Wirkparameter und die konkreten praktischen Anwendungen zugeordnet werden. |
+
+##Materialentwicklung
+
+| **Fachbegriff** | Definition / Erklärung |
+|:---|:---|
+| **Umsetzende** | Personen, die das Programm in der Praxis durchführen (z. B. Lehrkräfte, Trainer). |
+| **Umfang & Ablauf** | Die Intensität, Dauer und Reichweite eines Programms und die zeitliche Strukturierung der Module (parallel oder sequentiell). |
+| **Kommunikationskanal** | Das gewählte Medium zur Informationsübertragung (z. B. Website, Printmedien, persönlicher Kontakt). |
+| **Kommunikationsvehikel** | Die konkrete Verpackung oder das Format der Botschaft innerhalb des Kanals (z. B. Handbuch, Interview, Video). |
+| **Theme (Thema)** | Ein emotionaler roter Faden (z. B. Piraten-Rahmen), der die Zielgruppe abholt und Identifikation schafft. |
+| **Advance Organizer** | Eine strukturierende Vorabanzeiger-Methode, die dem Leser vorab den logischen Aufbau des Inhalts verdeutlicht. |
+| **Briefing** | Die präzise Einweisung externer Fachkräfte (z. B. Designer), damit diese die psychologischen Wirkparameter verstehen. |
+| **Prätest** | Die Vorab-Überprüfung einzelner Programmteile auf Verständlichkeit, Ästhetik und Wirkung vor dem Programmstart. |
+| **Pilotversuch** | Ein vollständiger, zeitlich begrenzter Testlauf des gesamten Programms unter realen Bedingungen. |

@@ -27,9 +27,8 @@ resources:
 # Agenda
 
 - PVL (Gruppe A: Carolin, Gruppe B: keine)
-- Input zu IM Schritt 2
-- Arbeitsblatt
-- Kurze Präsentation und live-Feedback
+- Input zu IM Schritt 2 mit interaktivem Quiz anschließend
+- Arbeitsblatt mit Feedback
 
 ```{r setup}
 #if (!requireNamespace("needs"   )) install.packages("needs")
@@ -43,7 +42,7 @@ resources:
 Thema: Online-Einsatz eines psychometrischen Fragebogens
 
 
-## Erstellen von Programmzielen: Die Logik der Veränderung
+# Erstellen von Programmzielen: Die Logik der Veränderung
 
 - **Wechsel der Perspektive:** Weg vom Problem (Bedarfsanalyse), hin zur Lösung.
 - **Ziel:** Festlegen, was sich konkret ändern muss, um die Gesundheit zu verbessern.
@@ -55,13 +54,13 @@ Thema: Online-Einsatz eines psychometrischen Fragebogens
 
 ## Unterscheidung der Ziele
 
-1.  **Verhaltensziel:** Das Endergebnis (z. B. "Sich in der Pause bewegen").
+1.  **Verhaltensziel:** Das Endergebnis.
 2.  **Handlungsziel (*Performance Objective*):** Teilabschnitte des Verhaltens (z. B. "Mit Mitschüler:innen Bewegungsspiele ausmachen", "Passende Kleidung für Bewegung mitbringen bzw. anziehen").
 3.  **Umweltziel:** Veränderungen im Umfeld (z. B. "Zusätzliche 60 Quadratmeter Grünflächen auf dem Pausenhof").
-4.  **Veränderungsziel (*Change Objective*):** Wie muss sich eine Determinante (Wissen, Einstellung) ändern, um ein Handlungsziel zu erreichen? z.B. "Zielgruppe ist mit mindestens fünf verschiedenen Bewegungsspielen vertraut", "Haben eine positive Einstellung zu Sport in der Pause".
+4.  **Veränderungsziel (*Change Objective*):** Wie muss sich eine Determinante (Wissen, Einstellung) ändern, um ein Handlungsziel zu erreichen? 
 
 - !Wichtig!: Positive Formulierung. z.B. "Kinder bewegen sich in der Pause" anstatt "Kinder sitzen nicht in der Pause" 
-
+- Das Programmziel (Gesundheitsziel und Lebensqualitätziel) wird schon in Schritt 1 (Bedarfsanalyse) festgelegt. 
 
 ::: notes
 - Handlungsziele sind oft eine Abfolge von Einzelschritten. - Umweltziele betreffen Agierende (z.B. Bar-Management), nicht die Zielgruppe selbst. 
@@ -73,7 +72,7 @@ Thema: Online-Einsatz eines psychometrischen Fragebogens
 
 ![Logisches Modell der Veränderung](logisches_modell_veraenderung.svg)
 
-## Die Matrix der Veränderungsziele
+# Die Matrix der Veränderungsziele
 
 - Das Herzstück von Schritt 2: **Handlungsziele** $\times$ Determinanten.
 - Jede Zelle beantwortet die Frage: *"Was muss sich bei Determinante X (z. B. Selbstwirksamkeit) ändern, damit Handlungsziel Y erreicht wird?"*
@@ -91,7 +90,7 @@ Thema: Online-Einsatz eines psychometrischen Fragebogens
 ## Formulierungslogik für Veränderungsziele (COs)
 
 ### Die goldene Regel: Präzise und handlungsorientiert
-- Jedes Veränderungsziel beginnt zwingend mit einem *Verb*, das die intendierte psychologische oder funktionale Aktion konkret (nicht schwammig) definiert.
+- Jedes Veränderungsziel beginnt zwingend mit einem *Verb*, das die intendierte psychologische oder funktionale Aktion konkret (nicht schwammig) definiert. --> Beobachtbares Verhalten!
 - **Aktionsverb** + **Kontext/Bedingung** + **Rückbezug auf das Handlungsziel (PO)**
 - z.B: *„Die Abteilungsleiter:innen kommunizieren (Aktionsverb) zu Beginn von Teambesprechungen explizit die Erlaubnis und den Wunsch nach Bewegungspausen (Kontext), um im Team die soziale Akzeptanz für das Aufstehen während der Arbeitszeit zu normalisieren (Rückbezug auf das PO).“*
 - Damit gute Brücke zu Schritt 3
@@ -99,6 +98,20 @@ Thema: Online-Einsatz eines psychometrischen Fragebogens
 ::: notes
 - Machen Sie den Studierenden klar: Schwammige Verben wie „wissen“ oder „verstehen“ funktionieren hier nicht.
 :::
+
+## Weitere Formulierungstipps
+
+- Bei Umweltzielen die zuständigen Agent:innen benennen
+- SMART!
+
+# Anwendung in kleineren Gruppen
+
+- Fast identisch, aber: 
+  - Fokus auf interpersonelle Ebene
+  - stärkerer Fokus auf die genauen Gesprächstechniken (z.B. Motivational Interviewing)
+  - eher kurzfristiges Programmziel (z.B. Wiederherstellung der Motivation)
+  - Statt großer Matrizen eher Determinanten $\rightarrow$ Methoden $\rightarrow$ Strategien
+  
 
 # Übung: Matrix-Entwurf
 

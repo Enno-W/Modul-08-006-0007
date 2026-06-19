@@ -15,30 +15,40 @@ Dieses Arbeitsblatt unterstützt euch bei Schritt 3 des Intervention Mapping (Au
 
 ------------------------------------------------------------------------
 
-Vorentlastung: Werft einen Blick auf die BCT-Taxonomie im Moodle. Wie haben Svendsen et al. (2022) die theoretischen Methoden in der *selfBACK*-App umgesetzt? Welche praktischen Anwendungen (z. B. Push-Nachrichten, Videos) wurden dort genutzt?
+Vorentlastung: Werft einen Blick auf die BCT-Taxonomie im Moodle. Wie haben Svendsen et al. (2022) die theoretischen Methoden in der *selfBACK*-App umgesetzt? Welche praktischen Anwendungen wurden dort genutzt? Schaut euch besonders Tabelle 2 an (eine solche Tabelle soll am Ende dieses Arbeitsblattes entstehen.)
+
+Vorentlastung II: Schaut euch dieses Minimalbeispiel an: So etwas soll am Ende dieses Arbeitsblatt für eure Hausarbeit entstehen. 
+
+#### Minimal-Beispiel zur Orientierung (Setting: Betriebliche Gesundheitsförderung)
+
+| Determinante | Veränderungsziel (CO) | Theoretische Methode | Praktische Anwendung |
+| :--- | :--- | :--- | :--- |
+| **Selbstwirksamkeit** | Mitarbeitende äußern die Überzeugung, dass sie die aktive Minipause trotz Zeitdruck im Arbeitsalltag durchführen können. | **Erfolgserlebnisse** (*Graded Tasks, BCT 8.7*) | Die App startet in Woche 1 mit einer ultra-kurzen 2-Minuten-Dehnübung und steigert sich wöchentlich nur minimal. |
+| **Affekt** | Mitarbeitende berichten nach dem Treppensteigen einen hohen positiven Affekt von mindestens 3.5 auf der PANAS-SKala. | **Facilitation (Social Cognitive Theory)  (Siehe Bartholomew et al.; 2006, Tabelle 7.3)** | Installation von reaktiven Stufen, die bei Druck leuchten und wie Klaviertasten einen Ton wiedergeben. |
+
+In der Hausarbeit empfehle ich, etwa 5 Handlungsziele und 5 Determinanten zu betrachten. In der Regel erreicht man so eine rundes Gesamtbild. Es gibt aber auch Beispiele für Interventionen, die mit weniger auskommen. Weniger ist mehr - besser weniger Komponenten, die aber gut ausgearbeitet sind, als mehr Komponenten, die nur oberflächlich ausgearbeitet sind. 
+
 
 ## Aufgaben und Leitfragen für euer Gruppen-Brainstorming
 
-### Aufgabe 1: Methoden-Matching für die Zielgruppe
-**Frage:** Welche theoretischen Methoden (z. B. *Modeling*, *Guided Practice*, *Feedback*) passen zu den Determinanten aus eurer Matrix? Welche Bedingungen (Wirkparameter) müsst ihr einhalten, damit die Methoden statistisch und psychologisch überhaupt wirken können?
+### Aufgabe 1: Umformatieren der Tabelle
+In der letzten Vorlesung habt ihr eine Matrix der Veränderungsziele erstellt. Nun geht es darum, Determinanten, Veränderungsziele, Methoden und praktische Anwendungen (in dieser Reihenfolge) zu matchen. 
+Kopiert dazu zuerst eure Determinanten in die erste Spalte und die Veränderungsziele zur jeweiligen Determinante daneben.
 
 **Eure Notizen:** <br><br><br><br>
 
-### Aufgabe 2: Übersetzung in praktische Anwendungen
-**Frage:** Wie sehen die konkreten Werkzeuge, Medien oder Aktivitäten aus, die die Zielgruppe am Ende zu Gesicht bekommt? (z. B. Ist die Methode *Modeling* ein Video, ein Live-Vortrag oder eine Peer-Demonstration im Betrieb/auf dem Schulhof?)
+### Aufgabe 2: Auswahl von Methoden
+**Frage:** Schaut in Tabellen 7.3 bis 7.14 in Bartholomew et al. (2006) oder in die BCT-Taxonomy (im Moodle zu finden).
+
+Welche Methoden sind geeignet, um eure Determinanten zu verändern? Schreibt diese in die dritte Spalte. 
 
 **Eure Notizen:** <br><br><br><br>
 
-### Aufgabe 3: Erstellung der Zuweisungs-Tabelle
+### Aufgabe 3: Praktische Anwendungen
 
-Orientiert euch beim Aufbau an der klassischen Strukturierung aus der Vorlesung (siehe Abbildung in). Verknüpft eure Bausteine logisch von links nach rechts.
+Überlegt euch praktische Anwendungen für die Methoden. Hier ist eure Kreativität und praktisches Know-how gefragt! 
+Schreibt diese dann in die letzte Spalte. 
 
-#### 📋 Minimal-Beispiel zur Orientierung (Setting: Betriebliche Gesundheitsförderung)
-
-| Determinante | Veränderungsziel (CO) | Theoretische Methode | Praktische Anwendung (operationalisiert) |
-| :--- | :--- | :--- | :--- |
-| **Selbstwirksamkeit** | Mitarbeitende äußern die Überzeugung, dass sie die aktive Minipause trotz Zeitdruck im Arbeitsalltag durchführen können. | **Erfolgserlebnisse** (*Graded Tasks*) | Die App startet in Woche 1 mit einer ultra-kurzen 2-Minuten-Dehnübung und steigert sich wöchentlich nur minimal. |
-| **Subjektive Norm** | Mitarbeitende nehmen wahr, dass auch das Management und die Kolleg*innen die Bewegungspause im Büro wertschätzen. | **Information über die Wertschätzung Anderer** | Ein kurzes Video im Intranet, in dem der Abteilungsleiter gemeinsam mit Angestellten eine aktive Pause vormacht. |
 
 #### Eure eigene Methoden-Matrix:
 
@@ -50,23 +60,49 @@ Orientiert euch beim Aufbau an der klassischen Strukturierung aus der Vorlesung 
 
 ---
 
+### Aufgabe 4: Wirkparameter
+
+Notiert Bedingungen, unter denen eure Methode wirksam ist. Wenn ihr eine Methode aus der BCT verwendet habt, müssen Wirkparameter zusätzlich abgeleitet werden. Bei Bartholomew et al. (2006), Tabellen 7.3 bis 7.14, sind sie schon eingetragen. Die Wirkparameter werden üblicherweise separat, nicht in der Tabelle, notiert. 
+
+## Aufgabe 5: Veränderungsziel-Check
+
+Überprüft: Könnt ihr mit euren praktischen Anwendungen alle Veränderungsziele bedienen? Wenn nicht, überlegt euch weitere praktische Anwendungen. 
+
+# Checkliste Hausarbeit: Schritt 3 für Themen 1 & 4
+
+### 1. Tabellarische Struktur & Formatierung (Aufgaben 1 & 5)
+- [ ] **Korrekte Reihenfolge:** Die Tabelle ist spaltenweise von links nach rechts aufgebaut: *Determinante* $\rightarrow$ *Veränderungsziel (CO)* $\rightarrow$ *Theoretische Methode* $\rightarrow$ *Praktische Anwendung*.
+- [ ] **Vollständigkeit (Lückenlosigkeit):** Jedes einzelne Veränderungsziel (CO) aus Schritt 2 wurde in die Tabelle übernommen. Es gibt keine „verwaisten“ Ziele ohne zugeordnete Methode.
+- [ ] **Umfang-Check:** Der Umfang ist für eine Wirksame Intervention angemessen (etwa 5 Handlungsziele (POs) und 5 Determinanten). 
+
+### 2. Fundierung der theoretischen Methoden (Aufgabe 2)
+- [ ] **Passung zur Determinante:** Die gewählte Methode passt theoretisch exakt zur psychologischen Stellschraube (z. B. *Modeling* oder *Graded Tasks* für die Erhöhung der *Selbstwirksamkeit*).
+- [ ] **Abstraktionsgrad:** Die Methode in Spalte 3 ist rein theoriebasiert und allgemein formuliert (noch ohne Bezug zur spezifischen Zielgruppe).
+
+### 3. Ausarbeitung der praktischen Anwendungen (Aufgabe 3)
+- [ ] **Zielgruppenspezifische Übersetzung:** Die praktische Anwendung beschreibt kreativ und konkret, *wie* die Methode im Sport- oder Bewegungskontext realisiert wird (z. B. konkrete App-Features, Videos, Plakate, Kursmaterialien).
+- [ ] **Präzision statt Vagheit:** Statt „Wir zeigen ein Video“ wird kurz beschrieben, *wer* darin zu sehen ist (z. B. ein Peer/Kollege) und *was* vermittelt wird.
+
+### 4. Ableitung und Prüfung der Wirkparameter (Aufgabe 4)
+- [ ] **Separater Textbereich:** Die Wirkparameter (*Parameters of effectiveness*) sind separat ausformuliert und entsprechend begründet oder belegt.
+
 # Hausarbeitsthemen 2 und 3
 
 ## Einleitung und Anpassung der Logik
 
-Bei den praxisnahen Fallbeispielen (Thema 2: Gruppenkonflikte und Thema 3: Motivationskrise/Adhärenz) erfindet ihr keine großflächigen Kampagnen. Schritt 3 bedeutet für euch: Ihr wählt **theoriebasierte Führungstechniken, Kommunikationsmodelle oder psychologische Steuerungsstrategien** aus und übersetzt sie in konkrete Handlungsanweisungen für euch als Kursleitung in der nächsten Trainingseinheit.
+Bei den praxisnahen Fallbeispielen (Thema 2: Gruppenkonflikte und Thema 3: Motivationskrise/Adhärenz) eignet sich die Logik von Schritt 3 im Intervention Mapping hervorragend zur Strukturierung der Konkreten Maßnahmen. Ihr erfindet keine großflächigen Kampagnen. Schritt 3 bedeutet für euch: Ihr wählt **theoriebasierte Gesprächstechniken, Kommunikationsmodelle oder psychologische Strategien der Gruppenförderung** aus und übersetzt sie in konkrete Handlungsanweisungen für euch als Kursleitung in der nächsten Trainingseinheit.
 
 ---
 
 ## Aufgaben und Leitfragen für euer Gruppen-Brainstorming
 
 ### Aufgabe 1: Auswahl der psychologischen Steuerungsmethoden
-**Frage:** Welche sportpsychologischen oder kommunikativen Methoden helfen euch, die Blockaden der Teilnehmenden aufzubrechen? (Thema 2: z. B. Deeskalationstechniken, Mediation, TARGET-Strukturierung. Thema 3: z. B. Barrieren-Management, WOOP-Strategie, Förderung der Autonomie).
+**Frage:** Welche sportpsychologischen oder kommunikativen Methoden helfen euch, die Blockaden der Teilnehmenden aufzubrechen? (Thema 2: z. B. Deeskalationstechniken, Mediation, TARGET-Strukturierung. Thema 3: z. B. Barrieren-Management, Förderung der Autonomie). Denkt hier auch an die Wirkparameter (Faktoren, die beeinflussen, ob die gewählten Methoden überhaupt wirksam sind, z.B: Aufmerksamkeit der Teilnehmenden)
 
 **Eure Notizen:** <br><br><br><br>
 
 ### Aufgabe 2: Operationalisierung im Kursraum (Das Trainerhandeln)
-**Frage:** Was sagt oder tut ihr als Kursleitung ganz konkret in der Halle? Wie moderiert ihr das Geschehen, und wie lauten eure exakten verbalen Statements (z. B. Wie sieht das GFK-Gespräch mit Herrn K. im Vier-Augen-Kontext konkret aus)?
+**Frage:** Was sagt oder tut ihr als Kursleitung ganz konkret in der Halle? Wie moderiert ihr das Geschehen, und wie lauten eure exakten verbalen Statements (z. B. Wie soll das GFK-Gespräch mit Herrn K. im Vier-Augen-Kontext konkret geplant sein)?
 
 **Eure Notizen:** <br><br><br><br>
 
@@ -74,14 +110,14 @@ Bei den praxisnahen Fallbeispielen (Thema 2: Gruppenkonflikte und Thema 3: Motiv
 
 Verknüpft eure psychologischen Hebel direkt mit dem konkreten Verhalten im Sportkurs.
 
-#### 📋 Minimal-Beispiel zur Orientierung (Fallarbeit)
+#### Minimal-Beispiel zur Orientierung (Fallarbeit)
 
 | Psychologische Ebene | Angestrebtes Verhalten im Kurs | Gewählte Führungsmethode | Konkrete Umsetzung durch die Kursleitung |
 | :--- | :--- | :--- | :--- |
 | **Konflikt / Beziehung** *(Thema 2)* | Herr K. und Frau M. lösen Missverständnisse in Partnerübungen ohne verbale Angriffe. | **Gewaltfreie Kommunikation (GFK)** nach Rosenberg | Die Kursleitung bittet Herrn K. nach Kursende zum Gespräch und nutzt das Schema: „Mir ist aufgefallen... (Beobachtung), ich mache mir Sorgen... (Gefühl), ich wünsche mir... (Bedürfnis), bitte... (Bitte)“. |
 | **Volition / Barriere** *(Thema 3)* | Markus überwindet die abendliche Erschöpfung nach der Arbeit und erscheint zum Kurs. | **Handlungsplanung** (*Wenn-Dann-Pläne* nach Gollwitzer) | Im Coaching-Gespräch füllt die Kursleitung mit Markus eine Postkarte aus: „**Wenn** ich um 17:00 Uhr müde nach Hause komme, **dann** ziehe ich sofort meine Laufschuhe an und gehe los.“ |
 
-#### Eure eigene Matrix für das Fallbeispiel:
+#### Eure eigene Tabelle für das Fallbeispiel:
 
 | Psychologische Ebene | Angestrebtes Verhalten im Kurs | Gewählte Führungsmethode | Konkrete Umsetzung durch die Kursleitung |
 | :--- | :--- | :--- | :--- |

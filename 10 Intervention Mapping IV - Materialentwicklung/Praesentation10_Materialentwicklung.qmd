@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "IM Schritt 4 - Materialentwicklung"
 author: "Enno Winkler"
 lang: de
 format: 
@@ -20,41 +20,102 @@ resources:
 ```{r setup}
 # if (!requireNamespace("needs"   )) install.packages("needs")
 # if (!requireNamespace("excelbib")) install_github("Enno-W/excelbib")
-# needs("excelbib", "xfun")
-# xlsx_to_bib(from_root("References.xlsx"))
+ needs("excelbib", "xfun")
+ xlsx_to_bib(from_root("References.xlsx"))
 ```
-# Intervention Mapping Schritt 4
-## Programmentwicklung: Vom Plan zum Produkt
 
-- **Ziel:** Erstellung der konkreten Materialien und Komponenten.
-- **Herausforderung:** Kreativität nutzen, OHNE die Wirkparameter zu verlieren.
-- **Anpassung:** Materialien müssen sowohl zur **Zielgruppe** (z. B. Smartphone-Affin?) als auch zu den **Umsetzenden** (z. B. Trainer/Lehrkräfte) passen.
+# Agenda
+
+- PVL: **Zoé Sommer (Gruppe B)**
+
+- Input zur Materialentwicklung
+
+- Interaktives Quiz
+
+- Erarbeitung der Materialien in den Gruppen
+
+# Programmentwicklung: Vom Plan zum Produkt
+
+
 
 ::: notes
 - Jetzt wird es praktisch: Wir entwickeln Apps, Flyer, Kursmanuale oder Videos.
 - Wichtig: Eine App bringt nichts, wenn die Zielgruppe (z. B. Hochbetagte) keine Smartphones nutzt.
 - Die Methoden aus Schritt 3 müssen "instrumentalisiert" werden.
+- **Anpassung:** Materialien müssen sowohl zur **Zielgruppe** (z. B. Smartphone-kompetent?) als auch zu den **Umsetzenden** (z. B. Trainer/Lehrkräfte) passen.
 :::
 
-## Struktur & Kanäle
+## Vorgehen zur Materialentwicklung
+
+**Option 1:** Je eine Methode und praktische Anwendung vornehmen, Programmkomponente dazu entwickeln.
+
+**Option 2:** Die bisherigen Tabellen und Notizen beiseite legen, bisherige Programmideen brainstormen, dann periodisch prüfen, ob die Ideen zu der Planung passen.
+
+## Kernfragen zur Überprüfung
+
+- Werden die theoretischen Methoden und praktischen Anwendungen angewendet?
+
+- Erlauben die Programmkomponenten, dass die Veränderungsziele erreicht werden?
+
+- Passen die Materialien zur Zielgruppe?
+
+- Sind die Materialien ansprechend und kulturell relevant?
+
+- Ist der Inklusion aller Individuen in der Zielgruppe Rechnung getragen?
+
+## Kernbegriffe
 
 - **Umfang & Ablauf:** Wie intensiv ist das Programm? Laufen Module parallel oder nacheinander?
-- **Kommunikationskanal:** Das Medium (z. B. persönlicher Kontakt, App, Print).
+- **Kommunikationskanal:** Das Medium (z. B. persönlicher Kontakt, Website (erstellt mit Quarto? 😉), Print).
 - **Kommunikationsvehikel:** Die Verpackung (z. B. Interview, Talkshow, Handbuch).
-- **Thema:** Ein roter Faden (z. B. "Piratenthema" für Kinder oder "Die virtuelle Kreuzfahrt").
+- **"Theme" (Thema):** Ein roter Faden (z. B. "Pirat:innenthema") für Kinder.
 
 ::: notes
 - Ein Radiointerview (Kanal) eignet sich nicht für "Angeleitete Übung" (Methode).
 - Das Thema hilft, die Zielgruppe emotional abzuholen und eine Identität zu schaffen.
 :::
 
+# Kommunikation 
+
+## Verständlich schreiben
+
+### Textgestaltung und Wortwahl
+- **Aktiv statt Passiv** (z. B. "Schreibe kurz" statt "Es sollte kurz geschrieben werden").
+- **Schwere Begriffe erklären**
+- **Visuelle Signale** wie Fettdruck, Symbole und Zwischenüberschriften.
+- **Logische Ordnung** der Inhalte
+- **Keine überflüssigen Inhalte**, die nicht direkt zu den Veränderungszielen beitragen.
+- **Nutze Advance Organizers**
+- **Starke Kernsätze** am Anfang jedes Absatzes.
+- [ ] Checkboxen wie diese, um Interaktion zu fördern.
+
+::: notes
+- Das sind konkrete Gestaltungsregeln für die Praxis (Materialentwicklung).
+- Die Folie selbst nutzt diese Prinzipien: Aktive Verben am Anfang, Zwischenüberschriften, Checkboxen zum Mitdenken.
+:::
+
+## Kommunikationspräferenzen im Vergleich
+
+| Individualistisch | Kollektivistisch |
+|:---|:---|
+| **Fokus auf Kompetenz** <br> Wichtig sind Expertenwissen, Glaubwürdigkeit und Intellekt. | **Fokus auf Beziehung** <br> Wichtig sind Familie, Alter, Status und die Hierarchie in der Gruppe. |
+| **Direkte Argumentation** <br> Das Beste kommt zuerst (antiklimaktisch). Fakten führen zur Schlussfolgerung (induktiv). | **Indirekte Argumentation** <br> Behutsamer Aufbau (klimaktisch). Die Schlussfolgerung steht am Anfang (deduktiv). |
+| **Präzise Sprache** <br> Hohe Detailgenauigkeit, Fokus auf den exakten Wortlaut. | **Kontextuelle Sprache** <br> Nutzung von Intuition, bewusster Vagheit und Andeutungen. |
+| **Unabhängigkeit** <br> Die Meinung von Hierarchien spielt eine untergeordnete Rolle. | **Gemeinschaft & Präsenz** <br> Braucht persönlichen Kontakt (Face-to-Face) und paralinguistische Signale. |
+
+::: notes
+:::
+
+::: notes
+- Bei der Materialentwicklung (z. B. für internationale Zielgruppen oder Migrationskontexte) muss dieser kulturelle Hintergrund beachtet werden.
+- Ein rein faktenbasierter, direkter Flyer (individualistisch) läuft bei kollektivistisch geprägten Zielgruppen eventuell ins Leere.
+:::
+
 ## Produktion & Qualitätssicherung
 
-- **Interdisziplinäre Teams:** Zusammenarbeit mit Grafikern, ITlern oder Schauspielern.
-- **Briefing ist alles:** Externe Fachkräfte kennen keine Wirkparameter (z. B. Coping Model)!
-- **Prätest & Pilotierung:**
-  - **Prätest:** Einzelteile prüfen (Verständlichkeit, Ästhetik, Wirkung auf Determinanten).
-  - **Pilotversuch:** Das komplette Programm im Testlauf (Reibungsloser Ablauf?).
+- **Briefing:** Externe Fachkräfte müssen z.B. die Wirkparameter kennen
+- **Prätest:** Einzelteile prüfen (Verständlichkeit, Ästhetik, Wirkung auf Determinanten, Erinnerung überprüfen ...).
+- **Pilotversuch:** Das Programm im Testlauf
 
 ::: notes
 - Als Psychologen müssen wir den Designern sagen: "Das Vorbild im Video darf nicht zu perfekt sein, es muss Hürden überwinden."
@@ -63,7 +124,7 @@ resources:
 
 # Praxisbeispiel
 
-## Beispiel: Piraten im Kindergarten
+## Beispiel: "Komm mit ins gesunde Boot" [@Wartha2016]
 
 - **Thema:** Piratenkinder "Finn und Fine" als Identifikationsfiguren.
 - **Komponenten:**
@@ -71,19 +132,23 @@ resources:
   - 15 Ernährungseinheiten (z. B. "Gesunde Durstlöscher").
   - 14 Freizeiteinheiten (Einbindung der Eltern).
   - 56 Bewegungskarteikarten (für den Alltag).
-- **Methoden-Check:** Modeling (via Handpuppen), Belohnung, Zielsetzung (Fernsehfreie Tage).
-
-
+- **Methoden:** Modeling (via Handpuppen), Belohnung, Zielsetzung (Fernsehfreie Tage).
 
 ::: notes
-- Hier sieht man die Kette: Verhaltensziel (Bewegung) -> Methode (Modeling) -> Anwendung (Handpuppen Finn & Fine).
+- Hier sieht man die Kette: Verhaltensziel (Bewegung) -\> Methode (Modeling) -\> Anwendung (Handpuppen Finn & Fine).
 - Die Bewegungskarten senken die Barriere für die Erzieher (Umsetzende).
 :::
+
+## Finn und Fine
+
+![](finn_fine.jpg)
+
+Quelle: @znl_komm_mit_2025
 
 ## Die Freizeiteinheiten (Auszug)
 
 | Titel | Ziel | Methode |
-| :--- | :--- | :--- |
+|:-----------------------|:-----------------------|:-----------------------|
 | **Piratenfahne** | Fernsehfreie Tage | Selbstgesetztes Ziel, Eltern-Einbindung. |
 | **Papierflieger** | Bewegte Alternativen | Präsentation von Handlungsalternativen. |
 | **Freizeitampel** | Reflexion Medienkonsum | Wissensvermittlung, Selbstreflexion. |
@@ -92,12 +157,7 @@ resources:
 - Achtet darauf, wie die Eltern als "Umwelt-Agierende" eingebunden werden (Briefe auf Deutsch, Türkisch, Russisch).
 :::
 
-# Übung: Programm-Sketch
-
-1. Überlegen Sie sich für Ihr Projekt ein **Thema** (Branding).
-2. Wählen Sie einen **Kanal** und ein **Vehikel**.
-3. Skizzieren Sie eine **Programmkomponente** (z. B. Aufbau einer Kursstunde oder Screen einer App).
-4. **Wirkparameter-Check:** Wie stellen Sie sicher, dass Ihre Methode (z. B. Modeling) im Material korrekt "rüberkommt"?
+# Übung: Arbeitsblatt zur Materialentwicklung
 
 ::: notes
 - Die Studierenden sollen hier kreativ werden, aber die Theorie im Hinterkopf behalten.
