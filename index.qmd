@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-Willkommen auf der Kursseite. Hier finden Sie alle Präsentationen und Materialien für das Sommersemester 2026.
+Willkommen auf der Kursseite. Hier findet ihr alle Präsentationen und Materialien für das Sommersemester 2026.
 
 ## Kursinhalte
 
@@ -25,8 +25,9 @@ Willkommen auf der Kursseite. Hier finden Sie alle Präsentationen und Materiali
 
 6.  [Studiendesign & Stichprobe](6%20Studiendesign%20und%20Stichprobe/Praesentation6_Studiendesign.qmd)
     - [R Skript Poweranalyse](6%20Studiendesign%20und%20Stichprobe/R-Skript_Poweranalyse.R)
-    - [Arbeitsblätter](6%20Studiendesign%20und%20Stichprobe/Arbeitsblätter.qmd)    
-<!-- ### Intervention Mapping (IM) -->
+    - [Arbeitsblätter](6%20Studiendesign%20und%20Stichprobe/Arbeitsblätter.qmd)   
+    
+### Intervention Mapping (IM)
 
 7.  [IM I: Bedarfsanalyse](7%20Intervention%20Mapping%20I%20-%20Bedarfsanalyse%20und%20logisches%20Modell%20des%20Problems/Praesentation7_Bedarfsanalyse.qmd)
     - [Arbeitsblatt](7%20Intervention%20Mapping%20I%20-%20Bedarfsanalyse%20und%20logisches%20Modell%20des%20Problems/Arbeitsblatt%20Bedarfsanalyse.qmd)
@@ -38,9 +39,11 @@ Willkommen auf der Kursseite. Hier finden Sie alle Präsentationen und Materiali
     
 9.  [IM III: Methodenwahl](9%20Intervention%20Mapping%20III%20-%20Auswahl%20von%20Methoden%20und%20Praktischen%20Anwendungen/Praesentation9_Methoden.qmd)
     - [Arbeitsblatt](9%20Intervention%20Mapping%20III%20-%20Auswahl%20von%20Methoden%20und%20Praktischen%20Anwendungen/Arbeitsblatt_Methoden.qmd)
+10. [IM IV: Materialentwicklung](10%20Intervention%20Mapping%20IV%20-%20Materialentwicklung/Praesentation10_Materialentwicklung.qmd)
+    - [Arbeitsblatt](10%20Intervention%20Mapping%20IV%20-%20Materialentwicklung/Arbeitsblatt_Material.qmd)
+    - [Logisches Modell der Intervention - Vorlage für draw.io (Rechtsklick-Ziel speichern unter ...)](10%20Intervention%20Mapping%20IV%20-%20Materialentwicklung/logisches_modell_leer.drawio)
 
 
-<!-- 10. [IM IV: Materialentwicklung](10%20Intervention%20Mapping%20IV%20-%20Materialentwicklung/Praesentation10_Materialentwicklung.qmd) -->
 <!-- 11. [IM V: Umsetzung](11%20Intervention%20Mapping%20V%20-%20Annahme%20und%20Umsetzung/Praesentation11_Annahme.qmd) -->
 <!-- 12. [IM VI: Evaluation](12%20Intervention%20Mapping%20VI%20-%20Evaluation%20und%20Dokumentation/Praesentation12_Eval.qmd) -->
 
@@ -61,12 +64,10 @@ Willkommen auf der Kursseite. Hier finden Sie alle Präsentationen und Materiali
 
 ### Hinweise zur Nutzung
 
--   Die Präsentationen sind als **Reveal.js Slides** optimiert.
--   Nutzen Sie die Taste `m`, um das Menü aufzurufen, oder `f` für den Vollbildmodus.
--   Alle Literaturangaben finden Sie am Ende der jeweiligen Präsentation.
+-    Taste `m`, um das Menü aufzurufen (Hier ist der Druck als PDF möglich), oder `f` für den Vollbildmodus.
 -   Für externe Links wird keine Haftung übernommen. 
 
-### Vorlesungstermine
+### Seminartermine
 
 Jeweils Montag
 

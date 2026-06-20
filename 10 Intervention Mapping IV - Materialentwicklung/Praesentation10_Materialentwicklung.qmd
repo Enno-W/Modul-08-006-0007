@@ -10,7 +10,7 @@ format:
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
-    date: 2011-11-11
+    date: 2026-06-22
 resources: 
   - "hintergrund10.jpg"
 #csl: apa.csl
@@ -34,9 +34,11 @@ resources:
 
 - Erarbeitung der Materialien in den Gruppen
 
+# Logisches Modell der Intervention
+
+![](logisch_modell.svg)
+
 # Programmentwicklung: Vom Plan zum Produkt
-
-
 
 ::: notes
 - Jetzt wird es praktisch: Wir entwickeln Apps, Flyer, Kursmanuale oder Videos.
@@ -75,40 +77,24 @@ resources:
 - Das Thema hilft, die Zielgruppe emotional abzuholen und eine Identität zu schaffen.
 :::
 
-# Kommunikation 
+# Kommunikation
 
 ## Verständlich schreiben
 
 ### Textgestaltung und Wortwahl
+
 - **Aktiv statt Passiv** (z. B. "Schreibe kurz" statt "Es sollte kurz geschrieben werden").
 - **Schwere Begriffe erklären**
 - **Visuelle Signale** wie Fettdruck, Symbole und Zwischenüberschriften.
 - **Logische Ordnung** der Inhalte
 - **Keine überflüssigen Inhalte**, die nicht direkt zu den Veränderungszielen beitragen.
-- **Nutze Advance Organizers**
+- **Advance Organizers**
 - **Starke Kernsätze** am Anfang jedes Absatzes.
 - [ ] Checkboxen wie diese, um Interaktion zu fördern.
 
 ::: notes
 - Das sind konkrete Gestaltungsregeln für die Praxis (Materialentwicklung).
 - Die Folie selbst nutzt diese Prinzipien: Aktive Verben am Anfang, Zwischenüberschriften, Checkboxen zum Mitdenken.
-:::
-
-## Kommunikationspräferenzen im Vergleich
-
-| Individualistisch | Kollektivistisch |
-|:---|:---|
-| **Fokus auf Kompetenz** <br> Wichtig sind Expertenwissen, Glaubwürdigkeit und Intellekt. | **Fokus auf Beziehung** <br> Wichtig sind Familie, Alter, Status und die Hierarchie in der Gruppe. |
-| **Direkte Argumentation** <br> Das Beste kommt zuerst (antiklimaktisch). Fakten führen zur Schlussfolgerung (induktiv). | **Indirekte Argumentation** <br> Behutsamer Aufbau (klimaktisch). Die Schlussfolgerung steht am Anfang (deduktiv). |
-| **Präzise Sprache** <br> Hohe Detailgenauigkeit, Fokus auf den exakten Wortlaut. | **Kontextuelle Sprache** <br> Nutzung von Intuition, bewusster Vagheit und Andeutungen. |
-| **Unabhängigkeit** <br> Die Meinung von Hierarchien spielt eine untergeordnete Rolle. | **Gemeinschaft & Präsenz** <br> Braucht persönlichen Kontakt (Face-to-Face) und paralinguistische Signale. |
-
-::: notes
-:::
-
-::: notes
-- Bei der Materialentwicklung (z. B. für internationale Zielgruppen oder Migrationskontexte) muss dieser kulturelle Hintergrund beachtet werden.
-- Ein rein faktenbasierter, direkter Flyer (individualistisch) läuft bei kollektivistisch geprägten Zielgruppen eventuell ins Leere.
 :::
 
 ## Produktion & Qualitätssicherung
@@ -124,20 +110,40 @@ resources:
 
 # Praxisbeispiel
 
-## Beispiel: "Komm mit ins gesunde Boot" [@Wartha2016]
+## "Komm mit ins gesunde Boot" [@Wartha2016; @znl_komm_mit_2025]
 
-- **Thema:** Piratenkinder "Finn und Fine" als Identifikationsfiguren.
-- **Komponenten:**
-  - 20 Bewegungsstunden (je 45 Min.).
-  - 15 Ernährungseinheiten (z. B. "Gesunde Durstlöscher").
-  - 14 Freizeiteinheiten (Einbindung der Eltern).
-  - 56 Bewegungskarteikarten (für den Alltag).
-- **Methoden:** Modeling (via Handpuppen), Belohnung, Zielsetzung (Fernsehfreie Tage).
+Programmziel: Reduktion von Übergewicht im Kindergartensetting.
+
+Verhaltensziele: Bewegungsförderung, Reduktion des Medienkonsums, Förderung des Obst- und Gemüsekonsums, Minimierung des Konsums zuckerhaltiger Getränke.
+
+Methoden: Modeling, Wissensvermittlung, Belohnung, Zielsetzung
+
+Praktische Anwendungen: Bewegunsstunden, Ernährungs- und Freizeiteinheiten, Elternarbeit
+
+## Material zum Thema Bewegung am Beispiel "Komm mit ins gesunde Boot"
+
+- Piratenkinder "Finn und Fine" als Identifikationsfiguren.
+- Modeling anhand von Geschichten, die vorgelesen oder mit Handpuppen gespielt wurden.
+- Bewegungswürfel
+- Präsentation zu bewegten vs. unbewegten Tätigkeiten und Sportarten
+- Papierflieger-Anleitung
+- Bewegungsübungen-Anleitung
+- Freizeitampel zur Unterscheidung von bewegten vs. unbewegten Tätigkeiten
+- Piratenfrisbee-Anleitung
+- Bastelanleitung zur Wasserspritzflasche
+- 56 **Bewegungskarteikarten**
+- Kopiervorlagen für sechs **Elternbriefe** auf Deutsch, Türkisch und Russisch
 
 ::: notes
 - Hier sieht man die Kette: Verhaltensziel (Bewegung) -\> Methode (Modeling) -\> Anwendung (Handpuppen Finn & Fine).
 - Die Bewegungskarten senken die Barriere für die Erzieher (Umsetzende).
 :::
+
+## Bewegungs-Karteikarte [@wartha_komm_mit_2018]
+
+![](images/clipboard-1982938131.png)
+
+Komplette Materialien unter <https://www.gesundes-boot.de/materialien/> erhältlich.
 
 ## Finn und Fine
 
@@ -145,22 +151,31 @@ resources:
 
 Quelle: @znl_komm_mit_2025
 
-## Die Freizeiteinheiten (Auszug)
+# Quizlet- Quiz
 
-| Titel | Ziel | Methode |
-|:-----------------------|:-----------------------|:-----------------------|
-| **Piratenfahne** | Fernsehfreie Tage | Selbstgesetztes Ziel, Eltern-Einbindung. |
-| **Papierflieger** | Bewegte Alternativen | Präsentation von Handlungsalternativen. |
-| **Freizeitampel** | Reflexion Medienkonsum | Wissensvermittlung, Selbstreflexion. |
-
-::: notes
-- Achtet darauf, wie die Eltern als "Umwelt-Agierende" eingebunden werden (Briefe auf Deutsch, Türkisch, Russisch).
-:::
+[Link hier](https://quizlet.com/1190674367/live?type=blast)
 
 # Übung: Arbeitsblatt zur Materialentwicklung
 
 ::: notes
-- Die Studierenden sollen hier kreativ werden, aber die Theorie im Hinterkopf behalten.
+- Die Studierenden sollen hier kreativ werden, aber die vorherigen Schritte im Hinterkopf behalten.
+:::
+
+## Kommunikationspräferenzen im Vergleich
+
+| Individualistisch | Kollektivistisch |
+|:-----------------------------------|:-----------------------------------|
+| **Fokus auf Kompetenz** <br> Wichtig sind Expertenwissen, Glaubwürdigkeit und Intellekt. | **Fokus auf Beziehung** <br> Wichtig sind Familie, Alter, Status und die Hierarchie in der Gruppe. |
+| **Direkte Argumentation** <br> Das Beste kommt zuerst (antiklimaktisch). Fakten führen zur Schlussfolgerung (induktiv). | **Indirekte Argumentation** <br> Behutsamer Aufbau (klimaktisch). Die Schlussfolgerung steht am Anfang (deduktiv). |
+| **Präzise Sprache** <br> Hohe Detailgenauigkeit, Fokus auf den exakten Wortlaut. | **Kontextuelle Sprache** <br> Nutzung von Intuition, bewusster Vagheit und Andeutungen. |
+| **Unabhängigkeit** <br> Die Meinung von Hierarchien spielt eine untergeordnete Rolle. | **Gemeinschaft & Präsenz** <br> Braucht persönlichen Kontakt (Face-to-Face) und mehr nonverbale Signale. |
+
+::: notes
+:::
+
+::: notes
+- Bei der Materialentwicklung (z. B. für internationale Zielgruppen oder Migrationskontexte) muss dieser kulturelle Hintergrund beachtet werden.
+- Ein rein faktenbasierter, direkter Flyer (individualistisch) läuft bei kollektivistisch geprägten Zielgruppen eventuell ins Leere.
 :::
 
 # Literaturverzeichnis
