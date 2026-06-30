@@ -1,0 +1,74 @@
+---
+title: "Arbeitsblatt zu IM Schritt 5 - Annahme, Umsetzung und Nachhaltigkeit"
+format: docx
+---
+
+# Gruppenarbeit: Konzipierung der Hausarbeit - Implementierungskonzept
+
+**Wichtiger Hinweis für eure Hausarbeit:**\
+In der Modulprüfungsleistung müsst ihr das Implementierungskonzept zu Schritt 5 *nur skizziert* darstellen. Ihr müsst keine vollständigen neuen Matrizen für die Umsetzenden zeichnen. Nutzt diese Arbeitsphase, um die strategischen Kernideen für eure Skizze anhand der Leitfragen auszuarbeiten. Als Orientierung könnt ihr euch Schritt 5 bei @Svendsen2022 und @Wartha2016 anschauen.
+
+------------------------------------------------------------------------
+
+## Themen 1 & 4 (Präventions- & Gesundheitsprogramme)
+
+### Aufgabe 1: Die Annahme (Die Gatekeeper gewinnen)
+Identifiziert die entscheidenden Personen oder Instanzen (Annehmende), die darüber bestimmen, ob euer Programm in der Institution (z. B. Schule, Betrieb, Klinik) überhaupt eingeführt wird.
+
+- **Wer entscheidet über die Einführung?** (z. B. Schulleitung, Geschäftsführung, BGM-Beauftragte)
+- **Wie überzeugen wir sie?** (Welche Argumente oder Nutzenversprechen nutzen wir, um die Adoption zu sichern?)
+
+### Aufgabe 2: Die Umsetzung (Befähigung des Personals)
+Überlegt, wer das Programm an der Basis konkret durchführt (Umsetzende) und wie ihr sicherstellt, dass die Methoden korrekt (*Fidelity*), vollständig (*Completeness*) und in der richtigen Dosis (*Dose*) umgesetzt werden.
+
+- **Wer setzt das Programm im Alltag um?** (z. B. Lehrkräfte, Pflegepersonal, Trainer)
+- **Wie befähigen wir sie?** (z. B. durch einen Multiplikatorenansatz, digitale Kurzschulungen, praxisnahe Leitfäden oder Checklisten)
+
+### Aufgabe 3: Die Nachhaltigkeit (Den "Shelf-Effect" verhindern)
+Plant vorausschauend, wie verhindert wird, dass das Programm nach der anfänglichen Euphorie (oder nach dem Ende der Projektförderung) im Regal verstaubt.
+
+- **Wie wird das Programm dauerhaft verankert?** (z. B. feste Integration in das betriebliche Qualitätsmanagement, Onboarding neuer Mitarbeitender, Bereitstellung dauerhafter Infrastruktur)
+
+------------------------------------------------------------------------
+
+### Checkliste für Themen 1 & 4
+
+- [ ] **Akteure getrennt:** Es wird klar zwischen den Entscheidern (Annehmenden) und dem ausführenden Personal (Umsetzenden) unterschieden, da beide Gruppen unterschiedliche Motivationen brauchen.
+- [ ] **Fidelity & Flexibilität ausbalanciert:** Das Konzept lässt Raum für notwendige Anpassungen an den Organisationsalltag (*Mutual Adaptation* / *Reinvention*), schützt aber die psychologischen Kernkomponenten der Methoden.
+- [ ] **Dosis & Aufwand realistisch:** Die Umsetzung ist so gestaltet, dass sie vom Personal nicht als lästige, unschaffbare Zusatzbelastung im Arbeitsalltag wahrgenommen wird.
+- [ ] **Verfügbarkeit gesichert:** Materialien, digitale Zugänge oder Tools sind so geplant, dass sie auch langfristig ohne das Entwicklungsteam zugänglich bleiben.
+
+------------------------------------------------------------------------
+
+## Umsetzung und Transport im Rehasport (Themen 2 & 3)
+
+Im Rehasport-Setting stehen oft akute Gruppenkonflikte, Adhärenzprobleme oder die Integration psychologischer Strategien im Vordergrund. Hier fragen wir uns: Wer steuert den Interventionsprozess, wie wird die Umsetzung im laufenden Betrieb gesichert und wie bleibt die Verhaltensänderung nach dem Kurs bestehen?
+
+### Aufgabe 1: Annahme & Bereitschaft im Sportverein / der Reha-Klinik
+Überlegt, wie ihr die Teilnehmenden selbst davon überzeugt, diese spezifische sportpsychologische Intervention mitzutragen.
+
+- **Wer muss der Intervention zustimmen?** 
+- **Wie schaffen wir Akzeptanz?** 
+  
+### Aufgabe 2: Praktische Umsetzung im Trainingsalltag
+Wie wird sichergestellt, dass die Übungsleitung oder die Betroffenen selbst die psychologischen Strategien im oft trubeligem Rehasport-Alltag präzise und konsequent anwenden?
+
+### Aufgabe 3: Nachhaltigkeit & Transfer nach Kursende
+Rehasport ist zeitlich begrenzt. Wie verhindern wir, dass die erarbeiteten Verhaltensänderungen (z. B. Motivation zur regelmäßigen Bewegung, Konfliktbewältigungsstrategien) nach Ablauf der Zeit einschlafen?
+
+- **Wie sichern wir den Transfer in den Alltag?** (z. B. durch Übergangs-Checklisten, Anbindung an selbstorganisierte Sportgruppen...)
+
+------------------------------------------------------------------------
+
+### Checkliste für Themen 2 & 3 (Rehasport)
+
+- [ ] **Hürden minimiert:** Das Umsetzungswerkzeug (z. B. Gesprächsleitfaden, Reaktionsschema) ist so kurz und prägnant, dass es die Übungsleitung während der Hallenzeit nicht überfordert.
+- [ ] **Fidelity im Konfliktfall/Coaching gesichert:** Es ist festgelegt, welche Kernschritte (z. B. beim Deeskalations-Protokoll) zwingend eingehalten werden müssen, damit die psychologische Wirkung nicht verpufft.
+- [ ] **Ressourcen im Verein bedacht:** Die vorgeschlagene Strategie deckt sich mit den realen Möglichkeiten einer Reha-Sportgruppe.
+- [ ] **Selbstmanagement gestärkt:** Die Nachhaltigkeitsstrategie befähigt die Teilnehmenden dazu, die gelernten Strategien später eigenständig fortzuführen.
+- [ ] **Umgang mit Rückfällen eingeplant:** Es gibt ein klares, einfaches Konzept für den Umgang mit Barrieren oder Fehlzeiten.
+
+Literatur
+
+::: refs
+:::

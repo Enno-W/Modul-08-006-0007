@@ -1,0 +1,71 @@
+---
+title: "Arbeitsblatt zu IM Schritt 6 - Dokumentation und Evaluation"
+author: "Enno Winkler"
+date: 2026-07-07
+format: docx
+---
+
+# Gruppenarbeit: Konzipierung der Hausarbeit - Evaluations- und Dokumentationskonzept
+
+**Wichtiger Hinweis für eure Hausarbeit:**
+Denkt bei der Ausarbeitung vom Ende her: "Wie beweist ihr euren Erfolg?" Ihr müsst für die Modulprüfung kein seitenlanges, klinisches Studiendesign ausformulieren. Nutzt diese Arbeitsphase, um die Kernparameter eurer Evaluation festzulegen. Als Orientierung dient das empirische Vorgehen bei @Wartha2016.
+
+---
+
+## Themen 1 & 4 (Präventions- & Gesundheitsprogramme)
+
+### Leitfragen zur Evaluation
+Beantwortet die folgenden Fragen in kurzen, prägnanten Stichpunkten für eure Hausarbeit.
+
+1. **Effekte auf Gesundheit und Lebensqualität:** Mit welchen konkreten Indikatoren (z. B. objektive Messungen, standardisierte Scores) evaluiert ihr die übergeordneten Gesundheitsziele?
+2. **Erreichung der IM-Ebenen:** Wie stellt ihr fest, ob ihr die gelernten Determinanten, Veränderungsziele, Handlungsziele und Verhaltensziele tatsächlich erreicht habt (z. B. Fragebögen, Schrittzähler, Verhaltensbeobachtung)?
+3. **Evaluationsdesign:** Wie sieht euer Studiendesign aus (z. B. Prä-Post-Vergleich, RCT mit Kontrollgruppe, Cluster-Randomisierung auf Organisationsebene oder ein Wartelisten-Design)?
+4. **Statistische Power & Stichprobe:** Welchen statistischen Test wendet ihr für die Hauptanalyse an und habt ihr – basierend auf den Überlegungen aus Seminar Nr. 6 – genug Versuchspersonen für eine ausreichende Teststärke (Power)?
+5. **Prozessevaluation (Die "Black Box"):** Welche der 7 Kernkomponenten (z. B. Dosis, Reichweite, Fidelity) erfasst ihr, um im Nachgang zu prüfen, *warum* das Programm erfolgreich war oder wo es bei der Umsetzung hakte?
+6. **Dokumentation & Replikation:** Wie stellt ihr sicher, dass eure Interventionskomponenten transparent dokumentiert sind, damit andere Praktiker:innen das Programm fehlerfrei replizieren können?
+
+---
+
+### Checkliste für Themen 1 & 4
+
+- [ ] **Ebenen-Abdeckung:** Es gibt für jede Ebene (Determinanten $\rightarrow$ Verhalten $\rightarrow$ Gesundheit) mindestens eine konkrete Messgröße.
+- [ ] **Wirksamkeit vs. Effektivität:** Das Design passt zum Setting. Wenn ihr in der "echten Welt" evaluiert, sind Störfaktoren der Umwelt im Design mitbedacht (z. B. Cluster-Randomisierung bei Schulklassen).
+- [ ] **Stichprobe realistisch:** Die geplante Stichprobengröße reflektiert die Anforderungen des gewählten statistischen Tests (Vermeidung eines Beta-Fehlers).
+- [ ] **Prozess im Blick:** Die Evaluation misst nicht nur das Endergebnis, sondern dokumentiert auch, ob das Personal die Einheiten wie geplant durchgeführt hat (*Fidelity*).
+
+---
+
+## Reflexion und Prozessanalyse im Rehasport (Themen 2 & 3)
+
+*Hinweis: Da eure Arbeiten keine klassischen, großflächigen Primärpräventionsprogramme beinhalten, sondern sich oft mit akuten Gruppenkonflikten, Adhärenzfragen oder psychologischen Akutstrategien im Rehasport befassen, weichen wir hier von der klassischen Studiengestaltung ab. Es geht um die methodische Reflexion des Prozesses.*
+
+### Aufgabe 1: Die Definition von "Erfolg" im Einzelfall / der Kleingruppe
+Da ihr keine repräsentativen Stichproben für große statistische Tests habt, müsst ihr Erfolg anders sichtbar machen.
+
+- **Woran merkt die Übungsleitung konkret, dass die psychologische Strategie gegriffen hat?** (z. B. verändertes Kommunikationsverhalten bei Konflikten, geringere Fehlzeiten, qualitative Rückmeldungen).
+- **Wie wird die Veränderung der psychologischen Determinanten (z. B. Abbau von Barrieren, Steigerung der Selbstwirksamkeit) im trubeligen Hallenalltag unkompliziert erfasst?**
+
+### Aufgabe 2: Design-Reflexion ohne klassische Randomisierung
+In einer bestehenden Rehasportgruppe könnt ihr Personen selten per Los aufteilen.
+
+- **Wie begründet ihr euer Design reflexiv?** (Wenn kein RCT möglich ist: Nutzt ihr einen historischen Vergleich, ein Single-Case-Design oder reflektiert ihr die Grenzen eines reinen Prä-Post-Vergleichs ohne Kontrollgruppe?)
+- **Welche kontextuellen Störvariablen (z. B. Gruppendynamik, Raumwechsel, Trainereinfluss) könnten euer Evaluationsergebnis verfälschen, und wie dokumentiert ihr diese?**
+
+### Aufgabe 3: Prozessanalyse statt Outcomemessung
+Wenn die psychologische Wirkung verpufft, liegt es oft an der Durchführung.
+
+- **Wie kontrolliert und dokumentiert ihr die Umsetzungsgenauigkeit (*Fidelity*) der Übungsleitung im Konfliktfall?** (z. B. durch kurze Post-Session-Protokolle, Selbstreflexionsbögen).
+- **Wie wird erfasst, ob die Teilnehmenden die gelernten Strategien (z. B. Deeskalation, Motivationsregulation) emotional und kognitiv richtig aufgenommen haben (*Empfang*)?**
+
+---
+
+### Checkliste für Themen 2 & 3 (Rehasport)
+
+- [ ] **Praxisnahe Dokumentation:** Die Erhebungsmethoden (z. B. Kurz-Feedback am Ende der Stunde) gefährden nicht den praktischen Ablauf der Rehasport-Einheit.
+- [ ] **Subjektive Maße sinnvoll genutzt:** Da klinische Parameter (wie Speichelproben oder Anthropometrie) hier meist unpassend sind, liegt der Fokus auf validen psychologischen Verhaltensindikatoren oder kurzen Skalen.
+- [ ] **Methodenkritik integriert:** Die Limitationen des gewählten feldspezifischen Designs (z. B. mangelnde Randomisierung, kleine Gruppe) werden offen reflektiert und durch eine präzise Prozessevaluation aufgefangen.
+
+Literatur
+
+::: refs
+:::

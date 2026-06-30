@@ -133,3 +133,15 @@ editor: visual
 | **Briefing** | Die präzise Einweisung externer Fachkräfte (z. B. Designer), damit diese die psychologischen Wirkparameter verstehen. |
 | **Prätest** | Die Vorab-Überprüfung einzelner Programmteile auf Verständlichkeit, Ästhetik und Wirkung vor dem Programmstart. |
 | **Pilotversuch** | Ein vollständiger, zeitlich begrenzter Testlauf des gesamten Programms unter realen Bedingungen. |
+
+## IM Schritt 5: Annahmue und Umsetzung
+| **Fachbegriff** | Definition / Erklärung |
+|:---|:---|
+| **Annehmende (Gatekeeper)** | Personen oder Instanzen mit Entscheidungsmacht, die den Zugang zur Zielgruppe kontrollieren und über die Einführung des Programms bestimmen (z. B. Klinikleitung, Schulleiter). |
+| **Umsetzungsgenauigkeit (Fidelity)** | Das Ausmaß, in dem ein Programm von den Umsetzenden in der Praxis genau so durchgeführt wird, wie es von den Entwicklern auf Basis psychologischer Wirkmechanismen konzipiert wurde. |
+| **Vollständigkeit (Completeness)** | Die Dimension der Umsetzung, die beschreibt, ob tatsächlich alle geplanten Module und Komponenten einer Intervention realisiert werden. |
+| **Dosis (Dose)** | Die Frequenz, Intensität und Dauer, mit der die Zielgruppe mit den Methoden der Intervention in Konakt kommt. |
+| **Gegenseitige Anpassung (Mutual Adaptation)** | Ein vorhersagbarer Prozess, bei dem Organisationen das Programm eigenmächtig an ihren Alltag anpassen (*Reinvention*), was die Akzeptanz erhöht, aber die Kernwirksamkeit nicht gefährden darf. |
+| **Shelf-Effect** | Das Phänomen, dass theoretisch hervorragende Programme nach der Entwicklung ungenutzt "im Regal verstauben", weil die langfristige Finanzierung, die Infrastruktur oder die personelle Verankerung fehlt. |
+| **Multiplikatorenansatz** | Eine Implementierungsstrategie (*Train-the-Trainer*), bei der interne Personen einer Institution ausgebildet werden, um das Programm kosteneffizient, nachhaltig und auf Augenhöhe an Kollegen weiterzugeben. |
+

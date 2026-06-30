@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "IM Schritt 5 - Annahme, Umsetzung und Nachhaltigkeit"
 author: "Enno Winkler"
 lang: de
 format: 
@@ -10,7 +10,7 @@ format:
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 500
-    date: 2011-11-11
+    date: 2016-06-29
 resources: 
   - "hintergrund11.jpg"
 #csl: apa.csl
@@ -24,41 +24,81 @@ resources:
 # xlsx_to_bib(from_root("References.xlsx"))
 ```
 
-# Intervention Mapping Schritt 5
-## Annahme, Umsetzung und Nachhaltigkeit
+## Agenda
 
-- **Das Problem:** Die beste Intervention wirkt nicht, wenn sie nicht genutzt wird.
-- **Ziel:** Menschen überzeugen, das Programm einzuführen (**Annahme**) und es dauerhaft beizubehalten (**Nachhaltigkeit**).
-- **Zentrale Erkenntnis:** Schritt 5 ist im Grunde eine "Intervention in der Intervention".
+- PVL (Gruppe A: Lukas Triebs; Gruppe B: Paul Möller)
+  - Gruppe B: Erinnerung Abgabe der Verschriflichung (Zoé)
+
+- Input zu Intervention Mapping Schritt 5 - Annahme und Umsetzung
+
+- Interaktives Quiz
+
+- Gruppenarbeitsphase
+
+# PVL 
+
+## Situation
+
+Ein Rehabilitationszentrum möchte die Compliance von Patient:innen nach einer Kreuzband-OP bei den physiotherapeutischen Hausaufgaben erhöhen. Die **Interventionsplanung** ist bereits fortgeschritten. „Nudging“ (z. B. Erinnerungen per App) ist als theoretische Methode in der engeren Auswahl gelandet.
+
+## Auftrag an die Zuhörenden
+
+- Hört aufmerksam zu und stellt ggf. Fragen
+- Bringt euch in die Diskussion ein: Ihr seid Physiotherapeut:innen im Reha-Zentrum, und es geht um die Compliance bei Physio-Hausaufgaben. Diskutiert kritisch mit dem Interventionsteam (den Präsentierenden), wie die Methode "Nudging" konkret angewendet werden kann. 
+- Gebt am Ende eine Rückmeldung zur PVL. 
+
+# Intervention Mapping Schritt 5 - Annahme und Umsetzung
+
+## Kernfragen
+
+- Wer entscheidet darüber, das Programm umzusetzen?
+- An wen wenden sich die Entscheidungsträger:innen?
+- Wer setzt das Programm um?
+- Erfordert das Programm verschiedene Personen, um die Programmkomponenten umzusetzen?
+- Wer stellt sicher, dass das Programm so lange weiterläuft, wie es nötig ist?
 
 ::: notes
 - Wir haben jetzt ein tolles Programm (Schritt 4). Aber wie kommt es in die Klinik/den Verein/die Schule?
+
 - Wir müssen die "Gatekeeper" (Entscheider) gewinnen.
 :::
 
-## Wer sind die Akteure?
+## Standard der Umsetzung
 
-- **Annehmende (Adopters):** Personen mit Entscheidungsgewalt (z.B. Klinikleitung, Schulbehörde). Sie sagen "Ja" zum Programm.
-- **Umsetzende (Implementers):** Personen, die das Programm operativ durchführen (z.B. Sporttherapeuten, Lehrkräfte).
-- **Vernetzung:** Erfolg hängt von der engen Einbindung beider Gruppen ab (Partizipation!).
+
+Umsetzende müssen Methoden und praktische Anwendungen...
+
+- ... korrekt (Umsetzungsgenauigkeit/Fidelity)
+
+- ... vollständig (Vollständig/completeness)
+
+- ... und in angemessener Dosis (dose) einsetzen.
+
+## Zielsetzung: Programm- und Handlungsziele
+
+Aus den Leizsätzen ergeben sich *Programmziele* zu: (1) Annahme (2) Umsetzung (3) Nachhaltigkeit
+
+- Daraus leitet das Interventionsteam *Handlungsziele* ab, die mit Determinanten gekreuzt werden (Schritt 1-4 werden für die Annehmenden und Umsetzenden erneut durchlaufen)
 
 ::: notes
 - Wichtig: Ein Schulleiter (Annehmer) führt den Sportkurs meist nicht selbst durch (Umsetzer). Beide brauchen unterschiedliche Motivationen.
 :::
 
-## Die drei Säulen der Implementierung
+# Praxis-Einblicke
 
-1. **Annahme:** Die Entscheidung zur Einführung.
-2. **Korrekte Umsetzung (Fidelity):** Wird das Programm so durchgeführt wie geplant? (Dosis, Vollständigkeit).
-3. **Nachhaltigkeit (Sustainability):** Wird das Programm Teil der Routine oder verschwindet es nach der Förderphase?
+## Die Matrix für Umsetzende im Programm "Komm mit in das gesunde Boot" (gekürzt)[@Wartha2016]
+
+| Handlungsziel (Erzieher...) | Wissen | Selbstwirksamkeit |
+|:-----------------------|:-----------------------|:-----------------------|
+| **...entscheiden sich zur Umsetzung** | Wissen, dass das Programm existiert. | Äußern, dass sie glauben, die Umsetzung zu schaffen. |
+| **...führen Komponenten korrekt aus** | Benennen alle Komponenten. | Bewerten sich als fähig zur korrekten Durchführung. |
 
 ::: notes
 - Wir wenden hier die Schritte 1-4 des IM erneut an: Wir erstellen Matrizen für die Umsetzer!
 - Was müssen die Erzieher tun (Handlungsziele) und was hält sie davon ab (Determinanten)?
 :::
 
-## Praxisbeispiel: Der Multiplikatorenansatz
-### "Komm mit in das gesunde Boot"
+## "Komm mit in das gesunde Boot" - Multiplikatorenansatz
 
 - **Strategie:** Pro Bezirk werden zwei Erzieher als **Multiplikatoren** ausgebildet.
 - **Vorteile:**
@@ -67,46 +107,56 @@ resources:
   - Vorhandene Netzwerke werden genutzt.
 - **Nachhaltigkeit:** Das Programm wird durch die interne Kompetenz im Kindergartenalltag verankert.
 
+## ViRAL-Projekt - Beispiel für den "shelf-effect"
+
+- VR-App gegen Doping
+
+- Work package "[Dissemination](https://viraltheproject.aau.dk/index.php/news/)"
+
+- Präsentationen und Demonstrationen durch Beteiligte WiMis im Projekt
+
+- "Train the trainers"
+
+- Problem: Verfügbarkeit der App nach Projektende nicht gegeben, kein Plan für "danach".
+
+  ![](images/clipboard-2563412947.png)
+
 ::: notes
 - Multiplikatoren wirken auf die Determinanten: Wissen, Fähigkeiten und vor allem die Einstellung der Kollegen.
 :::
 
-## Die Matrix für Umsetzende (Tabelle 7.2)
+# Weitere praktische Überlegungen
 
-| Handlungsziel (Erzieher...) | Wissen | Selbstwirksamkeit |
-| :--- | :--- | :--- |
-| **...entscheiden sich zur Umsetzung** | Wissen, dass das Programm existiert. | Glauben, dass sie die Umsetzung schaffen. |
-| **...führen Komponenten korrekt aus** | Benennen alle Komponenten. | Bewerten sich als fähig zur korrekten Durchführung. |
+## Gegenseitige Anpassung (mutual adaptation)
 
-::: notes
-- Schaut euch die Tabelle an: Hier geht es nicht um die Kinder, sondern um die Kompetenz der Erzieher!
-:::
+- Programme werden von den umsetzenden Institutionen in etwa der Hälfte der Fälle angepasst
+- Vorhersagbarer und positiver Prozess, daher:
+- den Prozess für die Institutionen vereinfachen
+- gleichzeitig die Wirksamkeit der Intervention nicht aus dem Blick verlieren
 
-## Logisches Modell von Interventionen
+## Shelf-Effect
 
-::: notes
-Bartholomew und Kolleg:innen systematisieren in ihrem Ansatz des Intervention Mappings psychologische Interventionen.
-Dabei gibt es zwei Richtungen zu beachten.
-Zum einen, die angenomme Wirkrichtung, von dem was wir in der Intervention machen bis zu den Ergebnissen.
-Darunter seht ihr, dass die Reihenfolge der Planungsschritte umgekehrt ist: Wir starten mit einem Ergebnis, das wir erreichen wollen, leiten daraus Ziele ab, und kommen am Ende an konkreten Materialien (z.B. Flyer) und Aktivitäten (z.B. Workshops) an.
-\[Erklärung des Modells\]
+- Plan für die Zeit nach Vollendung der Programmentwicklung unzureichend
+- z.B. wird die Intervention als Belastung für Personal wahrgenommen
+- oder das Interventionsmaterial ist schwer zugänglich, Instruktionen nicht ausreichend detailliert etc.
 
-Diese systematisierung von psychologischen Interventionen ist für die abschließende Hausarbeit sehr relevant.
-Wenn ihr jeden dieser Schritte berücksichtigt, sollte es nicht schwerfallen, auf die benötigte Seitenzahl zu kommen.
-:::
+# Quiz
 
-![Logisches Modell von Interventionen](logisch_modell.svg){#fig-logischesmodell}
+Link [hier](https://quizlet.com/1191851045/live?type=classic)
 
-# Übung: Wer sind Ihre Gatekeeper?
+# Hausarbeit
 
-1. Wer muss in Ihrem Projekt "Ja" sagen (**Annehmende**)?
-2. Wer führt es praktisch durch (**Umsetzende**)?
-3. **Brainstorming:** Nennen Sie eine Barriere (Determinante), die einen Trainer davon abhalten könnte, Ihr Programm korrekt umzusetzen.
+## Skizzierung von Schritt 5
 
-::: notes
-- Beispiel Reha-Sport: Der Vereinsvorstand (Annehmer) vs. der Übungsleiter (Umsetzer). 
-- Barriere: "Zu viel Dokumentationsaufwand" (Einstellung/Zeit).
-:::
+Implementierungskonzept anhand folgender Leitfragen:
+
+**Annahme:** Wer sind die wichtigsten annehmenden Personen und wie überzeugt ihr sie?
+
+**Umsetzung:** Wie stellt ihr sicher, dass das Personal das Programm korrekt und vollständig umsetzt? (z. B. durch eine einmalige Kurzschulung, Checklisten oder einen Multiplikatorenansatz)
+
+**Nachhaltigkeit:** Wie wird verhindert, dass das Programm nach ein paar Monaten wieder einschläft? (z. B. Verankerung in vorhandenen Institutionen, Handbuch für BGM-Mitarbeitende).
+
+## Arbeitsblatt
 
 # Literaturverzeichnis
 

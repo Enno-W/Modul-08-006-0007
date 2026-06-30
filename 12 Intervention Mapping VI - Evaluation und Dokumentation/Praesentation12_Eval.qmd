@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "IM Schritt 6 - Dokumentation und Evaluation"
 author: "Enno Winkler"
 lang: de
 format: 
@@ -10,12 +10,19 @@ format:
     parallax-background-size: 4080px 3072px
     parallax-background-horizontal: 200
     parallax-background-vertical: 350
-    date: 2011-11-11
+    date: 2026-07-07
 resources: 
   - "hintergrund12.jpg"
 #csl: apa.csl
 #biblio-style: "apalike"
 ---
+
+# Agenda
+
+- PVL (Gruppe A: Leonie Haack; Gruppe B: Erik Winter Anh Tuan Le)
+- Recap
+- Mini-Input zu Evaluation
+- Gruppenarbeit
 
 ```{r setup}
 # if (!requireNamespace("needs"   )) install.packages("needs")
@@ -23,94 +30,96 @@ resources:
 # needs("excelbib", "xfun")
 # xlsx_to_bib(from_root("References.xlsx"))
 ```
-# Intervention Mapping Schritt 6
-## Evaluation: Hat es funktioniert?
 
-- **Ziel:** Messung der Effekte (**Effektevaluation**) und Analyse des Prozesses (**Prozessevaluation**).
-- **Logik:** Wir prüfen jede Stufe unseres "Logischen Modells der Veränderung" (Schritt 2).
-- **Kontinuum:** Evaluation ist kein einmaliges Event, sondern notwendige Qualitätssicherung.
+# Evaluation: Hat es funktioniert?
+
+- Messung der Effekte (**Effektevaluation**) und Analyse des Prozesses (**Prozessevaluation**).
+- Wir prüfen jede Stufe unseres "Logischen Modells der Veränderung" (Schritt 2).
 
 ::: notes
 - Wir fragen: Haben sich die Determinanten geändert? Führt das zum Verhalten? Und verbessert das die Gesundheit?
 - Ohne Evaluation wissen wir nicht, ob Erfolg Zufall war oder Misserfolg an der Theorie lag.
 :::
 
+## Effektevaluation: Was wird evaluiert?
+
+- Effekt auf Gesundheit und Lebensqualität
+- Ob Determinanten, Veränderungsziele, Handlungsziele und Verhaltensziele erreicht wurden
+
 ## Effektevaluation: Wirksamkeit vs. Effektivität
 
 - **Wirksamkeit (Efficacy):** Funktioniert es unter Laborbedingungen? (Homogene Stichprobe, hohe Kontrolle).
 - **Effektivität (Effectiveness):** Funktioniert es in der "echten Welt"? (Heterogene Gruppen, stressiger Alltag der Umsetzer).
 - **Messgrößen:**
-  - Veränderungsziele (Fragebögen zu Determinanten).
-  - Verhaltensziele (Schrittzähler, Tagebücher).
-  - Gesundheitsziele (BMI, Blutdruck – oft erst langfristig!).
+  - Veränderungsziele (z.B. Fragebögen zu Determinanten).
+  - Verhaltensziele (z.B. Schrittzähler, Beobachtung).
+  - Gesundheitsziele (Blutdruck, Verletzungshäufigkeiten – oft erst langfristig!).
 
 ::: notes
 - Ein Programm kann wirksam sein (im Labor), aber nicht effektiv (weil es im Alltag keiner schafft).
 - Tipp für die Hausarbeit: Überlegt euch Messgrößen für alle Ebenen!
 :::
 
-## pwr.2p.test (Vergleich von Quoten)
+## Prozessevaluation: Was wird evaluiert?
 
-Wenn ihr wissen wollt, wie viele Probanden ihr braucht, um zu zeigen, dass in der Interventionsgruppe (IG) prozentual mehr Leute sportlich aktiv sind als in der Kontrollgruppe (KG):
+Wie gut wurde das Programm (1) entwickelt (2) eingeführt und (3) durchgeführt?
 
-```{r}
-#| echo: true
-#| eval: true
-library(pwr)
+## Prozessevaluation: Komponenten
 
-# Beispiel: IG erreicht zu 60% das Ziel, KG nur zu 40% (h = 0.4)
-# Wie viele Leute brauchen wir pro Gruppe für Power = 0.8?
-pwr.2p.test(h = 0.4, sig.level = 0.05, power = 0.8, alternative = "greater")
-```
-
-::: notes
-- h ist die Effektstärke für Proportionen.
-- "greater" nutzen wir, wenn wir eine gerichtete Hypothese haben (IG > KG).
-:::
-
-## Prozessevaluation: Das "Warum" klären
-
-- Warum war ein Programm (nicht) erfolgreich?
-- **7 Kernkomponenten:**
-  1. **Kontext:** Soziales Umfeld (z. B. religiöse Vorbehalte).
-  2. **Reichweite:** Welcher Anteil der Zielgruppe wurde erreicht?
-  3. **Ausmaß (Dosis):** Wurden alle Einheiten durchgeführt?
-  4. **Empfang:** Hat die Zielgruppe das Programm bis zum Ende absolviert?
-  5. **Umsetzungsgenauigkeit (Fidelity):** Wurde es wie geplant durchgeführt?
-  6. **Gesamtumsetzung:** Gesamtfazit der Implementierung.
-  7. **Anwerben:** Wie wurden Teilnehmende rekrutiert?
+  1.  **Kontext:** Soziales Umfeld (z. B. religiöse Vorbehalte).
+  2.  **Reichweite:** Welcher Anteil der Zielgruppe wurde erreicht?
+  3.  **Ausmaß (Dosis):** Wurden alle Einheiten durchgeführt?
+  4.  **Empfang:** Hat die Zielgruppe das Programm bis zum Ende absolviert?
+  5.  **Umsetzungsgenauigkeit (Fidelity):** Wurde es wie geplant durchgeführt?
+  6.  **Gesamtumsetzung:** Gesamtfazit der Implementierung.
+  7.  **Anwerben:** Wie wurden Teilnehmende rekrutiert?
 
 ::: notes
 - Beispiel: Wenn die Erzieher die Ernährungseinheiten weglassen (Dosis), kann das Programm den BMI nicht senken. Das liegt dann nicht an der Theorie, sondern am Prozess!
 :::
 
-## pwr.chisq.test (Häufigkeiten analysieren)
-
-Ideal für die Prozessevaluation: Unterscheiden sich Teilnehmer und Abbrecher (Dropout-Analyse) signifikant?
-
-```{r}
-#| echo: true
-#| eval: true
-
-# Beispiel: Zusammenhang zwischen Geschlecht und Programmabbruch
-# Effektstärke w = 0.3 (mittel), 1 Freiheitsgrad (2x2 Tabelle)
-pwr.chisq.test(w = 0.3, df = 1, sig.level = 0.05, power = 0.8)
-```
-
-
 ::: notes
 Hilfreich, um zu prüfen, ob eure Stichprobe für Untergruppen-Analysen (z. B. Männer vs. Frauen) groß genug ist.
 :::
 
-## Evaluationsdesign im Sport
+# Evaluationsdesign
 
-- **Goldstandard:** RCT (Randomized Controlled Trial).
-- **Problem im Feld:** Einzelrandomisierung oft unmöglich (man kann nicht halbe Schulklassen trainieren).
-- **Lösung:** - **Cluster-Randomisierung:** Ganze Organisationen (Schulen/Vereine) zufällig zuteilen.
-  - **Wartelisten-Design:** Die Kontrollgruppe erhält die Intervention zeitversetzt (ethisch oft besser).
+## Quali vs. Quanti
+
+- qualitativ, quantitativ und gemischt möglich
+  - Qualitativ: Interviews, Fokusgruppen, Fallstudien, Beobachtung und offene
+  - Quantitativ: Fragebögen mit Skalen, Beobachtungsverfahren mit Skalen, Messungen wie z.B. Schrittzähler Fragestellungen in Fragebögen
+
+## Verschiedene Design-Optionen
+
+- Prätest (!) --\> Dann Vergleich mit Posttest
+- Zwischenmessungen
+- Kontrollgruppe
+  - Optimal: Randomisierte Zuteilung zu Interventions- vs. Kontrollgruppe, in beiden Gruppen Prä- und Posttest
+  - Wenn das nicht geht: Cluster-Randomisierung (Ganze Organisationen (Schulen/Vereine) zufällig zuteilen)
+  - Eventuell Wartelisten-Design (Kontrollgruppe bekommt die Intervention später)
+  - Oder: Quasi-Experimentelles Design (keine Randomisierung)
 
 ::: notes
 - "Komm mit in das gesunde Boot" nutzt genau dieses Wartelisten-Design. Das erhöht die Akzeptanz bei den Schulen, da niemand leer ausgeht.
+:::
+
+## Beispiel "Komm mit in das gesunde Boot" [@Wartha2016]
+
+### 1. Ergebnisevaluation (Outcome)
+*   **Design:** Randomisiertes Wartelisten-Kontrollgruppendesign (Interventionsdauer: 1 Jahr).
+*   **Zielgrößen Kinder:** Anthropometrie (BMI, Bauchumfang), Motorik (Weitsprung, 3-Min-Lauf), psychologische Determinanten (Selbstwirksamkeit).
+- Stichprobenartig: Herzfrequenz, Körperfettkomposition, Speichelanalyse 
+*   **Zielgrößen Umfeld:** Fragebögen für Eltern (Familienalltag) sowie Erzieher:innen (Alltagsroutine & Kindergartenumgebung).
+
+### 2. Prozessevaluation (Implementation)
+*   Vollständige Erfassung der Programmanwendung und Materialnutzung durch das Personal.
+*  Teilnahmequoten
+*   **Zufriedenheit:** Evaluation der Vorbereitungsqualität und Gesamtzufriedenheit aus Sicht der Erzieher:innen.
+
+::: notes
+- Perfektes Beispiel für die Verknüpfung von quantitativen Messungen (Motorik/BMI) und qualitativen/Prozess-Fragebögen.
+- Zeigt den Studierenden, dass auch das Wohlbefinden und die Kompetenz der Vermittler (Erzieher) Teil der Evaluation sein müssen!
 :::
 
 ## Dokumentation & Transparenz
@@ -126,10 +135,6 @@ Hilfreich, um zu prüfen, ob eure Stichprobe für Untergruppen-Analysen (z. B. M
 :::
 
 # Abschluss-Check: Ihr Projekt
-
-- Haben Sie für jedes **Veränderungsziel** eine konkrete Testfrage?
-- Wie messen Sie die **Fidelity** (Umsetzungsgenauigkeit) Ihrer Trainer/Übungsleiter?
-- Ist Ihr Design stark genug, um eine echte **Wirksamkeit** zu belegen?
 
 ::: notes
 - Letzter Impuls für die Hausarbeit: "Denkt vom Ende her – wie beweist ihr euren Erfolg?"

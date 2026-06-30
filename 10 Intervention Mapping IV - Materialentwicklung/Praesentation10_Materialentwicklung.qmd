@@ -34,6 +34,18 @@ resources:
 
 - Erarbeitung der Materialien in den Gruppen
 
+# PVL
+
+Ziel: Häufigere Anwendung von Copingstrategien gegen chronische Schmerzen einer:s Athlet:in. 
+
+Inhalt: Konkrete Teilzielformulierungen in einer (einfachen) **Matrix der Veränderungsziele (Handlungsziel x Determinante)**.
+
+## PVL - Auftrag an die Mitstudierenden
+
+- Meldet euch als Freiwillige:r für die Zielsetzungs-Übung. In diesem Rollenspiel geht es nur um ein "so tun, als ob". Es muss also nicht wahrheitsgemäß gespielt werden.
+
+- Hört aufmerksam zu und stellt am Ende evtl Rückfragen und gebt Feedback.
+
 # Logisches Modell der Intervention
 
 ![](logisch_modell.svg)
@@ -55,7 +67,7 @@ resources:
 
 ## Kernfragen zur Überprüfung
 
-- Werden die theoretischen Methoden und praktischen Anwendungen angewendet?
+- Werden die theoretischen Methoden und praktischen Anwendungen genutzt?
 
 - Erlauben die Programmkomponenten, dass die Veränderungsziele erreicht werden?
 
@@ -150,6 +162,13 @@ Komplette Materialien unter <https://www.gesundes-boot.de/materialien/> erhältl
 ![](finn_fine.jpg)
 
 Quelle: @znl_komm_mit_2025
+
+# Hausarbeit
+
+- Egal welches Thema: Die Durchführung und Evaluation der Intervention soll planerisch skizziert sein –\> Keine Wort-für-Wort-Ausarbeitung nötig. (Modulbeschreibung: "**kennen** und **beherrschen**".)
+- Erstellen von Interventionsmaterialien (1&4) - Einsatz von KI für Poster, Videos etc. ist in Ordnung.
+
+![](images/clipboard-3956889962.png)
 
 # Quizlet- Quiz
 

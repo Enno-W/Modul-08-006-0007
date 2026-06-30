@@ -31,7 +31,7 @@ Welches Medium nutzt ihr (Kommunikationskanal) und wie verpackt ihr eure Message
 
 ### Aufgabe 4: Materialien entwickeln
 
-Die Interventionsmaterialien müssen nicht 1:1 ausgearbeitet sein. Z.B. reicht eine Stichpunktartige Auflistung der Argumente oder eine Beschreibung des Flyers aus. KI-generierte Bilder, Poster etc. sind kein Problem. \
+Die Interventionsmaterialien müssen nicht 1:1 ausgearbeitet sein. Z.B. reicht eine Stichpunktartige Auflistung der Argumente oder eine Beschreibung des Flyers aus. KI-generierte Bilder, Poster etc. sind kein Problem.\
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Die Interventionsmaterialien müssen nicht 1:1 ausgearbeitet sein. Z.B. reicht e
 
 Hier stellen wir uns die Frage: Wie kann in diesem Kontext die Intervention durch Print-/Digitale und andere Materialien unterstützt werden?
 
-### Thema 2: Kommunikationskanal
+### Aufgabe 1: Kommunikationskanal
 
 Wählt das Medium, das am besten zu eurem gewählten Rehasport-Fallbeispiel passt, um eure Zielgruppe direkt zu erreichen.
 
@@ -63,7 +63,7 @@ Wählt das Medium, das am besten zu eurem gewählten Rehasport-Fallbeispiel pass
   \
   \
 
-### Thema 3: Kommunikationsvehikel
+### Aufgabe 2: Kommunikationsvehikel
 
 Bestimmt die konkrete Verpackung oder das Format, mit dem ihr eure psychologischen Wirkparameter, Motivationsstrategien oder Deeskalationsansätze transportiert.
 
